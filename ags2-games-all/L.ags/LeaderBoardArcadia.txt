@@ -1,0 +1,6 @@
+Name      : Leader Board (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1988
+Genre     : Sports - Golf
+Players   : 2 (taking turns)
+RunFile   : LeaderBoardArcadia.Slave

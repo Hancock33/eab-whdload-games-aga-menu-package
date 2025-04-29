@@ -1,0 +1,6 @@
+Name      : Galaxian
+Publisher : JOTD
+Year      : 15/07/1905
+Genre     : Game
+Players   : 1
+RunFile   : Galaxian.slave

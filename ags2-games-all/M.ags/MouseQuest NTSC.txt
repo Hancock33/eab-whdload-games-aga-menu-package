@@ -1,6 +1,0 @@
-Name      : MouseQuest
-Version   : NTSC
-Publisher : MicroValue / StarSoft / TDC
-Year      : 1987
-Players   : 1
-RunFile   : MouseQuestNTSC.Slave

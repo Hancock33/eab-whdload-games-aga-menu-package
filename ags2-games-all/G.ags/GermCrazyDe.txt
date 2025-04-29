@@ -1,0 +1,6 @@
+Name      : Germ Crazy
+Publisher : Electronic Zoo
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : GermCrazyDe.Slave

@@ -1,0 +1,6 @@
+Name      : Sabre Team
+Publisher : Krisalis
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : SabreTeamAGA.Slave

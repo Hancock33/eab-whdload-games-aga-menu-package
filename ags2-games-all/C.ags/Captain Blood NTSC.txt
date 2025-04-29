@@ -1,7 +1,0 @@
-Name      : Captain Blood
-Version   : NTSC
-Publisher : Exxos (ERE/Infogrames)
-Year      : 1988
-Genre     : Adventure - Miscellaneous
-Players   : 1 Only
-RunFile   : CaptainBloodNTSC.Slave

@@ -1,0 +1,6 @@
+Name      : Power Styx
+Publisher : Axxiom, DigiTek, Magic Bytes
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Powerstyx.slave

@@ -1,0 +1,6 @@
+Name      : Master Axe: The Genesis of MysterX
+Publisher : Islona
+Year      : 1997
+Genre     : Game
+Players   : 2
+RunFile   : MasterAxe.slave

@@ -1,0 +1,6 @@
+Name      : WWF WrestleMania
+Publisher : Ocean
+Year      : 1991
+Genre     : Sports - Wrestling
+Players   : 2
+RunFile   : WWFWrestlemania.slave

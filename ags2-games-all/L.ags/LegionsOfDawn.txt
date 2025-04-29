@@ -1,0 +1,6 @@
+Name      : Black Dawn III: Legions of Dawn
+Publisher : F1 Licenceware
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : LegionsOfDawn.Slave

@@ -1,6 +1,6 @@
 Name      : Gobliiins
-Publisher : Coktel Vision
+Publisher : Coktel, Sierra, Tomahawk
 Year      : 1992
-Genre     : Adventure - Point and Click
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Gobliiins.slave

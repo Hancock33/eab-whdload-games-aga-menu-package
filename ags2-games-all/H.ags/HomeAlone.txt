@@ -1,0 +1,6 @@
+Name      : Home Alone
+Publisher : Capstone
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : HomeAlone.Slave

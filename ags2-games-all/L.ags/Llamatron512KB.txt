@@ -1,0 +1,6 @@
+Name      : Llamatron: 2112
+Publisher : Llamasoft
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : Llamatron512KB.Slave

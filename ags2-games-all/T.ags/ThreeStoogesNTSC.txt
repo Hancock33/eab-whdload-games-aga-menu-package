@@ -1,0 +1,6 @@
+Name      : The Three Stooges
+Publisher : Cinemaware
+Year      : 1987
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : ThreeStoogesNTSC.Slave

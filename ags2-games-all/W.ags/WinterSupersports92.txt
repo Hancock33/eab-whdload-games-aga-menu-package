@@ -1,0 +1,6 @@
+Name      : Winter Supersports 92
+Publisher : Flair, MicroValue
+Year      : 1992
+Genre     : Sports - Multi-Event
+Players   : 6 (taking turns)
+RunFile   : WinterSupersports92.Slave

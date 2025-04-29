@@ -1,0 +1,6 @@
+Name      : Dragon's Lair II: Time Warp
+Publisher : ReadySoft
+Year      : 1991
+Genre     : Action Adventure
+Players   : 1
+RunFile   : DragonsLair2.Slave

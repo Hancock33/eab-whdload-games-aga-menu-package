@@ -1,0 +1,6 @@
+Name      : Eskimo Games
+Publisher : DigiTek, Magic Bytes, micro-partner
+Year      : 1989
+Genre     : Sports - Multi-Event
+Players   : 4
+RunFile   : EskimoGames.Slave

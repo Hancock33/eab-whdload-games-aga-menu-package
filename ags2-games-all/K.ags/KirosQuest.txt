@@ -1,0 +1,6 @@
+Name      : Kiro's Quest
+Publisher : Linel
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : KirosQuest.slave

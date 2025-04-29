@@ -1,5 +1,6 @@
 Name      : Goldrunner
 Publisher : Microdeal
 Year      : 1987
-Players   : 1 or 2
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
 RunFile   : Goldrunner.Slave

@@ -1,5 +1,6 @@
-Name      : Zool
+Name      : Zool: Ninja of the 'Nth' Dimension
 Publisher : Gremlin
 Year      : 1992
+Genre     : Game
 Players   : 1
 RunFile   : Zool.slave

@@ -1,0 +1,6 @@
+Name      : John Lowe's Ultimate Darts
+Publisher : Gremlin
+Year      : 1988
+Genre     : Sports - Darts
+Players   : 8 (taking turns)
+RunFile   : JohnLowesUltimateDarts.Slave

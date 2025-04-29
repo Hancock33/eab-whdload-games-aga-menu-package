@@ -1,0 +1,6 @@
+Name      : Super Hang-On
+Publisher : Data East, Electric Dreams
+Year      : 1988
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : SuperHangOn.Slave

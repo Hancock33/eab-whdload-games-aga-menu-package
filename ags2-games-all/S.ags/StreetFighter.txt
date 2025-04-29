@@ -1,0 +1,6 @@
+Name      : Street Fighter
+Publisher : Capcom, GO!
+Year      : 1988
+Genre     : Fighting
+Players   : 2
+RunFile   : StreetFighter.slave

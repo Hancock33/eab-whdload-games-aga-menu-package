@@ -1,6 +1,6 @@
-Name      : Hardball!
+Name      : HardBall!
 Publisher : Accolade
 Year      : 1987
 Genre     : Sports - Baseball
-Players   : 1 or 2, Simultaneous
+Players   : 2
 RunFile   : HardBall.Slave

@@ -1,0 +1,6 @@
+Name      : Vac-Suit Jack (Demo)
+Publisher : Mutation
+Year      : 1991
+Genre     : Platform - Shooting
+Players   : 1
+RunFile   : VacSuitJackDemo.Slave

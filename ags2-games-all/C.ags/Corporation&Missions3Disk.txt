@@ -1,0 +1,6 @@
+Name      : Corporation
+Publisher : Core Design, Virgin
+Year      : 1990
+Genre     : Action Adventure
+Players   : 1
+RunFile   : Corporation&Missions3Disk.Slave

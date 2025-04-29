@@ -1,0 +1,6 @@
+Name      : Death Knights of Krynn
+Publisher : SSI
+Year      : 1991
+Genre     : RPG
+Players   : 1
+RunFile   : DeathKnightsOfKrynnDe.Slave

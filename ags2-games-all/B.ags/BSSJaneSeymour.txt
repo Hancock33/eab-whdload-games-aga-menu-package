@@ -1,0 +1,6 @@
+Name      : Federation Quest 1: B.S.S. Jane Seymour
+Publisher : Gremlin
+Year      : 1990
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : BSSJaneSeymour.slave

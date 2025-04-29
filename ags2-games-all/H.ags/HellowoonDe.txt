@@ -1,0 +1,6 @@
+Name      : Hellowoon: Das Geheimnis Des Zauberstabs
+Publisher : Ariolasoft
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : HellowoonDe.Slave

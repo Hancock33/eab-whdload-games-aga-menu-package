@@ -1,0 +1,6 @@
+Name      : Morton Strikes Back
+Publisher : Confused Pelican
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : MortonStrikesBackAGA.Slave

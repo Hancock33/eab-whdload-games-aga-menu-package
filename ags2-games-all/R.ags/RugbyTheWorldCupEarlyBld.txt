@@ -1,0 +1,6 @@
+Name      : Rugby: The World Cup (Early)
+Publisher : Domark
+Year      : 1991
+Genre     : Sports - Rugby
+Players   : 2
+RunFile   : RugbyTheWorldCupEarlyBld.Slave

@@ -1,0 +1,6 @@
+Name      : Ball Raider
+Publisher : Diamond
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : BallRaider.Slave

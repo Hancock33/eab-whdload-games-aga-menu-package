@@ -1,0 +1,6 @@
+Name      : Gateway to the Savage Frontier
+Publisher : SSI
+Year      : 1991
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : GatewayToSavageFrontier.Slave

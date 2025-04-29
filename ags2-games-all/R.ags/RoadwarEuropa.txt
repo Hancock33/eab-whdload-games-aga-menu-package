@@ -1,0 +1,6 @@
+Name      : Roadwar Europa
+Publisher : SSI
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : RoadwarEuropa.Slave

@@ -1,0 +1,6 @@
+Name      : Scrolling Walls
+Publisher : Kingsoft
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : ScrollingWalls.Slave

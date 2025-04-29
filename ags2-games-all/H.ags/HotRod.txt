@@ -1,0 +1,6 @@
+Name      : Hot Rod
+Publisher : Activision
+Year      : 1990
+Genre     : Racing - Top-Down
+Players   : 4
+RunFile   : HotRod.Slave

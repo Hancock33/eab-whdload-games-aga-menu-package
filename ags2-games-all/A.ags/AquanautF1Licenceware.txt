@@ -1,0 +1,6 @@
+Name      : Aquanaut
+Publisher : F1 Licenceware
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : AquanautF1Licenceware.slave

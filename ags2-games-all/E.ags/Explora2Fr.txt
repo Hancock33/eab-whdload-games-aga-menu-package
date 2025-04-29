@@ -1,0 +1,6 @@
+Name      : Explora II
+Publisher : 16 32 Diffusion
+Year      : 1988
+Genre     : Adventure
+Players   : 1
+RunFile   : Explora2Fr.Slave

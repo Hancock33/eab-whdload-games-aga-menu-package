@@ -1,6 +1,6 @@
 Name      : Starlord
-Publisher : MicroProse Software
+Publisher : MicroProse
 Year      : 1994
-Genre     : Strategy - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Starlord.Slave

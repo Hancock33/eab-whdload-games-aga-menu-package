@@ -1,0 +1,6 @@
+Name      : Tiny Troops
+Publisher : Vulcan
+Year      : 1997
+Genre     : Game
+Players   : 2
+RunFile   : TinyTroops.Slave

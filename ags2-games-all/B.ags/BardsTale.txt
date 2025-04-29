@@ -1,0 +1,6 @@
+Name      : The Bard's Tale: Tales of the Unknown
+Publisher : Electronic Arts
+Year      : 1986
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : BardsTale.slave

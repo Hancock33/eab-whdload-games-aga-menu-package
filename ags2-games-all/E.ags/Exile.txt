@@ -1,6 +1,6 @@
 Name      : Exile
 Publisher : Audiogenic
-Year      : 1995
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Year      : 1991
+Genre     : Game
+Players   : 1
 RunFile   : Exile.slave

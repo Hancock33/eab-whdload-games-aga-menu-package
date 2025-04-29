@@ -1,0 +1,6 @@
+Name      : Who Framed Roger Rabbit
+Publisher : Buena Vista
+Year      : 1988
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : WhoFramedRogerRabbit.slave

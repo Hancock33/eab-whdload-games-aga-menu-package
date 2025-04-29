@@ -1,0 +1,6 @@
+Name      : Holiday Lemmings 1993
+Publisher : Psygnosis
+Year      : 1993
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : LemmingsHoliday1993.Slave

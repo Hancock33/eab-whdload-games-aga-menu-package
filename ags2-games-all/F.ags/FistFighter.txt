@@ -1,0 +1,6 @@
+Name      : Fist Fighter
+Publisher : Zeppelin
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : FistFighter.slave

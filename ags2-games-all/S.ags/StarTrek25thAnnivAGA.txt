@@ -1,0 +1,6 @@
+Name      : Star Trek: 25th Anniversary
+Publisher : Interplay
+Year      : 1994
+Genre     : Adventure
+Players   : 1
+RunFile   : StarTrek25thAnnivAGA.Slave

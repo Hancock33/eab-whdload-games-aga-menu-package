@@ -1,0 +1,6 @@
+Name      : SimCity
+Publisher : Infogrames, Maxis
+Year      : 1989
+Genre     : Simulation - Construction
+Players   : 1
+RunFile   : SimCityNTSC.Slave

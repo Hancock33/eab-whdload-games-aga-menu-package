@@ -1,6 +1,6 @@
 Name      : Globulus
-Publisher : Innerprise
+Publisher : Innerprise, Rainbow Arts
 Year      : 1990
-Genre     : Arcade - Labyrinth/Maze
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Globulus.slave

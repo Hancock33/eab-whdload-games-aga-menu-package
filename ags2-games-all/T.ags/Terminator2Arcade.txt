@@ -1,0 +1,6 @@
+Name      : T2: The Arcade Game
+Publisher : Virgin
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : Terminator2Arcade.slave

@@ -1,0 +1,6 @@
+Name      : Treasures of the Savage Frontier
+Publisher : SSI
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : TreasureSavageFrontNTSC.Slave

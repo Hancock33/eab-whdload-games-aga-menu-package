@@ -1,0 +1,6 @@
+Name      : Speedball
+Publisher : Image Works, Spotlight
+Year      : 1988
+Genre     : Sports - Future/Fantasy
+Players   : 2
+RunFile   : SpeedballNTSC.slave

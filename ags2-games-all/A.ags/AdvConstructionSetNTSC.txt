@@ -1,0 +1,6 @@
+Name      : Adventure Construction Set
+Publisher : Electronic Arts
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : AdvConstructionSetNTSC.slave

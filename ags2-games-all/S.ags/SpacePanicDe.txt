@@ -1,0 +1,6 @@
+Name      : Space Panic
+Publisher : TIWI Soft
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : SpacePanicDe.Slave

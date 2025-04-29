@@ -1,0 +1,6 @@
+Name      : Navy Moves
+Publisher : Dinamic
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : NavyMoves.Slave

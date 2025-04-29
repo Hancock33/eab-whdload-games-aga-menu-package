@@ -1,0 +1,6 @@
+Name      : The Man From the Council
+Publisher : Tynesoft
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ManFromTheCouncil.Slave

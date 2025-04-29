@@ -1,0 +1,6 @@
+Name      : Jimmy White's 'Whirlwind' Snooker
+Publisher : Virgin
+Year      : 1991
+Genre     : Sports - Cue
+Players   : 2 (taking turns)
+RunFile   : JimmyWhitesSnooker.slave

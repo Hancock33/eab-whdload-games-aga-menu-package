@@ -1,0 +1,6 @@
+Name      : Rick Dangerous II
+Publisher : MicroProse, MicroStyle
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : RickDangerous2.slave

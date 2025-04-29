@@ -1,6 +1,6 @@
 Name      : Erik
-Publisher : Atlantis Software
+Publisher : Atlantis, F1 Licenceware
 Year      : 1992
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Erik.Slave

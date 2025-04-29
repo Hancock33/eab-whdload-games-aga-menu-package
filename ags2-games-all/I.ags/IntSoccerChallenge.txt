@@ -1,0 +1,6 @@
+Name      : International Soccer Challenge
+Publisher : MicroStyle
+Year      : 1990
+Genre     : Sports
+Players   : 1
+RunFile   : IntSoccerChallenge.slave

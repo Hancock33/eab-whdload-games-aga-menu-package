@@ -1,0 +1,6 @@
+Name      : Line of Fire
+Publisher : Sega, U.S. Gold
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : LineOfFire.slave

@@ -1,5 +1,6 @@
-Name      : Blork
-Publisher : Unknown
-Genre     : Shooter
+Name      : Blork (Demo)
+Publisher : Unreleased
+Year      : 199X
+Genre     : Game
 Players   : 1
 RunFile   : Blork.Slave

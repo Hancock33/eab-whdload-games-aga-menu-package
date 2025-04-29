@@ -1,0 +1,6 @@
+Name      : Worthy
+Publisher : Amiga.net.pl
+Year      : 2018
+Genre     : Game
+Players   : 1
+RunFile   : Worthy.slave

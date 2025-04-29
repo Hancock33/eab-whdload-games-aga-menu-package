@@ -1,0 +1,6 @@
+Name      : Titanic Blinky
+Publisher : Zeppelin
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : TitanicBlinky.Slave

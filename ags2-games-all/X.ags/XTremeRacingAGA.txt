@@ -1,0 +1,6 @@
+Name      : XTreme Racing
+Publisher : Black Magic, Guildhall
+Year      : 1995
+Genre     : Racing - Arcade
+Players   : 4 (8 with serial link)
+RunFile   : XTremeRacingAGA.slave

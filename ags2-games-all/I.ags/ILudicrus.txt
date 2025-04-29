@@ -1,0 +1,6 @@
+Name      : I Ludicrus
+Publisher : Actual Screenshots, Scorpion
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : ILudicrus.Slave

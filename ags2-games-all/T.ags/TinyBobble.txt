@@ -1,0 +1,6 @@
+Name      : Tiny Bobble
+Publisher : Abyss
+Year      : 2020
+Genre     : Game
+Players   : 2
+RunFile   : TinyBobble.slave

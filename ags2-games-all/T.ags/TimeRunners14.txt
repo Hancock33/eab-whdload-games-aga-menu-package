@@ -1,0 +1,6 @@
+Name      : Time Runners 14: Toraxid - War Star
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners14.Slave

@@ -1,0 +1,6 @@
+Name      : Hägar the Horrible
+Publisher : Kingsoft
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : HagarTheHorrible.Slave

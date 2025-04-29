@@ -1,0 +1,6 @@
+Name      : The Incredible Crash Dummies
+Publisher : Acclaim, Virgin
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : IncredibleCrashDummies.slave

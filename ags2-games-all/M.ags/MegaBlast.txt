@@ -1,0 +1,6 @@
+Name      : MegaBlast
+Publisher : APC&TCP
+Year      : 1996
+Genre     : Game
+Players   : 6
+RunFile   : MegaBlast.Slave

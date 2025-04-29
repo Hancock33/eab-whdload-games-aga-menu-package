@@ -1,0 +1,6 @@
+Name      : Skaermtrolden Hugo
+Publisher : SilverRock
+Year      : 1991
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : SkaermtroldenHugoDk.Slave

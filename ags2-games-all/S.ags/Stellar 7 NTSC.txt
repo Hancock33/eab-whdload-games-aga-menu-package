@@ -1,6 +1,0 @@
-Name      : Stellar 7
-Version   : NTSC
-Publisher : Dynamix
-Year      : 1991
-Players   : 1 Only
-RunFile   : Stellar7NTSC.Slave

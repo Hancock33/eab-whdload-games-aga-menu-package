@@ -1,0 +1,6 @@
+Name      : Super Loopz
+Publisher : Audiogenic
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : SuperLoopzAGA.Slave

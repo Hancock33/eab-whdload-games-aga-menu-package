@@ -1,0 +1,6 @@
+Name      : Naughty Ones
+Publisher : Interactivision
+Year      : 1994
+Genre     : Game
+Players   : 2
+RunFile   : NaughtyOnesCD32.Slave

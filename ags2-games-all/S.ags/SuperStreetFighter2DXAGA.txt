@@ -1,0 +1,6 @@
+Name      : Super Street Fighter II DX: The New Challengers
+Publisher : U.S. Gold
+Year      : 1995
+Genre     : Fighting
+Players   : 2
+RunFile   : SuperStreetFighter2DXAGA.slave

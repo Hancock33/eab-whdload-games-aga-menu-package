@@ -1,0 +1,6 @@
+Name      : Quest for Glory II: Trial by Fire
+Publisher : Sierra
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : QuestForGlory2MT32.Slave

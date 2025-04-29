@@ -1,5 +1,6 @@
 Name      : Cyberblast
 Publisher : Innerprise
 Year      : 1990
-Players   : 1 or 2
+Genre     : Game
+Players   : 2
 RunFile   : Cyberblast.slave

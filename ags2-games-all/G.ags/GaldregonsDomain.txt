@@ -1,0 +1,6 @@
+Name      : Galdregon's Domain
+Publisher : Pandora
+Year      : 1988
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : GaldregonsDomain.Slave

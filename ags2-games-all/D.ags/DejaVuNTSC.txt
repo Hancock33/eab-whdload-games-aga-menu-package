@@ -1,0 +1,6 @@
+Name      : Deja Vu: A Nightmare Comes True!!
+Publisher : Mindscape
+Year      : 1986
+Genre     : Adventure
+Players   : 1
+RunFile   : DejaVuNTSC.slave

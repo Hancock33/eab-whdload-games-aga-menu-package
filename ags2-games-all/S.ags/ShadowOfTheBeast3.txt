@@ -1,0 +1,6 @@
+Name      : Shadow of the Beast III
+Publisher : Psygnosis
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : ShadowOfTheBeast3.slave

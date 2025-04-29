@@ -1,0 +1,6 @@
+Name      : Double Dragon 3: The Rosetta Stone
+Publisher : Storm
+Year      : 1991
+Genre     : Beat'em Up
+Players   : 2
+RunFile   : DoubleDragon3.slave

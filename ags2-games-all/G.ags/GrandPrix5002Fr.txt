@@ -1,0 +1,6 @@
+Name      : Grand Prix 500 2
+Publisher : Microids
+Year      : 1991
+Genre     : Racing
+Players   : 1
+RunFile   : GrandPrix5002Fr.slave

@@ -1,0 +1,6 @@
+Name      : Space Rogue
+Publisher : Origin
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : SpaceRogue.Slave

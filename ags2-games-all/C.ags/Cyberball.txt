@@ -1,5 +1,6 @@
 Name      : Cyberball
-Publisher : Domark / Tengen / ERBE
+Publisher : Domark, Tengen
 Year      : 1990
-Players   : 1 - 2 (2 simultaneous)
+Genre     : Sports - American Football
+Players   : 2
 RunFile   : Cyberball.slave

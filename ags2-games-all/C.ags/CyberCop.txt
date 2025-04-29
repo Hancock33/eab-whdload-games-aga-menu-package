@@ -1,0 +1,6 @@
+Name      : Cyber Cop
+Publisher : Energize
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : CyberCop.slave

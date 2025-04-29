@@ -1,7 +1,0 @@
-Name      : Myth
-Version   : CD32
-Publisher : Magnetic Scrolls
-Year      : 1989
-Genre     : Adventure
-Players   : 1
-RunFile   : MythSystem3CD32.slave

@@ -1,0 +1,6 @@
+Name      : Distant Armies: A Playing History of Chess
+Publisher : Eagle Tree, Exocet
+Year      : 1988
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : DistantArmies.Slave

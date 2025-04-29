@@ -1,0 +1,6 @@
+Name      : Cybernoid II: The Revenge
+Publisher : Hewson
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : Cybernoid2.Slave

@@ -1,0 +1,6 @@
+Name      : Les Aventures de Moktar
+Publisher : Titus
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : AventuresDeMoktarFr.slave

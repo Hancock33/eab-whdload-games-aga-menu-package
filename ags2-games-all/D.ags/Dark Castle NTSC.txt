@@ -1,7 +1,0 @@
-Name      : Dark Castle
-Version   : NTSC
-Publisher : Mindscape
-Year      : 1987
-Genre     : Adventure - Miscellaneous
-Players   : 1 Only
-RunFile   : DarkCastleNTSC.slave

@@ -1,0 +1,6 @@
+Name      : Cannon Fodder 2
+Publisher : Virgin
+Year      : 1994
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : CannonFodder2Fr.Slave

@@ -1,0 +1,6 @@
+Name      : Amiga Karate
+Publisher : Eidersoft
+Year      : 1987
+Genre     : Fighting
+Players   : 2
+RunFile   : AmigaKarateNTSC.Slave

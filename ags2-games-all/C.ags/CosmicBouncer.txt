@@ -1,0 +1,6 @@
+Name      : Cosmic Bouncer
+Publisher : ReadySoft
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : CosmicBouncer.Slave

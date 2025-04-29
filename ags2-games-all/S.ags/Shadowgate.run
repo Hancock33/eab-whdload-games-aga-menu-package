@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:S/Shadowgate/Shadowgate.Slave
+;RunFile=A-Games:S/Shadowgate/Shadowgate.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:S/Shadowgate/"
 IF EXISTS ENV:whdloadargs
-  whdload "Shadowgate.Slave" $whdloadargs
+  whdload "Shadowgate.slave" $whdloadargs
 ELSE
-  whdload "Shadowgate.Slave"
+  whdload "Shadowgate.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

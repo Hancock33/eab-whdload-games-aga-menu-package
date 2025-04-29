@@ -1,6 +1,0 @@
-Name      : Starball
-Publisher : Rainbow Arts
-Year      : 1988
-Genre     : Arcade - Breakout/Pong
-Players   : 1 to 8
-RunFile   : Starball.slave

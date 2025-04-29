@@ -1,0 +1,6 @@
+Name      : Dizzy's Excellent Adventures (Disk 2)
+Publisher : Codemasters
+Year      : 1992
+Genre     : Compilation - Platform
+Players   : 1
+RunFile   : Disk2.Slave

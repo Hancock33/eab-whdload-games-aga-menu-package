@@ -1,0 +1,6 @@
+Name      : Warlock the Avenger
+Publisher : Millennium
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : WarlockTheAvenger.Slave

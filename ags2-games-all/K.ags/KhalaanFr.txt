@@ -1,0 +1,6 @@
+Name      : Khalaan
+Publisher : Electronic Zoo, Rainbow Arts
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : KhalaanFr.Slave

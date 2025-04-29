@@ -1,0 +1,6 @@
+Name      : CJ in the USA
+Publisher : Codemasters
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : CJInTheUSA.Slave

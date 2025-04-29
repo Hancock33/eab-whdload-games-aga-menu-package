@@ -1,5 +1,6 @@
 Name      : Encounter
 Publisher : Novagen
 Year      : 1991
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Encounter.slave

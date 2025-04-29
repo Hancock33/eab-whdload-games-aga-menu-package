@@ -1,0 +1,6 @@
+Name      : James Pond: Underwater Agent
+Publisher : Millennium
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : JamesPond.slave

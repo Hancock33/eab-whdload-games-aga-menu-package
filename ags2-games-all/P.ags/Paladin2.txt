@@ -1,0 +1,6 @@
+Name      : Paladin 2
+Publisher : Impressions
+Year      : 1992
+Genre     : RPG
+Players   : 1
+RunFile   : Paladin2.Slave

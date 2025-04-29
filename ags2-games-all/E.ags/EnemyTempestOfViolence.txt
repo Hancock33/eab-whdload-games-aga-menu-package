@@ -1,0 +1,6 @@
+Name      : Enemy: Tempest of Violence
+Publisher : Alive, Anachronia
+Year      : 1997
+Genre     : Platform - Adventure
+Players   : 2
+RunFile   : EnemyTempestOfViolence.Slave

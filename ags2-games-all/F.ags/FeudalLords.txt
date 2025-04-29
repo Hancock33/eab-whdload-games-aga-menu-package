@@ -1,0 +1,6 @@
+Name      : Feudal Lords
+Publisher : Impressions
+Year      : 1991
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : FeudalLords.Slave

@@ -1,0 +1,6 @@
+Name      : Footballer of the Year 2
+Publisher : Gremlin
+Year      : 1989
+Genre     : Sports - Management
+Players   : 1
+RunFile   : FootballerOfTheYear2.slave

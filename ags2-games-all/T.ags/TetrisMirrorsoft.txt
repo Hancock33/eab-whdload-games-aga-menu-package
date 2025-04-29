@@ -1,0 +1,6 @@
+Name      : Tetris (Mirrorsoft)
+Publisher : Mirrorsoft
+Year      : 1987
+Genre     : Puzzle - Stacking
+Players   : 1
+RunFile   : TetrisMirrorsoft.Slave

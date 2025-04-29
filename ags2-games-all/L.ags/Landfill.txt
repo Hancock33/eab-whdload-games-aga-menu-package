@@ -1,0 +1,6 @@
+Name      : Landfill
+Publisher : Clebin Games
+Year      : 2019
+Genre     : Game
+Players   : 1
+RunFile   : Landfill.slave

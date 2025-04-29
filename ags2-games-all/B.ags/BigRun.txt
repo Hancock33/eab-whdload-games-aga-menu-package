@@ -1,0 +1,6 @@
+Name      : Big Run
+Publisher : Storm
+Year      : 1992
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : BigRun.Slave

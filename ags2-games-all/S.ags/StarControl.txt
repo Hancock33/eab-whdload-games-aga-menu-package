@@ -1,0 +1,6 @@
+Name      : Star Control
+Publisher : Accolade
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : StarControl.Slave

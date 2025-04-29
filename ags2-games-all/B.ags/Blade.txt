@@ -1,6 +1,6 @@
 Name      : Blade
-Publisher : Alive Mediasoft
-Year      : 1998
-Genre     : Adventure - Isometric 3D
-Players   : 1 Only
+Publisher : Amiga Future
+Year      : 1997
+Genre     : Game
+Players   : 1
 RunFile   : Blade.Slave

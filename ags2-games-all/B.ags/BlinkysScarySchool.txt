@@ -1,0 +1,6 @@
+Name      : Blinky's Scary School
+Publisher : Zeppelin
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : BlinkysScarySchool.Slave

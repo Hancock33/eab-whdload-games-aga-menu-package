@@ -1,0 +1,6 @@
+Name      : Where in the USA Is Carmen Sandiego?
+Publisher : Brøderbund
+Year      : 1989
+Genre     : Adventure
+Players   : 1
+RunFile   : WITUSAIsCarmenSandiego.slave

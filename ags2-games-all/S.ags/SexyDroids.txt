@@ -1,0 +1,6 @@
+Name      : Sexy Droids
+Publisher : Magic Bytes
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : SexyDroids.slave

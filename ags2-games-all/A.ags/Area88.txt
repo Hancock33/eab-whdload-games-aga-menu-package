@@ -1,0 +1,6 @@
+Name      : Area 88
+Publisher : U.S. Gold
+Year      : 2018
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : Area88.slave

@@ -1,0 +1,6 @@
+Name      : Glubble
+Publisher : Freeware
+Year      : 2024
+Genre     : Game
+Players   : 1
+RunFile   : Glubble.Slave

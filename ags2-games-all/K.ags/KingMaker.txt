@@ -1,0 +1,6 @@
+Name      : Kingmaker: The Quest for the Crown
+Publisher : U.S. Gold
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : KingMaker.slave

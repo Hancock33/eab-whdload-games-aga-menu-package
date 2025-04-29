@@ -1,0 +1,6 @@
+Name      : Winnie the Pooh in The Hundred Acre Wood
+Publisher : Sierra
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : WinnieThePooh.Slave

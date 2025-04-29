@@ -1,5 +1,6 @@
 Name      : Firehawk
 Publisher : Codemasters
 Year      : 1993
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : FireHawk.Slave

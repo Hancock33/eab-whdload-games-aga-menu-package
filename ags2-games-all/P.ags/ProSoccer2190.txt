@@ -1,0 +1,6 @@
+Name      : ProSoccer 2190
+Publisher : Vulture
+Year      : 1990
+Genre     : Sports - Future/Fantasy
+Players   : 16 (2 simultaneously)
+RunFile   : ProSoccer2190.Slave

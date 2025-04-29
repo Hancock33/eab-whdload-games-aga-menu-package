@@ -1,0 +1,6 @@
+Name      : Quiksilver Pinball Simulator
+Publisher : Actionworks
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : QuiksilverPinball.Slave

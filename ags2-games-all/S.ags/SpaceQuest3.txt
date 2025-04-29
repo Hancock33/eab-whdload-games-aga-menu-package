@@ -1,0 +1,6 @@
+Name      : Space Quest III: The Pirates of Pestulon
+Publisher : Sierra
+Year      : 1989
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : SpaceQuest3.slave

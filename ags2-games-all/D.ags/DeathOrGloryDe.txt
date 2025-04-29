@@ -1,0 +1,6 @@
+Name      : Death or Glory: The Battle of Morgan
+Publisher : Software 2000
+Year      : 1994
+Genre     : Strategy - Tactics
+Players   : 1
+RunFile   : DeathOrGloryDe.Slave

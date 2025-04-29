@@ -1,0 +1,6 @@
+Name      : Gadget: Lost in Time
+Publisher : ESP
+Year      : 1993
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : GadgetLostInTime.slave

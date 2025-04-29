@@ -1,0 +1,6 @@
+Name      : Sir Fred: The Legend
+Publisher : Ubi Soft
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : SirFred.slave

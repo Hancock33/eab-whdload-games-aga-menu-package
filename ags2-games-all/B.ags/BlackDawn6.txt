@@ -1,0 +1,6 @@
+Name      : Black Dawn VI: Hellbound
+Publisher : F1 Licenceware
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : BlackDawn6.Slave

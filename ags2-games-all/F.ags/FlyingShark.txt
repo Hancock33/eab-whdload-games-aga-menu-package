@@ -1,0 +1,6 @@
+Name      : Flying Shark
+Publisher : Firebird, Rainbird
+Year      : 1988
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : FlyingShark.Slave

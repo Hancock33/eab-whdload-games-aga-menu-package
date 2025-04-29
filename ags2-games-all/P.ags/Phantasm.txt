@@ -1,6 +1,6 @@
 Name      : Phantasm
-Publisher : Exocet / Scorpion
+Publisher : Exocet, Scorpion
 Year      : 1988
-Genre     : Shooter
+Genre     : Game
 Players   : 1
 RunFile   : Phantasm.Slave

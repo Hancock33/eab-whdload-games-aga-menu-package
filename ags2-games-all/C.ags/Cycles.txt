@@ -1,0 +1,6 @@
+Name      : The Cycles: International Grand Prix Racing
+Publisher : Accolade
+Year      : 1989
+Genre     : Racing
+Players   : 1
+RunFile   : Cycles.Slave

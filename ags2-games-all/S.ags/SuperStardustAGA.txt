@@ -1,0 +1,6 @@
+Name      : Super Stardust
+Publisher : Team 17
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : SuperStardustAGA.slave

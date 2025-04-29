@@ -1,0 +1,6 @@
+Name      : The Real Popeye
+Publisher : Bignonia
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : RealPopeye.Slave

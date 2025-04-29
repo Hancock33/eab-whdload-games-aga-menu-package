@@ -1,0 +1,6 @@
+Name      : Crystal Dragon
+Publisher : Black Legend
+Year      : 1994
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : CrystalDragon.Slave

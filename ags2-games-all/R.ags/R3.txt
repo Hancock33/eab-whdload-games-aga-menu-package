@@ -1,0 +1,6 @@
+Name      : R3: The Art of Rocketry
+Publisher : Bruce Webster
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : R3.slave

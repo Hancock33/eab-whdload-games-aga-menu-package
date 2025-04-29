@@ -1,0 +1,6 @@
+Name      : Shaq Fu
+Publisher : Ocean
+Year      : 1994
+Genre     : Fighting
+Players   : 1
+RunFile   : ShaqFuAGA.slave

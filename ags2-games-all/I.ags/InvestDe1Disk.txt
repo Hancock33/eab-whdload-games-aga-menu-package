@@ -1,0 +1,6 @@
+Name      : Invest
+Publisher : Starbyte
+Year      : 1990
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : InvestDe1Disk.slave

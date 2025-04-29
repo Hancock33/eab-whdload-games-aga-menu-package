@@ -1,5 +1,6 @@
 Name      : Typhoon
-Publisher : Kingsoft
+Publisher : Kingsoft, The Software Business, Wicked
 Year      : 1987
-Players   : 1 Only
+Genre     : Shoot'em Up - Vertical
+Players   : 1
 RunFile   : Typhoon.Slave

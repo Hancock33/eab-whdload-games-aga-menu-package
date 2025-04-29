@@ -1,0 +1,6 @@
+Name      : Keef the Thief: A Boy and His Lockpick
+Publisher : Electronic Arts
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : KeefTheThiefNTSC.Slave

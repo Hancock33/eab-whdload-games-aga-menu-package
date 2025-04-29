@@ -1,0 +1,6 @@
+Name      : Donald's Alphabet Chase
+Publisher : Disney
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : DonaldsAlphabetChase.Slave

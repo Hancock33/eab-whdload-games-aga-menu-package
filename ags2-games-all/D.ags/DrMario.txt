@@ -1,0 +1,6 @@
+Name      : Dr. Mario
+Publisher : Trash
+Year      : 1994
+Genre     : Puzzle - Stacking
+Players   : 2
+RunFile   : DrMario.slave

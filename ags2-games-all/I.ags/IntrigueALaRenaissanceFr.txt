@@ -1,0 +1,6 @@
+Name      : Intrigue a La Renaissance
+Publisher : Coktel
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : IntrigueALaRenaissanceFr.Slave

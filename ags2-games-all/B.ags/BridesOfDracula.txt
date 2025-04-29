@@ -1,0 +1,6 @@
+Name      : Brides of Dracula
+Publisher : Gonzo Games
+Year      : 1991
+Genre     : Action Adventure
+Players   : 2
+RunFile   : BridesOfDracula.slave

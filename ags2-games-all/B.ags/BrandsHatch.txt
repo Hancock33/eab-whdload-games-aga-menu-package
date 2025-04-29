@@ -1,0 +1,6 @@
+Name      : Brands Hatch
+Publisher : Diamond
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : BrandsHatch.Slave

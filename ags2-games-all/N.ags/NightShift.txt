@@ -1,0 +1,6 @@
+Name      : Night Shift
+Publisher : Lucasfilm
+Year      : 1990
+Genre     : Platform - Puzzle
+Players   : 2 (taking turns)
+RunFile   : NightShift.slave

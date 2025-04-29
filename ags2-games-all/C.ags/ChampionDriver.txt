@@ -1,0 +1,6 @@
+Name      : Champion Driver
+Publisher : Idea Games
+Year      : 1991
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : ChampionDriver.Slave

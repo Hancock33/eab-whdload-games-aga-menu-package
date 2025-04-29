@@ -1,0 +1,6 @@
+Name      : Base Jumpers
+Publisher : Rasputin
+Year      : 1994
+Genre     : Game
+Players   : 4
+RunFile   : BaseJumpers.slave

@@ -1,0 +1,6 @@
+Name      : Super Ski II
+Publisher : Microids, System 4
+Year      : 1992
+Genre     : Sports - Winter
+Players   : 4 (taking turns)
+RunFile   : SuperSki2.slave

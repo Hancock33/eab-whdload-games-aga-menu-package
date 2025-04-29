@@ -1,0 +1,6 @@
+Name      : Battle Chess
+Publisher : Interplay
+Year      : 1988
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : BattleChessCDTV.Slave

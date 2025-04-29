@@ -1,6 +1,6 @@
 Name      : Skrull
-Publisher : Infogrames
+Publisher : 16 32 Diffusion
 Year      : 1988
-Genre     : Adventure - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Skrull.Slave

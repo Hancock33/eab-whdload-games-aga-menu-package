@@ -1,0 +1,6 @@
+Name      : Fireforce
+Publisher : I.C.E.
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : FireForceCD32.slave

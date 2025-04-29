@@ -1,0 +1,6 @@
+Name      : Time Runners 24: Beyond All Dimensions
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners24.Slave

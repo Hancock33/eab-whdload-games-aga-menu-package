@@ -1,0 +1,6 @@
+Name      : Rockstar: Never Trust Rotten Tangerines
+Publisher : Mirage Media
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : RockstarNTRTPl.Slave

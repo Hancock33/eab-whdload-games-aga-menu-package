@@ -1,0 +1,6 @@
+Name      : Elite Advanced
+Publisher : Firebird, Rainbird
+Year      : 2003
+Genre     : Game
+Players   : 1
+RunFile   : EliteAdvanced.Slave

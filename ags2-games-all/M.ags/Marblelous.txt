@@ -1,0 +1,6 @@
+Name      : Marblelous
+Publisher : APC&TCP
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : Marblelous.Slave

@@ -1,0 +1,6 @@
+Name      : Qix: The 'Computer Virus' Game
+Publisher : Taito
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : QixNTSC.Slave

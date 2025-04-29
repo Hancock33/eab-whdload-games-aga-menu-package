@@ -1,0 +1,6 @@
+Name      : AV8B Harrier Assault
+Publisher : Domark, Spectrum HoloByte
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : AV8BHarrierAssault.Slave

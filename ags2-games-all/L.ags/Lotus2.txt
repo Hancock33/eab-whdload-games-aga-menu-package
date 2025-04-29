@@ -1,0 +1,6 @@
+Name      : Lotus Turbo Challenge 2
+Publisher : Gremlin
+Year      : 1991
+Genre     : Racing - Arcade
+Players   : 2 (4 with serial link)
+RunFile   : Lotus2.slave

@@ -1,0 +1,6 @@
+Name      : Foundation's Waste
+Publisher : Exocet, Scorpion
+Year      : 1988
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : FoundationsWaste.slave

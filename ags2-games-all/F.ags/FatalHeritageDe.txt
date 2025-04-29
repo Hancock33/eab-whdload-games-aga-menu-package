@@ -1,0 +1,6 @@
+Name      : Fatal Heritage
+Publisher : Delta Konzept
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : FatalHeritageDe.Slave

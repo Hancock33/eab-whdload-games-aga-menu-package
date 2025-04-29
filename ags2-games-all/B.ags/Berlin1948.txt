@@ -1,0 +1,6 @@
+Name      : Berlin 1948
+Publisher : Electronic Zoo, Rainbow Arts
+Year      : 1989
+Genre     : Adventure
+Players   : 1
+RunFile   : Berlin1948.slave

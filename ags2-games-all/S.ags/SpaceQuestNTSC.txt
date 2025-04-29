@@ -1,0 +1,6 @@
+Name      : Space Quest: The Sarien Encounter
+Publisher : Sierra
+Year      : 1987
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : SpaceQuestNTSC.slave

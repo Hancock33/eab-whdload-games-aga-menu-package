@@ -1,0 +1,6 @@
+Name      : The Adventures of Genlock Holmes
+Publisher : MicroEd, Inc.
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : AdventuresOfGenlockHolmes.Slave

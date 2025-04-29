@@ -1,0 +1,6 @@
+Name      : Batman: The Movie
+Publisher : Data East, Ocean
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : BatmanTheMovie2Disk.Slave

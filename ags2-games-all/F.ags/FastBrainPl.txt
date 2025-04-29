@@ -1,0 +1,6 @@
+Name      : Fast Brain
+Publisher : Fi PaxPol
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : FastBrainPl.slave

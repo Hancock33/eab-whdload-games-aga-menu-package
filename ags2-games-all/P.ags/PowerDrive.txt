@@ -1,0 +1,6 @@
+Name      : Power Drive
+Publisher : U.S. Gold
+Year      : 1994
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : PowerDrive.Slave

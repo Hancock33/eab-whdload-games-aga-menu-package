@@ -1,0 +1,6 @@
+Name      : Hare Raising Havoc
+Publisher : Disney, Infogrames
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : HareRaisingHavocNTSC.slave

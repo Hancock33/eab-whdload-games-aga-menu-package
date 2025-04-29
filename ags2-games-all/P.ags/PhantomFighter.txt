@@ -1,0 +1,6 @@
+Name      : Phantom Fighter
+Publisher : Martech
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : PhantomFighter.Slave

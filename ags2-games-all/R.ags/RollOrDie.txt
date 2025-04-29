@@ -1,0 +1,6 @@
+Name      : Roll or Die
+Publisher : Animators
+Year      : 1992
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : RollOrDie.slave

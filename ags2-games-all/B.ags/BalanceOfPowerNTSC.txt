@@ -1,0 +1,6 @@
+Name      : Balance of Power: Geopolitics in the Nuclear Age
+Publisher : Mindscape
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : BalanceOfPowerNTSC.Slave

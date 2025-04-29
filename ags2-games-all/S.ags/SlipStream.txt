@@ -1,0 +1,6 @@
+Name      : Slip Stream
+Publisher : Microdeal
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : SlipStream.Slave

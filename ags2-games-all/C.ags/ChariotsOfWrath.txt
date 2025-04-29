@@ -1,0 +1,6 @@
+Name      : Chariots of Wrath
+Publisher : Energize, Impressions
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ChariotsOfWrath.slave

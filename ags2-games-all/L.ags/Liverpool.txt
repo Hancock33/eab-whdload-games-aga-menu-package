@@ -1,0 +1,6 @@
+Name      : Liverpool: The Computer Game
+Publisher : Grandslam
+Year      : 1992
+Genre     : Sports - Football
+Players   : 2
+RunFile   : Liverpool.Slave

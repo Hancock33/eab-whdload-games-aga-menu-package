@@ -1,0 +1,6 @@
+Name      : Little Princess 2
+Publisher : Night Owl Design
+Year      : 2015
+Genre     : Game
+Players   : 1
+RunFile   : LittlePrincess2.slave

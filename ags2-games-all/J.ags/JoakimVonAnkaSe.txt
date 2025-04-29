@@ -1,0 +1,6 @@
+Name      : Joakim Von Anka: Skattsökaren
+Publisher : Coktel
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : JoakimVonAnkaSe.Slave

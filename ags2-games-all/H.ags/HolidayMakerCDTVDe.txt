@@ -1,0 +1,6 @@
+Name      : Holiday Maker
+Publisher : Software 2000
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : HolidayMakerCDTVDe.Slave

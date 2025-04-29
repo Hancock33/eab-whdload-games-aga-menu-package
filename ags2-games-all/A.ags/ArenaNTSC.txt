@@ -1,0 +1,6 @@
+Name      : Arena
+Publisher : Psygnosis
+Year      : 1986
+Genre     : Sports - Multi-Event
+Players   : 4 (taking turns)
+RunFile   : ArenaNTSC.Slave

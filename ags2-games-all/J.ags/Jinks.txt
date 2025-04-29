@@ -1,6 +1,6 @@
 Name      : Jinks
-Publisher : Go!
+Publisher : Euro Gold Starline, GO!, HardWired, Rainbow Arts
 Year      : 1988
-Genre     : Arcade - Breakout/Pong
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Jinks.Slave

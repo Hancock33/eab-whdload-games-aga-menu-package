@@ -1,0 +1,6 @@
+Name      : Multi Player Soccer Manager
+Publisher : CDS, D&H Games 
+Year      : 1991
+Genre     : Sports - Management
+Players   : 8 (taking turns)
+RunFile   : MultiPlayerSoccerManager.Slave

@@ -1,0 +1,6 @@
+Name      : Nathan Never: The Arcade Game
+Publisher : Genias
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : NathanNeverIt.slave

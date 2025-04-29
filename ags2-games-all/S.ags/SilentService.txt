@@ -1,0 +1,6 @@
+Name      : Silent Service: The Submarine Simulation
+Publisher : MicroProse
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : SilentService.Slave

@@ -1,0 +1,6 @@
+Name      : Indoor Sports: Volume 1
+Publisher : Databyte, Mindscape
+Year      : 1987
+Genre     : Sports - Multi-Event
+Players   : 4 (2 simultaneously)
+RunFile   : IndoorSports.Slave

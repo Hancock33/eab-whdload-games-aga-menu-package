@@ -1,0 +1,6 @@
+Name      : Chrono Quest
+Publisher : Psygnosis
+Year      : 1988
+Genre     : Adventure
+Players   : 1
+RunFile   : ChronoQuest.Slave

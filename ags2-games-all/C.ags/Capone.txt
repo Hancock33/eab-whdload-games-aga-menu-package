@@ -1,5 +1,6 @@
 Name      : Capone
 Publisher : Actionware
 Year      : 1988
-Players   : 1 or 2
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Capone.Slave

@@ -1,0 +1,6 @@
+Name      : Moonbase: Lunar Colony Simulator
+Publisher : Wesson
+Year      : 1991
+Genre     : Strategy
+Players   : 1
+RunFile   : MoonBase.slave

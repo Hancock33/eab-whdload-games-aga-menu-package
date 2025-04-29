@@ -1,0 +1,6 @@
+Name      : Lotus Turbo Challenge 2
+Publisher : Gremlin
+Year      : 1994
+Genre     : Racing - Arcade
+Players   : 2 (4 with serial link)
+RunFile   : Lotus2CD32.slave

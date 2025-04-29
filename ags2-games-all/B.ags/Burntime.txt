@@ -1,6 +1,6 @@
 Name      : Burntime
 Publisher : Max Design
 Year      : 1994
-Genre     : Strategy - Miscellaneous
-Players   : 1 or 2
+Genre     : Action RPG
+Players   : 2 (taking turns)
 RunFile   : Burntime.Slave

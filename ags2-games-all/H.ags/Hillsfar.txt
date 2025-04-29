@@ -1,6 +1,6 @@
 Name      : Hillsfar
-Publisher : Strategic Simulations, Inc.
+Publisher : SSI, U.S. Gold
 Year      : 1989
-Genre     : Adventure - RPG 3D
-Players   : 1 Only
+Genre     : RPG
+Players   : 1
 RunFile   : Hillsfar.Slave

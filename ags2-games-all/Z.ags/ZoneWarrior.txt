@@ -1,0 +1,6 @@
+Name      : Zone Warrior
+Publisher : Electronic Arts
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : ZoneWarrior.slave

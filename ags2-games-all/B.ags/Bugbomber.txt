@@ -1,6 +1,6 @@
-Name      : Bugbomber
+Name      : Bug Bomber
 Publisher : Kingsoft
 Year      : 1992
-Genre     : Arcade - Bomberman
-Players   : 1 to 4, Simultaneous
-RunFile   : BugBomber.Slave
+Genre     : Game
+Players   : 4
+RunFile   : BugBomber.slave

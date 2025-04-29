@@ -1,0 +1,6 @@
+Name      : Monster Business
+Publisher : Eclipse
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : MonsterBusiness.slave

@@ -1,0 +1,6 @@
+Name      : Floor 13
+Publisher : Virgin
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : Floor13.Slave

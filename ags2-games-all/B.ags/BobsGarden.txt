@@ -1,0 +1,6 @@
+Name      : Bob's Garden
+Publisher : Justin Leck
+Year      : 1993
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : BobsGarden.Slave

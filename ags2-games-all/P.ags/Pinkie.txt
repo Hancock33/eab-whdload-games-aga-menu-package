@@ -1,6 +1,6 @@
 Name      : Pinkie
-Publisher : Millennium
+Publisher : Millennium, Mirage
 Year      : 1995
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Genre     : Platform - Puzzle
+Players   : 1
 RunFile   : Pinkie.slave

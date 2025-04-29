@@ -1,0 +1,6 @@
+Name      : Putty Squad
+Publisher : System 3
+Year      : 2013
+Genre     : Game
+Players   : 1
+RunFile   : PuttySquadAGA.slave

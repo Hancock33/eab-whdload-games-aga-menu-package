@@ -1,0 +1,6 @@
+Name      : Donkey Kong
+Publisher : Nintendo
+Year      : 2024
+Genre     : Game
+Players   : 1
+RunFile   : DonkeyKong.slave

@@ -1,0 +1,6 @@
+Name      : Crazy Sue
+Publisher : Amiga Fun, Amigo!
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : CrazySue.Slave

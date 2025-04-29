@@ -1,5 +1,6 @@
 Name      : Ziriax
 Publisher : The Software Business
 Year      : 1990
-Players   : 1 Only
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Ziriax.slave

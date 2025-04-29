@@ -1,0 +1,6 @@
+Name      : Nicky II
+Publisher : Microids
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : Nicky2.Slave

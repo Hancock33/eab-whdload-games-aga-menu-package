@@ -1,0 +1,6 @@
+Name      : Rage
+Publisher : Ubi Soft
+Year      : 199X
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : RageV2.Slave

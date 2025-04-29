@@ -1,0 +1,6 @@
+Name      : Deathbringer: The Sword of Abaddon
+Publisher : Empire
+Year      : 1991
+Genre     : Beat'em Up
+Players   : 1
+RunFile   : DeathbringerEmpire.Slave

@@ -1,0 +1,6 @@
+Name      : Alien Storm
+Publisher : Sega, U.S. Gold
+Year      : 1991
+Genre     : Run & Gun
+Players   : 2
+RunFile   : AlienStorm.Slave

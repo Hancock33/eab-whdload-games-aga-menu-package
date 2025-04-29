@@ -1,6 +1,6 @@
 Name      : Corx
-Publisher : Starbyte Software
+Publisher : Starbyte
 Year      : 1991
-Genre     : Arcade - Tron
-Players   : 1 or 2, Simultaneous
+Genre     : Game
+Players   : 4 (2 simultaneously)
 RunFile   : Corx.Slave

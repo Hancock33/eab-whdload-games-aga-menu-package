@@ -1,0 +1,6 @@
+Name      : Out of This World
+Publisher : Interplay
+Year      : 1991
+Genre     : Platform - Adventure
+Players   : 1
+RunFile   : OutOfThisWorldNTSC.Slave

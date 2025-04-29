@@ -1,6 +1,0 @@
-Name      : Smarty And The Nasty Gluttons
-Publisher : Unknown
-Year      : 2020
-Genre     : Platform
-Players   : 1
-RunFile   : SmartyAndTheNastyGluttons.slave

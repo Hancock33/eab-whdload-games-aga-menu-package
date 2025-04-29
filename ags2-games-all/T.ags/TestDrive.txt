@@ -1,0 +1,6 @@
+Name      : Test Drive
+Publisher : Accolade, DRO Soft, Electronic Arts, Ozi Soft
+Year      : 1987
+Genre     : Racing
+Players   : 1
+RunFile   : TestDrive.slave

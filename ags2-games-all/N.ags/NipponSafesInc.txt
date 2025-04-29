@@ -1,0 +1,6 @@
+Name      : Nippon Safes Inc.
+Publisher : Dynabyte
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : NipponSafesInc.Slave

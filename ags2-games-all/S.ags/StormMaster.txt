@@ -1,0 +1,6 @@
+Name      : Storm Master
+Publisher : Silmarils
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : StormMaster.Slave

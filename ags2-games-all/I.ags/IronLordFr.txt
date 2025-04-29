@@ -1,0 +1,6 @@
+Name      : Iron Lord
+Publisher : Electronic Arts, Ubi Soft
+Year      : 1989
+Genre     : Adventure - Strategy
+Players   : 1
+RunFile   : IronLordFr.Slave

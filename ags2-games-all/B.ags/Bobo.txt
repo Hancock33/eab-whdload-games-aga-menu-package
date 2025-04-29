@@ -1,6 +1,6 @@
 Name      : Bobo
 Publisher : Infogrames
 Year      : 1988
-Genre     : Arcade - Miscellaneous
-Players   : 1 Only
+Genre     : Action - Multi-Type
+Players   : 6 (taking turns)
 RunFile   : Bobo.Slave

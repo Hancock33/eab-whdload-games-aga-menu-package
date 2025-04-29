@@ -1,0 +1,6 @@
+Name      : Ultima IV: Quest of the Avatar
+Publisher : MicroProse, Origin
+Year      : 1988
+Genre     : RPG
+Players   : 1
+RunFile   : Ultima4NTSC.slave

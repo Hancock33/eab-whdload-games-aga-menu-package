@@ -1,0 +1,6 @@
+Name      : Fightin' Spirit
+Publisher : Alive, neo
+Year      : 1996
+Genre     : Fighting
+Players   : 2
+RunFile   : FightinSpiritCD32.slave

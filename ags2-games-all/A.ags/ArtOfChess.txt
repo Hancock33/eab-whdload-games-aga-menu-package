@@ -1,0 +1,6 @@
+Name      : The Art of Chess
+Publisher : SPA
+Year      : 1987
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : ArtOfChess.slave

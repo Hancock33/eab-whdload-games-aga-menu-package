@@ -1,5 +1,6 @@
 Name      : HeroQuest
-Publisher : Gremlin Graphics
+Publisher : Gremlin
 Year      : 1991
-Genre     : Adventure - Isometric 3D
+Genre     : RPG
+Players   : 4 (taking turns)
 RunFile   : HeroQuest.slave

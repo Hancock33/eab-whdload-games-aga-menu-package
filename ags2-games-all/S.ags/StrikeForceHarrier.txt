@@ -1,0 +1,6 @@
+Name      : Strike Force Harrier
+Publisher : Mindscape
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : StrikeForceHarrier.Slave

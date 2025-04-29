@@ -1,0 +1,6 @@
+Name      : Alien Bash II
+Publisher : Amiga Format
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : AlienBash2.slave

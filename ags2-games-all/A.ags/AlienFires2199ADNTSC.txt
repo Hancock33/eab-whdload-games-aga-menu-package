@@ -1,0 +1,6 @@
+Name      : Alien Fires 2199 A.D.
+Publisher : Jagware, Ozi Soft, Paragon
+Year      : 1987
+Genre     : RPG
+Players   : 1
+RunFile   : AlienFires2199ADNTSC.Slave

@@ -1,0 +1,6 @@
+Name      : Bundesliga Manager Hattrick
+Publisher : Software 2000
+Year      : 1994
+Genre     : Sports - Management
+Players   : 4 (taking turns)
+RunFile   : BundesligaMngrHattAGADe.slave

@@ -1,5 +1,6 @@
 Name      : Deliverance
-Publisher : 21st Century Entertainment
+Publisher : 21st Century
 Year      : 1992
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Deliverance.slave

@@ -1,0 +1,6 @@
+Name      : Karting Grand Prix
+Publisher : Anco
+Year      : 1988
+Genre     : Racing - Top-Down
+Players   : 2
+RunFile   : KartingGrandPrix.Slave

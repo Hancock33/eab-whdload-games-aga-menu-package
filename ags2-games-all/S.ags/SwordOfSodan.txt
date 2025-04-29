@@ -1,0 +1,6 @@
+Name      : Sword of Sodan
+Publisher : Discovery, Innerprise
+Year      : 1989
+Genre     : Beat'em Up
+Players   : 1
+RunFile   : SwordOfSodan.Slave

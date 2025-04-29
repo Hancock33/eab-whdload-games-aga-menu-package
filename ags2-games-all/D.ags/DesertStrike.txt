@@ -1,0 +1,6 @@
+Name      : Desert Strike: Return to the Gulf
+Publisher : Electronic Arts
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : DesertStrike.slave

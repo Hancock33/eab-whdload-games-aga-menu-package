@@ -1,0 +1,6 @@
+Name      : Atomino
+Publisher : Psygnosis
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : AtominoNTSC.slave

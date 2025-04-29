@@ -1,5 +1,6 @@
 Name      : Extrial
 Publisher : CompuTec Verlag
 Year      : 1995
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Extrial.slave

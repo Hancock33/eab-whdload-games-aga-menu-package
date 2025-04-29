@@ -1,0 +1,6 @@
+Name      : The Moochies
+Publisher : Breadline
+Year      : 1991
+Genre     : Game
+Players   : 4
+RunFile   : Moochies.Slave

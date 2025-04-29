@@ -1,5 +1,6 @@
 Name      : Darius+
 Publisher : The Edge
 Year      : 1989
-Players   : 1 Only
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Darius+.Slave

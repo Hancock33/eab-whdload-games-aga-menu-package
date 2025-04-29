@@ -1,0 +1,6 @@
+Name      : Indy Heat
+Publisher : Storm
+Year      : 1992
+Genre     : Racing - Top-Down
+Players   : 3
+RunFile   : IndyHeat.slave

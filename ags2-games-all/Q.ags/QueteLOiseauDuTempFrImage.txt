@@ -1,0 +1,6 @@
+Name      : La Quête De L'Oiseau Du Temps
+Publisher : Infogrames
+Year      : 1989
+Genre     : Adventure
+Players   : 1
+RunFile   : QueteLOiseauDuTempFrImage.slave

@@ -1,0 +1,6 @@
+Name      : ATR: Xmas Demo
+Publisher : Team 17
+Year      : 1995
+Genre     : Racing - Top-Down
+Players   : 6 (2 simultaneously)
+RunFile   : AllTerrainRacingXmasDemo.slave

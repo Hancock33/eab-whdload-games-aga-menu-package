@@ -1,0 +1,6 @@
+Name      : Diggers
+Publisher : Millennium
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : DiggersAGA.slave

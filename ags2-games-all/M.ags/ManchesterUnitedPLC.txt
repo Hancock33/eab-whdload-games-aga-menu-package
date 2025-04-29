@@ -1,0 +1,6 @@
+Name      : Manchester United: Premier League Champions
+Publisher : Krisalis
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : ManchesterUnitedPLC.slave

@@ -1,5 +1,0 @@
-Name      : Street Hockey
-Publisher : Gonzo Games
-Year      : 1990
-Genre     : Sports - Miscellaneous
-RunFile   : StreetHockey.Slave

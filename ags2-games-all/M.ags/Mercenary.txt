@@ -1,0 +1,6 @@
+Name      : Mercenary: Escape From Targ
+Publisher : Novagen
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Mercenary.slave

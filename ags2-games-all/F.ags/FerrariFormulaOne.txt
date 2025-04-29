@@ -1,0 +1,6 @@
+Name      : Ferrari Formula One: Grand Prix Racing Simulation
+Publisher : Electronic Arts
+Year      : 1988
+Genre     : Racing
+Players   : 1
+RunFile   : FerrariFormulaOne.slave

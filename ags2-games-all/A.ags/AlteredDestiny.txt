@@ -1,0 +1,6 @@
+Name      : Altered Destiny
+Publisher : Accolade
+Year      : 1991
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : AlteredDestiny.slave

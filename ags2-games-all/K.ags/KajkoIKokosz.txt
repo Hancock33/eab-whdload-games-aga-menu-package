@@ -1,0 +1,6 @@
+Name      : Kayko and Kokosh
+Publisher : Seven Stars
+Year      : 1995
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : KajkoIKokosz.slave

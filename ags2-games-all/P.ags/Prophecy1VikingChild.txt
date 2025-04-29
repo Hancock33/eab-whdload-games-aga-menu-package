@@ -1,0 +1,6 @@
+Name      : Prophecy I: The Viking Child
+Publisher : Electronic Zoo, Gametek, Mirage
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : Prophecy1VikingChild.Slave

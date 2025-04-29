@@ -1,0 +1,6 @@
+Name      : Die Unendliche Geschichte II
+Publisher : Linel
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : UnendlicheGeschichte2De.slave

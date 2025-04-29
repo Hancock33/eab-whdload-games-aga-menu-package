@@ -1,0 +1,6 @@
+Name      : Powerplay: The Game of the Gods
+Publisher : Arcana
+Year      : 1988
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : PowerplayEs.Slave

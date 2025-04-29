@@ -1,0 +1,6 @@
+Name      : Bargon Attack
+Publisher : Coktel
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : BargonAttackFr.slave

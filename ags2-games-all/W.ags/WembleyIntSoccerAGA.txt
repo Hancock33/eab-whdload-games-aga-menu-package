@@ -1,0 +1,6 @@
+Name      : Wembley International Soccer
+Publisher : Audiogenic
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : WembleyIntSoccerAGA.slave

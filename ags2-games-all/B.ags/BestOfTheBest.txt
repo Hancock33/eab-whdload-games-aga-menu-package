@@ -1,0 +1,6 @@
+Name      : Best of the Best: Championship Karate
+Publisher : Loriciel
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : BestOfTheBest.Slave

@@ -1,0 +1,6 @@
+Name      : Geisha
+Publisher : System 4, Tomahawk
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : GeishaEs.Slave

@@ -1,0 +1,6 @@
+Name      : Les Trois Petits Cochons S'Amusent
+Publisher : Coktel
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : TroisPetitsCochonsFr.Slave

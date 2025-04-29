@@ -1,0 +1,6 @@
+Name      : Global Trek
+Publisher : ECP
+Year      : 1989
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : GlobalTrek.Slave

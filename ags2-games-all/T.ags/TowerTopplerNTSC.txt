@@ -1,0 +1,6 @@
+Name      : Tower Toppler
+Publisher : U.S. Gold
+Year      : 1988
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : TowerTopplerNTSC.Slave

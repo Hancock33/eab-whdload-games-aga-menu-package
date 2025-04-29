@@ -1,0 +1,6 @@
+Name      : Lethal Xcess: Wings of Death II
+Publisher : Eclipse
+Year      : 1991
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : LethalXcess.slave

@@ -1,0 +1,6 @@
+Name      : Smarty and the Nasty Gluttons
+Publisher : Eero Tunkelo
+Year      : 2020
+Genre     : Game
+Players   : 1
+RunFile   : SmartyAndTheNastyGluttons.slave

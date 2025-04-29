@@ -1,0 +1,6 @@
+Name      : Strip Poker Three: A Sizzling Game Of Chance
+Publisher : Artworx, CDS, Guildhall
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : StripPoker3.slave

@@ -1,5 +1,6 @@
 Name      : Digger
-Publisher : Freeware
+Publisher : Justin Leck
 Year      : 1993
-Players   : 1 - 2 (1 simultaneous)
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Digger.Slave

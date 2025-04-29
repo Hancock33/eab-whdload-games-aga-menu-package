@@ -1,0 +1,6 @@
+Name      : The Pioneer Plague
+Publisher : Mandarin, Terrific Software
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : PioneerPlague.Slave

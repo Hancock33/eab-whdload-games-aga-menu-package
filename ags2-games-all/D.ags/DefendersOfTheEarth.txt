@@ -1,0 +1,6 @@
+Name      : Defenders of the Earth
+Publisher : Enigma Variations
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : DefendersOfTheEarth.slave

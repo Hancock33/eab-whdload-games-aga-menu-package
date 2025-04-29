@@ -1,0 +1,6 @@
+Name      : Green Beret
+Publisher : Dante Retro Dev
+Year      : 2022
+Genre     : Game
+Players   : 1
+RunFile   : GreenBeret.slave

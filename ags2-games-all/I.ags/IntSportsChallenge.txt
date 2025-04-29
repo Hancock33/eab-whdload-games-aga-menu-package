@@ -1,0 +1,6 @@
+Name      : International Sports Challenge
+Publisher : Empire
+Year      : 1992
+Genre     : Sports - Multi-Event
+Players   : 4 (taking turns)
+RunFile   : IntSportsChallenge.slave

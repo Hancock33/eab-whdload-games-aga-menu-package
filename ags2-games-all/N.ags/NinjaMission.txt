@@ -1,0 +1,6 @@
+Name      : Ninja Mission
+Publisher : Mastertronic
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : NinjaMission.Slave

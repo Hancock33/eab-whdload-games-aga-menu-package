@@ -1,0 +1,6 @@
+Name      : Infocom Lost Treasures
+Publisher : Activision
+Year      : 1992
+Genre     : Adventure - Text
+Players   : 1
+RunFile   : LostTreasuresOfInfocom.Slave

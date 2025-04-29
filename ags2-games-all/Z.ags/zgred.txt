@@ -1,0 +1,6 @@
+Name      : ZGR3D
+Publisher : CDLabel
+Year      : 2020
+Genre     : Game
+Players   : 1
+RunFile   : zgred.slave

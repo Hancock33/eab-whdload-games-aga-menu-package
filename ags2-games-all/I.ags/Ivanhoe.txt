@@ -1,5 +1,6 @@
 Name      : Ivanhoe
 Publisher : Ocean
 Year      : 1990
-Players   : 1 Only
+Genre     : Beat'em Up
+Players   : 1
 RunFile   : Ivanhoe.slave

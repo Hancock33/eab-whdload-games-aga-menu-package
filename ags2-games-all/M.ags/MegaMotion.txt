@@ -1,0 +1,6 @@
+Name      : Mega Motion
+Publisher : Black Legend
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : MegaMotion.slave

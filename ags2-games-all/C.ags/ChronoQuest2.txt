@@ -1,0 +1,6 @@
+Name      : Chrono Quest II
+Publisher : Psygnosis
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : ChronoQuest2.Slave

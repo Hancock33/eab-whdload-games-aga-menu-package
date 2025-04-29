@@ -1,0 +1,6 @@
+Name      : Dragons Breath
+Publisher : Palace
+Year      : 1990
+Genre     : Action - Strategy
+Players   : 3 (taking turns)
+RunFile   : DragonsBreathIt.slave

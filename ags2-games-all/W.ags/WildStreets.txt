@@ -1,0 +1,6 @@
+Name      : Wild Streets
+Publisher : Titus
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : WildStreets.slave

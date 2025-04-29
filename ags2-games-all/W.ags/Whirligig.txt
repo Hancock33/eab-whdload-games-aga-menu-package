@@ -1,5 +1,6 @@
 Name      : Whirligig
 Publisher : Firebird
 Year      : 1988
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Whirligig.Slave

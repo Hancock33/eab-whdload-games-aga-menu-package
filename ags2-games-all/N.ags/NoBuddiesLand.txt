@@ -1,0 +1,6 @@
+Name      : No Buddies Land
+Publisher : Expose
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : NoBuddiesLand.slave

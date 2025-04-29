@@ -1,0 +1,6 @@
+Name      : Franko: The Crazy Revenge!
+Publisher : Mirage Media
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : FrankoCensoredPl.slave

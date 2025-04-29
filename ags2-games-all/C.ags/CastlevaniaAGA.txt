@@ -1,0 +1,6 @@
+Name      : Castlevania AGA
+Publisher : Dante Retro Dev
+Year      : 2023
+Genre     : Game
+Players   : 1
+RunFile   : CastlevaniaAGA.slave

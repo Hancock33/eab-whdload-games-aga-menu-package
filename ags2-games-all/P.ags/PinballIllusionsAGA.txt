@@ -1,0 +1,6 @@
+Name      : Pinball Illusions
+Publisher : 21st Century
+Year      : 1995
+Genre     : Game
+Players   : 8 (taking turns)
+RunFile   : PinballIllusionsAGA.slave

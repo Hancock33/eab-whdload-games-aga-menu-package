@@ -1,0 +1,6 @@
+Name      : International Ninja Rabbits
+Publisher : MicroValue
+Year      : 1991
+Genre     : Beat'em Up
+Players   : 1
+RunFile   : InternationalNinjaRabbits.Slave

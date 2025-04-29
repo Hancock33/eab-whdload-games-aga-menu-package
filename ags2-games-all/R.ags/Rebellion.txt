@@ -1,5 +1,6 @@
 Name      : Rebellion
 Publisher : Fun Factory
 Year      : 1992
-Players   : 1 Only
+Genre     : Game
+Players   : 2
 RunFile   : Rebellion.slave

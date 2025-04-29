@@ -1,0 +1,6 @@
+Name      : Black Sect
+Publisher : Lankhor
+Year      : 1994
+Genre     : Adventure
+Players   : 1
+RunFile   : BlackSectFr.Slave

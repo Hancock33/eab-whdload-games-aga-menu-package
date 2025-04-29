@@ -1,0 +1,6 @@
+Name      : Jabato vs Imperio Libertad
+Publisher : Aventuras AD
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : JabatoEs.slave

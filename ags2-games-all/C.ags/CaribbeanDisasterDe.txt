@@ -1,0 +1,6 @@
+Name      : Caribbean Disaster
+Publisher : Ikarion
+Year      : 1996
+Genre     : Adventure
+Players   : 1
+RunFile   : CaribbeanDisasterDe.Slave

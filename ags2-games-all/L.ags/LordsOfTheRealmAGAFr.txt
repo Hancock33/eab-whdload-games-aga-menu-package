@@ -1,0 +1,6 @@
+Name      : Lords of the Realm
+Publisher : Impressions
+Year      : 1994
+Genre     : Strategy - Tactics
+Players   : 6 (taking turns)
+RunFile   : LordsOfTheRealmAGAFr.Slave

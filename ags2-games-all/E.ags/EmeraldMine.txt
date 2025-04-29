@@ -1,0 +1,6 @@
+Name      : Emerald Mine
+Publisher : Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 2
+RunFile   : EmeraldMine.slave

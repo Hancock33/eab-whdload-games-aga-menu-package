@@ -1,0 +1,6 @@
+Name      : Ambermoon
+Publisher : Thalion
+Year      : 1993
+Genre     : RPG
+Players   : 1
+RunFile   : AmbermoonDe.slave

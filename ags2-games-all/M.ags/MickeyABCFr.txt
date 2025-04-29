@@ -1,0 +1,6 @@
+Name      : Mickey ABC: Une Journée Á La Fête
+Publisher : Disney
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : MickeyABCFr.Slave

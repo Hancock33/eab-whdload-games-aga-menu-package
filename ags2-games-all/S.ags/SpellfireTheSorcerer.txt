@@ -1,0 +1,6 @@
+Name      : Spellfire the Sorcerer
+Publisher : Codemasters
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : SpellfireTheSorcerer.slave

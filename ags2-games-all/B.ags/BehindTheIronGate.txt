@@ -1,0 +1,6 @@
+Name      : Behind the Iron Gate
+Publisher : Black Legend
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : BehindTheIronGate.slave

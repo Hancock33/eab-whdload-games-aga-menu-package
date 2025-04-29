@@ -1,5 +1,6 @@
 Name      : Bombuzal
 Publisher : Image Works
 Year      : 1988
-Genre     : Arcade - Logical Game
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Bombuzal.Slave

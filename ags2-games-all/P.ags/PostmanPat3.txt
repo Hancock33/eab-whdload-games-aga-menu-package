@@ -1,0 +1,6 @@
+Name      : Postman Pat III
+Publisher : Alternative
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : PostmanPat3.Slave

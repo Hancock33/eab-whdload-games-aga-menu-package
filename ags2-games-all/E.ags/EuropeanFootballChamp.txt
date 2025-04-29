@@ -1,0 +1,6 @@
+Name      : European Football Champ
+Publisher : Domark
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : EuropeanFootballChamp.Slave

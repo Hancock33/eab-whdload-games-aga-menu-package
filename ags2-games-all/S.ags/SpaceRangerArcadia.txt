@@ -1,0 +1,6 @@
+Name      : Space Ranger (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1987
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
+RunFile   : SpaceRangerArcadia.Slave

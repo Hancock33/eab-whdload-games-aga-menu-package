@@ -1,0 +1,6 @@
+Name      : Genesia
+Publisher : Mindscape
+Year      : 1993
+Genre     : Simulation - Construction
+Players   : 3 (taking turns)
+RunFile   : GenesiaFr.slave

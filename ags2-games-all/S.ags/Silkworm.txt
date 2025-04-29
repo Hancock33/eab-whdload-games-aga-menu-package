@@ -1,0 +1,6 @@
+Name      : Silkworm
+Publisher : Virgin
+Year      : 1989
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : Silkworm.slave

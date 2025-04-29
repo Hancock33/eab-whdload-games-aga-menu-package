@@ -1,0 +1,6 @@
+Name      : Harpoon Battleset 4: IOPG
+Publisher : Electronic Arts, Three-Sixty
+Year      : 1992
+Genre     : Strategy - Real-Time
+Players   : 1
+RunFile   : Harpoon&Battleset4.slave

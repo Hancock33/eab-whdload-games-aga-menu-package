@@ -1,0 +1,6 @@
+Name      : King's Quest IV: The Perils of Rosella
+Publisher : Sierra
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : KingsQuest4.Slave

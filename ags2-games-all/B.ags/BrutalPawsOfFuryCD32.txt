@@ -1,0 +1,6 @@
+Name      : Brutal: Paws of Fury
+Publisher : Gametek
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : BrutalPawsOfFuryCD32.slave

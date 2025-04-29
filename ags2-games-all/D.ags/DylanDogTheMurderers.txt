@@ -1,0 +1,6 @@
+Name      : Dylan Dog: The Murderers
+Publisher : Simulmondo
+Year      : 1992
+Genre     : Action Adventure
+Players   : 1
+RunFile   : DylanDogTheMurderers.slave

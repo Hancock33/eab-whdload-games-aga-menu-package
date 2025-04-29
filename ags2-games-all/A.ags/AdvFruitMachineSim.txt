@@ -1,0 +1,6 @@
+Name      : Advanced Fruit Machine Simulator
+Publisher : Codemasters
+Year      : 1991
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : AdvFruitMachineSim.slave

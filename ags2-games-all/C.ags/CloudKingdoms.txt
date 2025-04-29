@@ -1,0 +1,6 @@
+Name      : Cloud Kingdoms
+Publisher : Millennium
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : CloudKingdoms.slave

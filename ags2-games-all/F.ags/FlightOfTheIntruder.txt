@@ -1,0 +1,6 @@
+Name      : Flight of the Intruder
+Publisher : Mirrorsoft, Spectrum HoloByte
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : FlightOfTheIntruder.Slave

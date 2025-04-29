@@ -1,5 +1,0 @@
-Name      : Charon 5
-Publisher : Mindware
-Year      : 1988
-Players   : 1 Only
-RunFile   : Charon5.Slave

@@ -1,0 +1,6 @@
+Name      : Castles II: Siege & Conquest
+Publisher : Interplay
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : Castles2CD32.Slave

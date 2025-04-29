@@ -1,0 +1,6 @@
+Name      : Lord of the Rings Vol. 1
+Publisher : Interplay Productions
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : LordOfTheRingsVol1.slave

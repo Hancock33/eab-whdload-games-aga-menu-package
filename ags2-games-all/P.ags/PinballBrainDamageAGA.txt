@@ -1,0 +1,6 @@
+Name      : Pinball Brain Damage
+Publisher : APC&TCP
+Year      : 1997
+Genre     : Game
+Players   : 1
+RunFile   : PinballBrainDamageAGA.Slave

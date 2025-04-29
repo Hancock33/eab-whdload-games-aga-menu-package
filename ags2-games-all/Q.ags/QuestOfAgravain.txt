@@ -1,0 +1,6 @@
+Name      : The Quest of Agravain
+Publisher : Codemasters
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : QuestOfAgravain.Slave

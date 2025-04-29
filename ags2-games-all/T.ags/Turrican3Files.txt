@@ -1,0 +1,6 @@
+Name      : Turrican 3
+Publisher : Rainbow Arts, Renegade
+Year      : 1993
+Genre     : Platform - Shooting
+Players   : 1
+RunFile   : Turrican3Files.slave

@@ -1,0 +1,6 @@
+Name      : Battletoads
+Publisher : Mindscape
+Year      : 1992
+Genre     : Beat'em Up
+Players   : 2
+RunFile   : BattletoadsCD32.slave

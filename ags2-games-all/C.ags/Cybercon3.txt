@@ -1,0 +1,6 @@
+Name      : Cybercon III
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Action Adventure
+Players   : 1
+RunFile   : Cybercon3.Slave

@@ -1,0 +1,6 @@
+Name      : King's Bounty
+Publisher : New World Computing
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : KingsBountyNTSC.Slave

@@ -1,0 +1,6 @@
+Name      : Wrong Way Driver
+Publisher : Abyss
+Year      : 2021
+Genre     : Game
+Players   : 1
+RunFile   : WrongWayDriver.slave

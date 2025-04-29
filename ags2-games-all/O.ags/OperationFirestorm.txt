@@ -1,0 +1,6 @@
+Name      : Operation Firestorm
+Publisher : F1 Licenceware
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : OperationFirestorm.slave

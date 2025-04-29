@@ -1,0 +1,6 @@
+Name      : Der Patrizier
+Publisher : Ascon
+Year      : 1992
+Genre     : Strategy - Trading
+Players   : 4 (taking turns)
+RunFile   : PatrizierDe.slave

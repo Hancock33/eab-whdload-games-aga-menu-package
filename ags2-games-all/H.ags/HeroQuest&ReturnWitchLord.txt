@@ -1,0 +1,6 @@
+Name      : HeroQuest & Return of the Witch Lord
+Publisher : Gremlin
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : HeroQuest&ReturnWitchLord.slave

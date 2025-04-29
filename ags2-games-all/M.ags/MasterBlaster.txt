@@ -1,0 +1,6 @@
+Name      : Master Blaster
+Publisher : NeXus Software
+Year      : 1994
+Genre     : Game
+Players   : 5
+RunFile   : MasterBlaster.Slave

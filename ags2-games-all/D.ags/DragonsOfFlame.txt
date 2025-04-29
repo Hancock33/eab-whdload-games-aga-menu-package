@@ -1,0 +1,6 @@
+Name      : Dragons of Flame
+Publisher : SSI, U.S. Gold
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : DragonsOfFlame.slave

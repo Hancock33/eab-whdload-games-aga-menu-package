@@ -1,0 +1,6 @@
+Name      : Omnicron Conspiracy
+Publisher : Image Works
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : OmnicronConspiracy.Slave

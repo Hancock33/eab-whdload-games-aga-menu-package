@@ -1,0 +1,6 @@
+Name      : Rody V
+Publisher : Lankhor
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Rody&Mastico5Fr.Slave

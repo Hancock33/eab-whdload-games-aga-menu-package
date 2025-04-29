@@ -1,0 +1,6 @@
+Name      : The Talking Storybook: The Three Bears
+Publisher : Designing Minds
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : TalkingStorybook3Bears.slave

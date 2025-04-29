@@ -1,6 +1,6 @@
-Name      : StarTrash
+Name      : Star Trash
 Publisher : Rainbow Arts
 Year      : 1990
-Genre     : Platformer - 3D
-Players   : 1 to 4
+Genre     : Game
+Players   : 4 (taking turns)
 RunFile   : StarTrash.slave

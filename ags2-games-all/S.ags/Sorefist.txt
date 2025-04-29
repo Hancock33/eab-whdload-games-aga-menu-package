@@ -1,5 +1,6 @@
 Name      : Sorefist
 Publisher : F1 Licenceware
 Year      : 1996
+Genre     : Game
 Players   : 1
 RunFile   : Sorefist.Slave

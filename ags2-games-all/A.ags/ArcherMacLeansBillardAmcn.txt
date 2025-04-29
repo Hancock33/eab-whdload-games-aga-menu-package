@@ -1,0 +1,6 @@
+Name      : Archer MacLean's Le Billard Américain
+Publisher : Virgin
+Year      : 1992
+Genre     : Sports - Cue
+Players   : 2 (taking turns)
+RunFile   : ArcherMacLeansBillardAmcn.Slave

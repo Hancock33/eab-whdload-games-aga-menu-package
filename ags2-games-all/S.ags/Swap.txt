@@ -1,6 +1,6 @@
 Name      : Swap
-Publisher : Palace Software
+Publisher : Microids, Palace, Titus
 Year      : 1991
-Genre     : Brain - Puzzle
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Swap.Slave

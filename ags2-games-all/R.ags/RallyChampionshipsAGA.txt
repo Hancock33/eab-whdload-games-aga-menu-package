@@ -1,0 +1,6 @@
+Name      : Rally Championships
+Publisher : Flair
+Year      : 1994
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : RallyChampionshipsAGA.Slave

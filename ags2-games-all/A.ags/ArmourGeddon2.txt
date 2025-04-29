@@ -1,0 +1,6 @@
+Name      : Armour-Geddon II: Codename Hellfire
+Publisher : Psygnosis
+Year      : 1994
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : ArmourGeddon2.Slave

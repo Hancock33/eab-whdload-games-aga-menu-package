@@ -1,0 +1,6 @@
+Name      : Tetren
+Publisher : Andrew Whiteley
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : Tetren.slave

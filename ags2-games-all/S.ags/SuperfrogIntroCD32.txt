@@ -1,0 +1,6 @@
+Name      : Superfrog (Intro)
+Publisher : Islona
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : SuperfrogIntroCD32.slave

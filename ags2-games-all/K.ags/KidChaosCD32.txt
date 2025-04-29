@@ -1,0 +1,6 @@
+Name      : Kid Chaos
+Publisher : Ocean
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : KidChaosCD32.slave

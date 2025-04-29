@@ -1,0 +1,6 @@
+Name      : ISS: Incredible Shrinking Sphere
+Publisher : Electric Dreams
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ISS.slave

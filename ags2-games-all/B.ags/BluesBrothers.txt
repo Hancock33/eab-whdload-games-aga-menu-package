@@ -1,0 +1,6 @@
+Name      : The Blues Brothers
+Publisher : Titus
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : BluesBrothers.slave

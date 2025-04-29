@@ -1,5 +1,6 @@
 Name      : Wanted
-Publisher : Infogrames
+Publisher : C.T.O., Infogrames
 Year      : 1988
-Players   : 1 Only
+Genre     : Run & Gun
+Players   : 1
 RunFile   : Wanted.Slave

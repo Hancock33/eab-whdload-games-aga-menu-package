@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:A/Airball/Airball.slave
+;RunFile=A-Games:A/Airball/Airball.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:A/Airball/"
 IF EXISTS ENV:whdloadargs
-  whdload "Airball.slave" $whdloadargs
+  whdload "Airball.Slave" $whdloadargs
 ELSE
-  whdload "Airball.slave"
+  whdload "Airball.Slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

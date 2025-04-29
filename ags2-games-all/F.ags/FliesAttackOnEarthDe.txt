@@ -1,0 +1,6 @@
+Name      : Flies: Attack on Earth
+Publisher : Rainbow Arts
+Year      : 1993
+Genre     : Adventure
+Players   : 1
+RunFile   : FliesAttackOnEarthDe.Slave

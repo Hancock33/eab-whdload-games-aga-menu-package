@@ -1,0 +1,6 @@
+Name      : Sensible Golf
+Publisher : Virgin
+Year      : 1995
+Genre     : Sports - Golf
+Players   : 72 (taking turns)
+RunFile   : SensibleGolf.slave

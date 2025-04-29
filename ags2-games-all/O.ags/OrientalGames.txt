@@ -1,0 +1,6 @@
+Name      : Oriental Games
+Publisher : MicroStyle
+Year      : 1990
+Genre     : Sports - Martial Arts
+Players   : 16 (2 simultaneously)
+RunFile   : OrientalGames.Slave

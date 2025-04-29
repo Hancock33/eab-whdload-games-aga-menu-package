@@ -1,0 +1,6 @@
+Name      : Oil Imperium
+Publisher : Rainbow Arts, reLINE
+Year      : 1989
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : OilImperium.Slave

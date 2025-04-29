@@ -1,0 +1,6 @@
+Name      : Historyline 1914-1918 (Outro)
+Publisher : Blue Byte
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : HistoryLine.Slave

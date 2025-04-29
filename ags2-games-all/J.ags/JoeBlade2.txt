@@ -1,0 +1,6 @@
+Name      : Joe Blade 2
+Publisher : Players
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : JoeBlade2.Slave

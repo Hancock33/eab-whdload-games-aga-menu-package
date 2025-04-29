@@ -1,6 +1,6 @@
-Name      : Pushover
+Name      : Push-Over
 Publisher : Ocean
 Year      : 1992
-Genre     : Brain - Puzzle
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : PushOver.slave

@@ -1,0 +1,6 @@
+Name      : Indiana Jones and the Temple of Doom
+Publisher : Mindscape, U.S. Gold
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 2 (taking turns)
+RunFile   : IndianaJonesTempleOfDoom.slave

@@ -1,0 +1,6 @@
+Name      : Arabian Nights
+Publisher : Buzz, Mirage Media
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : ArabianNightsCD32.Slave

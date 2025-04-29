@@ -1,0 +1,6 @@
+Name      : CarVup
+Publisher : Core Design
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : CarVup.Slave

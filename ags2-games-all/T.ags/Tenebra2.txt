@@ -1,0 +1,6 @@
+Name      : Tenebra 2
+Publisher : Haplo
+Year      : 2023
+Genre     : Game
+Players   : 1
+RunFile   : Tenebra2.slave

@@ -1,0 +1,6 @@
+Name      : Der Clou!
+Publisher : Max Design, neo
+Year      : 1994
+Genre     : Adventure
+Players   : 1
+RunFile   : ClouDe.Slave

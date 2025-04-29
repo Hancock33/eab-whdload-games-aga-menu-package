@@ -1,0 +1,6 @@
+Name      : Sqrxz 4
+Publisher : Retroguru
+Year      : 2016
+Genre     : Game
+Players   : 1
+RunFile   : Sqrxz4.slave

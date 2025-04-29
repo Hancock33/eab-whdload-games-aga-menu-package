@@ -1,6 +1,6 @@
 Name      : Sarakon
-Publisher : Leisure Genius
+Publisher : Leisure Genius, Starbyte
 Year      : 1991
-Genre     : Brain - Tile Removal
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Sarakon.slave

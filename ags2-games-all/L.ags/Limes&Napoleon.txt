@@ -1,0 +1,6 @@
+Name      : Limes & Napoleon
+Publisher : EAS, Gold-Section
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : Limes&Napoleon.Slave

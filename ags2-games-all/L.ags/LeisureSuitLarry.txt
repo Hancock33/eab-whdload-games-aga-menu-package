@@ -1,0 +1,6 @@
+Name      : Leisure Suit Larry in the Land of the Lounge Lizards
+Publisher : Sierra
+Year      : 1987
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : LeisureSuitLarry.slave

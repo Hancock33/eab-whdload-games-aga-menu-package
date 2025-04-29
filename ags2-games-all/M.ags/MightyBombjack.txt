@@ -1,0 +1,6 @@
+Name      : Mighty Bomb Jack
+Publisher : Elite
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : MightyBombjack.Slave

@@ -1,0 +1,6 @@
+Name      : Pools of Darkness
+Publisher : SSI, U.S. Gold
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : PoolsOfDarkness.slave

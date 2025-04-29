@@ -1,0 +1,6 @@
+Name      : Sensible Soccer: European Champions v1.1 (92/93 Edition)
+Publisher : Renegade
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 32 (2 simultaneously)
+RunFile   : SensibleSoccer92931MB.Slave

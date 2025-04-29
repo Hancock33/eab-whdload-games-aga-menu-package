@@ -1,5 +1,6 @@
 Name      : Thexder
-Publisher : Sierra On-Line
+Publisher : Sierra
 Year      : 1987
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Thexder.slave

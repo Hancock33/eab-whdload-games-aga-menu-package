@@ -1,0 +1,6 @@
+Name      : LUMA
+Publisher : Phoenixware
+Year      : 2022
+Genre     : Game
+Players   : 1
+RunFile   : LUMA.slave

@@ -1,0 +1,6 @@
+Name      : The Hunt for Red October II: The Movie
+Publisher : Grandslam 
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : HuntForRedOctoberTheMovie.Slave

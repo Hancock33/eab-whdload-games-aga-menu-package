@@ -1,0 +1,6 @@
+Name      : Cygnus 8
+Publisher : Islona
+Year      : 1997
+Genre     : Strategy - Trading
+Players   : 1
+RunFile   : Cygnus8.Slave

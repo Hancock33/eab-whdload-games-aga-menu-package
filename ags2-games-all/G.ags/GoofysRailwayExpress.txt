@@ -1,0 +1,6 @@
+Name      : Goofy's Railway Express
+Publisher : Disney, Nathan Software
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : GoofysRailwayExpress.Slave

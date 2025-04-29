@@ -1,5 +1,6 @@
 Name      : Chrome
-Publisher : Gremlin / CU Amiga
+Publisher : CU Amiga, Gremlin
 Year      : 1991
-Players   : 1 - 2 (1 simultaneous)
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Chrome.Slave

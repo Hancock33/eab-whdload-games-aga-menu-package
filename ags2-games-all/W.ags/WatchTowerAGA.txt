@@ -1,0 +1,6 @@
+Name      : Watchtower
+Publisher : OTM
+Year      : 1996
+Genre     : Run & Gun
+Players   : 2
+RunFile   : WatchTowerAGA.slave

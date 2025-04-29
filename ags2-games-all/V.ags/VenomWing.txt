@@ -1,0 +1,6 @@
+Name      : Venom Wing
+Publisher : Thalamus
+Year      : 1990
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : VenomWing.Slave

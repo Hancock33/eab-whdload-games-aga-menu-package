@@ -1,0 +1,6 @@
+Name      : Doodlebug: Bug Bash 2
+Publisher : Core Design
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : Doodlebug.Slave

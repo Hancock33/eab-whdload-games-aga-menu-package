@@ -1,0 +1,6 @@
+Name      : Grand National
+Publisher : Elite
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : GrandNational.Slave

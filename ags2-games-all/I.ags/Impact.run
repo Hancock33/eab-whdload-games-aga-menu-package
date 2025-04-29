@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:I/Impact/Impact.Slave
+;RunFile=A-Games:I/Impact/Impact.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "I" "Impact"
+  execute S:AGS2Favourites "I" "Impact!"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:I/Impact/"
 IF EXISTS ENV:whdloadargs
-  whdload "Impact.Slave" $whdloadargs
+  whdload "Impact.slave" $whdloadargs
 ELSE
-  whdload "Impact.Slave"
+  whdload "Impact.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

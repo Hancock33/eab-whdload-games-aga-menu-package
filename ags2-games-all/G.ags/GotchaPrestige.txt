@@ -1,0 +1,6 @@
+Name      : Gotcha
+Publisher : Prestige
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : GotchaPrestige.Slave

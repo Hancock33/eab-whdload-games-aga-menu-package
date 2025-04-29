@@ -1,0 +1,6 @@
+Name      : Campaign II
+Publisher : Empire
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : Campaign2.slave

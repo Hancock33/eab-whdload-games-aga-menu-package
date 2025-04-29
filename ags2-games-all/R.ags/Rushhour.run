@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "R" "Rushhour"
+  execute S:AGS2Favourites "R" "Rush Hour"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

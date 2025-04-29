@@ -1,0 +1,6 @@
+Name      : Cyber Empires
+Publisher : SSI
+Year      : 1992
+Genre     : Game
+Players   : 5 (taking turns)
+RunFile   : CyberEmpires.Slave

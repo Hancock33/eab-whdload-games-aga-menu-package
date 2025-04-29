@@ -1,0 +1,6 @@
+Name      : Son Shu-Shi
+Publisher : Expose
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : SonShuShi.Slave

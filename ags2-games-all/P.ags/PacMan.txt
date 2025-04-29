@@ -1,0 +1,6 @@
+Name      : Pac-Man
+Publisher : JOTD
+Year      : 2021
+Genre     : Game
+Players   : 1
+RunFile   : PacMan.slave

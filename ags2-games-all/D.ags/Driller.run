@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/Driller/Driller.Slave
+;RunFile=A-Games:D/Driller/Driller.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:D/Driller/"
 IF EXISTS ENV:whdloadargs
-  whdload "Driller.Slave" $whdloadargs
+  whdload "Driller.slave" $whdloadargs
 ELSE
-  whdload "Driller.Slave"
+  whdload "Driller.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

@@ -1,0 +1,6 @@
+Name      : Space Gun
+Publisher : Ocean
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : SpaceGun.Slave

@@ -1,0 +1,6 @@
+Name      : Full Metal Planete
+Publisher : Draconian, Infogrames
+Year      : 1989
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : FullMetalPlaneteImage.Slave

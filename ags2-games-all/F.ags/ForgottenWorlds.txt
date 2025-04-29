@@ -1,0 +1,6 @@
+Name      : Forgotten Worlds
+Publisher : Capcom, U.S. Gold
+Year      : 1989
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : ForgottenWorlds.Slave

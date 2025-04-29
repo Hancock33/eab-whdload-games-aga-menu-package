@@ -1,0 +1,6 @@
+Name      : Castle Warrior
+Publisher : Delphine
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : CastleWarrior.Slave

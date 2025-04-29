@@ -1,0 +1,6 @@
+Name      : Cruise for a Corpse
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : CruiseForACorpseDe.slave

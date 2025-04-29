@@ -1,0 +1,6 @@
+Name      : Troddlers
+Publisher : Storm
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : TroddlersImage.Slave

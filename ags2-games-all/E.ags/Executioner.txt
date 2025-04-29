@@ -1,0 +1,6 @@
+Name      : The Executioner
+Publisher : Hawk
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Executioner.Slave

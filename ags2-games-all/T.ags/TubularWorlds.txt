@@ -1,0 +1,6 @@
+Name      : Tubular Worlds
+Publisher : Dongleware
+Year      : 1994
+Genre     : Game
+Players   : 2
+RunFile   : TubularWorlds.slave

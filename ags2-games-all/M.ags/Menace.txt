@@ -1,5 +1,6 @@
 Name      : Menace
 Publisher : Psyclapse
 Year      : 1988
-Players   : 1 Only
-RunFile   : Menace.Slave
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : Menace.slave

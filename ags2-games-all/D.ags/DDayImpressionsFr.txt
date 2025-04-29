@@ -1,0 +1,6 @@
+Name      : D-Day: The Beginning of the End (Impressions)
+Publisher : Impressions
+Year      : 1994
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : DDayImpressionsFr.Slave

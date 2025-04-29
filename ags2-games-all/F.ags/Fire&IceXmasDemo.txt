@@ -1,0 +1,6 @@
+Name      : Fire & Ice: Christmas Special
+Publisher : Amiga Power
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : Fire&IceXmasDemo.Slave

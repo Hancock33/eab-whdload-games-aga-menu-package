@@ -1,0 +1,6 @@
+Name      : Trivial Pursuit: Amiga Genus Edition
+Publisher : Domark
+Year      : 1986
+Genre     : Game
+Players   : 6 (taking turns)
+RunFile   : TrivialPursuit.slave

@@ -1,0 +1,6 @@
+Name      : Dragon's Kingdom (Beta)
+Publisher : Unreleased
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : DragonsKingdomDemo.Slave

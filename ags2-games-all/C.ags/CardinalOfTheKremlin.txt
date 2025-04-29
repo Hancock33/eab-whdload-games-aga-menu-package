@@ -1,0 +1,6 @@
+Name      : The Cardinal of the Kremlin
+Publisher : Capstone
+Year      : 1991
+Genre     : Strategy
+Players   : 1
+RunFile   : CardinalOfTheKremlin.Slave

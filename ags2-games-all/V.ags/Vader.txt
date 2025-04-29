@@ -1,5 +1,6 @@
 Name      : Vader
-Publisher : Softgang
+Publisher : Anco, Softgang
 Year      : 1987
-Players   : 1 Only
+Genre     : Shoot'em Up - Vertical
+Players   : 1
 RunFile   : Vader.Slave

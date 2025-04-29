@@ -1,0 +1,6 @@
+Name      : Eye of the Beholder II: The Legend of Darkmoon
+Publisher : SSI
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : EyeOfTheBeholder2.Slave

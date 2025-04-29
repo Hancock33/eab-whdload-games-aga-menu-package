@@ -1,0 +1,6 @@
+Name      : Benefactor
+Publisher : Psygnosis
+Year      : 1994
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : BenefactorCD32.Slave

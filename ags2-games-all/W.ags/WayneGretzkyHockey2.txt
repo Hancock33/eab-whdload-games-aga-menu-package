@@ -1,0 +1,6 @@
+Name      : Wayne Gretzky Hockey II
+Publisher : Bethesda Softworks
+Year      : 1991
+Genre     : Sports - Ice Hockey
+Players   : 2
+RunFile   : WayneGretzkyHockey2.Slave

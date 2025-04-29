@@ -1,0 +1,6 @@
+Name      : Rody & Mastico
+Publisher : Lankhor
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Rody&MasticoFr.Slave

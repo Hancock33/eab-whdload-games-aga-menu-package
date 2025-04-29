@@ -1,0 +1,6 @@
+Name      : Mike the Magic Dragon
+Publisher : Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : MikeTheMagicDragon.Slave

@@ -1,0 +1,6 @@
+Name      : Edd the Duck 2: Back With a Quack!
+Publisher : Zeppelin
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : EddTheDuck2.slave

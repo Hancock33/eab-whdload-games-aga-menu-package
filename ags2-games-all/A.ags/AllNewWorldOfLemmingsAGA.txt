@@ -1,0 +1,6 @@
+Name      : All New World of Lemmings
+Publisher : Psygnosis
+Year      : 1995
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : AllNewWorldOfLemmingsAGA.slave

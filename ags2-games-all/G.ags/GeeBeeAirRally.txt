@@ -1,0 +1,6 @@
+Name      : Gee Bee Air Rally
+Publisher : Activision
+Year      : 1987
+Genre     : Racing
+Players   : 1
+RunFile   : GeeBeeAirRally.Slave

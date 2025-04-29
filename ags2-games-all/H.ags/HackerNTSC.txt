@@ -1,0 +1,6 @@
+Name      : Hacker
+Publisher : Activision
+Year      : 1985
+Genre     : Adventure
+Players   : 1
+RunFile   : HackerNTSC.Slave

@@ -1,0 +1,6 @@
+Name      : Italy 1990 (Codemasters)
+Publisher : Codemasters
+Year      : 1990
+Genre     : Sports - Soccer
+Players   : 4
+RunFile   : Italia1990.slave

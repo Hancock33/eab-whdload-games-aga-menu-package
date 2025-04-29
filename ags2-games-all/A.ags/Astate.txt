@@ -1,0 +1,6 @@
+Name      : Astate: La Malédiction Des Templiers
+Publisher : New Deal Productions
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : Astate.Slave

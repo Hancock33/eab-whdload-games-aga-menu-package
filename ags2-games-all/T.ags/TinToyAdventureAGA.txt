@@ -1,0 +1,6 @@
+Name      : Tin Toy Adventure
+Publisher : Mutation
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : TinToyAdventureAGA.slave

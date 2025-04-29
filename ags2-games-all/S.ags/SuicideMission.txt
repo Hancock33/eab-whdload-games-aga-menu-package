@@ -1,0 +1,6 @@
+Name      : Suicide Mission
+Publisher : MicroValue, Prism Leisure
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : SuicideMission.slave

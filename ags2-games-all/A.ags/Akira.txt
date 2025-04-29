@@ -1,6 +1,6 @@
 Name      : Akira
-Publisher : ICE
+Publisher : I.C.E.
 Year      : 1994
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Genre     : Action - Multi-Type
+Players   : 1
 RunFile   : Akira.slave

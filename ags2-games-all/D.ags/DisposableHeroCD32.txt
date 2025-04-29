@@ -1,0 +1,6 @@
+Name      : Disposable Hero
+Publisher : Gremlin
+Year      : 1994
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : DisposableHeroCD32.slave

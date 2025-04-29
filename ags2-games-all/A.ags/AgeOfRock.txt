@@ -1,0 +1,6 @@
+Name      : The Age of Rock
+Publisher : Andreas Spreen
+Year      : 1991
+Genre     : Game
+Players   : 3
+RunFile   : AgeOfRock.slave

@@ -1,0 +1,6 @@
+Name      : Hunter
+Publisher : Activision
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : HunterFr.slave

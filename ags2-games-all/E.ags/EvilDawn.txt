@@ -1,0 +1,6 @@
+Name      : Evil Dawn
+Publisher : ECP
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : EvilDawn.Slave

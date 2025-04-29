@@ -1,0 +1,6 @@
+Name      : Junior Typist
+Publisher : School Software
+Year      : 198X
+Genre     : Game
+Players   : 1
+RunFile   : JuniorTypist.Slave

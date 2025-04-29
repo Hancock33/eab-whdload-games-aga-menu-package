@@ -1,0 +1,6 @@
+Name      : Mega Typhoon
+Publisher : Nordlicht
+Year      : 1996
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : MegaTyphoon.slave

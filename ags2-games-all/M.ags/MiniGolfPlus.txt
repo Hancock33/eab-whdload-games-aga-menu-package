@@ -1,0 +1,6 @@
+Name      : Mini Golf Plus
+Publisher : Starbyte
+Year      : 1988
+Genre     : Sports - Golf
+Players   : 1
+RunFile   : MiniGolfPlus.slave

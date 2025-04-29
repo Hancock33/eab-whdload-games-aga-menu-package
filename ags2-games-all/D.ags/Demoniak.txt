@@ -1,6 +1,6 @@
 Name      : Demoniak
-Publisher : Palace Software
+Publisher : Palace, Titus
 Year      : 1991
-Genre     : Adventure - Graphics/Text
-Players   : 1 Only
+Genre     : Adventure - Graphic
+Players   : 1
 RunFile   : Demoniak.Slave

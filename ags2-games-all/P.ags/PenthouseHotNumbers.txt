@@ -1,0 +1,6 @@
+Name      : Penthouse Hot Numbers
+Publisher : Magic Bytes
+Year      : 1992
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : PenthouseHotNumbers.Slave

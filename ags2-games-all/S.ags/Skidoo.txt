@@ -1,6 +1,6 @@
 Name      : Skidoo
-Publisher : Coktel Vision
+Publisher : Tomahawk
 Year      : 1989
-Genre     : Racing - Miscellaneous
-Players   : 1 Only
+Genre     : Racing
+Players   : 1
 RunFile   : Skidoo.Slave

@@ -1,0 +1,6 @@
+Name      : Das Boot
+Publisher : Mindscape, Three-Sixty
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : BootNTSC.Slave

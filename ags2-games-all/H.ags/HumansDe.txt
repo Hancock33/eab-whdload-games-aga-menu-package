@@ -1,0 +1,6 @@
+Name      : The Humans
+Publisher : Gametek, Mirage
+Year      : 1992
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : HumansDe.slave

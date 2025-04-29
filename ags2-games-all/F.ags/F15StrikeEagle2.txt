@@ -1,0 +1,6 @@
+Name      : F-15 Strike Eagle II
+Publisher : MicroProse
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : F15StrikeEagle2.Slave

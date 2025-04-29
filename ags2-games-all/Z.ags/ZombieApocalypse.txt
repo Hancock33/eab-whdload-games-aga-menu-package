@@ -1,0 +1,6 @@
+Name      : Zombie Apocalypse
+Publisher : Epic Marketing
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : ZombieApocalypse.Slave

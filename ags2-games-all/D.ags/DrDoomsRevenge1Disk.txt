@@ -1,0 +1,6 @@
+Name      : Dr. Doom's Revenge!
+Publisher : Empire, Medalist, Paragon
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : DrDoomsRevenge1Disk.Slave

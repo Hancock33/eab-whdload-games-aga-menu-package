@@ -1,0 +1,6 @@
+Name      : Cosmo Ranger: S.O.L. AD 2000
+Publisher : Turtle Byte
+Year      : 11/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : CosmoRanger.Slave

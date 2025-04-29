@@ -1,0 +1,6 @@
+Name      : Starglider 2
+Publisher : Rainbird
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Starglider2.Slave

@@ -1,0 +1,6 @@
+Name      : Navy SEALs
+Publisher : Ocean
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : NavySeals.slave

@@ -1,0 +1,6 @@
+Name      : Swords & Galleons
+Publisher : Idea Games
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Swords&Galleons.slave

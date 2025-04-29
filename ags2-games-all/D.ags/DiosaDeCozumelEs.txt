@@ -1,0 +1,6 @@
+Name      : Diosa De Cozumeles
+Publisher : Aventuras AD
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : DiosaDeCozumelEs.slave

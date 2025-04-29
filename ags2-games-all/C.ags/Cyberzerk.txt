@@ -1,5 +1,6 @@
 Name      : Cyberzerk
-Publisher : Boeder Software
+Publisher : Boeder Games
 Year      : 1993
-Players   : 1 or 2, Simultaneous
+Genre     : Game
+Players   : 2
 RunFile   : Cyberzerk.slave

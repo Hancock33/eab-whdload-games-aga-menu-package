@@ -1,6 +1,6 @@
 Name      : Starbirds
-Publisher : HAAGE & PARTNER
+Publisher : Haage & Partner
 Year      : 1996
-Genre     : Shooter - Flyabout and Collect
+Genre     : Game
 Players   : 1
 RunFile   : Starbirds.Slave

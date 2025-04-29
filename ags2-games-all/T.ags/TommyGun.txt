@@ -1,0 +1,6 @@
+Name      : Tommy Gun
+Publisher : Mutation
+Year      : 1996
+Genre     : Game
+Players   : 2
+RunFile   : TommyGun.Slave

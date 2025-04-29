@@ -1,0 +1,6 @@
+Name      : Shootout
+Publisher : Clay Holliman
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : Shootout.slave

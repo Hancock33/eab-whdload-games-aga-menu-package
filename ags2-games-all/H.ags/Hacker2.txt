@@ -1,0 +1,6 @@
+Name      : Hacker II: The Doomsday Papers
+Publisher : Activision
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : Hacker2.Slave

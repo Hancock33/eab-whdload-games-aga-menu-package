@@ -1,0 +1,6 @@
+Name      : The Faery Tale Adventure
+Publisher : MicroIllusions
+Year      : 1986
+Genre     : RPG
+Players   : 1
+RunFile   : FaeryTaleAdventure.slave

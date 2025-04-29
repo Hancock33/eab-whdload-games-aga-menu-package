@@ -1,0 +1,6 @@
+Name      : Lemmings
+Publisher : Psygnosis
+Year      : 1991
+Genre     : Action - Strategy
+Players   : 2
+RunFile   : LemmingsAltFiles.Slave

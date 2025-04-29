@@ -1,0 +1,6 @@
+Name      : Double Dribble
+Publisher : Konami
+Year      : 1990
+Genre     : Sports - Basketball
+Players   : 2
+RunFile   : DoubleDribble.slave

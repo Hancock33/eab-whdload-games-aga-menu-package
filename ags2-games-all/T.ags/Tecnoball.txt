@@ -1,5 +1,6 @@
 Name      : Tecnoball
 Publisher : TLK Games
 Year      : 1991
-Players   : 1 - 6 (1 simultaneous)
+Genre     : Game
+Players   : 6 (taking turns)
 RunFile   : Tecnoball.slave

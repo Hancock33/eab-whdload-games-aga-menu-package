@@ -1,0 +1,6 @@
+Name      : Block Out
+Publisher : California Dreams, Rainbow Arts
+Year      : 1989
+Genre     : Puzzle - Stacking
+Players   : 1
+RunFile   : BlockOut.slave

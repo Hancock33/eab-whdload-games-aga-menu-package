@@ -1,6 +1,6 @@
 Name      : Ugh!
-Publisher : Play Byte
+Publisher : Global Software, Play Byte, Soundware
 Year      : 1992
-Genre     : Platformer - Single Screen
-Players   : 1 or 2, Simultaneous
+Genre     : Game
+Players   : 2
 RunFile   : Ugh.slave

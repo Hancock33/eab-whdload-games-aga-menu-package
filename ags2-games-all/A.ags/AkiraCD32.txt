@@ -1,0 +1,6 @@
+Name      : Akira
+Publisher : I.C.E.
+Year      : 1994
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : AkiraCD32.slave

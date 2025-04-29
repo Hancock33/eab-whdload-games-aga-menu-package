@@ -1,0 +1,6 @@
+Name      : SportTime Table Hockey (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1988
+Genre     : Sports - Ice Hockey
+Players   : 2
+RunFile   : TableHockeyArcadia.Slave

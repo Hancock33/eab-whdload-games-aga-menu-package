@@ -1,0 +1,6 @@
+Name      : Mickey Jeu De Memoire
+Publisher : Disney
+Year      : 1993
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : MickeyJeuDeMemoireFr.Slave

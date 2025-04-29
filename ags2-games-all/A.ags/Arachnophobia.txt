@@ -1,6 +1,6 @@
 Name      : Arachnophobia
-Publisher : Titus Software
+Publisher : Disney, Titus
 Year      : 1991
-Genre     : Arcade - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Arachnophobia.Slave

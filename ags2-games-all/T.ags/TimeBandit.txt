@@ -1,0 +1,6 @@
+Name      : Time Bandit
+Publisher : Microdeal
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : TimeBandit.slave

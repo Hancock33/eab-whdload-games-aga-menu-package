@@ -1,0 +1,6 @@
+Name      : Blueberry
+Publisher : Infogrames
+Year      : 1988
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : BlueberryFr.Slave

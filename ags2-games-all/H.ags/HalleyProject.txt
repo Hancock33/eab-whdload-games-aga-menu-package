@@ -1,0 +1,6 @@
+Name      : The Halley Project: A Mission in Our Solar System
+Publisher : Mindscape
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : HalleyProject.Slave

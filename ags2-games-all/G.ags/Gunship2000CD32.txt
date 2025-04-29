@@ -1,0 +1,6 @@
+Name      : Gunship 2000
+Publisher : MicroProse
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : Gunship2000CD32.slave

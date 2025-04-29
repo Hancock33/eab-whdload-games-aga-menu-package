@@ -1,0 +1,6 @@
+Name      : Fortress Underground
+Publisher : Kingsoft
+Year      : 09/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : FortressUnderground.Slave

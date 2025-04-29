@@ -1,0 +1,6 @@
+Name      : Summer Games II
+Publisher : U.S. Gold
+Year      : 1992
+Genre     : Sports - Multi-Event
+Players   : 8 (taking turns)
+RunFile   : SummerGames2.slave

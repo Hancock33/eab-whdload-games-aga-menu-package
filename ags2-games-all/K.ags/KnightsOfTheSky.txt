@@ -1,0 +1,6 @@
+Name      : Knights of the Sky
+Publisher : MicroProse
+Year      : 1991
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : KnightsOfTheSky.Slave

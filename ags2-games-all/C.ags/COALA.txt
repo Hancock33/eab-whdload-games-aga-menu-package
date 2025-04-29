@@ -1,6 +1,6 @@
 Name      : COALA
-Publisher : Empire Interactive
+Publisher : Empire
 Year      : 1995
-Genre     : Simulation - Flight
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Coala.slave

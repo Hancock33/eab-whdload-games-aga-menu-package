@@ -1,0 +1,6 @@
+Name      : Minerunner
+Publisher : Lazycow
+Year      : 1993
+Genre     : Game
+Players   : 4
+RunFile   : MineRunner.slave

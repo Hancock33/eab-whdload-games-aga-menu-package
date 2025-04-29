@@ -1,0 +1,6 @@
+Name      : Thomas the Tank Engine
+Publisher : Alternative
+Year      : 1992
+Genre     : Racing - Side-Scrolling
+Players   : 2 (taking turns)
+RunFile   : ThomasTheTankEngine.Slave

@@ -1,0 +1,6 @@
+Name      : Flying Shark: Special Edition
+Publisher : Firebird, Rainbird
+Year      : 2018
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : FlyingSharkSE.Slave

@@ -1,0 +1,6 @@
+Name      : Donk!: The Samurai Duck!
+Publisher : Supervision
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : DonkTheSamuraiDuckAGA.slave

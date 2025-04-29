@@ -1,5 +1,0 @@
-Name      : Black Dawn
-Publisher : (unknown)
-Genre     : Adventure - RPG 3D
-Players   : 1 Only
-RunFile   : BlackDawn.Slave

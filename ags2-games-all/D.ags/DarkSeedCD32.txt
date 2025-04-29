@@ -1,0 +1,6 @@
+Name      : Darkseed
+Publisher : Cyberdreams
+Year      : 1994
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : DarkSeedCD32.Slave

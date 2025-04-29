@@ -1,0 +1,6 @@
+Name      : Predator 2
+Publisher : Image Works, Konami
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Predator2.Slave

@@ -1,0 +1,6 @@
+Name      : CJ's Elephant Antics
+Publisher : Codemasters
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : CJsElephantAntics.Slave

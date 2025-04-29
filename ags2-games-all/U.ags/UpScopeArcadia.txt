@@ -1,0 +1,6 @@
+Name      : Up Scope (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : UpScopeArcadia.Slave

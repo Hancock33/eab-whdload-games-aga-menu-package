@@ -1,0 +1,6 @@
+Name      : Doody
+Publisher : Amiga Format
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : Doody.slave

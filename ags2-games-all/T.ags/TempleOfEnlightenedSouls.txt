@@ -1,0 +1,6 @@
+Name      : The Temple of the Enlightened Souls
+Publisher : Softsell, Amiga Fun
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : TempleOfEnlightenedSouls.slave

@@ -1,0 +1,6 @@
+Name      : The Patrician
+Publisher : Ascon, Daze
+Year      : 1993
+Genre     : Strategy - Trading
+Players   : 4 (taking turns)
+RunFile   : Patrician.slave

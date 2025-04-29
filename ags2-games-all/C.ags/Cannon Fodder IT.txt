@@ -1,6 +1,0 @@
-Name      : Cannon Fodder
-Language  : Italian
-Publisher : Virgin Interactive
-Year      : 1994
-Players   : 1 Only
-RunFile   : CannonFodderIt.Slave

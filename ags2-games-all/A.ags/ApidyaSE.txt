@@ -1,0 +1,6 @@
+Name      : Apidya: Special Edition
+Publisher : Play Byte
+Year      : 2018
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : ApidyaSE.slave

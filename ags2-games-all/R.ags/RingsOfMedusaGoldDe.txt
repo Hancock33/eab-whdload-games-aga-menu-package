@@ -1,0 +1,6 @@
+Name      : Rings of Medusa Gold
+Publisher : Starbyte
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : RingsOfMedusaGoldDe.Slave

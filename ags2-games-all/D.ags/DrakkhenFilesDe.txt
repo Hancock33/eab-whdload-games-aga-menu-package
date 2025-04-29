@@ -1,0 +1,6 @@
+Name      : Drakkhen
+Publisher : Draconian, Infogrames
+Year      : 1990
+Genre     : RPG
+Players   : 1
+RunFile   : DrakkhenFilesDe.Slave

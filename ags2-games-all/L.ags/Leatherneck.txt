@@ -1,5 +1,6 @@
 Name      : Leatherneck
 Publisher : Microdeal
 Year      : 1988
-Players   : 1 to 4, Simultaneous
-RunFile   : Leatherneck.Slave
+Genre     : Shoot'em Up - Vertical
+Players   : 4
+RunFile   : Leatherneck.slave

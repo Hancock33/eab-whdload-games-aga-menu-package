@@ -1,0 +1,6 @@
+Name      : Test Drive II: Northern Germany Challenge
+Publisher : Accolade
+Year      : 2012
+Genre     : Racing
+Players   : 1
+RunFile   : TestDrive2&DataDisksNGC.slave

@@ -1,0 +1,6 @@
+Name      : Tower of Souls
+Publisher : Black Legend
+Year      : 1995
+Genre     : Action RPG
+Players   : 1
+RunFile   : SeelenturmAGADe.Slave

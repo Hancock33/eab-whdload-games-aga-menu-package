@@ -1,0 +1,6 @@
+Name      : Dino Wars
+Publisher : DigiTek, Magic Bytes
+Year      : 1991
+Genre     : Board Game
+Players   : 2
+RunFile   : DinoWars.slave

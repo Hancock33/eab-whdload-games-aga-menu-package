@@ -1,0 +1,6 @@
+Name      : Player Manager 2
+Publisher : Anco
+Year      : 1995
+Genre     : Sports - Management
+Players   : 4 (taking turns)
+RunFile   : PlayerManager2.Slave

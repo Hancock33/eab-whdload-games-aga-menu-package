@@ -1,0 +1,6 @@
+Name      : Leader Board
+Publisher : Access, U.S. Gold
+Year      : 1986
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : Leaderboard.slave

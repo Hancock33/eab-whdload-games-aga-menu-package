@@ -1,0 +1,6 @@
+Name      : Jet Set Willy II
+Publisher : Software Projects
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : JetSetWilly2.Slave

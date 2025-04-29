@@ -1,0 +1,6 @@
+Name      : Uridium 2
+Publisher : Renegade
+Year      : 1993
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : Uridium21MB.Slave

@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer
+Publisher : Renegade
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOSDe.slave

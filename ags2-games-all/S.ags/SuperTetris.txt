@@ -1,0 +1,6 @@
+Name      : Super Tetris
+Publisher : MicroProse, Spectrum HoloByte
+Year      : 1992
+Genre     : Puzzle - Stacking
+Players   : 1
+RunFile   : SuperTetris.Slave

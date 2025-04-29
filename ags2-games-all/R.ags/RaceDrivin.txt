@@ -1,0 +1,6 @@
+Name      : Race Drivin' (Intro)
+Publisher : Domark, Tengen
+Year      : 1991
+Genre     : Racing
+Players   : 2 (taking turns)
+RunFile   : RaceDrivin.slave

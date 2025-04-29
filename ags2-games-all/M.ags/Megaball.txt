@@ -1,5 +1,6 @@
-Name      : Megaball
-Publisher : Shareware
-Year      : 1991
-Players   : 1 - 2 (1 simultaneous)
+Name      : MegaBall v4.0
+Publisher : IAM
+Year      : 1995
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : MegaBall.slave

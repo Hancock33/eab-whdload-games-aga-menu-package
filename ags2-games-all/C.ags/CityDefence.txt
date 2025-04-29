@@ -1,0 +1,6 @@
+Name      : City Defence
+Publisher : Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : CityDefence.Slave

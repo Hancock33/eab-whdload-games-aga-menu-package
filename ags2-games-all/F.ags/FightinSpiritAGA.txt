@@ -1,0 +1,6 @@
+Name      : Fightin' Spirit
+Publisher : neo
+Year      : 1996
+Genre     : Fighting
+Players   : 8 (2 simultaneously)
+RunFile   : FightinSpiritAGA.Slave

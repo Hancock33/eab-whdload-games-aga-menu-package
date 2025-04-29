@@ -1,0 +1,6 @@
+Name      : Gauntlet III: The Final Quest
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : Gauntlet3.slave

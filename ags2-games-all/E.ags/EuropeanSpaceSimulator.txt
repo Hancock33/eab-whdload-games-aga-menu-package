@@ -1,0 +1,6 @@
+Name      : European Space Simulator
+Publisher : Tomahawk
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : EuropeanSpaceSimulator.Slave

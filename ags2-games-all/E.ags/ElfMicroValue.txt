@@ -1,0 +1,6 @@
+Name      : Elf (MicroValue)
+Publisher : MicroValue
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : ElfMicroValue.Slave

@@ -1,0 +1,6 @@
+Name      : Mad Professor Mariarti
+Publisher : Krisalis
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : MadProfessorMariarti.slave

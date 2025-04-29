@@ -1,0 +1,6 @@
+Name      : España: The Games '92
+Publisher : Ocean
+Year      : 1992
+Genre     : Sports - Multi-Event
+Players   : 1
+RunFile   : EspanaTheGames92.Slave

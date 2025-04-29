@@ -1,0 +1,6 @@
+Name      : Mickey 123: L'Anniversaire Surprise
+Publisher : Disney
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : Mickey123Fr.Slave

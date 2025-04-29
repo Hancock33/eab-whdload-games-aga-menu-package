@@ -1,0 +1,6 @@
+Name      : Poker Nights: Teresa Personally
+Publisher : VTO Pictures
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : PokerNights.slave

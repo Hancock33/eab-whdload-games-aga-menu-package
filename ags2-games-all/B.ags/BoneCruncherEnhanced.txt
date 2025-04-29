@@ -1,0 +1,6 @@
+Name      : Bone Cruncher Enhanced
+Publisher : Superior Software
+Year      : 2018
+Genre     : Game
+Players   : 1
+RunFile   : BoneCruncherEnhanced.Slave

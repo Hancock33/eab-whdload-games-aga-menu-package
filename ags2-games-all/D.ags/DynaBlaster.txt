@@ -1,0 +1,6 @@
+Name      : Dyna Blaster
+Publisher : Hudson Soft, Ubi Soft
+Year      : 1991
+Genre     : Game
+Players   : 5
+RunFile   : DynaBlaster.slave

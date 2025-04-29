@@ -1,0 +1,6 @@
+Name      : Dragonstone
+Publisher : Core Design
+Year      : 1994
+Genre     : Action RPG
+Players   : 1
+RunFile   : DragonstoneCD32.slave

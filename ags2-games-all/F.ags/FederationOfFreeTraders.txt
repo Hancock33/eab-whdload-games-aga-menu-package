@@ -1,0 +1,6 @@
+Name      : Federation of Free Traders
+Publisher : Gremlin, Spotlight
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : FederationOfFreeTraders.slave

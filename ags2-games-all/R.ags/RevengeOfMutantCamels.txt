@@ -1,0 +1,6 @@
+Name      : Revenge of the Mutant Camels
+Publisher : Llamasoft
+Year      : 1992
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : RevengeOfMutantCamels.Slave

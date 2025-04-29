@@ -1,0 +1,6 @@
+Name      : Dennis
+Publisher : Ocean
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : DennisCD32.slave

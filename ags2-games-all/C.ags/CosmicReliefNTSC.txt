@@ -1,0 +1,6 @@
+Name      : Cosmic Relief: Prof. Renegade to the Rescue
+Publisher : Datasoft
+Year      : 1988
+Genre     : Platform - Adventure
+Players   : 1
+RunFile   : CosmicReliefNTSC.Slave

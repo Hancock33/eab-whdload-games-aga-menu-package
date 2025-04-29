@@ -1,0 +1,6 @@
+Name      : Police Quest II: The Vengeance
+Publisher : Sierra
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : PoliceQuest2.slave

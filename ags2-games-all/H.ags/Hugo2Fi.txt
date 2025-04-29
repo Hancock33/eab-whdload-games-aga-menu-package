@@ -1,0 +1,6 @@
+Name      : Hugo Osa 2
+Publisher : SilverRock
+Year      : 1992
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : Hugo2Fi.Slave

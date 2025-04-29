@@ -1,0 +1,6 @@
+Name      : Humans 3: Evolution
+Publisher : Gametek
+Year      : 1996
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : Humans3AGA.Slave

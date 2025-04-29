@@ -1,0 +1,6 @@
+Name      : Blue Angels: Formation Flight Simulation
+Publisher : Accolade
+Year      : 1989
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : BlueAngelsNTSC.Slave

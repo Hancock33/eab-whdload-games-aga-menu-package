@@ -1,0 +1,6 @@
+Name      : Dark Side
+Publisher : MicroStatus, Spotlight
+Year      : 1989
+Genre     : Action Adventure
+Players   : 1
+RunFile   : DarkSide.Slave

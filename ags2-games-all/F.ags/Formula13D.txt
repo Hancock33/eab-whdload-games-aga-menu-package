@@ -1,0 +1,6 @@
+Name      : Formula 1 3D
+Publisher : Simulmondo
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Formula13D.Slave

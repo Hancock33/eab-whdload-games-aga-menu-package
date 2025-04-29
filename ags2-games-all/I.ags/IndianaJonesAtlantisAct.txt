@@ -1,0 +1,6 @@
+Name      : Indiana Jones and the Fate of Atlantis: The Action Game
+Publisher : U.S. Gold
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : IndianaJonesAtlantisAct.slave

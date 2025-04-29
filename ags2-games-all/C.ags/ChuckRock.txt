@@ -1,0 +1,6 @@
+Name      : Chuck Rock
+Publisher : Core Design, Virgin
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : ChuckRock.slave

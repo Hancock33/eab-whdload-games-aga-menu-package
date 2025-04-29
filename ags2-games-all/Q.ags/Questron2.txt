@@ -1,0 +1,6 @@
+Name      : Questron II
+Publisher : SSI
+Year      : 1988
+Genre     : RPG
+Players   : 1
+RunFile   : Questron2.Slave

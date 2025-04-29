@@ -1,0 +1,6 @@
+Name      : Cool Croc Twins
+Publisher : Arcade Masters, Empire
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : CoolCrocTwins.Slave

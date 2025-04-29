@@ -1,0 +1,6 @@
+Name      : Buck Rogers XXVc: Countdown to Doomsday
+Publisher : SSI
+Year      : 1991
+Genre     : RPG
+Players   : 1
+RunFile   : BuckRogersNTSC.slave

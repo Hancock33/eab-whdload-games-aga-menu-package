@@ -1,0 +1,6 @@
+Name      : Final Fight Enhanced
+Publisher : Prototron
+Year      : 2022
+Genre     : Game
+Players   : 2
+RunFile   : FinalFightEnhanced.slave

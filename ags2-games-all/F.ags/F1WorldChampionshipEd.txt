@@ -1,0 +1,6 @@
+Name      : F1 World Championship Edition
+Publisher : Domark, Lankhor
+Year      : 1995
+Genre     : Racing
+Players   : 2
+RunFile   : F1WorldChampionshipEd.slave

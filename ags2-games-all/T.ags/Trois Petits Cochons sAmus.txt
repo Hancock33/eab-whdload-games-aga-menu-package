@@ -1,6 +1,0 @@
-Name      : Trois Petits Cochons s'Amusent, Les
-Language  : French
-Publisher : Coktel
-Year      : 1989
-Players   : 1
-RunFile   : TroisPetitsCochonsFr.Slave

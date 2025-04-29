@@ -1,0 +1,6 @@
+Name      : International Tennis
+Publisher : Zeppelin
+Year      : 1992
+Genre     : Sports - Tennis
+Players   : 2
+RunFile   : InternationalTennis.slave

@@ -1,0 +1,6 @@
+Name      : TV Sports: Boxing
+Publisher : Mindscape
+Year      : 1991
+Genre     : Sports - Boxing
+Players   : 2
+RunFile   : TVSportsBoxing.Slave

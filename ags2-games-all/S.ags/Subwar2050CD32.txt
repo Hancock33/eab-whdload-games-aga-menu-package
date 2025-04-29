@@ -1,0 +1,6 @@
+Name      : Subwar 2050
+Publisher : MicroProse
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : Subwar2050CD32.slave

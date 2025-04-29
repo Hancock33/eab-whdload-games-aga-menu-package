@@ -1,0 +1,6 @@
+Name      : Elvira: The Arcade Game
+Publisher : Flair
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : ElviraArcade.Slave

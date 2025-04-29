@@ -1,0 +1,6 @@
+Name      : Brain Man
+Publisher : MegArts
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : BrainMan.Slave

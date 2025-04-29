@@ -1,0 +1,6 @@
+Name      : Kick Off 96
+Publisher : Anco
+Year      : 1996
+Genre     : Sports - Soccer
+Players   : 1
+RunFile   : KickOff96.slave

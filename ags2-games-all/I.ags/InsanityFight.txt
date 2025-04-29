@@ -1,0 +1,6 @@
+Name      : Insanity Fight
+Publisher : Microdeal
+Year      : 1987
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : InsanityFight.Slave

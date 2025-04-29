@@ -1,0 +1,6 @@
+Name      : Biing!: Sex, Intrigen Und Skalpelle
+Publisher : Verkosoft
+Year      : 1995
+Genre     : Adventure
+Players   : 1
+RunFile   : BiingAGADe.slave

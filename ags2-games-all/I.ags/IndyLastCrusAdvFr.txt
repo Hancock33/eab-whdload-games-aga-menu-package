@@ -1,0 +1,6 @@
+Name      : Indiana Jones and the Last Crusade
+Publisher : U.S. Gold
+Year      : 1989
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : IndyLastCrusAdvFr.slave

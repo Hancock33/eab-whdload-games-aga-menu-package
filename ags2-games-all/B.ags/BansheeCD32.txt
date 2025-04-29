@@ -1,0 +1,6 @@
+Name      : Banshee
+Publisher : Core Design
+Year      : 1994
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : BansheeCD32.slave

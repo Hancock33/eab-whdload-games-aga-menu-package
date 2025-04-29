@@ -1,0 +1,6 @@
+Name      : Little Princess
+Publisher : Night Owl Design
+Year      : 2014
+Genre     : Game
+Players   : 1
+RunFile   : LittlePrincess.slave

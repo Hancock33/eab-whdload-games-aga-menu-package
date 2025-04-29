@@ -1,0 +1,6 @@
+Name      : Birds of Prey
+Publisher : Electronic Arts, IPS Computer Group
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : BirdsOfPrey.slave

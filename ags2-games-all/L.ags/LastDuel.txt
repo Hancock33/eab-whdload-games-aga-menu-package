@@ -1,0 +1,6 @@
+Name      : Last Duel: Inter Planet War 2012
+Publisher : Capcom, U.S. Gold
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : LastDuel.slave

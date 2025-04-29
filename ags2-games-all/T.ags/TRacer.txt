@@ -1,0 +1,6 @@
+Name      : T-Racer
+Publisher : Virtual Dreams
+Year      : 1994
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : TRacer.Slave

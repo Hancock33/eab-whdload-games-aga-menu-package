@@ -1,0 +1,6 @@
+Name      : Conflict: Europe
+Publisher : P.S.S.
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ConflictEuropeFr.Slave

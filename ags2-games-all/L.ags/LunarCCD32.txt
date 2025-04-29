@@ -1,0 +1,6 @@
+Name      : Lunar-C
+Publisher : Mindscape
+Year      : 1993
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : LunarCCD32.slave

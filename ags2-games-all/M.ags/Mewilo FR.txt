@@ -1,7 +1,0 @@
-Name      : Mewilo
-Language  : French
-Publisher : Coktel
-Year      : 1988
-Genre     : Adventure
-Players   : 1
-RunFile   : MewiloFr.Slave

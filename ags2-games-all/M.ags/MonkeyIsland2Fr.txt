@@ -1,0 +1,6 @@
+Name      : Monkey Island 2: LeChuck's Revenge
+Publisher : LucasArts
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : MonkeyIsland2Fr.slave

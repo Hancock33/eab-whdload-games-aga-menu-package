@@ -1,0 +1,6 @@
+Name      : Seek & Destroy
+Publisher : Mindscape
+Year      : 1994
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Seek&Destroy.Slave

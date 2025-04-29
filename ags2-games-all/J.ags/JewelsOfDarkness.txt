@@ -1,0 +1,6 @@
+Name      : Jewels of Darkness
+Publisher : Firebird, Rainbird
+Year      : 1986
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : JewelsOfDarkness.Slave

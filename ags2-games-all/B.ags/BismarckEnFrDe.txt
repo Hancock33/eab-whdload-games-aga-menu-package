@@ -1,0 +1,6 @@
+Name      : Bismarck
+Publisher : P.S.S.
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : BismarckEnFrDe.slave

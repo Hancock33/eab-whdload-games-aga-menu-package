@@ -1,0 +1,6 @@
+Name      : Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
+Publisher : Sierra
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : LeisureSuitLarry5DeMT32.Slave

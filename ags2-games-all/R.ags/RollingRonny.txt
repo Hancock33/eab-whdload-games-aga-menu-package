@@ -1,0 +1,6 @@
+Name      : Rolling Ronny: The Errand-Boy
+Publisher : Starbyte, Virgin
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : RollingRonny.Slave

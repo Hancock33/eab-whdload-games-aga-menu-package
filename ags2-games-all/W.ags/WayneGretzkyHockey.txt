@@ -1,0 +1,6 @@
+Name      : Wayne Gretzky Hockey
+Publisher : Bethesda Softworks
+Year      : 1988
+Genre     : Sports - Ice Hockey
+Players   : 2
+RunFile   : WayneGretzkyHockey.slave

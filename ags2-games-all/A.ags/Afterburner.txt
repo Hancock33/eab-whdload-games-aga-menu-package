@@ -1,5 +1,6 @@
-Name      : Afterburner
+Name      : After Burner (Activision)
 Publisher : Activision
 Year      : 1988
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : AfterBurner.Slave

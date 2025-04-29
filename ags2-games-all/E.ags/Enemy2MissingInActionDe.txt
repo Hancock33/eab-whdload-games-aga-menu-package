@@ -1,0 +1,6 @@
+Name      : Enemy 2: Missing in Action
+Publisher : Anachronia
+Year      : 2013
+Genre     : Game
+Players   : 2
+RunFile   : Enemy2MissingInActionDe.Slave

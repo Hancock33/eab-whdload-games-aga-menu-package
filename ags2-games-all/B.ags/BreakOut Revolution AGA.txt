@@ -1,6 +1,0 @@
-Name      : BreakOut Revolution
-Version   : AGA
-Year      : 1996
-Genre     : Reaction & Navigation
-Players   : 1
-RunFile   : BreakOutRevolutionAGA.slave

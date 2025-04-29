@@ -1,0 +1,6 @@
+Name      : Nibby Nibble
+Publisher : Amiga News
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : NibbyNibble.slave

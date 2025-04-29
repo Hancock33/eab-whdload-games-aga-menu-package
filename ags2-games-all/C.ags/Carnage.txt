@@ -1,6 +1,6 @@
 Name      : Carnage
-Publisher : Zeppelin Games
+Publisher : Zeppelin
 Year      : 1992
-Genre     : Racing - Overhead
-Players   : 1 or 2, Simultaneous
+Genre     : Racing - Top-Down
+Players   : 4
 RunFile   : Carnage.slave

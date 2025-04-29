@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer 96/97
+Publisher : Renegade
+Year      : 1996
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOS9697.slave

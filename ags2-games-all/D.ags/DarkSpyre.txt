@@ -1,6 +1,6 @@
 Name      : DarkSpyre
-Publisher : Electronic Zoo
+Publisher : Electronic Zoo, Event Horizon
 Year      : 1991
-Genre     : Adventure - RPG 2D
-Players   : 1 Only
+Genre     : RPG
+Players   : 1
 RunFile   : DarkSpyre.Slave

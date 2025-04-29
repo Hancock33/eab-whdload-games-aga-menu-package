@@ -1,0 +1,6 @@
+Name      : Lupo Alberto: The Videogame
+Publisher : Idea Games
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : LupoAlberto.Slave

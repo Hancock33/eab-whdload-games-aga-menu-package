@@ -1,5 +1,6 @@
-Name      : Ranx
+Name      : RanX: The Video Game
 Publisher : Ubi Soft
 Year      : 1990
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : RanX.Slave

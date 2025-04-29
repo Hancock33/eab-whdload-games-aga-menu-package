@@ -1,0 +1,6 @@
+Name      : Freedom: Die Krieger Des Schattens
+Publisher : Coktel
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : FreedomDe.Slave

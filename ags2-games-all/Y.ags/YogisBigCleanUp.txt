@@ -1,0 +1,6 @@
+Name      : Yogi's Big Clean Up
+Publisher : Hi-Tec
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : YogisBigCleanUp.Slave

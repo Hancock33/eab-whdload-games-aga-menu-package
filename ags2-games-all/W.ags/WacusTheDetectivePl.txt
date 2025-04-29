@@ -1,0 +1,6 @@
+Name      : Wacus the Detective
+Publisher : L.K. Avalon
+Year      : 1997
+Genre     : Game
+Players   : 1
+RunFile   : WacusTheDetectivePl.Slave

@@ -1,0 +1,6 @@
+Name      : Astro Marine Corps
+Publisher : Dinamic
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : AstroMarineCorps.slave

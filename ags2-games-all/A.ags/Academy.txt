@@ -1,5 +1,6 @@
-Name      : Academy
+Name      : Academy: Tau Ceti II
 Publisher : CRL
 Year      : 1988
+Genre     : Game
 Players   : 1
 RunFile   : Academy.slave

@@ -1,0 +1,6 @@
+Name      : Virtual Karting II
+Publisher : Islona
+Year      : 1998
+Genre     : Racing
+Players   : 1
+RunFile   : VirtualKarting2AGACD.slave

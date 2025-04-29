@@ -1,0 +1,6 @@
+Name      : Karate King & City Defence
+Publisher : Anco, Kingsoft
+Year      : 1987
+Genre     : Fighting
+Players   : 2
+RunFile   : KarateKing&CityDefence.Slave

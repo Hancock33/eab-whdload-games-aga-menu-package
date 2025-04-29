@@ -1,0 +1,6 @@
+Name      : Road Rash
+Publisher : Electronic Arts
+Year      : 1992
+Genre     : Racing - Arcade
+Players   : 2 (taking turns)
+RunFile   : RoadRash.slave

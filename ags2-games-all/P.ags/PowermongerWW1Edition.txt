@@ -1,0 +1,6 @@
+Name      : Powermonger: WW1 Edition
+Publisher : Electronic Arts
+Year      : 1991
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : PowermongerWW1Edition.slave

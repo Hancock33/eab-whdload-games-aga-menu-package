@@ -1,0 +1,6 @@
+Name      : Wind Surf Willy
+Publisher : Silmarils
+Year      : 1988
+Genre     : Sports - Surfing
+Players   : 2 (taking turns)
+RunFile   : WindSurfWilly.Slave

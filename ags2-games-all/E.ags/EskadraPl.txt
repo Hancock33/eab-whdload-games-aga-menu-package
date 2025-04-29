@@ -1,0 +1,6 @@
+Name      : Eskadra
+Publisher : L.K. Avalon
+Year      : 1996
+Genre     : Game
+Players   : 3
+RunFile   : EskadraPl.Slave

@@ -1,0 +1,6 @@
+Name      : Match of the Day
+Publisher : Zeppelin
+Year      : 1992
+Genre     : Sports - Management
+Players   : 1
+RunFile   : MatchOfTheDay.Slave

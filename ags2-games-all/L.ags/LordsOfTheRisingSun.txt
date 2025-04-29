@@ -1,0 +1,6 @@
+Name      : Lords of the Rising Sun
+Publisher : Cinemaware
+Year      : 1989
+Genre     : Adventure - Strategy
+Players   : 1
+RunFile   : LordsOfTheRisingSun.slave

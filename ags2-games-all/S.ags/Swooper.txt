@@ -1,5 +1,6 @@
 Name      : Swooper
-Publisher : Diamond Games
+Publisher : Diamond
 Year      : 1987
-Players   : 1 or 2
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Swooper.Slave

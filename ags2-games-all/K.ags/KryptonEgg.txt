@@ -1,0 +1,6 @@
+Name      : Krypton Egg
+Publisher : HitSoft
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : KryptonEgg.Slave

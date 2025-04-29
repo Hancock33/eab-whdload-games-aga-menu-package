@@ -1,0 +1,6 @@
+Name      : Peter Schmeichel Soccer
+Publisher : Zeppelin
+Year      : 1994
+Genre     : Sports - Management
+Players   : 1
+RunFile   : PeterSchmeichelSoccer.Slave

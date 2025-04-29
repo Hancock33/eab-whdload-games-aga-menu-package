@@ -1,5 +1,6 @@
 Name      : Firestar
-Publisher : Trojan Software
+Publisher : Trojan
 Year      : 1991
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Firestar.Slave

@@ -1,0 +1,6 @@
+Name      : Giana II: Future World
+Publisher : Rauser
+Year      : 2016
+Genre     : Game
+Players   : 1
+RunFile   : Giana2.slave

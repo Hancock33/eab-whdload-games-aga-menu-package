@@ -1,4 +1,6 @@
 Name      : Magnatron
 Publisher : BSP Design
+Year      : 19XX
+Genre     : Puzzle - Physics
 Players   : 1
 RunFile   : Magnatron.Slave

@@ -1,0 +1,6 @@
+Name      : Agony
+Publisher : Psygnosis
+Year      : 1992
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : AgonyNTSC.slave

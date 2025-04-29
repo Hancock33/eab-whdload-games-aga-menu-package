@@ -1,0 +1,6 @@
+Name      : Thomas the Tank Engine's Pinball
+Publisher : Alternative
+Year      : 1992
+Genre     : Game
+Players   : 8 (taking turns)
+RunFile   : ThomasTankEngPinballCD32.Slave

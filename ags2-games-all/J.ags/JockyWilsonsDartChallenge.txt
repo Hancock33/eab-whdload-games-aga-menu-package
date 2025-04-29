@@ -1,0 +1,6 @@
+Name      : Jocky Wilson's Darts Challenge
+Publisher : Zeppelin
+Year      : 1990
+Genre     : Sports - Darts
+Players   : 4 (taking turns)
+RunFile   : JockyWilsonsDartChallenge.slave

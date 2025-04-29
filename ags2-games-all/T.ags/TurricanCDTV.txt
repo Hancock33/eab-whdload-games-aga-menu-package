@@ -1,0 +1,6 @@
+Name      : Turrican
+Publisher : Rainbow Arts, Softgold
+Year      : 1992
+Genre     : Platform - Shooting
+Players   : 1
+RunFile   : TurricanCDTV.Slave

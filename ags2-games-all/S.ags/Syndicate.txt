@@ -1,6 +1,6 @@
 Name      : Syndicate
-Publisher : Mindscape
-Year      : 1995
-Genre     : Strategy - Company
-Players   : 1 Only
+Publisher : Electronic Arts
+Year      : 1993
+Genre     : Game
+Players   : 1
 RunFile   : Syndicate.slave

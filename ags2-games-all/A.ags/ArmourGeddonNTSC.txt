@@ -1,0 +1,6 @@
+Name      : Armour-Geddon
+Publisher : Psygnosis
+Year      : 1991
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : ArmourGeddonNTSC.Slave

@@ -1,0 +1,6 @@
+Name      : Chicago 90
+Publisher : Infogrames, Microids
+Year      : 1989
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : Chicago90.Slave

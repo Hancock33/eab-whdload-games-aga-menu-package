@@ -1,0 +1,6 @@
+Name      : Barbarian (Psygnosis)
+Publisher : Psygnosis
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : BarBarianPsygnosis.Slave

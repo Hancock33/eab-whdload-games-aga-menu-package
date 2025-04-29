@@ -1,0 +1,6 @@
+Name      : Legend of the Sword
+Publisher : Rainbird
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : LegendOfTheSword.slave

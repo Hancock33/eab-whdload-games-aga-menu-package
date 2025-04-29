@@ -1,0 +1,6 @@
+Name      : Knights of the Crystallion
+Publisher : U.S. Gold
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : KnightsOfTheCrystallion.slave

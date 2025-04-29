@@ -1,0 +1,6 @@
+Name      : Their Finest Hour: The Battle of Britain
+Publisher : Lucasfilm
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : TheirFinestHour&Missions.Slave

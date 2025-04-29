@@ -1,0 +1,6 @@
+Name      : Ball Raider II
+Publisher : US Action
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : BallRaider2.slave

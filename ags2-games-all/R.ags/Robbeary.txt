@@ -1,6 +1,6 @@
 Name      : Robbeary
 Publisher : Anco
 Year      : 1988
-Genre     : Platformer - Single Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Robbeary.Slave

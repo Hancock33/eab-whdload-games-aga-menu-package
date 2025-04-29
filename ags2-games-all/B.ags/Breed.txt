@@ -1,0 +1,6 @@
+Name      : Breed 96
+Publisher : Damian Tarnawsky
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : Breed.slave

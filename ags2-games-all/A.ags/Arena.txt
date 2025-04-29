@@ -1,5 +1,6 @@
 Name      : Arena
-Publisher : Defcom
-Year      : 1992
-Players   : 1 or 2
-RunFile   : Arena.slave
+Publisher : Psygnosis
+Year      : 1986
+Genre     : Sports - Multi-Event
+Players   : 4 (taking turns)
+RunFile   : Arena.Slave

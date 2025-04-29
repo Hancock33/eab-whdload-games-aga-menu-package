@@ -1,0 +1,6 @@
+Name      : Hollywood Poker
+Publisher : Diamond, DigiTek, Keypunch, Players
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : HollywoodPoker.Slave

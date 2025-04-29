@@ -1,0 +1,6 @@
+Name      : Skull & Crossbones
+Publisher : Domark, Tengen
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : Skull&CrossBones.slave

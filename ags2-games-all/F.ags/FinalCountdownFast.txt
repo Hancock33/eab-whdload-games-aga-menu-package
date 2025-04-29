@@ -1,0 +1,6 @@
+Name      : Final Countdown
+Publisher : Demonware
+Year      : 1989
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : FinalCountdownFast.Slave

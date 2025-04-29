@@ -1,0 +1,6 @@
+Name      : Atomic Robo-Kid
+Publisher : Activision
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : AtomicRoboKid.Slave

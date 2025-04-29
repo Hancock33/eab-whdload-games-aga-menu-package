@@ -1,0 +1,6 @@
+Name      : T-zer0 (Demo)
+Publisher : PXL
+Year      : 1999
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : TZer0DemoAGA.Slave

@@ -1,0 +1,6 @@
+Name      : Overdrive (Infacto)
+Publisher : Infacto
+Year      : 1993
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : OverdriveInfacto.Slave

@@ -1,0 +1,6 @@
+Name      : Flight Simulator II
+Publisher : subLOGIC
+Year      : 1988
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : FlightSim2&SceneryDisk13.Slave

@@ -1,0 +1,6 @@
+Name      : Bionic Commando
+Publisher : Capcom, GO!
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : BionicCommando.Slave

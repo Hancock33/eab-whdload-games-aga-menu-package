@@ -1,0 +1,6 @@
+Name      : Teenage Mutant Hero Turtles
+Publisher : Image Works, Konami
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : TeenageMtntHeroTurtles.Slave

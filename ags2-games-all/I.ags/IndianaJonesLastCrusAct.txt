@@ -1,0 +1,6 @@
+Name      : Indiana Jones and the Last Crusade: The Action Game
+Publisher : Lucasfilm
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : IndianaJonesLastCrusAct.Slave

@@ -1,0 +1,6 @@
+Name      : Covert Action
+Publisher : MicroProse
+Year      : 1992
+Genre     : Adventure
+Players   : 1
+RunFile   : CovertActionDe.Slave

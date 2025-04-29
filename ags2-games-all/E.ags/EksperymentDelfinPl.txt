@@ -1,0 +1,6 @@
+Name      : Eksperyment Delfin
+Publisher : MarkSoft 
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : EksperymentDelfinPl.Slave

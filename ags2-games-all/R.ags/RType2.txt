@@ -1,0 +1,6 @@
+Name      : R-Type II
+Publisher : Activision
+Year      : 1991
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
+RunFile   : RType2.Slave

@@ -1,0 +1,6 @@
+Name      : SuperSki
+Publisher : Loriciels, Microids
+Year      : 1988
+Genre     : Sports - Winter
+Players   : 6 (taking turns)
+RunFile   : SuperSkiFr.Slave

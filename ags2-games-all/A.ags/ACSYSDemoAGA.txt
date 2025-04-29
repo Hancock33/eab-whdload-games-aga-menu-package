@@ -1,0 +1,6 @@
+Name      : ACSYS: Autonomous Cybernetic System
+Publisher : Unique Software
+Year      : 2000
+Genre     : Game
+Players   : 1
+RunFile   : ACSYSDemoAGA.slave

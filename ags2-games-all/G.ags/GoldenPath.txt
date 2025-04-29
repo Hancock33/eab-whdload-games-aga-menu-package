@@ -1,0 +1,6 @@
+Name      : Golden Path
+Publisher : Firebird
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : GoldenPath.Slave

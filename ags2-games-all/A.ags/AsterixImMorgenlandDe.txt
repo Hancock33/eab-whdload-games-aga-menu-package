@@ -1,0 +1,6 @@
+Name      : Astérix Im Morgenland
+Publisher : Coktel
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : AsterixImMorgenlandDe.slave

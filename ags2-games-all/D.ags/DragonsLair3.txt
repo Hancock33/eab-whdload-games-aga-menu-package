@@ -1,0 +1,6 @@
+Name      : Dragon's Lair III: The Curse of Mordread
+Publisher : ReadySoft
+Year      : 1992
+Genre     : Action Adventure
+Players   : 1
+RunFile   : DragonsLair3.Slave

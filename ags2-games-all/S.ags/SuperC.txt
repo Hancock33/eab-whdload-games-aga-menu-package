@@ -1,0 +1,6 @@
+Name      : Super C
+Publisher : Konami
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : SuperC.Slave

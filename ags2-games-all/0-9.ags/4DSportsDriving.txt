@@ -1,0 +1,6 @@
+Name      : 4D Sports Driving
+Publisher : Mindscape
+Year      : 1990
+Genre     : Racing
+Players   : 1
+RunFile   : 4DSportsDriving.slave

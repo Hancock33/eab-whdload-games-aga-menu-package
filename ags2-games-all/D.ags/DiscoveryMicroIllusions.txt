@@ -1,0 +1,6 @@
+Name      : Discovery (MicroIllusions)
+Publisher : MicroIllusions
+Year      : 1986
+Genre     : Adventure
+Players   : 1
+RunFile   : DiscoveryMicroIllusions.Slave

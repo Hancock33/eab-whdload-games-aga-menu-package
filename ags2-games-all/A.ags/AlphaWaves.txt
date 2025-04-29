@@ -1,0 +1,6 @@
+Name      : Alpha Waves
+Publisher : Infogrames
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : AlphaWaves.Slave

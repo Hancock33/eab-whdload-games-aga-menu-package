@@ -1,0 +1,6 @@
+Name      : Return to Genesis
+Publisher : Firebird
+Year      : 1988
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
+RunFile   : ReturnToGenesis.Slave

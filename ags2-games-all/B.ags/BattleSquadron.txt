@@ -1,0 +1,6 @@
+Name      : Battle Squadron: The Destruction of the Barrax Empire
+Publisher : Electronic Zoo, Innerprise
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : BattleSquadron.slave

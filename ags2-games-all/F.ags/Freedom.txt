@@ -1,0 +1,6 @@
+Name      : Freedom: Rebels in the Darkness
+Publisher : Coktel
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Freedom.Slave

@@ -1,0 +1,6 @@
+Name      : The Speris Legacy
+Publisher : Ocean, Team 17
+Year      : 1996
+Genre     : Action RPG
+Players   : 1
+RunFile   : SperisLegacyCD32.slave

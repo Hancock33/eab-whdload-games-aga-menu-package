@@ -1,0 +1,6 @@
+Name      : The Raiders
+Publisher : Silmarils
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : RaidersFr.Slave

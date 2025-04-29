@@ -1,0 +1,6 @@
+Name      : Karate Champ
+Publisher : JOTD
+Year      : 2023
+Genre     : Game
+Players   : 2
+RunFile   : KarateChamp.slave

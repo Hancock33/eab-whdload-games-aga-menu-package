@@ -1,0 +1,6 @@
+Name      : Penthouse Hot Numbers Deluxe
+Publisher : Magic Bytes
+Year      : 1994
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : PenthouseHotNumsDlxAGADe.Slave

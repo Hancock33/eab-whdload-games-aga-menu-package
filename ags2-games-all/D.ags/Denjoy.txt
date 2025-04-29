@@ -1,4 +1,6 @@
 Name      : Denjoy
-Year      : [unreleased]
+Publisher : Johannes Lipp
+Year      : 1991
+Genre     : Game
 Players   : 1
 RunFile   : Denjoy.Slave

@@ -1,6 +1,6 @@
 Name      : Obsession
-Publisher : Unique Development Sweden
+Publisher : Unique Development
 Year      : 1995
-Genre     : Arcade - Pinball
-Players   : 1 Only
+Genre     : Game
+Players   : 8 (taking turns)
 RunFile   : Obsession.Slave

@@ -1,0 +1,6 @@
+Name      : 3D World Boxing
+Publisher : Simulmondo
+Year      : 1992
+Genre     : Sports - Boxing
+Players   : 2
+RunFile   : 3DWorldBoxing.Slave

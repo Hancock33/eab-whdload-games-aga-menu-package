@@ -1,0 +1,6 @@
+Name      : K240
+Publisher : Gremlin, Licomp
+Year      : 1994
+Genre     : Simulation - Construction
+Players   : 1
+RunFile   : K2401MB.Slave

@@ -1,0 +1,6 @@
+Name      : Die Kathedrale
+Publisher : Software 2000
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : KathedraleDe.slave

@@ -1,6 +1,0 @@
-Name      : Typhoon Thompson in Search for the Sea Child
-Version   : 512K NTSC
-Publisher : Brøderbund
-Year      : 1989
-Players   : 1 Only
-RunFile   : TyphoonThompson512kNTSC.slave

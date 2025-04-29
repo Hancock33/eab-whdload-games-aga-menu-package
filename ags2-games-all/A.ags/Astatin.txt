@@ -1,6 +1,6 @@
 Name      : Astatin
-Publisher : Tale Software
+Publisher : Tale 
 Year      : 1992
-Genre     : Brain - Logical
-Players   : 1 Only
+Genre     : Puzzle - Matching
+Players   : 1
 RunFile   : Astatin.Slave

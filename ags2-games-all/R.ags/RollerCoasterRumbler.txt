@@ -1,0 +1,6 @@
+Name      : Roller Coaster Rumbler
+Publisher : Tynesoft
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : RollerCoasterRumbler.Slave

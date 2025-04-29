@@ -1,0 +1,6 @@
+Name      : Yogi's Great Escape
+Publisher : Hi-Tec
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : YogisGreatEscape.Slave

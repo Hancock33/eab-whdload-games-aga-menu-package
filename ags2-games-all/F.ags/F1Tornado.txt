@@ -1,0 +1,6 @@
+Name      : F1 Tornado
+Publisher : Zeppelin
+Year      : 1992
+Genre     : Simulation - Action
+Players   : 1
+RunFile   : F1Tornado.Slave

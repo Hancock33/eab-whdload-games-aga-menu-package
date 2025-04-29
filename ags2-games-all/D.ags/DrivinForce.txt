@@ -1,0 +1,6 @@
+Name      : Drivin' Force
+Publisher : Digital Magic
+Year      : 1990
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : DrivinForce.Slave

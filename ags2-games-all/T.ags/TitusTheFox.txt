@@ -1,0 +1,6 @@
+Name      : Titus the Fox: To Marrakech and Back
+Publisher : Titus
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : TitusTheFox.slave

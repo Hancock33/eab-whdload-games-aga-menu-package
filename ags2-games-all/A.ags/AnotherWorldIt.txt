@@ -1,0 +1,6 @@
+Name      : Another World
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Platform - Adventure
+Players   : 1
+RunFile   : AnotherWorldIt.Slave

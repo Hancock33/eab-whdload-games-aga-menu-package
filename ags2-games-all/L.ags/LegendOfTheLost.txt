@@ -1,0 +1,6 @@
+Name      : Legend of the Lost
+Publisher : Impressions
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : LegendOfTheLost.slave

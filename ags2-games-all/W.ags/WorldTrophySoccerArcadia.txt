@@ -1,0 +1,6 @@
+Name      : World Trophy Soccer (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1989
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : WorldTrophySoccerArcadia.Slave

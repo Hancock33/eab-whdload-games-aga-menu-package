@@ -1,0 +1,6 @@
+Name      : Fire & Forget II: The Death Convoy
+Publisher : Titus
+Year      : 1990
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : Fire&Forget2.Slave

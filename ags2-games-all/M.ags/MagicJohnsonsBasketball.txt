@@ -1,0 +1,6 @@
+Name      : Magic Johnson's Basketball
+Publisher : Melbourne House, Virgin Mastertronic
+Year      : 1989
+Genre     : Sports - Basketball
+Players   : 2
+RunFile   : MagicJohnsonsBasketball.Slave

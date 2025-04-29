@@ -1,0 +1,6 @@
+Name      : Devious Designs
+Publisher : Image Works
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : DeviousDesigns.Slave

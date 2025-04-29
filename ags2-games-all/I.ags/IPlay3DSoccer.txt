@@ -1,0 +1,6 @@
+Name      : I Play 3D Soccer
+Publisher : Simulmondo
+Year      : 1991
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : IPlay3DSoccer.slave

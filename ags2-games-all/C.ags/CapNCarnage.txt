@@ -1,0 +1,6 @@
+Name      : Cap 'n' Carnage
+Publisher : Energize
+Year      : 1991
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : CapNCarnage.slave

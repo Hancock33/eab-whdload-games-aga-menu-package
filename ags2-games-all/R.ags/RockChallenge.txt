@@ -1,0 +1,6 @@
+Name      : Rock Challenge
+Publisher : ReadySoft
+Year      : 1988
+Genre     : Game
+Players   : 1 (4 simultaneously)
+RunFile   : RockChallenge.slave

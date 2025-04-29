@@ -1,0 +1,6 @@
+Name      : ABC Monday Night Football
+Publisher : MVP Sports
+Year      : 1991
+Genre     : Sports - American Football
+Players   : 2
+RunFile   : ABCMondayNightFBNTSC.slave

@@ -1,0 +1,6 @@
+Name      : Plan 9 From Outer Space
+Publisher : Gremlin
+Year      : 1992
+Genre     : Adventure
+Players   : 1
+RunFile   : Plan9FromOuterSpace.Slave

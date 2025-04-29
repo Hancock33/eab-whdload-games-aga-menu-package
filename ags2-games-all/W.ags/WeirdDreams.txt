@@ -1,0 +1,6 @@
+Name      : Weird Dreams
+Publisher : Medalist, MicroPlay, Rainbird
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : WeirdDreams.Slave

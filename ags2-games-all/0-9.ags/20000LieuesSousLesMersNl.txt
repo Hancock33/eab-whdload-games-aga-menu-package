@@ -1,0 +1,6 @@
+Name      : 20 000 Mijlen Onder Zee
+Publisher : Coktel, System 4
+Year      : 1989
+Genre     : Adventure
+Players   : 1
+RunFile   : 20000LieuesSousLesMersNl.Slave

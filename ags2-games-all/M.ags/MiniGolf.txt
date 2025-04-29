@@ -1,0 +1,6 @@
+Name      : Mini Golf
+Publisher : Gremlin, Magic Bytes
+Year      : 1988
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : MiniGolf.Slave

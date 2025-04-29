@@ -1,0 +1,6 @@
+Name      : Fire & Brimstone
+Publisher : Firebird
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : FireAndBrimstone.Slave

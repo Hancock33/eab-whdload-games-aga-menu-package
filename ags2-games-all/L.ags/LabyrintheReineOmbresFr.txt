@@ -1,0 +1,6 @@
+Name      : Le Labyrinthe De La Reine Des Ombres
+Publisher : RETZ
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : LabyrintheReineOmbresFr.Slave

@@ -1,0 +1,6 @@
+Name      : Das Erbe
+Publisher : Comad
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : ErbeDe.Slave

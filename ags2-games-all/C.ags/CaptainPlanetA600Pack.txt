@@ -1,0 +1,6 @@
+Name      : Captain Planet & The Planeteers
+Publisher : Mindscape
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : CaptainPlanetA600Pack.Slave

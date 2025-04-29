@@ -1,0 +1,6 @@
+Name      : Elvira: Mistress of the Dark
+Publisher : Accolade
+Year      : 1990
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : Elvira.slave

@@ -1,0 +1,6 @@
+Name      : Roketz
+Publisher : Farm, The
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : RoketzAGA.Slave

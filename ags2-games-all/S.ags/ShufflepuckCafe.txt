@@ -1,0 +1,6 @@
+Name      : Shufflepuck Cafe
+Publisher : Brøderbund
+Year      : 1989
+Genre     : Sports - Future/Fantasy
+Players   : 1
+RunFile   : ShufflepuckCafe.Slave

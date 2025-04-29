@@ -1,0 +1,6 @@
+Name      : Killing Machine
+Publisher : Atlantis
+Year      : 1992
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
+RunFile   : KillingMachine.Slave

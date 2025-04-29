@@ -2,5 +2,5 @@ Name      : Neighbours
 Publisher : Impulze
 Year      : 1991
 Genre     : Sports - Skateboard
-Players   : 1 Only
+Players   : 1
 RunFile   : Neighbours.Slave

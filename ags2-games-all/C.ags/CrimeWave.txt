@@ -1,0 +1,6 @@
+Name      : Crime Wave
+Publisher : Access, U.S. Gold
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : CrimeWave.slave

@@ -1,0 +1,6 @@
+Name      : Bloodwych (The Extended Levels)
+Publisher : Image Works
+Year      : 1989
+Genre     : RPG - First Person Dungeon
+Players   : 2
+RunFile   : ExtendedLevels.Slave

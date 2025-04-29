@@ -1,0 +1,6 @@
+Name      : Time Runners 11: The Steel City
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners11.Slave

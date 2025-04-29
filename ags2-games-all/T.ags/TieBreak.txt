@@ -1,0 +1,6 @@
+Name      : Tie-Break
+Publisher : Starbyte
+Year      : 1990
+Genre     : Sports - Tennis
+Players   : 16 (4 simultaneously)
+RunFile   : TieBreak.slave

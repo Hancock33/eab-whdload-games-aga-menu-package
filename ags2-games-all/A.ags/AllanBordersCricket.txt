@@ -1,0 +1,6 @@
+Name      : Allan Border's Cricket
+Publisher : HES
+Year      : 1993
+Genre     : Sports - Cricket
+Players   : 2
+RunFile   : AllanBordersCricket.Slave

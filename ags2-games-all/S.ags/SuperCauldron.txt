@@ -1,0 +1,6 @@
+Name      : Super Cauldron
+Publisher : Titus
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : SuperCauldron.Slave

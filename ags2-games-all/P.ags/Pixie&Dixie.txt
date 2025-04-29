@@ -1,0 +1,6 @@
+Name      : Pixie & Dixie
+Publisher : Alternative
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : Pixie&Dixie.Slave

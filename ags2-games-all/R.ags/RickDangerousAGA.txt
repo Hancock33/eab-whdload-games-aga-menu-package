@@ -1,0 +1,6 @@
+Name      : Rick Dangerous (Enhanced)
+Publisher : Z-team
+Year      : 2023
+Genre     : Game
+Players   : 1
+RunFile   : RickDangerousAGA.slave

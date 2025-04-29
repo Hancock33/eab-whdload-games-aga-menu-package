@@ -1,0 +1,6 @@
+Name      : The Karate Kid Part II
+Publisher : Microdeal
+Year      : 1987
+Genre     : Fighting
+Players   : 2
+RunFile   : KarateKid2.slave

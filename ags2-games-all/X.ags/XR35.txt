@@ -1,0 +1,6 @@
+Name      : XR-35 Fighter Mission
+Publisher : Anco
+Year      : 1988
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : XR35.Slave

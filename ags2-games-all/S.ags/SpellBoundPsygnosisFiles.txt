@@ -1,0 +1,6 @@
+Name      : Spell Bound
+Publisher : Psyclapse
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : SpellBoundPsygnosisFiles.slave

@@ -1,5 +1,6 @@
-Name      : BloodNet
-Publisher : Gametek / Microprose
+Name      : BloodNet: A Cyberpunk Gothic
+Publisher : Gametek, MicroProse
 Year      : 1995
+Genre     : Adventure - Point & Click
 Players   : 1
 RunFile   : Bloodnet.slave

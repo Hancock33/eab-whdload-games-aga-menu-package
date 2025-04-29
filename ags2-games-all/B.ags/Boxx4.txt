@@ -1,0 +1,6 @@
+Name      : Boxx4
+Publisher : Retroguru
+Year      : 15/07/1905
+Genre     : Game
+Players   : 1
+RunFile   : Boxx4.slave

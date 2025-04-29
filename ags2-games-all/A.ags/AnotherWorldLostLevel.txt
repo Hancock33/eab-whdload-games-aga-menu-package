@@ -1,0 +1,6 @@
+Name      : Another World: The Lost Level
+Publisher : U.S. Gold
+Year      : 2017
+Genre     : Platform - Adventure
+Players   : 1
+RunFile   : AnotherWorldLostLevel.Slave

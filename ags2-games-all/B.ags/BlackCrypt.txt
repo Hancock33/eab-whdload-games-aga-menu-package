@@ -1,0 +1,6 @@
+Name      : Black Crypt
+Publisher : Electronic Arts
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : BlackCrypt.Slave

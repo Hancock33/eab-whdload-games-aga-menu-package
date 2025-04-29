@@ -1,0 +1,6 @@
+Name      : Cruncher Factory
+Publisher : Anco, Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 2
+RunFile   : CruncherFactory.slave

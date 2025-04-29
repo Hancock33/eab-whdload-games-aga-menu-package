@@ -1,0 +1,6 @@
+Name      : E-Motion
+Publisher : U.S. Gold
+Year      : 1990
+Genre     : Puzzle - Physics
+Players   : 2
+RunFile   : EMotion.Slave

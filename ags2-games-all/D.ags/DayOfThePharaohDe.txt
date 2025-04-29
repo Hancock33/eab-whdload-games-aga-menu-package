@@ -1,0 +1,6 @@
+Name      : Day of the Pharaoh
+Publisher : Rainbow Arts
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : DayOfThePharaohDe.Slave

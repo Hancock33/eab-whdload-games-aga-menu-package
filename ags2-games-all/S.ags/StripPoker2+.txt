@@ -1,0 +1,6 @@
+Name      : Strip Poker II+
+Publisher : Anco, System 4
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : StripPoker2+.Slave

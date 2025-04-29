@@ -1,0 +1,6 @@
+Name      : Dark Fusion
+Publisher : Gremlin
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : DarkFusion.Slave

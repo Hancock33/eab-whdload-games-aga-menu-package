@@ -1,0 +1,6 @@
+Name      : Chuck Rock II: Son of Chuck
+Publisher : Core Design
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : ChuckRock2.slave

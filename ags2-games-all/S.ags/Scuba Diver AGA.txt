@@ -1,6 +1,0 @@
-Name      : Scuba Diver
-Version   : AGA
-Publisher : Unknown
-Genre     : Sport
-Players   : 1
-RunFile   : ScubaDiverAGA.slave

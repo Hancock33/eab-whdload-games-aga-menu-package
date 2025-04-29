@@ -1,0 +1,6 @@
+Name      : James Bond: The Stealth Affair
+Publisher : Interplay
+Year      : 1990
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : JamesBondStlthAffairNTSC.slave

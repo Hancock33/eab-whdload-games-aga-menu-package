@@ -1,0 +1,6 @@
+Name      : Human Killing Machine
+Publisher : GO!
+Year      : 1989
+Genre     : Fighting
+Players   : 1
+RunFile   : HumanKillingMachine.slave

@@ -1,0 +1,6 @@
+Name      : Challenger
+Publisher : Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : Challenger.slave

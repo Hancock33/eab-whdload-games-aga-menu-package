@@ -1,5 +1,6 @@
 Name      : Lorna
-Publisher : Topo Soft
+Publisher : Topo Soft, Ubi Soft
 Year      : 1990
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Lorna.slave

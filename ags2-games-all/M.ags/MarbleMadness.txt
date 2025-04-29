@@ -1,0 +1,6 @@
+Name      : Marble Madness
+Publisher : Ariolasoft, Electronic Arts
+Year      : 1986
+Genre     : Game
+Players   : 2
+RunFile   : MarbleMadness.slave

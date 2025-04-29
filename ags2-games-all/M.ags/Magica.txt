@@ -1,0 +1,6 @@
+Name      : Magica
+Publisher : Juan J. Martinez
+Year      : 2020
+Genre     : Game
+Players   : 1
+RunFile   : Magica.slave

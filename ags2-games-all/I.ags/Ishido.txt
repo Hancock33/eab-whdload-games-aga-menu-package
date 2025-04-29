@@ -1,0 +1,6 @@
+Name      : Ishido: The Way of Stones
+Publisher : Accolade
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Ishido.Slave

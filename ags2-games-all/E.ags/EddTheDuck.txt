@@ -1,0 +1,6 @@
+Name      : Edd the Duck!
+Publisher : Impulze
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : EddTheDuck.slave

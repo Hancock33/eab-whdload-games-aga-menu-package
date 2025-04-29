@@ -1,0 +1,6 @@
+Name      : Metal Gear
+Publisher : Hoffman
+Year      : 2021
+Genre     : Game
+Players   : 1
+RunFile   : MetalGear.Slave

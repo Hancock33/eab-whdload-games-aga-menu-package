@@ -1,0 +1,6 @@
+Name      : Les Portes Du Temps
+Publisher : Legend
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : PortesDuTempsFr.Slave

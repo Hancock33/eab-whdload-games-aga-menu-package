@@ -1,0 +1,6 @@
+Name      : Mortal Kombat
+Publisher : Acclaim, Virgin
+Year      : 1994
+Genre     : Fighting
+Players   : 2
+RunFile   : MortalKombat.Slave

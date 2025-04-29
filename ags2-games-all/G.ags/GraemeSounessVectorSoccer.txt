@@ -1,0 +1,6 @@
+Name      : Graeme Souness Vector Soccer
+Publisher : Impulze
+Year      : 1991
+Genre     : Sports - Soccer
+Players   : 8 (2 simultaneously)
+RunFile   : GraemeSounessVectorSoccer.Slave

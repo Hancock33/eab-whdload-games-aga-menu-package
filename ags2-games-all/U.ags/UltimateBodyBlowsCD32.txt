@@ -1,0 +1,6 @@
+Name      : Ultimate Body Blows
+Publisher : Team 17
+Year      : 1994
+Genre     : Fighting
+Players   : 42 (2 simultaneously)
+RunFile   : UltimateBodyBlowsCD32.slave

@@ -1,0 +1,6 @@
+Name      : Gulp!
+Publisher : I.C.E.
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : GulpCD32.slave

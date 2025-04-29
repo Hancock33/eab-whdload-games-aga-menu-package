@@ -1,0 +1,6 @@
+Name      : Sensible Soccer
+Publisher : Renegade
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 20 (2 simultaneously)
+RunFile   : SensibleSoccer512KB.Slave

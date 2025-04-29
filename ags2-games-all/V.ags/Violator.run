@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:V/Violator/Violator.Slave
+;RunFile=A-Games:V/Violator/Violator.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:V/Violator/"
 IF EXISTS ENV:whdloadargs
-  whdload "Violator.Slave" $whdloadargs
+  whdload "Violator.slave" $whdloadargs
 ELSE
-  whdload "Violator.Slave"
+  whdload "Violator.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

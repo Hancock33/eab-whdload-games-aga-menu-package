@@ -1,0 +1,6 @@
+Name      : Dynasty Wars
+Publisher : Capcom, U.S. Gold
+Year      : 1990
+Genre     : Beat'em Up
+Players   : 2
+RunFile   : DynastyWars.slave

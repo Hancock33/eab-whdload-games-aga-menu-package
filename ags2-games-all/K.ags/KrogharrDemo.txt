@@ -1,0 +1,6 @@
+Name      : Krogharr Demo
+Publisher : 
+Year      : 2024
+Genre     : Game
+Players   : 1
+RunFile   : KrogharrDemo.Slave

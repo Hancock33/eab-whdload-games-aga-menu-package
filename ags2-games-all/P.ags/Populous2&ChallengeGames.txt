@@ -1,0 +1,6 @@
+Name      : Populous II: The Challenge Games
+Publisher : Bullfrog
+Year      : 1991
+Genre     : Strategy - God Game
+Players   : 1 (2 with serial link)
+RunFile   : Populous2&ChallengeGames.slave

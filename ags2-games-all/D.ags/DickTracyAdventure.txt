@@ -1,0 +1,6 @@
+Name      : Dick Tracy: The Crime Solving Adventure
+Publisher : Disney
+Year      : 1991
+Genre     : Adventure
+Players   : 1
+RunFile   : DickTracyAdventure.Slave

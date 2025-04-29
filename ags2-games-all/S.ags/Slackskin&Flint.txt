@@ -1,0 +1,6 @@
+Name      : Slackskin & Flint
+Publisher : Fun Factory
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : Slackskin&Flint.Slave

@@ -1,0 +1,6 @@
+Name      : Saint & Greavsie
+Publisher : Grandslam 
+Year      : 1989
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : Saint&Greavsie.Slave

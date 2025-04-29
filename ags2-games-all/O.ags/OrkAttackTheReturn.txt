@@ -1,0 +1,6 @@
+Name      : Ork Attack: The Return
+Publisher : Ian West
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : OrkAttackTheReturn.Slave

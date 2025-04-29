@@ -1,0 +1,6 @@
+Name      : Hudson Hawk
+Publisher : Ocean
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : HudsonHawk.Slave

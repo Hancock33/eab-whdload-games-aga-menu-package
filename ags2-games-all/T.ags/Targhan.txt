@@ -1,5 +1,6 @@
 Name      : Targhan
-Publisher : Silmarils
+Publisher : Gainstar, Silmarils
 Year      : 1989
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Targhan.Slave

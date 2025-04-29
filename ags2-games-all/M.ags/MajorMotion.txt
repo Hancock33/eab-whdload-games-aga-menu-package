@@ -1,0 +1,6 @@
+Name      : Major Motion
+Publisher : Microdeal
+Year      : 1988
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : MajorMotion.Slave

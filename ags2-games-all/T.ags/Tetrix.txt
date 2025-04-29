@@ -1,5 +1,6 @@
-Name      : Tetrix
-Publisher : Amiga Fun Gold Edition (CompuTec Verlag)
+Name      : Tetrix: The Next Generation
+Publisher : Amiga Fun Gold Edition, Amigo!
 Year      : 1991
-Players   : 1 - 2 (2 simultaneous)
+Genre     : Puzzle - Stacking
+Players   : 2
 RunFile   : Tetrix.Slave

@@ -1,0 +1,6 @@
+Name      : Antares: Der Griff Nach Den Sternen
+Publisher : Bomico
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : AntaresDe.Slave

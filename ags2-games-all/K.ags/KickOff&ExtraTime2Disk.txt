@@ -1,0 +1,6 @@
+Name      : Kick Off & Extra Time
+Publisher : Anco
+Year      : 1989
+Genre     : Sports - Soccer
+Players   : 8 (2 simultaneously)
+RunFile   : KickOff&ExtraTime2Disk.Slave

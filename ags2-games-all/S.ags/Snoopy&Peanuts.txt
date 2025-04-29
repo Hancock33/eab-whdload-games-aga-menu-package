@@ -1,0 +1,6 @@
+Name      : Snoopy & Peanuts
+Publisher : The Edge
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : Snoopy&Peanuts.Slave

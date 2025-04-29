@@ -1,0 +1,6 @@
+Name      : The Playroom: La Chambre De Peppy
+Publisher : Infogrames
+Year      : 1992
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : PlayroomFr.Slave

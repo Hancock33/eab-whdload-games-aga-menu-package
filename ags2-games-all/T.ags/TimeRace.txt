@@ -1,0 +1,6 @@
+Name      : Time Race
+Publisher : Loriciel
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : TimeRace.Slave

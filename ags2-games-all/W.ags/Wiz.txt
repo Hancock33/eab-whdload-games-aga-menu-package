@@ -1,0 +1,6 @@
+Name      : Wiz: Quest for the Magic Lantern
+Publisher : Mutation Software
+Year      : 2020
+Genre     : Game
+Players   : 1
+RunFile   : Wiz.Slave

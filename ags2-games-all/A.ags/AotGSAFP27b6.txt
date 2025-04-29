@@ -1,0 +1,6 @@
+Name      : The Attack of the Green Smelly Aliens From Planet 27b/6
+Publisher : Amiga Future, Amiga Power
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : AotGSAFP27b6.Slave

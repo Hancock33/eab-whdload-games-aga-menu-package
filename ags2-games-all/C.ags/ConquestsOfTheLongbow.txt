@@ -1,0 +1,6 @@
+Name      : Conquests of the Longbow
+Publisher : Sierra
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : ConquestsOfTheLongbow.slave

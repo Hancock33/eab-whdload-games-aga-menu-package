@@ -1,0 +1,6 @@
+Name      : World Games
+Publisher : Epyx, U.S. Gold
+Year      : 1986
+Genre     : Sports - Multi-Event
+Players   : 8 (taking turns)
+RunFile   : WorldGamesNTSC.Slave

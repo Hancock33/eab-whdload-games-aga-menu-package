@@ -1,5 +1,6 @@
 Name      : Cytron
 Publisher : Psygnosis
 Year      : 1992
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Cytron.slave

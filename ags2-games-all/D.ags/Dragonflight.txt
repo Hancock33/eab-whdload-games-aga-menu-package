@@ -1,6 +1,6 @@
 Name      : Dragonflight
 Publisher : Thalion
 Year      : 1990
-Genre     : Adventure - RPG 2D
-Players   : 1 Only
+Genre     : RPG
+Players   : 1
 RunFile   : Dragonflight.Slave

@@ -1,0 +1,6 @@
+Name      : Moebius
+Publisher : Origin
+Year      : 1988
+Genre     : RPG
+Players   : 1
+RunFile   : MoebiusNTSC.Slave

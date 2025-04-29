@@ -1,0 +1,6 @@
+Name      : Civilization
+Publisher : MicroProse
+Year      : 1994
+Genre     : Strategy
+Players   : 1
+RunFile   : CivilizationCD.Slave

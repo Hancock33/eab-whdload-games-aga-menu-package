@@ -1,0 +1,6 @@
+Name      : Last Ninja 2: Back With a Vengeance
+Publisher : System 3
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : LastNinja2.slave

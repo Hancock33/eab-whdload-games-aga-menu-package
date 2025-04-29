@@ -1,6 +1,0 @@
-Name      : Monkey Business
-Publisher : Other Valley
-Year      : 1985
-Genre     : Platform
-Players   : 1
-RunFile   : MonkeyBusiness.slave

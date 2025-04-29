@@ -1,0 +1,6 @@
+Name      : Quasar Wars
+Publisher : Light Designs
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : QuasarWars.Slave

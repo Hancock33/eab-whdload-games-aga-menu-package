@@ -1,0 +1,6 @@
+Name      : Black Viper
+Publisher : neo
+Year      : 1996
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : BlackViperAGA.slave

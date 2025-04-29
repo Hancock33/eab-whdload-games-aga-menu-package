@@ -1,0 +1,6 @@
+Name      : Tubular Worlds
+Publisher : Dongleware
+Year      : 1994
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : TubularWorldsAGA.slave

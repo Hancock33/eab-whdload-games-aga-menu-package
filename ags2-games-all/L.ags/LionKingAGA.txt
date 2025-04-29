@@ -1,0 +1,6 @@
+Name      : The Lion King
+Publisher : Virgin
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : LionKingAGA.Slave

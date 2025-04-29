@@ -1,0 +1,6 @@
+Name      : Top Gear 2
+Publisher : Gremlin
+Year      : 1994
+Genre     : Racing - Arcade
+Players   : 2
+RunFile   : TopGear2.Slave

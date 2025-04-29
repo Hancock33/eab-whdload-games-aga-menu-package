@@ -1,0 +1,6 @@
+Name      : American Tag-Team Wrestling
+Publisher : Zeppelin
+Year      : 1992
+Genre     : Sports - Wrestling
+Players   : 2
+RunFile   : AmericanTagTeamWrestling.Slave

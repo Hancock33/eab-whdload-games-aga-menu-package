@@ -1,0 +1,6 @@
+Name      : Brataccas
+Publisher : Mindscape, Psygnosis
+Year      : 1986
+Genre     : Action Adventure
+Players   : 1
+RunFile   : BrataccasNTSC.Slave

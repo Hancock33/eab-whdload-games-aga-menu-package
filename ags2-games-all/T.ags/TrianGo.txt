@@ -1,5 +1,6 @@
 Name      : TrianGo
-Publisher : California Dreams (Logical Design Works)
+Publisher : California Dreams
 Year      : 1988
-Players   : 1 - 4 (1 simultaneous)
+Genre     : Game
+Players   : 4 (taking turns)
 RunFile   : TrianGO.Slave

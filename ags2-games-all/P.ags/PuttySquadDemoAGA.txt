@@ -1,0 +1,6 @@
+Name      : Putty Squad
+Publisher : System 3
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : PuttySquadDemoAGA.Slave

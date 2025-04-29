@@ -1,0 +1,6 @@
+Name      : Time Runners 27: Red Night
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners27.Slave

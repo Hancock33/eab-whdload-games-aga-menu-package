@@ -1,0 +1,6 @@
+Name      : Regent
+Publisher : Linel
+Year      : 1992
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : RegentDe.slave

@@ -1,0 +1,6 @@
+Name      : La Aventura Espacial
+Publisher : Aventuras AD
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : LaAventuraEspacialEs.slave

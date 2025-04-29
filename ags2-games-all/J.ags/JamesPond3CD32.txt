@@ -1,0 +1,6 @@
+Name      : James Pond 3: Operation Starfi5h
+Publisher : Millennium
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : JamesPond3CD32.slave

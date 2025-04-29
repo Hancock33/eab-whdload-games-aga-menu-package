@@ -1,0 +1,6 @@
+Name      : Robin Hood: Legend Quest
+Publisher : Codemasters
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : RobinHoodLegendQuest.slave

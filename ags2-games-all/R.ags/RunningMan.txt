@@ -1,0 +1,6 @@
+Name      : The Running Man
+Publisher : Grandslam 
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : RunningMan.Slave

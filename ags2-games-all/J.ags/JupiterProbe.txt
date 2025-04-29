@@ -1,0 +1,6 @@
+Name      : Jupiter Probe
+Publisher : Microdeal
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : JupiterProbe.Slave

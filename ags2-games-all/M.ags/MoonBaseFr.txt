@@ -1,0 +1,6 @@
+Name      : Moonbase: Lunar Colony Simulator
+Publisher : Wesson
+Year      : 13/06/1905
+Genre     : Strategy
+Players   : 1
+RunFile   : MoonBaseFr.slave

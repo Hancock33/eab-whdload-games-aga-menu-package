@@ -1,0 +1,6 @@
+Name      : Rugby: The World Cup
+Publisher : Domark
+Year      : 1991
+Genre     : Sports - Rugby
+Players   : 16 (2 simultaneously)
+RunFile   : RugbyTheWorldCup.Slave

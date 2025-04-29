@@ -1,0 +1,6 @@
+Name      : Back to the Future III
+Publisher : Image Works, Konami
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : BackToTheFuturePart3NTSC.Slave

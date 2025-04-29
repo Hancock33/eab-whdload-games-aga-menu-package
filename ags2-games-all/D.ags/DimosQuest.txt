@@ -1,0 +1,6 @@
+Name      : Dimo's Quest
+Publisher : Boeder Games
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : DimosQuest.slave

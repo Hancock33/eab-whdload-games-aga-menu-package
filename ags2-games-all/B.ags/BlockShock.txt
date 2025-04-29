@@ -1,0 +1,6 @@
+Name      : Block Shock: The Last Chance
+Publisher : Kingsoft
+Year      : 1991
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : BlockShock.Slave

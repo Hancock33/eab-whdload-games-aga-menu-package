@@ -1,0 +1,6 @@
+Name      : Mortal Kombat II
+Publisher : Acclaim
+Year      : 1994
+Genre     : Fighting
+Players   : 2
+RunFile   : MortalKombat2.slave

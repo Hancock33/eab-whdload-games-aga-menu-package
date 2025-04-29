@@ -1,0 +1,6 @@
+Name      : 4D Sports Boxing
+Publisher : Electronic Arts, Mindscape
+Year      : 1991
+Genre     : Sports - Boxing
+Players   : 2
+RunFile   : 4DSportsBoxing.slave

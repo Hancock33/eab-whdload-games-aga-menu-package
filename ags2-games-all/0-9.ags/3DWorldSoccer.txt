@@ -1,0 +1,6 @@
+Name      : 3D World Soccer
+Publisher : Simulmondo
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 1
+RunFile   : 3DWorldSoccer.Slave

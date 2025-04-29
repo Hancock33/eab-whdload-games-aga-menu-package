@@ -1,5 +1,6 @@
-Name      : Armalyte
+Name      : Armalyte: The Final Run
 Publisher : Thalamus
 Year      : 1991
-Players   : 1 Only
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Armalyte.Slave

@@ -1,0 +1,6 @@
+Name      : Xmas Lemmings 1991
+Publisher : Psygnosis
+Year      : 1991
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : LemmingsXmasDemo1991.slave

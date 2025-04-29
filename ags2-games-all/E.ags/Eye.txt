@@ -1,5 +1,6 @@
 Name      : Eye
-Publisher : Endurance (Prism Leisure)
+Publisher : Endurance
 Year      : 1988
-Players   : 1 - 4 (1 simultaneous)
+Genre     : Game
+Players   : 4 (taking turns)
 RunFile   : Eye.Slave

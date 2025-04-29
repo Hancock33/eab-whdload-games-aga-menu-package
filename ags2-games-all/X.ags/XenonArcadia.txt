@@ -1,0 +1,6 @@
+Name      : Xenon (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1988
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : XenonArcadia.slave

@@ -1,0 +1,6 @@
+Name      : Ice Runner
+Publisher : Magic Soft
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : IceRunner.Slave

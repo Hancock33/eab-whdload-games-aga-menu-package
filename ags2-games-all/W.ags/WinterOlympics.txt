@@ -1,0 +1,6 @@
+Name      : Winter Olympics
+Publisher : U.S. Gold
+Year      : 1993
+Genre     : Sports - Multi-Event
+Players   : 4 (taking turns)
+RunFile   : WinterOlympics.Slave

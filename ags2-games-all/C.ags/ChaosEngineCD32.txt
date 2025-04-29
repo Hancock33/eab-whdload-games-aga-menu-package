@@ -1,0 +1,6 @@
+Name      : The Chaos Engine
+Publisher : Renegade
+Year      : 1994
+Genre     : Run & Gun
+Players   : 2
+RunFile   : ChaosEngineCD32.slave

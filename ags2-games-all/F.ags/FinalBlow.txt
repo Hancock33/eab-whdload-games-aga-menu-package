@@ -1,0 +1,6 @@
+Name      : Final Blow
+Publisher : Storm
+Year      : 1991
+Genre     : Sports - Boxing
+Players   : 2
+RunFile   : FinalBlow.Slave

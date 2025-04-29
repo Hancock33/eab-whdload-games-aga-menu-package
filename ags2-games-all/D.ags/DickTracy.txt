@@ -1,0 +1,6 @@
+Name      : Dick Tracy (Titus)
+Publisher : Titus
+Year      : 1990
+Genre     : Run & Gun
+Players   : 1
+RunFile   : DickTracy.Slave

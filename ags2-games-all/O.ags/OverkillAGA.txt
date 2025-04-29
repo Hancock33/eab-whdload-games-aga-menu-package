@@ -1,0 +1,6 @@
+Name      : Overkill
+Publisher : DigiSoft, Mindscape, The Wild Bunch
+Year      : 1992
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
+RunFile   : OverkillAGA.slave

@@ -1,5 +1,6 @@
 Name      : Eco
 Publisher : Ocean
-Year      : 1988
+Year      : 1987
+Genre     : Game
 Players   : 1
 RunFile   : Eco.Slave

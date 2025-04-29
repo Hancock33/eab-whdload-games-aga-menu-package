@@ -1,0 +1,6 @@
+Name      : Raffles
+Publisher : The Edge
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : RafflesCDTV.slave

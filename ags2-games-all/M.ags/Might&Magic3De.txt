@@ -1,0 +1,6 @@
+Name      : Might & Magic III: Die Inseln Von Terra
+Publisher : New World Computing, Softgold, U.S. Gold
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : Might&Magic3De.Slave

@@ -1,0 +1,6 @@
+Name      : Tetris (Infogrames)
+Publisher : Infogrames, Spectrum HoloByte
+Year      : 1988
+Genre     : Puzzle - Stacking
+Players   : 6 (taking turns)
+RunFile   : TetrisInfogrames.slave

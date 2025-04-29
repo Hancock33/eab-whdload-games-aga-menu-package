@@ -1,0 +1,6 @@
+Name      : Dragon's Lair: Escape From Singe's Castle
+Publisher : ReadySoft
+Year      : 1989
+Genre     : Action Adventure
+Players   : 1
+RunFile   : DragonsLair&EscapeSlwNTSC.slave

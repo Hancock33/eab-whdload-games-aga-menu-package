@@ -1,0 +1,6 @@
+Name      : The Power
+Publisher : Demonware
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : Power.slave

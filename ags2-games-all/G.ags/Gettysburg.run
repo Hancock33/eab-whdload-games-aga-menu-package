@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:G/Gettysburg/Gettysburg.Slave
+;RunFile=A-Games:G/Gettysburg/Gettysburg.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:G/Gettysburg/"
 IF EXISTS ENV:whdloadargs
-  whdload "Gettysburg.Slave" $whdloadargs
+  whdload "Gettysburg.slave" $whdloadargs
 ELSE
-  whdload "Gettysburg.Slave"
+  whdload "Gettysburg.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

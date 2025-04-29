@@ -1,0 +1,6 @@
+Name      : Blastaball (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1987
+Genre     : Sports - Future/Fantasy
+Players   : 2
+RunFile   : BlastaBallArcadia.Slave

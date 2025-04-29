@@ -1,0 +1,6 @@
+Name      : Ivan 'Ironman' Stewart's Super Off Road
+Publisher : Virgin Mastertronic
+Year      : 1990
+Genre     : Racing - Top-Down
+Players   : 3
+RunFile   : SuperOffRoad.Slave

@@ -1,0 +1,6 @@
+Name      : P.P. Hammer & His Pneumatic Weapon
+Publisher : Demonware
+Year      : 1991
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : PPHammer.Slave

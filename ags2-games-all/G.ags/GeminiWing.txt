@@ -1,0 +1,6 @@
+Name      : Gemini Wing
+Publisher : Virgin Mastertronic
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : GeminiWing.Slave

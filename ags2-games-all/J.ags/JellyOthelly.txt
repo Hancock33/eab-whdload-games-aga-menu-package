@@ -1,0 +1,6 @@
+Name      : Jelly Othelly
+Publisher : Daisy Software
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : JellyOthelly.slave

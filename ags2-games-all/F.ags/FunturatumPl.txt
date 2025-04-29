@@ -1,0 +1,6 @@
+Name      : Funturatum
+Publisher : Twin Spark Soft
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : FunturatumPl.slave

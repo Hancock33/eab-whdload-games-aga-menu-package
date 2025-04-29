@@ -1,0 +1,6 @@
+Name      : Gauntlet II
+Publisher : Mindscape, U.S. Gold
+Year      : 1989
+Genre     : Game
+Players   : 4
+RunFile   : Gauntlet2.Slave

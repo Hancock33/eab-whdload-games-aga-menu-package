@@ -1,0 +1,6 @@
+Name      : Trivial Pursuit: A New Beginning
+Publisher : Domark
+Year      : 1988
+Genre     : Game
+Players   : 6 (taking turns)
+RunFile   : TrivialPursuitANB.Slave

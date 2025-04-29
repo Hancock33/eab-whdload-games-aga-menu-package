@@ -1,0 +1,6 @@
+Name      : Battlestorm
+Publisher : Titus
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : BattleStormCDTV.Slave

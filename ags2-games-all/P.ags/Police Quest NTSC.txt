@@ -1,6 +1,0 @@
-Name      : Police Quest
-Version   : NTSC
-Publisher : Sierra
-Year      : 1987
-Players   : 1
-RunFile   : PoliceQuestNTSC.slave

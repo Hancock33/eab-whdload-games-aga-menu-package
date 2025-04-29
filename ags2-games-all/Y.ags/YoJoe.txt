@@ -1,0 +1,6 @@
+Name      : Yo! Joe!
+Publisher : Hudson Soft, Play Byte
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : YoJoe.Slave

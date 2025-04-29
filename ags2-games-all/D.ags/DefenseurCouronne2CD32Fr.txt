@@ -1,0 +1,6 @@
+Name      : Défenseur De La Couronne II
+Publisher : Commodore
+Year      : 1993
+Genre     : Adventure - Strategy
+Players   : 1
+RunFile   : DefenseurCouronne2CD32Fr.slave

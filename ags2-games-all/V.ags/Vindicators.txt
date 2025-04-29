@@ -1,5 +1,6 @@
 Name      : Vindicators
-Publisher : Domark
+Publisher : Domark, Tengen
 Year      : 1989
-Players   : 1 or 2, Simultaneous
+Genre     : Shoot'em Up - Multi-Scrolling
+Players   : 2
 RunFile   : Vindicators.Slave

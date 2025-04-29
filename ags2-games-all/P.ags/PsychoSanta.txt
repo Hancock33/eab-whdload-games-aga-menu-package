@@ -1,0 +1,6 @@
+Name      : Psycho Santa
+Publisher : The One
+Year      : 1993
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : PsychoSanta.Slave

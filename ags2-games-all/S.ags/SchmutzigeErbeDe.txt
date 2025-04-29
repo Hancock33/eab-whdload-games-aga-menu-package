@@ -1,0 +1,6 @@
+Name      : Erbe 2: Das Schmutzige Erbe
+Publisher : Comad
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : SchmutzigeErbeDe.Slave

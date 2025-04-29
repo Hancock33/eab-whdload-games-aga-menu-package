@@ -1,5 +1,6 @@
 Name      : Legacy
+Publisher : Hexodus
 Year      : 1991
-Genre     : Shooter - Walkabout
+Genre     : Game
 Players   : 1
 RunFile   : Legacy.Slave

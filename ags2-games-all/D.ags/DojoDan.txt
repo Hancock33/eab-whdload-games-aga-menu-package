@@ -1,0 +1,6 @@
+Name      : Dojo Dan
+Publisher : Europress Software
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : DojoDan.Slave

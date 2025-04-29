@@ -1,0 +1,6 @@
+Name      : Silent Service II
+Publisher : MicroProse
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SilentService2NTSC.slave

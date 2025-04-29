@@ -1,0 +1,6 @@
+Name      : Cybersphere Plus
+Publisher : Psycon
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : CyberspherePlus.slave

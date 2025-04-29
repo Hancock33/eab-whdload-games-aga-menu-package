@@ -1,0 +1,6 @@
+Name      : Resolution 101
+Publisher : Millennium
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : Resolution101.slave

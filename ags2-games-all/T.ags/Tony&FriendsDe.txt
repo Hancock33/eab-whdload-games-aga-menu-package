@@ -1,0 +1,6 @@
+Name      : Tony & Friends in Kellogg's Land
+Publisher : Rauser
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : Tony&FriendsDe.Slave

@@ -1,0 +1,6 @@
+Name      : Out Run
+Publisher : Sega, U.S. Gold
+Year      : 1988
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : OutRunNTSC.slave

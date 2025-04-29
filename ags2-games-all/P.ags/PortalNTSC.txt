@@ -1,0 +1,6 @@
+Name      : Portal: A Computer Novel
+Publisher : Activision
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : PortalNTSC.slave

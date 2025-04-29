@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:W/WalkerCrunchedNoSpeech/WalkerCrunchedNoSpeech.Slave
+;RunFile=A-Games:W/Walker/Walker.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -19,11 +19,11 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:W/WalkerCrunchedNoSpeech/"
+cd "A-Games:W/Walker/"
 IF EXISTS ENV:whdloadargs
-  whdload "WalkerCrunchedNoSpeech.Slave" $whdloadargs
+  whdload "Walker.slave" $whdloadargs
 ELSE
-  whdload "WalkerCrunchedNoSpeech.Slave"
+  whdload "Walker.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

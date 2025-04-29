@@ -1,0 +1,6 @@
+Name      : UMS (Universal Military Simulator)
+Publisher : Rainbird
+Year      : 1988
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : UniversalMilitarySim.Slave

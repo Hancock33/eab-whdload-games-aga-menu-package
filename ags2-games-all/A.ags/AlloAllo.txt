@@ -1,0 +1,6 @@
+Name      : Allo Allo! Cartoon Fun!
+Publisher : Alternative
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : AlloAllo.Slave

@@ -1,0 +1,6 @@
+Name      : Magic Serpent
+Publisher : Software 2000
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : MagicSerpent.Slave

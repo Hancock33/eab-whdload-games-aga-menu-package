@@ -1,0 +1,6 @@
+Name      : War Zone (Paradox)
+Publisher : Paradox, Prism Leisure
+Year      : 1991
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : WarzoneParadox.Slave

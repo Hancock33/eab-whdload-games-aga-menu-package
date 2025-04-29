@@ -1,0 +1,6 @@
+Name      : Burntime
+Publisher : Max Design
+Year      : 1994
+Genre     : Action RPG
+Players   : 2 (taking turns)
+RunFile   : BurntimeAGA.Slave

@@ -1,5 +1,6 @@
 Name      : Revelation!
 Publisher : Krisalis
 Year      : 1991
-Players   : 1 - 2 (1 simultaneous)
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Revelation.Slave

@@ -1,0 +1,6 @@
+Name      : Licence to Kill
+Publisher : Brøderbund
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : LicenceToKill.Slave

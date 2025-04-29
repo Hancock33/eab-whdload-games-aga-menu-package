@@ -1,0 +1,6 @@
+Name      : Surf Ninjas
+Publisher : MicroValue
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : SurfNinjasAGA.slave

@@ -1,0 +1,6 @@
+Name      : Manhattan Dealers
+Publisher : Silmarils
+Year      : 1988
+Genre     : Beat'em Up
+Players   : 1
+RunFile   : ManhattanDealersFr.Slave

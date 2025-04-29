@@ -1,0 +1,6 @@
+Name      : Barbarian II (Psygnosis)
+Publisher : Psygnosis
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Barbarian2Psygnosis.Slave

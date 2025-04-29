@@ -1,0 +1,6 @@
+Name      : Crack Down
+Publisher : Sega, U.S. Gold
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : Crackdown.slave

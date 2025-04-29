@@ -1,0 +1,6 @@
+Name      : Cannon Fodder
+Publisher : Virgin
+Year      : 1993
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : CannonFodderDe.Slave

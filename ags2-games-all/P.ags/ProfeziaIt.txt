@@ -1,0 +1,6 @@
+Name      : Profezia
+Publisher : Genias
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : ProfeziaIt.Slave

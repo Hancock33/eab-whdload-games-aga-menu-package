@@ -1,0 +1,6 @@
+Name      : Five-A-Side Soccer
+Publisher : Croteam
+Year      : 1998
+Genre     : Sports - Soccer
+Players   : 1
+RunFile   : FiveASideSoccer.Slave

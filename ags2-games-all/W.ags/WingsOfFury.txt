@@ -1,0 +1,6 @@
+Name      : Wings of Fury
+Publisher : Brøderbund
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : WingsOfFury.Slave

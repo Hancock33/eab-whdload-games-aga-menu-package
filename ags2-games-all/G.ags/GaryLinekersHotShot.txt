@@ -1,0 +1,6 @@
+Name      : Gary Lineker's Hot-Shot!
+Publisher : Gremlin
+Year      : 1990
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : GaryLinekersHotShot.Slave

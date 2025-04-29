@@ -1,0 +1,6 @@
+Name      : Nebulus 2: Pogo a Go Go
+Publisher : 21st Century
+Year      : 1991
+Genre     : Game
+Players   : 3 (taking turns)
+RunFile   : Nebulus2Files.slave

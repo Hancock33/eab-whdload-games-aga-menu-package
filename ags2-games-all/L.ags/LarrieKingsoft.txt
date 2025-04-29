@@ -1,0 +1,6 @@
+Name      : Larrie and the Robbery of the Ardies
+Publisher : Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : LarrieKingsoft.slave

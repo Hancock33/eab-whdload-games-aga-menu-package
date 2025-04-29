@@ -1,0 +1,6 @@
+Name      : Millenium: Return to Earth
+Publisher : Paragon
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : MilleniumNTSC.Slave

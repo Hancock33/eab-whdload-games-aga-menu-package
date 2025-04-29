@@ -1,0 +1,6 @@
+Name      : Warm Up
+Publisher : Genias
+Year      : 1991
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : WarmUp.Slave

@@ -1,0 +1,6 @@
+Name      : Curse of the Azure Bonds
+Publisher : SSI, U.S. Gold
+Year      : 1990
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : CurseOfTheAzureBonds.Slave

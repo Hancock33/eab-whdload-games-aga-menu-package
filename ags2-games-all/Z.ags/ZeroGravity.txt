@@ -1,0 +1,6 @@
+Name      : Zero Gravity
+Publisher : EAS, Microdeal
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : ZeroGravity.Slave

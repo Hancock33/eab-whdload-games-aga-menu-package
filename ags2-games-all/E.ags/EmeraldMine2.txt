@@ -1,0 +1,6 @@
+Name      : Emerald Mine II
+Publisher : Kingsoft
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : EmeraldMine2.slave

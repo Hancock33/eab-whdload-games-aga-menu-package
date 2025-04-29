@@ -1,0 +1,6 @@
+Name      : MiG-29 Fulcrum
+Publisher : Domark
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : MiG29Fulcrum.Slave

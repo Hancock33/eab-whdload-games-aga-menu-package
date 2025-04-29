@@ -1,0 +1,6 @@
+Name      : Capital Punishment
+Publisher : PXL
+Year      : 1996
+Genre     : Fighting
+Players   : 4 (2 simultaneously)
+RunFile   : CapitalPunishmentAGACD.Slave

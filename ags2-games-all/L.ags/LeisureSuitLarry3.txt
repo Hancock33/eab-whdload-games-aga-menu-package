@@ -1,0 +1,6 @@
+Name      : Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals!
+Publisher : Sierra
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : LeisureSuitLarry3.Slave

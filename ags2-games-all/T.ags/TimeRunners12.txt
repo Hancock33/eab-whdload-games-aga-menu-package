@@ -1,0 +1,6 @@
+Name      : Time Runners 12: A Target for the Cyborg
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners12.Slave

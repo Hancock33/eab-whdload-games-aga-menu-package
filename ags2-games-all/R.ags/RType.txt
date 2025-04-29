@@ -1,0 +1,6 @@
+Name      : R-Type
+Publisher : Activision, Electric Dreams
+Year      : 1989
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : RType.slave

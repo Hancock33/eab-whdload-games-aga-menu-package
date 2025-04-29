@@ -1,0 +1,6 @@
+Name      : Indianapolis 500: The Simulation
+Publisher : Electronic Arts
+Year      : 1990
+Genre     : Racing
+Players   : 1
+RunFile   : Indianapolis500.Slave

@@ -1,0 +1,6 @@
+Name      : The Black Cauldron
+Publisher : Disney, Sierra
+Year      : 1987
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : BlackCauldron.Slave

@@ -1,0 +1,6 @@
+Name      : Time Lock
+Publisher : Boeder Games
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : TimeLock.slave

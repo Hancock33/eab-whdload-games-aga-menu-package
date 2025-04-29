@@ -1,4 +1,6 @@
 Name      : Jetstrike
 Publisher : Rasputin
 Year      : 1993
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Jetstrike.Slave

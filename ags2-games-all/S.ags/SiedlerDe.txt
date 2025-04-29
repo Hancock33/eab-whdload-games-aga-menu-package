@@ -1,0 +1,6 @@
+Name      : Die Siedler
+Publisher : Blue Byte
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : SiedlerDe.slave

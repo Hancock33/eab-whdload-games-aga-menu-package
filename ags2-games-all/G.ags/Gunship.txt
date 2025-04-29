@@ -1,6 +1,6 @@
 Name      : Gunship
-Publisher : MicroProse Software
+Publisher : MicroProse
 Year      : 1988
-Genre     : Simulation - Flight
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Gunship.slave

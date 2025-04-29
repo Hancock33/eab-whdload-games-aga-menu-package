@@ -1,0 +1,6 @@
+Name      : Amberstar
+Publisher : Thalion
+Year      : 1992
+Genre     : RPG
+Players   : 1
+RunFile   : AmberstarFast.slave

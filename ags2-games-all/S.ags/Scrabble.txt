@@ -1,6 +1,6 @@
 Name      : Scrabble
-Publisher : US Gold
+Publisher : U.S. Gold
 Year      : 1992
-Genre     : Board - Miscellaneous
-Players   : 1 to 4
+Genre     : Board Game
+Players   : 4 (taking turns)
 RunFile   : Scrabble.Slave

@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:E/Epic/Epic.slave
+;RunFile=A-Games:E/Epic/Epic.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:E/Epic/"
 IF EXISTS ENV:whdloadargs
-  whdload "Epic.slave" $whdloadargs
+  whdload "Epic.Slave" $whdloadargs
 ELSE
-  whdload "Epic.slave"
+  whdload "Epic.Slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

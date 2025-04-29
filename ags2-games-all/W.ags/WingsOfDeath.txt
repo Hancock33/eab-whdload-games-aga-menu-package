@@ -1,0 +1,6 @@
+Name      : Wings of Death
+Publisher : Thalion
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : WingsOfDeath.slave

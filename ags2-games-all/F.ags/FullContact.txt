@@ -1,0 +1,6 @@
+Name      : Full Contact
+Publisher : Team 17
+Year      : 1991
+Genre     : Fighting
+Players   : 16 (2 simultaneously)
+RunFile   : FullContact.slave

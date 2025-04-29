@@ -1,0 +1,6 @@
+Name      : Deep Core
+Publisher : I.C.E.
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : DeepCore.slave

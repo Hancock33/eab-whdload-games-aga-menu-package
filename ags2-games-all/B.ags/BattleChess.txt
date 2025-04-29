@@ -1,0 +1,6 @@
+Name      : Battle Chess
+Publisher : C.T.O., DRO Soft, Electronic Arts, Interplay
+Year      : 1988
+Genre     : Board Game - Chess
+Players   : 2 (supports serial link)
+RunFile   : BattleChess.slave

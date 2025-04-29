@@ -1,0 +1,6 @@
+Name      : The Jetsons: George Jetson and the Legend of Robotopia
+Publisher : MicroIllusions
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : JetsonsLegendRobotopia.slave

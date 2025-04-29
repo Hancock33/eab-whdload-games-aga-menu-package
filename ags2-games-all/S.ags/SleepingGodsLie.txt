@@ -1,0 +1,6 @@
+Name      : Sleeping Gods Lie
+Publisher : Empire
+Year      : 1989
+Genre     : RPG
+Players   : 1
+RunFile   : SleepingGodsLie.Slave

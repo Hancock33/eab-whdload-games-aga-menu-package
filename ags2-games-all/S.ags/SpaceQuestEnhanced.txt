@@ -1,0 +1,6 @@
+Name      : Space Quest: Chapter 1 (Enhanced)
+Publisher : Sierra
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : SpaceQuestEnhanced.slave

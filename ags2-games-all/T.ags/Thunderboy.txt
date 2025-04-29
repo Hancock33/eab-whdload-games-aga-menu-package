@@ -1,6 +1,6 @@
-Name      : Thunderboy
-Publisher : Rainbow Arts
+Name      : Thunder Boy
+Publisher : DigiTek, Rainbow Arts
 Year      : 1987
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : ThunderBoy.Slave

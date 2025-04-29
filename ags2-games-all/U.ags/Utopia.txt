@@ -1,5 +1,6 @@
-Name      : Utopia
-Publisher : Gremlin
+Name      : Utopia: The Creation of a Nation
+Publisher : Gremlin, Konami
 Year      : 1991
+Genre     : Simulation - Construction
 Players   : 1
 RunFile   : Utopia.slave

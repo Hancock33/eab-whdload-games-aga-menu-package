@@ -1,0 +1,6 @@
+Name      : Fighter Duel Pro
+Publisher : Jaeger
+Year      : 1992
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : FighterDuelProNTSC.Slave

@@ -1,0 +1,6 @@
+Name      : Conflict: The Middle East Political Simulator
+Publisher : 16 Blitz, Virgin Mastertronic
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : ConflictMiddleEastPolSim.slave

@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:C/Crack/Crack.Slave
+;RunFile=A-Games:C/Crack/Crack.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:C/Crack/"
 IF EXISTS ENV:whdloadargs
-  whdload "Crack.Slave" $whdloadargs
+  whdload "Crack.slave" $whdloadargs
 ELSE
-  whdload "Crack.Slave"
+  whdload "Crack.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

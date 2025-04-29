@@ -1,6 +1,6 @@
 Name      : Crown
-Publisher : Starbyte Software
+Publisher : Starbyte, TopShots
 Year      : 1990
-Genre     : Arcade - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Crown.Slave

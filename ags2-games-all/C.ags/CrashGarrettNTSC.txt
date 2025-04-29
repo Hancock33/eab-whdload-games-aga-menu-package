@@ -1,0 +1,6 @@
+Name      : Crash Garrett
+Publisher : ERE Informatique
+Year      : 1988
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : CrashGarrettNTSC.slave

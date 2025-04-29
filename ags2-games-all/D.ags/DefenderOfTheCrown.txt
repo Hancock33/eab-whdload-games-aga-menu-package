@@ -1,0 +1,6 @@
+Name      : Defender of the Crown
+Publisher : Cinemaware
+Year      : 1986
+Genre     : Adventure - Strategy
+Players   : 1
+RunFile   : DefenderOfTheCrown.Slave

@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer 97/98
+Publisher : Cresswell Bros
+Year      : 1997
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOS9798.slave

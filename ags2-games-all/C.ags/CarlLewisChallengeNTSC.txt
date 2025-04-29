@@ -1,0 +1,6 @@
+Name      : The Carl Lewis Challenge
+Publisher : Psygnosis
+Year      : 1992
+Genre     : Sports - Multi-Event
+Players   : 4 (taking turns)
+RunFile   : CarlLewisChallengeNTSC.slave

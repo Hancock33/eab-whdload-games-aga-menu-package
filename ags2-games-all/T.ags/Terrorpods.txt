@@ -1,6 +1,6 @@
 Name      : Terrorpods
 Publisher : Psygnosis
 Year      : 1987
-Genre     : Strategy - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Terrorpods.Slave

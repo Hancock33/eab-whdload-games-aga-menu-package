@@ -1,0 +1,6 @@
+Name      : Turrican II: The Final Fight
+Publisher : Rainbow Arts
+Year      : 2022
+Genre     : Platform - Shooting
+Players   : 1
+RunFile   : Turrican2AGA.slave

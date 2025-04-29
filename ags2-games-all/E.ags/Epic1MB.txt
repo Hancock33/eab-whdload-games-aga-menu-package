@@ -1,0 +1,6 @@
+Name      : Epic
+Publisher : Ocean
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : Epic1MB.Slave

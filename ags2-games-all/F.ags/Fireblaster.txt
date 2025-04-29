@@ -1,5 +1,6 @@
 Name      : Fireblaster
-Publisher : Prism Leisure / Paradox
+Publisher : Paradox, Prism Leisure
 Year      : 1986
+Genre     : Shoot'em Up - Vertical
 Players   : 1
 RunFile   : Fireblaster.Slave

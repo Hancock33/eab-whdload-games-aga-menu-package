@@ -1,0 +1,6 @@
+Name      : Dan Dare III: The Escape
+Publisher : Virgin Mastertronic
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : DanDare3.Slave

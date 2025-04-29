@@ -1,0 +1,6 @@
+Name      : Manchester United
+Publisher : Krisalis
+Year      : 1990
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : ManchesterUnited.Slave

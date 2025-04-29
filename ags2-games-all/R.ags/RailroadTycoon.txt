@@ -1,0 +1,6 @@
+Name      : Railroad Tycoon
+Publisher : MicroProse
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : RailroadTycoon.slave

@@ -1,0 +1,6 @@
+Name      : Extractors: The Hanging Worlds of Zarg
+Publisher : Millennium
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : ExtractorsPreviewCD32.slave

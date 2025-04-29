@@ -1,7 +1,0 @@
-Name      : Vac-Suit Jack
-Version   : Demo
-Publisher : Mutation
-Year      : 1991
-Genre     : Platform
-Players   : 1
-RunFile   : VacSuitJackDemo.Slave

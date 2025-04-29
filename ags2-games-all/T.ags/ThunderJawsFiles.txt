@@ -1,0 +1,6 @@
+Name      : Thunder Jaws
+Publisher : Domark, Tengen
+Year      : 1991
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : ThunderJawsFiles.slave

@@ -1,0 +1,6 @@
+Name      : Super Delivery Boy: The Holiday Shift
+Publisher : Neeso Games
+Year      : 2022
+Genre     : Game
+Players   : 1
+RunFile   : SuperDeliveryBoyHS.slave

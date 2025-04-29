@@ -1,0 +1,6 @@
+Name      : Escape From the Planet of the Robot Monsters
+Publisher : Domark, Tengen
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : EscapeRobotMonsters.slave

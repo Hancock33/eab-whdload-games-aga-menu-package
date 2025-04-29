@@ -1,0 +1,6 @@
+Name      : Where in Europe Is Carmen Sandiego?
+Publisher : Brøderbund
+Year      : 1989
+Genre     : Adventure
+Players   : 1
+RunFile   : WIEuropeIsCarmenSandiego.Slave

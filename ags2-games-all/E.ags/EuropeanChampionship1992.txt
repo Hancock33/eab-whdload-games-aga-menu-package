@@ -1,0 +1,6 @@
+Name      : European Championship 1992
+Publisher : Elite
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : EuropeanChampionship1992.slave

@@ -1,0 +1,6 @@
+Name      : Total Carnage
+Publisher : I.C.E.
+Year      : 1994
+Genre     : Game
+Players   : 2
+RunFile   : TotalCarnageAGA.Slave

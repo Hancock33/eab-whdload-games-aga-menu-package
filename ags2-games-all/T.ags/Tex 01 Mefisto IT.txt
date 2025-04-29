@@ -1,6 +1,0 @@
-Name      : Tex 01: Mefisto
-Language  : Italian
-Publisher : Simulmondo
-Year      : 1993
-Players   : 1
-RunFile   : Tex01It.Slave

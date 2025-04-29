@@ -1,0 +1,6 @@
+Name      : Australo Piticus Mechanicus
+Publisher : Time Warp
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : AustraloPiticusMechanicus.Slave

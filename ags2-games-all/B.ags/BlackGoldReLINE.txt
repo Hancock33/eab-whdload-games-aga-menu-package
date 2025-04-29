@@ -1,0 +1,6 @@
+Name      : Black Gold
+Publisher : Electronic Zoo
+Year      : 1990
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : BlackGoldReLINE.Slave

@@ -1,0 +1,6 @@
+Name      : Count Duckula
+Publisher : Alternative
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : CountDuckula.slave

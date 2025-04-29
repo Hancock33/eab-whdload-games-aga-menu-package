@@ -1,0 +1,6 @@
+Name      : BattleTech: The Crescent Hawk's Inception
+Publisher : Infocom
+Year      : 1989
+Genre     : RPG
+Players   : 1
+RunFile   : BattletechNTSC.Slave

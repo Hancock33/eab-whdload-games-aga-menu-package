@@ -1,0 +1,6 @@
+Name      : Time Runners 13: Cyberkiller
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners13.Slave

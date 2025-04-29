@@ -1,0 +1,6 @@
+Name      : Zool: Ninja of the 'Nth' Dimension
+Publisher : Gremlin
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : ZoolAGA.slave

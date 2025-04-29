@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer 16/17
+Publisher : Renegade
+Year      : 2016
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOS1617.Slave

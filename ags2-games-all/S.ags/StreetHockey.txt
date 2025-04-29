@@ -1,0 +1,6 @@
+Name      : Street Hockey
+Publisher : Gonzo Games
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : StreetHockey.Slave

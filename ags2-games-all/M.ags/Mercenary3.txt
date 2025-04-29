@@ -1,0 +1,6 @@
+Name      : Mercenary III: The Dion Crisis
+Publisher : Novagen
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Mercenary3.Slave

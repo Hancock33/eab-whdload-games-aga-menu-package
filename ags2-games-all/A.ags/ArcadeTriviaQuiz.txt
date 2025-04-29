@@ -1,0 +1,6 @@
+Name      : Arcade Trivia Quiz
+Publisher : Zeppelin
+Year      : 1991
+Genre     : Game
+Players   : 3 (taking turns)
+RunFile   : ArcadeTriviaQuiz.slave

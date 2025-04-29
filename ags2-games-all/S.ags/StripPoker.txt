@@ -1,0 +1,6 @@
+Name      : Strip Poker
+Publisher : Anco, Artworx, Kingsoft
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : StripPoker.slave

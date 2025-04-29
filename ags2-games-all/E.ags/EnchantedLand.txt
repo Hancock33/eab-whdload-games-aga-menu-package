@@ -1,0 +1,6 @@
+Name      : Enchanted Land
+Publisher : Thalion
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : EnchantedLand.Slave

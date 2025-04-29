@@ -1,0 +1,6 @@
+Name      : Syndicate
+Publisher : Mindscape
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : SyndicateCD32.slave

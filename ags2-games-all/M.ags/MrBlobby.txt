@@ -1,0 +1,6 @@
+Name      : Mr. Blobby
+Publisher : Millennium
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : MrBlobby.slave

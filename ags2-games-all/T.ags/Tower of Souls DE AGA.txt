@@ -1,7 +1,0 @@
-Name      : Tower of Souls
-Language  : German
-Version   : AGA
-Publisher : Black Legend
-Year      : 1995
-Players   : 1
-RunFile   : SeelenturmAGADe.Slave

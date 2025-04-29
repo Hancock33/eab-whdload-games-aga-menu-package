@@ -1,0 +1,6 @@
+Name      : Mikro Mortal Tennis
+Publisher : CPU Italian, Epic Marketing
+Year      : 1999
+Genre     : Sports - Tennis
+Players   : 2
+RunFile   : MikroMortalTennis.slave

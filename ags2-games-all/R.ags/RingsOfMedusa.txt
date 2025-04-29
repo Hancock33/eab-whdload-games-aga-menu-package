@@ -1,0 +1,6 @@
+Name      : Rings of Medusa
+Publisher : Starbyte
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : RingsOfMedusa.Slave

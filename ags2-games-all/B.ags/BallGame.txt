@@ -1,0 +1,6 @@
+Name      : The Ball Game
+Publisher : Electronic Zoo
+Year      : 1991
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : BallGame.Slave

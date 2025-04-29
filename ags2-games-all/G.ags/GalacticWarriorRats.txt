@@ -1,0 +1,6 @@
+Name      : Galactic Warrior Rats
+Publisher : Alternative, Summit
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : GalacticWarriorRats.slave

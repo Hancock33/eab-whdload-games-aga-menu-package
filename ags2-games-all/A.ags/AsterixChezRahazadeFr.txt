@@ -1,0 +1,6 @@
+Name      : Astérix Chez Rahàzade
+Publisher : Coktel
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : AsterixChezRahazadeFr.slave

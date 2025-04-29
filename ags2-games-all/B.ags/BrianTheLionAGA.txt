@@ -1,0 +1,6 @@
+Name      : Brian the Lion
+Publisher : Psygnosis
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : BrianTheLionAGA.slave

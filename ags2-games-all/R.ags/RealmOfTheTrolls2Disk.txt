@@ -1,0 +1,6 @@
+Name      : Realm of the Trolls
+Publisher : GO!, Rainbow Arts
+Year      : 1988
+Genre     : Game
+Players   : 8 (taking turns)
+RunFile   : RealmOfTheTrolls2Disk.Slave

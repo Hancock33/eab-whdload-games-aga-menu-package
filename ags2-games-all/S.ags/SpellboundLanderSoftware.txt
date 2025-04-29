@@ -1,0 +1,6 @@
+Name      : Spellbound!
+Publisher : Lander
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SpellboundLanderSoftware.Slave

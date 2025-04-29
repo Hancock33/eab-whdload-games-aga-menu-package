@@ -1,5 +1,6 @@
-Name      : Firepower
-Publisher : MicroIllusions
+Name      : Fire Power
+Publisher : CDS, MicroIllusions
 Year      : 1988
-Players   : 1 or 2, Simultaneous
+Genre     : Game
+Players   : 2 (supports serial link)
 RunFile   : Firepower.Slave

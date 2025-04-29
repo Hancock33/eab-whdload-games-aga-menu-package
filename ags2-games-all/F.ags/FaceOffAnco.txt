@@ -1,0 +1,6 @@
+Name      : Face Off
+Publisher : Screech Productions
+Year      : 1989
+Genre     : Sports - Ice Hockey
+Players   : 2
+RunFile   : FaceOffAnco.Slave

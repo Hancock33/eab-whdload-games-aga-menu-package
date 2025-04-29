@@ -1,0 +1,6 @@
+Name      : Syndicate: American Revolt
+Publisher : Amiga Format, Amiga Game Zone
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : SyndicateAmericanRevolt.slave

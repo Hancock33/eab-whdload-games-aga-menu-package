@@ -1,0 +1,6 @@
+Name      : Metal Warrior
+Publisher : Cadaver
+Year      : 2004
+Genre     : Game
+Players   : 1
+RunFile   : MetalWarrior.Slave

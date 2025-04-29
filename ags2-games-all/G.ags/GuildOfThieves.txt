@@ -1,0 +1,6 @@
+Name      : The Guild of Thieves
+Publisher : Firebird, Rainbird
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : GuildOfThieves.Slave

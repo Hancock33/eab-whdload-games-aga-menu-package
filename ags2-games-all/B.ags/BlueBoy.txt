@@ -1,0 +1,6 @@
+Name      : Blue Boy
+Publisher : Micromania
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : BlueBoy.slave

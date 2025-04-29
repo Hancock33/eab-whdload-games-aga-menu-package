@@ -1,0 +1,6 @@
+Name      : Pinball Magic
+Publisher : Loriciels
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : PinballMagic.Slave

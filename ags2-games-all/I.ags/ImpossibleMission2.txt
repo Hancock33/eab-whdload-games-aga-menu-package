@@ -1,0 +1,6 @@
+Name      : Impossible Mission II
+Publisher : Epyx, U.S. Gold
+Year      : 1988
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : ImpossibleMission2.Slave

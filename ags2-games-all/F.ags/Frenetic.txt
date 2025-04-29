@@ -1,5 +1,6 @@
 Name      : Frenetic
 Publisher : Core Design
 Year      : 1991
-Players   : 1 or 2, Simultaneous
+Genre     : Shoot'em Up - Vertical
+Players   : 2
 RunFile   : Frenetic.Slave

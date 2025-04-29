@@ -1,0 +1,6 @@
+Name      : Computer Scrabble
+Publisher : Leisure Genius
+Year      : 1988
+Genre     : Board Game
+Players   : 4 (taking turns)
+RunFile   : ComputerScrabble.Slave

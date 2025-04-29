@@ -1,0 +1,6 @@
+Name      : Project 1
+Publisher : Shareware
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Project1.Slave

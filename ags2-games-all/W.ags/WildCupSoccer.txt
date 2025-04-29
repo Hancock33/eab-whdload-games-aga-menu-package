@@ -1,0 +1,6 @@
+Name      : Wild Cup Soccer
+Publisher : Millennium
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : WildCupSoccer.Slave

@@ -1,0 +1,6 @@
+Name      : Escape From Colditz
+Publisher : Digital Magic
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : EscapeFromColditz.slave

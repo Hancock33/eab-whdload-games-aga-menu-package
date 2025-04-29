@@ -1,0 +1,6 @@
+Name      : Take 'Em Out
+Publisher : Artronic
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : TakeEmOut.slave

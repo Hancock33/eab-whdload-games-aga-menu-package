@@ -1,0 +1,6 @@
+Name      : Battleship
+Publisher : Epyx
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : BattleshipNTSC.slave

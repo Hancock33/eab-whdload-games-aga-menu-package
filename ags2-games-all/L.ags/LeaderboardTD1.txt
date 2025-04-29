@@ -1,0 +1,6 @@
+Name      : Leader Board Tournament
+Publisher : Access
+Year      : 1986
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : LeaderboardTD1.slave

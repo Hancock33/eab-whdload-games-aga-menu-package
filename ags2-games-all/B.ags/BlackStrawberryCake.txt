@@ -1,0 +1,6 @@
+Name      : Trap Runner: Black Strawberry Cake
+Publisher : Retroguru
+Year      : 2019
+Genre     : Game
+Players   : 1
+RunFile   : BlackStrawberryCake.Slave

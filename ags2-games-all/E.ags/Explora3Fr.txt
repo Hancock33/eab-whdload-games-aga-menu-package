@@ -1,0 +1,6 @@
+Name      : Explora III: Sous Le Signe Du Serpent
+Publisher : 16 32 Diffusion
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : Explora3Fr.Slave

@@ -1,0 +1,6 @@
+Name      : Ports of Call
+Publisher : Aegis, The Disc Company
+Year      : 1987
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : PortsOfCallFr.slave

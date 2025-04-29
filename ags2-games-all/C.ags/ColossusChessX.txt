@@ -1,0 +1,6 @@
+Name      : Colossus Chess X
+Publisher : Artworx, CDS
+Year      : 1989
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : ColossusChessX.Slave

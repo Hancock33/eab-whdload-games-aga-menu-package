@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:E/Embryo/Embryo.Slave
+;RunFile=A-Games:E/Embryo/Embryo.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:E/Embryo/"
 IF EXISTS ENV:whdloadargs
-  whdload "Embryo.Slave" $whdloadargs
+  whdload "Embryo.slave" $whdloadargs
 ELSE
-  whdload "Embryo.Slave"
+  whdload "Embryo.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

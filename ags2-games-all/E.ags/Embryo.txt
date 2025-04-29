@@ -1,5 +1,6 @@
 Name      : Embryo
 Publisher : Black Legend
 Year      : 1994
-Players   : 1 Only
-RunFile   : Embryo.Slave
+Genre     : Game
+Players   : 2
+RunFile   : Embryo.slave

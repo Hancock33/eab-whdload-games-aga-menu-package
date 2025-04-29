@@ -1,3 +1,6 @@
 Name      : Wormsigns
-Players   : 1 - 12 (12 simultaneous)
+Publisher : Proxima
+Year      : 199X
+Genre     : Game
+Players   : 12
 RunFile   : Wormsigns.Slave

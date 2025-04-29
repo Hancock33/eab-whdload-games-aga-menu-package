@@ -1,0 +1,6 @@
+Name      : Zerosphere
+Publisher : Polyplay
+Year      : 2015
+Genre     : Game
+Players   : 1
+RunFile   : Zerosphere.slave

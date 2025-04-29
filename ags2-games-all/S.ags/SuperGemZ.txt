@@ -1,0 +1,6 @@
+Name      : Super Gem'Z
+Publisher : Software 2000 (Unreleased)
+Year      : 1991
+Genre     : Game
+Players   : 4
+RunFile   : SuperGemZ.slave

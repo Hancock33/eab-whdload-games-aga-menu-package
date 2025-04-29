@@ -1,0 +1,6 @@
+Name      : Chamber of the Sci-Mutant Priestess
+Publisher : Draconian
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : ChamberSciMutantPrstNTSC.slave

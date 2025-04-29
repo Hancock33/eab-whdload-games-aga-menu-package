@@ -1,0 +1,6 @@
+Name      : Maya
+Publisher : Silmarils
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : MayaFast.slave

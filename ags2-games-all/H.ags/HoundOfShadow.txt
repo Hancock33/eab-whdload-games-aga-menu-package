@@ -1,0 +1,6 @@
+Name      : The Hound of Shadow
+Publisher : Electronic Arts
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : HoundOfShadow.Slave

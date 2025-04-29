@@ -1,0 +1,6 @@
+Name      : SportTime Ten Pin Bowling (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1988
+Genre     : Sports - Bowling
+Players   : 2 (taking turns)
+RunFile   : TenPinBowlingArcadia.Slave

@@ -1,0 +1,6 @@
+Name      : Gear Works
+Publisher : Hollyware, The Software Business
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : GearWorks.Slave

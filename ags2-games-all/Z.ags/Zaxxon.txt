@@ -1,0 +1,6 @@
+Name      : Zaxxon
+Publisher : Bignonia
+Year      : 1995
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Zaxxon.slave

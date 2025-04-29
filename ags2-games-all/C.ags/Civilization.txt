@@ -1,6 +1,6 @@
 Name      : Civilization
-Publisher : Software Demon
+Publisher : MicroProse
 Year      : 1994
-Genre     : Strategy - Miscellaneous
-Players   : 1 Only
+Genre     : Strategy
+Players   : 1
 RunFile   : Civilization.Slave

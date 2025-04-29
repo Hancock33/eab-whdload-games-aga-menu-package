@@ -1,0 +1,6 @@
+Name      : DeathBringer (Spotlight)
+Publisher : Spotlight
+Year      : 1989
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : DeathBringerSpotlightNTSC.Slave

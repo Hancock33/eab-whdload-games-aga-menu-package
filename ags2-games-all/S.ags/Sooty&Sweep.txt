@@ -1,0 +1,6 @@
+Name      : Sooty & Sweep
+Publisher : Alternative
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : Sooty&Sweep.Slave

@@ -1,0 +1,6 @@
+Name      : Scramble Spirits
+Publisher : Grandslam 
+Year      : 1990
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : ScrambleSpirits.Slave

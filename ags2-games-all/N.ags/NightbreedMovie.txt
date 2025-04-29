@@ -1,0 +1,6 @@
+Name      : Nightbreed: The Interactive Movie
+Publisher : Ocean
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : NightbreedMovie.Slave

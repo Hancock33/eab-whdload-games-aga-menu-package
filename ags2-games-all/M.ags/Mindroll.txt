@@ -1,6 +1,6 @@
 Name      : Mindroll
-Publisher : Epyx
+Publisher : Epyx, Thalamus
 Year      : 1988
-Genre     : Arcade - Labyrinth/Maze
-Players   : 1 Only
-RunFile   : Mindroll.Slave
+Genre     : Game
+Players   : 1
+RunFile   : Mindroll.slave

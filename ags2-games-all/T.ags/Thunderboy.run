@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "Thunderboy"
+  execute S:AGS2Favourites "T" "Thunder Boy"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

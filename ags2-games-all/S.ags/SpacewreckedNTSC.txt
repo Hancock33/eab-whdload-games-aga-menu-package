@@ -1,0 +1,6 @@
+Name      : Spacewrecked: 14 Billion Light Years From Earth
+Publisher : Gremlin, Konami
+Year      : 1991
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : SpacewreckedNTSC.Slave

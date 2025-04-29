@@ -1,0 +1,6 @@
+Name      : Dungeons of Avalon II: The Island of Darkness
+Publisher : Amiga Mania, CompuTec Verlag
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : DungeonsOfAvalon2.Slave

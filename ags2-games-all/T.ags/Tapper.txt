@@ -1,0 +1,6 @@
+Name      : Tapper
+Publisher : Old Bob
+Year      : 2023
+Genre     : Game
+Players   : 1
+RunFile   : Tapper.slave

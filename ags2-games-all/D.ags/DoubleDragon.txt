@@ -1,0 +1,6 @@
+Name      : Double Dragon
+Publisher : Arcadia, Melbourne House
+Year      : 1989
+Genre     : Beat'em Up
+Players   : 2
+RunFile   : DoubleDragon.Slave

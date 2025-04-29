@@ -1,0 +1,6 @@
+Name      : The Adventures of Quik & Silva
+Publisher : Amiga Fun
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : AdventuresOfQuik&Silva.Slave

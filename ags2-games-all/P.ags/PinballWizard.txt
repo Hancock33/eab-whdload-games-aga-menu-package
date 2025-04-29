@@ -1,0 +1,6 @@
+Name      : Pinball Wizard
+Publisher : Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : PinballWizard.Slave

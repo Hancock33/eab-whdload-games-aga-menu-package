@@ -1,0 +1,6 @@
+Name      : The Adventures of Willy Beamish
+Publisher : Dynamix
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : AdventuresOfWillyBeamish.slave

@@ -1,0 +1,6 @@
+Name      : Pit-Fighter
+Publisher : Domark, Tengen
+Year      : 1991
+Genre     : Fighting
+Players   : 2
+RunFile   : PitFighter.slave

@@ -1,0 +1,6 @@
+Name      : The Teller
+Publisher : Ubi Soft
+Year      : 1990
+Genre     : Game
+Players   : 3
+RunFile   : TellerFr.Slave

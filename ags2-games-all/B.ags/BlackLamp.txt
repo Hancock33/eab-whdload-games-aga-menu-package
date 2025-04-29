@@ -1,0 +1,6 @@
+Name      : Black Lamp
+Publisher : Firebird, Rainbird
+Year      : 1988
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : BlackLamp.slave

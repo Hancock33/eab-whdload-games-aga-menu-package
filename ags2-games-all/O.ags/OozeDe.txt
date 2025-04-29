@@ -1,0 +1,6 @@
+Name      : Ooze: Als Die Geister Mürbe Wurden
+Publisher : Dragonware Games
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : OozeDe.Slave

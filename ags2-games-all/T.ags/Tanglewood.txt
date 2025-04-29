@@ -1,6 +1,6 @@
 Name      : Tanglewood
-Publisher : Microdeal
+Publisher : Microdeal (MichTron)
 Year      : 1988
-Genre     : Adventure - Miscellaneous
-Players   : 1 Only
+Genre     : RPG
+Players   : 1
 RunFile   : Tanglewood.Slave

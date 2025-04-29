@@ -1,0 +1,6 @@
+Name      : Hugo
+Publisher : SilverRock
+Year      : 1992
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : HugoSe.Slave

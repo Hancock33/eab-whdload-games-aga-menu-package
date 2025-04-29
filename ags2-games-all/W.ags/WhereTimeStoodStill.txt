@@ -1,0 +1,6 @@
+Name      : Where Time Stood Still
+Publisher : Ocean
+Year      : 2014
+Genre     : Game
+Players   : 1
+RunFile   : WhereTimeStoodStill.Slave

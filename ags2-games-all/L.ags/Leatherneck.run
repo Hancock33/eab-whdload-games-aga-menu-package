@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/Leatherneck/Leatherneck.Slave
+;RunFile=A-Games:L/Leatherneck/Leatherneck.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:L/Leatherneck/"
 IF EXISTS ENV:whdloadargs
-  whdload "Leatherneck.Slave" $whdloadargs
+  whdload "Leatherneck.slave" $whdloadargs
 ELSE
-  whdload "Leatherneck.Slave"
+  whdload "Leatherneck.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

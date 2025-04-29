@@ -1,5 +1,6 @@
 Name      : Booly
 Publisher : Loriciel
 Year      : 1991
-Genre     : Brain - Puzzle
+Genre     : Game
+Players   : 4 (taking turns)
 RunFile   : Booly.Slave

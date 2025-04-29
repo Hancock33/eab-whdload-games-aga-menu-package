@@ -1,0 +1,6 @@
+Name      : Le Manoir De Mortvielle
+Publisher : Lankhor
+Year      : 1988
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : ManoirDeMortvielleFr.Slave

@@ -1,0 +1,6 @@
+Name      : Winzer
+Publisher : Starbyte
+Year      : 1991
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : WinzerDe.slave

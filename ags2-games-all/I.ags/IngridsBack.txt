@@ -1,0 +1,6 @@
+Name      : Ingrid's Back!
+Publisher : Level 9
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : IngridsBack.Slave

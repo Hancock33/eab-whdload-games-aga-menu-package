@@ -1,0 +1,6 @@
+Name      : Defender
+Publisher : Shareware
+Year      : 1994
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : DefenderRatsoft.slave

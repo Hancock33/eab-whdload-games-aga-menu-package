@@ -1,0 +1,6 @@
+Name      : Charlie J. Cool
+Publisher : NRC
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : CharlieJCool.slave

@@ -1,0 +1,6 @@
+Name      : Das Schwarze Auge: Die Schicksalsklinge
+Publisher : Attic, Fantasy
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : SchwarzeAugeDe.slave

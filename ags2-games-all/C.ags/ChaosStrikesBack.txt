@@ -1,0 +1,6 @@
+Name      : Chaos Strikes Back (Utility Disk)
+Publisher : FTL
+Year      : 11/06/1905
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : ChaosStrikesBack.slave

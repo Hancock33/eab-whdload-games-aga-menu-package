@@ -1,0 +1,6 @@
+Name      : Populous World Editor
+Publisher : Electronic Arts
+Year      : 1991
+Genre     : Strategy - God Game
+Players   : 1
+RunFile   : PopulousWorldEditor.Slave

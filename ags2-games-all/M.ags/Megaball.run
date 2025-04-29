@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "M" "Megaball"
+  execute S:AGS2Favourites "M" "MegaBall v4.0"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

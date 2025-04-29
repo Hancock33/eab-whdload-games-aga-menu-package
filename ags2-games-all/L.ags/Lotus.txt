@@ -1,0 +1,6 @@
+Name      : Lotus Esprit Turbo Challenge
+Publisher : Gremlin
+Year      : 1990
+Genre     : Racing - Arcade
+Players   : 2
+RunFile   : Lotus.Slave

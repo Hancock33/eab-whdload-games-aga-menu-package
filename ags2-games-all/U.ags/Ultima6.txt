@@ -1,0 +1,6 @@
+Name      : Ultima VI: The False Prophet
+Publisher : Origin
+Year      : 1992
+Genre     : RPG
+Players   : 1
+RunFile   : Ultima6.Slave

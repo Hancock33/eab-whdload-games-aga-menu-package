@@ -1,0 +1,6 @@
+Name      : Kick Off 2: The Final Whistle
+Publisher : Anco
+Year      : 1991
+Genre     : Sports - Soccer
+Players   : 1 (4 simultaneously)
+RunFile   : KickOff2FinalWhistle.Slave

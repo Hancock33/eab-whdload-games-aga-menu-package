@@ -1,0 +1,6 @@
+Name      : Prime Mover
+Publisher : Psygnosis
+Year      : 1993
+Genre     : Racing
+Players   : 1
+RunFile   : PrimeMover.Slave

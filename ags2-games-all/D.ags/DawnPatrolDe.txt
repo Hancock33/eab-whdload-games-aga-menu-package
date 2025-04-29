@@ -1,0 +1,6 @@
+Name      : Dawn Patrol
+Publisher : Empire
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : DawnPatrolDe.Slave

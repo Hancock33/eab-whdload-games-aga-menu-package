@@ -1,6 +1,6 @@
 Name      : Toobin'
-Publisher : Domark
+Publisher : Domark, Tengen
 Year      : 1990
-Genre     : Sports - Water
-Players   : 1 or 2, Simultaneous
+Genre     : Racing - Water
+Players   : 2
 RunFile   : Toobin.Slave

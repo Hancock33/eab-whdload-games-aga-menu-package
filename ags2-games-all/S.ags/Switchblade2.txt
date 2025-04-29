@@ -1,0 +1,6 @@
+Name      : Switchblade II
+Publisher : Gremlin
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Switchblade2.slave

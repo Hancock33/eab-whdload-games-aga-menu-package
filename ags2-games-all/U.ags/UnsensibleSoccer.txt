@@ -1,0 +1,6 @@
+Name      : Unsensible Soccer
+Publisher : Europress Software
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 1
+RunFile   : UnsensibleSoccer.Slave

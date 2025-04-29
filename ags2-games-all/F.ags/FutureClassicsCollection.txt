@@ -1,0 +1,6 @@
+Name      : Future Classics Collection
+Publisher : Electronic Zoo, Live Studios
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : FutureClassicsCollection.Slave

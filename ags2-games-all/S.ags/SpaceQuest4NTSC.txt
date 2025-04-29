@@ -1,0 +1,6 @@
+Name      : Space Quest IV: Roger Wilco and the Time Rippers
+Publisher : Sierra
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : SpaceQuest4NTSC.slave

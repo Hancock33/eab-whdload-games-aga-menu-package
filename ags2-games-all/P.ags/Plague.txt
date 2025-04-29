@@ -1,0 +1,6 @@
+Name      : The Plague
+Publisher : Innerprise, Rainbow Arts
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : Plague.slave

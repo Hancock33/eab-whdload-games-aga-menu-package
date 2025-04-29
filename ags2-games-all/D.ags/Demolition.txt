@@ -1,0 +1,6 @@
+Name      : Demolition
+Publisher : Anco, Kingsoft
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : Demolition.slave

@@ -1,0 +1,6 @@
+Name      : B-17 Flying Fortress
+Publisher : MicroProse
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : B17FlyingFortress.Slave

@@ -1,0 +1,6 @@
+Name      : Legend (Get Save Disk)
+Publisher : Mindscape
+Year      : 1992
+Genre     : RPG
+Players   : 1
+RunFile   : getlegendsavedisk.slave

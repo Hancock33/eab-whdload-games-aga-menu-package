@@ -1,0 +1,6 @@
+Name      : Anstoss
+Publisher : Sports
+Year      : 1993
+Genre     : Sports - Management
+Players   : 4 (taking turns)
+RunFile   : AnstossDe.slave

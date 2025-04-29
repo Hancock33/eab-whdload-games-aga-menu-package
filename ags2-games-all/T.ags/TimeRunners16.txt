@@ -1,0 +1,6 @@
+Name      : Time Runners 16: The Galaxy Emperor
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners16.Slave

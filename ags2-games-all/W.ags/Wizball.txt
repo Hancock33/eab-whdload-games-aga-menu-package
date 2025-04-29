@@ -1,5 +1,6 @@
 Name      : Wizball
 Publisher : Ocean
 Year      : 1988
-Players   : 1 to 4, Simultaneous
+Genre     : Shoot'em Up - Horizontal
+Players   : 4 (2 simultaneously)
 RunFile   : Wizball.Slave

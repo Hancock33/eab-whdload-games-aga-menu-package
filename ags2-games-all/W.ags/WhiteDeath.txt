@@ -1,0 +1,6 @@
+Name      : White Death: Battle for Velikiye Luki, November 1942
+Publisher : CDS, Command Simulations, Internecine, R.A.W. Entertainment
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : WhiteDeath.Slave

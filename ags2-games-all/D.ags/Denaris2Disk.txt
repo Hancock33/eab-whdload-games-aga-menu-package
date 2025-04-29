@@ -1,0 +1,6 @@
+Name      : Denaris
+Publisher : Rainbow Arts
+Year      : 1989
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
+RunFile   : Denaris2Disk.Slave

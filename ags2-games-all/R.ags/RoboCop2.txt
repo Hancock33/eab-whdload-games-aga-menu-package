@@ -1,0 +1,6 @@
+Name      : RoboCop 2
+Publisher : Data East, Ocean
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : RoboCop2.Slave

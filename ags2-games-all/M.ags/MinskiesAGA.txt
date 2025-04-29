@@ -1,0 +1,6 @@
+Name      : Minskies Furballs
+Publisher : Guildhall
+Year      : 1996
+Genre     : Game
+Players   : 2
+RunFile   : MinskiesAGA.slave

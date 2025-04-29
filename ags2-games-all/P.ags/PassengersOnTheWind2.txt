@@ -1,0 +1,6 @@
+Name      : Passengers on the Wind II
+Publisher : Infogrames
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : PassengersOnTheWind2.Slave

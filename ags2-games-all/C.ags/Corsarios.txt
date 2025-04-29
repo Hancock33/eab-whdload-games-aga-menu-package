@@ -1,5 +1,6 @@
 Name      : Corsarios
-Publisher : Opera Soft
+Publisher : Opera Soft, Ubi Soft
 Year      : 1989
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Corsarios.Slave

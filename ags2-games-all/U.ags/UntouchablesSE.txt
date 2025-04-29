@@ -1,0 +1,6 @@
+Name      : The Untouchables: Special Edition
+Publisher : Ocean
+Year      : 2017
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : UntouchablesSE.Slave

@@ -1,0 +1,6 @@
+Name      : Magic Johnson's Fast Break (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1988
+Genre     : Sports - Basketball
+Players   : 2
+RunFile   : MagicJohnsonFstBrkArcadia.Slave

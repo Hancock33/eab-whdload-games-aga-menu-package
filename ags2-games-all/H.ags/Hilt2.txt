@@ -1,0 +1,6 @@
+Name      : Hilt II
+Publisher : 5th Dimension
+Year      : 1996
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Hilt2.Slave

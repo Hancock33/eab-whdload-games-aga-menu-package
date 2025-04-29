@@ -1,6 +1,6 @@
 Name      : Locomotion
-Publisher : Kingsoft
+Publisher : Global Software, Kingsoft
 Year      : 1992
-Genre     : Brain - Puzzle
-Players   : 1 Only
-RunFile   : Locomotion.Slave
+Genre     : Game
+Players   : 1
+RunFile   : Locomotion.slave

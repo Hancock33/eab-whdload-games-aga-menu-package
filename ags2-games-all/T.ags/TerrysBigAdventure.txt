@@ -1,0 +1,6 @@
+Name      : Terry's Big Adventure
+Publisher : Shades
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : TerrysBigAdventure.Slave

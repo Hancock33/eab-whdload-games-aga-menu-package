@@ -1,0 +1,6 @@
+Name      : Mickey Mouse: The Computer Game
+Publisher : Gremlin
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : MickeyMouseComputerGame.Slave

@@ -1,0 +1,6 @@
+Name      : Harpoon Battleset 1: GIUK
+Publisher : P.S.S., Three-Sixty
+Year      : 1991
+Genre     : Strategy - Real-Time
+Players   : 1
+RunFile   : Harpoon&Battleset1.Slave

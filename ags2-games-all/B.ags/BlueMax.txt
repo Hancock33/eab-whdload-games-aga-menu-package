@@ -1,0 +1,6 @@
+Name      : Blue Max: Aces of the Great War
+Publisher : Mindscape
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : BlueMax.Slave

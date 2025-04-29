@@ -1,6 +1,6 @@
 Name      : Campaign
-Publisher : Empire Software
+Publisher : Empire
 Year      : 1992
-Genre     : Strategy - War
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Campaign.slave

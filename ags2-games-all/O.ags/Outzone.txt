@@ -1,5 +1,6 @@
 Name      : Outzone
 Publisher : Lankhor
 Year      : 1991
-Players   : 1 Only
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Outzone.Slave

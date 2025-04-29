@@ -1,0 +1,6 @@
+Name      : Gem Stone Legend
+Publisher : Loriciel
+Year      : 1990
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : GemStoneLegend.slave

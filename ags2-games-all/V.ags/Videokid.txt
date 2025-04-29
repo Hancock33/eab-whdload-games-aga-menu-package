@@ -1,5 +1,6 @@
 Name      : Videokid
-Publisher : Gremlin Graphics
+Publisher : Gremlin
 Year      : 1992
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : VideoKid.slave

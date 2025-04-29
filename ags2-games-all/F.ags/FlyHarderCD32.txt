@@ -1,0 +1,6 @@
+Name      : Fly Harder
+Publisher : Buzz
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : FlyHarderCD32.slave

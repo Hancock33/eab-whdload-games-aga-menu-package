@@ -1,0 +1,6 @@
+Name      : Breakthru
+Publisher : Data East
+Year      : 2024
+Genre     : Game
+Players   : 1
+RunFile   : BreakThru.slave

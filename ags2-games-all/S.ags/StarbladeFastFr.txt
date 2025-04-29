@@ -1,0 +1,6 @@
+Name      : Starblade
+Publisher : Palace, Proein, Silmarils
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : StarbladeFastFr.slave

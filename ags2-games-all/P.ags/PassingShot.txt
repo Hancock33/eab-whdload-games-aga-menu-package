@@ -1,0 +1,6 @@
+Name      : Passing Shot
+Publisher : Image Works
+Year      : 1989
+Genre     : Sports - Tennis
+Players   : 2
+RunFile   : PassingShot.Slave

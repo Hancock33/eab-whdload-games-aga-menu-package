@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "B" "Builderland"
+  execute S:AGS2Favourites "B" "Builderland: The Story of Melba"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

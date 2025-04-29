@@ -1,5 +1,0 @@
-Name      : Ninja Gaiden II: The Dark Sword of Chaos
-Publisher : Gametek
-Year      : 1991
-Players   : 1 Only
-RunFile   : NinjaGaiden2.Slave

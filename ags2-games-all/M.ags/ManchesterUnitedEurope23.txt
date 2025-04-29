@@ -1,0 +1,6 @@
+Name      : Manchester United Europe
+Publisher : Krisalis
+Year      : 1991
+Genre     : Sports - Soccer
+Players   : 4
+RunFile   : ManchesterUnitedEurope23.Slave

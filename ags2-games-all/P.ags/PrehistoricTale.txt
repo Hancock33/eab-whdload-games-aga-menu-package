@@ -1,0 +1,6 @@
+Name      : A Prehistoric Tale
+Publisher : Thalion
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : PrehistoricTale.slave

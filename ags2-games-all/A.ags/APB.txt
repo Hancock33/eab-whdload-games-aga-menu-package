@@ -1,5 +1,6 @@
 Name      : APB
-Publisher : Domark / Tengen
+Publisher : Domark, Tengen
 Year      : 1990
+Genre     : Racing - Top-Down
 Players   : 1
 RunFile   : APB.slave

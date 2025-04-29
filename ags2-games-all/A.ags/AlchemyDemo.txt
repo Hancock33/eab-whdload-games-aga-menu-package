@@ -1,0 +1,6 @@
+Name      : Alchemy (Demo)
+Publisher : Unknown
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : AlchemyDemo.Slave

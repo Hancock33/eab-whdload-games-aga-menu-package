@@ -1,0 +1,6 @@
+Name      : Turn N' Burn
+Publisher : Flair
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : TurnNBurn.slave

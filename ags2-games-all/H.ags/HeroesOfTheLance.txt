@@ -1,0 +1,6 @@
+Name      : Heroes of the Lance
+Publisher : SSI, U.S. Gold
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : HeroesOfTheLance.slave

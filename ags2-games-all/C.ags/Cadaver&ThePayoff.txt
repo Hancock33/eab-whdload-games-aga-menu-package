@@ -1,0 +1,6 @@
+Name      : Cadaver: The Pay Off
+Publisher : Renegade
+Year      : 1991
+Genre     : Action RPG
+Players   : 1
+RunFile   : Cadaver&ThePayoff.slave

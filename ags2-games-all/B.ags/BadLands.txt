@@ -1,6 +1,6 @@
 Name      : BadLands
-Publisher : Domark
+Publisher : Domark, Tengen
 Year      : 1990
-Genre     : Racing - Overhead
-Players   : 1 or 2, Simultaneous
+Genre     : Racing - Top-Down
+Players   : 2
 RunFile   : Badlands.slave

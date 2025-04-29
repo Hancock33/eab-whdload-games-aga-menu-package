@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Titan/Titan.slave
+;RunFile=A-Games:T/Titan/Titan.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:T/Titan/"
 IF EXISTS ENV:whdloadargs
-  whdload "Titan.slave" $whdloadargs
+  whdload "Titan.Slave" $whdloadargs
 ELSE
-  whdload "Titan.slave"
+  whdload "Titan.Slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

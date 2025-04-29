@@ -1,0 +1,6 @@
+Name      : Swap
+Publisher : Microids, Palace, Titus
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SwapFr.Slave

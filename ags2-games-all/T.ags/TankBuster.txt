@@ -1,0 +1,6 @@
+Name      : Tank Buster
+Publisher : Kingsoft
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : TankBuster.slave

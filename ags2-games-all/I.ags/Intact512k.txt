@@ -1,0 +1,6 @@
+Name      : Intact
+Publisher : Sphinx
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
+RunFile   : Intact512k.Slave

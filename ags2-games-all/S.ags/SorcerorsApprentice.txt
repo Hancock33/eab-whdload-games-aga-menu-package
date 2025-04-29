@@ -1,0 +1,6 @@
+Name      : Sorceror's Apprentice
+Publisher : Actual Screenshots
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : SorcerorsApprentice.Slave

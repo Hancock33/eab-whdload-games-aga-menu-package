@@ -1,0 +1,6 @@
+Name      : Time Runners 29: The Last Revelation
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners29.Slave

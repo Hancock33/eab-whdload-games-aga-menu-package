@@ -1,0 +1,6 @@
+Name      : Turrican
+Publisher : Innerprise, Rainbow Arts
+Year      : 1990
+Genre     : Platform - Shooting
+Players   : 1
+RunFile   : TurricanNTSC.Slave

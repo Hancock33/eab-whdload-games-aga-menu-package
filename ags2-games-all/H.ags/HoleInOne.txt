@@ -1,0 +1,6 @@
+Name      : Hole-In-One
+Publisher : DigiTek
+Year      : 1989
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : HoleInOne.slave

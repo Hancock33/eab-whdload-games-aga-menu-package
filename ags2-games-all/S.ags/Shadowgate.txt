@@ -1,6 +1,6 @@
 Name      : Shadowgate
 Publisher : Mindscape
 Year      : 1987
-Genre     : Adventure - Point and Click
-Players   : 1 Only
-RunFile   : Shadowgate.Slave
+Genre     : Adventure
+Players   : 1
+RunFile   : Shadowgate.slave

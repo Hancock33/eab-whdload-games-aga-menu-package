@@ -1,0 +1,6 @@
+Name      : Time Scanner
+Publisher : Activision
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : TimeScanner.Slave

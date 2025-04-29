@@ -1,0 +1,6 @@
+Name      : Death Mask
+Publisher : Alternative
+Year      : 1994
+Genre     : Game
+Players   : 2
+RunFile   : DeathMaskAGA.slave

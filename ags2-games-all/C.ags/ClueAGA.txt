@@ -1,0 +1,6 @@
+Name      : The Clue!
+Publisher : Kompart, neo
+Year      : 1994
+Genre     : Adventure
+Players   : 1
+RunFile   : ClueAGA.slave

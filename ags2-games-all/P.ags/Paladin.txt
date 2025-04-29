@@ -1,6 +1,6 @@
 Name      : Paladin
-Publisher : Artronic Products
-Year      : 1989
-Genre     : Adventure - RPG 2D
-Players   : 1 Only
-RunFile   : Paladin.Slave
+Publisher : Artronic, Omnitrend
+Year      : 1988
+Genre     : RPG
+Players   : 1
+RunFile   : Paladin.slave

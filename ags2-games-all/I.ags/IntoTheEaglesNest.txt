@@ -1,0 +1,6 @@
+Name      : Into the Eagle's Nest
+Publisher : Mindscape, Pandora
+Year      : 1987
+Genre     : Run & Gun
+Players   : 1
+RunFile   : IntoTheEaglesNest.slave

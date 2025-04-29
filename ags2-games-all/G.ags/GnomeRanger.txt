@@ -1,0 +1,6 @@
+Name      : Gnome Ranger
+Publisher : Level 9
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : GnomeRanger.Slave

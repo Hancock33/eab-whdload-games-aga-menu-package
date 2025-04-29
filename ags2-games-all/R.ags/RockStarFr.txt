@@ -1,0 +1,6 @@
+Name      : Rock Star
+Publisher : 16 32 Diffusion
+Year      : 1989
+Genre     : Game
+Players   : 3 (taking turns)
+RunFile   : RockStarFr.slave

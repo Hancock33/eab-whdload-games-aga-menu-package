@@ -1,0 +1,6 @@
+Name      : Captain Blood
+Publisher : Exxos, Mindscape
+Year      : 1988
+Genre     : Adventure
+Players   : 1
+RunFile   : CaptainBloodNTSC.Slave

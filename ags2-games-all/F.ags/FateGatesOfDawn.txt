@@ -1,0 +1,6 @@
+Name      : Fate: Gates of Dawn
+Publisher : reLINE
+Year      : 1991
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : FateGatesOfDawn.slave

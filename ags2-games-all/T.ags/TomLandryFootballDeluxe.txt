@@ -1,0 +1,6 @@
+Name      : Tom Landry Strategy Football Deluxe Edition
+Publisher : Merit Software
+Year      : 1992
+Genre     : Sports - Management
+Players   : 2
+RunFile   : TomLandryFootballDeluxe.Slave

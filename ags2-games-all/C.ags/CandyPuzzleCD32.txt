@@ -1,0 +1,6 @@
+Name      : Candy Puzzle
+Publisher : CD Express
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : CandyPuzzleCD32.slave

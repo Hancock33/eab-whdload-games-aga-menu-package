@@ -1,0 +1,6 @@
+Name      : Center Court
+Publisher : Acid
+Year      : 1997
+Genre     : Sports
+Players   : 4
+RunFile   : CenterCourtAGA.Slave

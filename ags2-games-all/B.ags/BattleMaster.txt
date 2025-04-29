@@ -1,0 +1,6 @@
+Name      : Battlemaster
+Publisher : P.S.S.
+Year      : 1990
+Genre     : Action RPG
+Players   : 1
+RunFile   : BattleMaster.Slave

@@ -1,0 +1,6 @@
+Name      : Arabian Nights
+Publisher : Krisalis
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : ArabianNights.slave

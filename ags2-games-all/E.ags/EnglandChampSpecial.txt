@@ -1,0 +1,6 @@
+Name      : England Championship Special
+Publisher : Grandslam 
+Year      : 1991
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : EnglandChampSpecial.Slave

@@ -1,0 +1,6 @@
+Name      : Paris Dakar 1990
+Publisher : Coktel
+Year      : 12/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : ParisDakar90.Slave

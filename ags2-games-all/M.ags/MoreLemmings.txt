@@ -1,0 +1,6 @@
+Name      : More! Lemmings
+Publisher : AmigaJay
+Year      : 2016
+Genre     : Action - Strategy
+Players   : 2
+RunFile   : MoreLemmings.Slave

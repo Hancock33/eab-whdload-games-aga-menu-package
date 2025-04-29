@@ -1,0 +1,6 @@
+Name      : Heimdall
+Publisher : Core Design, Ubi Soft, Virgin
+Year      : 1991
+Genre     : Action RPG
+Players   : 1
+RunFile   : HeimdallEs.slave

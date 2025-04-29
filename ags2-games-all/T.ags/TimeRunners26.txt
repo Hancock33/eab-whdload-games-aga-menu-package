@@ -1,0 +1,6 @@
+Name      : Time Runners 26: The Time Warrior
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners26.Slave

@@ -1,0 +1,6 @@
+Name      : Team Suzuki
+Publisher : Gremlin, Konami
+Year      : 1991
+Genre     : Racing
+Players   : 1
+RunFile   : TeamSuzuki.Slave

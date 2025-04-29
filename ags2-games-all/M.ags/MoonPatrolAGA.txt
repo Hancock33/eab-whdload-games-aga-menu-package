@@ -1,0 +1,6 @@
+Name      : Moon Patrol
+Publisher : IREM
+Year      : 2024
+Genre     : Game
+Players   : 1
+RunFile   : MoonPatrolAGA.slave

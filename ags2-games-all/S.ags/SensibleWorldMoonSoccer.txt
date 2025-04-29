@@ -1,0 +1,6 @@
+Name      : Sensible World of Moon Soccer
+Publisher : Amiga Action
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SensibleWorldMoonSoccer.Slave

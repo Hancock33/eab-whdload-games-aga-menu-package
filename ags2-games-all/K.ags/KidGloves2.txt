@@ -1,0 +1,6 @@
+Name      : Kid Gloves II: The Journey Back
+Publisher : Millennium
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : KidGloves2.Slave

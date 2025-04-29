@@ -1,0 +1,6 @@
+Name      : Die Drachen Von Laas
+Publisher : Attic, Dragonware
+Year      : 1991
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : DrachenVonLaasDe.slave

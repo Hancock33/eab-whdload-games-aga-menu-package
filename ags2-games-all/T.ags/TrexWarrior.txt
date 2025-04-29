@@ -1,0 +1,6 @@
+Name      : Trex Warrior: 22nd Century Gladiator
+Publisher : Thalion
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : TrexWarrior.slave

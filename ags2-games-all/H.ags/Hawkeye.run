@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:H/Hawkeye/Hawkeye.slave
+;RunFile=A-Games:H/Hawkeye/Hawkeye.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:H/Hawkeye/"
 IF EXISTS ENV:whdloadargs
-  whdload "Hawkeye.slave" $whdloadargs
+  whdload "Hawkeye.Slave" $whdloadargs
 ELSE
-  whdload "Hawkeye.slave"
+  whdload "Hawkeye.Slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

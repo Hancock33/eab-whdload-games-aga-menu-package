@@ -1,0 +1,6 @@
+Name      : Darkseed
+Publisher : Cyberdreams, DRO Soft
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : DarkSeedEs.Slave

@@ -1,0 +1,6 @@
+Name      : Time Runners 22: The Eternal Damned
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners22.Slave

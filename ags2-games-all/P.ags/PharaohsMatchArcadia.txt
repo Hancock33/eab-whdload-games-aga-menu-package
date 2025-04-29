@@ -1,0 +1,6 @@
+Name      : Pharaohs Match (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : PharaohsMatchArcadia.Slave

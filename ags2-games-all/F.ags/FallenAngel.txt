@@ -1,0 +1,6 @@
+Name      : Fallen Angel
+Publisher : Screen 7
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : FallenAngel.Slave

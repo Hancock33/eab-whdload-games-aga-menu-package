@@ -1,0 +1,6 @@
+Name      : Katakis
+Publisher : Rainbow Arts
+Year      : 1988
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
+RunFile   : Katakis2Disk.Slave

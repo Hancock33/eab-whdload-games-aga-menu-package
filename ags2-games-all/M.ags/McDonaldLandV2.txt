@@ -1,0 +1,6 @@
+Name      : McDonald Land
+Publisher : Virgin
+Year      : 1992
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : McDonaldLandV2.slave

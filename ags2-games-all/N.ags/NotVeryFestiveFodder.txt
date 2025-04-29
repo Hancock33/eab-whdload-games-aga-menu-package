@@ -1,0 +1,6 @@
+Name      : Not Very Festive Fodder
+Publisher : Amiga Format
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : NotVeryFestiveFodder.Slave

@@ -1,0 +1,6 @@
+Name      : Mental Image Game Disk 2
+Publisher : Mental Image
+Year      : 1991
+Genre     : Compilaton
+Players   : 1
+RunFile   : MentalImage2.slave

@@ -1,0 +1,6 @@
+Name      : Pharaoh's Curse
+Publisher : Bignonia
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : PharaohsCurse.Slave

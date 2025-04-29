@@ -1,0 +1,6 @@
+Name      : Z-Out
+Publisher : Rainbow Arts
+Year      : 1991
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : ZOut.slave

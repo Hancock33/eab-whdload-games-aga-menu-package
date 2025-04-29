@@ -1,0 +1,6 @@
+Name      : Premier Manager
+Publisher : Gremlin
+Year      : 1992
+Genre     : Sports - Management
+Players   : 4 (taking turns)
+RunFile   : PremierManager.Slave

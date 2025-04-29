@@ -1,0 +1,6 @@
+Name      : Archon: The Light and the Dark
+Publisher : Ariolasoft, Electronic Arts
+Year      : 1985
+Genre     : Board Game
+Players   : 2
+RunFile   : ArchonNTSC.slave

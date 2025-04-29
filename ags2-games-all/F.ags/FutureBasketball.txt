@@ -1,0 +1,6 @@
+Name      : Future Basketball
+Publisher : Hewson
+Year      : 1990
+Genre     : Sports - Basketball
+Players   : 8 (2 simultaneously)
+RunFile   : FutureBasketball.Slave

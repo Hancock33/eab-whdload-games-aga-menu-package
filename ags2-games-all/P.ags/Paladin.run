@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:P/Paladin/Paladin.Slave
+;RunFile=A-Games:P/Paladin/Paladin.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:P/Paladin/"
 IF EXISTS ENV:whdloadargs
-  whdload "Paladin.Slave" $whdloadargs
+  whdload "Paladin.slave" $whdloadargs
 ELSE
-  whdload "Paladin.Slave"
+  whdload "Paladin.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

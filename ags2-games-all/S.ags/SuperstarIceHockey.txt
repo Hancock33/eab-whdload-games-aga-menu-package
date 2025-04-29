@@ -1,0 +1,6 @@
+Name      : Superstar Ice Hockey
+Publisher : Databyte, Mindscape
+Year      : 1988
+Genre     : Sports - Ice Hockey
+Players   : 2
+RunFile   : SuperstarIceHockey.Slave

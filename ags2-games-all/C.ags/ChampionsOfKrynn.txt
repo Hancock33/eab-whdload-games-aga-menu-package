@@ -1,0 +1,6 @@
+Name      : Champions of Krynn
+Publisher : SSI, U.S. Gold
+Year      : 1990
+Genre     : RPG
+Players   : 1
+RunFile   : ChampionsOfKrynn.Slave

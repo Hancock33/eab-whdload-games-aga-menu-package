@@ -1,0 +1,6 @@
+Name      : Skeet Shoot
+Publisher : Trojan
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : SkeetShoot.slave

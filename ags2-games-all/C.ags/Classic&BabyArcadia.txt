@@ -1,0 +1,6 @@
+Name      : Classic Arcadia & Baby Arcadia
+Publisher : Alternative
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : Classic&BabyArcadia.Slave

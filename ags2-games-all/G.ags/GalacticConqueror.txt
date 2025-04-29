@@ -1,0 +1,6 @@
+Name      : Galactic Conqueror
+Publisher : Titus
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : GalacticConqueror.Slave

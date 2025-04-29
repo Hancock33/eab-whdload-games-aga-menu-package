@@ -1,5 +1,6 @@
 Name      : Dux
-Publisher : Gremlin / CU Amiga (EMAP)
+Publisher : CU Amiga, Gremlin
 Year      : 1991
+Genre     : Game
 Players   : 1
 RunFile   : Dux.Slave

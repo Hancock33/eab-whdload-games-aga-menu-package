@@ -1,5 +1,6 @@
-Name      : Builderland
+Name      : Builderland: The Story of Melba
 Publisher : Loriciel
 Year      : 1991
+Genre     : Game
 Players   : 1
 RunFile   : Builderland.Slave

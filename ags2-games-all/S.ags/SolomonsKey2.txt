@@ -1,0 +1,6 @@
+Name      : Solomon's Key 2
+Publisher : Oookami Games
+Year      : 2015
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : SolomonsKey2.Slave

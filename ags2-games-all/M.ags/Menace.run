@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:M/Menace/Menace.Slave
+;RunFile=A-Games:M/Menace/Menace.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:M/Menace/"
 IF EXISTS ENV:whdloadargs
-  whdload "Menace.Slave" $whdloadargs
+  whdload "Menace.slave" $whdloadargs
 ELSE
-  whdload "Menace.Slave"
+  whdload "Menace.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

@@ -1,0 +1,6 @@
+Name      : F/A-18 Interceptor
+Publisher : C.T.O., DRO Soft, Electronic Arts
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : FA18Interceptor.slave

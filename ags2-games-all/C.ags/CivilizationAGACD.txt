@@ -1,0 +1,6 @@
+Name      : Civilization
+Publisher : MicroProse, Software Demon
+Year      : 1994
+Genre     : Strategy
+Players   : 1
+RunFile   : CivilizationAGACD.Slave

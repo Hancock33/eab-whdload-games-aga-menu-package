@@ -1,6 +1,6 @@
 Name      : Welltris
-Publisher : Infogrames
+Publisher : Infogrames, Spectrum HoloByte
 Year      : 1990
-Genre     : Arcade - Tetris
-Players   : 1 Only
+Genre     : Puzzle - Stacking
+Players   : 1
 RunFile   : Welltris.slave

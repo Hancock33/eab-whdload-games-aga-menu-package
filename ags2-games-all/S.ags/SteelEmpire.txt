@@ -1,0 +1,6 @@
+Name      : Steel Empire
+Publisher : Millennium
+Year      : 1992
+Genre     : Game
+Players   : 5 (taking turns)
+RunFile   : SteelEmpire.slave

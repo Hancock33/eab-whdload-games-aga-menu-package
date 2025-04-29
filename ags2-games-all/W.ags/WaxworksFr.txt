@@ -1,0 +1,6 @@
+Name      : Waxworks
+Publisher : Accolade
+Year      : 1993
+Genre     : Adventure
+Players   : 1
+RunFile   : WaxworksFr.Slave

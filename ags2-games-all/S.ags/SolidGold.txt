@@ -1,0 +1,6 @@
+Name      : Solid Gold
+Publisher : Night Owl Design
+Year      : 2013
+Genre     : Game
+Players   : 1
+RunFile   : SolidGold.slave

@@ -1,0 +1,6 @@
+Name      : Dr. Fruit
+Publisher : Anco, Softgang
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : DrFruit.Slave

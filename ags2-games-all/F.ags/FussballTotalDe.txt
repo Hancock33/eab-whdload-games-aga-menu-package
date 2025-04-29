@@ -1,0 +1,6 @@
+Name      : Fußball Total!
+Publisher : Black Legend
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : FussballTotalDe.Slave

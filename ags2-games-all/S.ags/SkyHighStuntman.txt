@@ -1,0 +1,6 @@
+Name      : Sky High Stuntman
+Publisher : Codemasters
+Year      : 1991
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : SkyHighStuntman.Slave

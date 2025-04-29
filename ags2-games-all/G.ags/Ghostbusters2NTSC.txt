@@ -1,0 +1,6 @@
+Name      : Ghostbusters II
+Publisher : Activision
+Year      : 1990
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : Ghostbusters2NTSC.Slave

@@ -1,0 +1,6 @@
+Name      : UMS II (Universal Military Simulator II): Nations at War
+Publisher : MicroPlay, Rainbird
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : UMS2NationsAtWar.Slave

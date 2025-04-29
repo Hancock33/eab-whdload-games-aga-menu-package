@@ -1,0 +1,6 @@
+Name      : Conquests of Camelot: The Search for the Grail
+Publisher : Sierra
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : ConquestsOfCamelot.slave

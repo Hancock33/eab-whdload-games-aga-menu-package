@@ -1,0 +1,6 @@
+Name      : Barbarian: The Ultimate Warrior
+Publisher : Palace
+Year      : 1987
+Genre     : Fighting
+Players   : 2
+RunFile   : BarbarianPalace.Slave

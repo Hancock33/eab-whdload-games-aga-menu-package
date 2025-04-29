@@ -1,6 +1,6 @@
 Name      : Neuromancer
-Publisher : Interplay Productions
+Publisher : Electronic Arts, Interplay
 Year      : 1989
-Genre     : Adventure - Point and Click
-Players   : 1 Only
+Genre     : Adventure - Point & Click
+Players   : 1
 RunFile   : Neuromancer.slave

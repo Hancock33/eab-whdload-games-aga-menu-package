@@ -1,0 +1,6 @@
+Name      : 20 000 Leguas De Viaje Submarino
+Publisher : Coktel, System 4
+Year      : 1989
+Genre     : Adventure
+Players   : 1
+RunFile   : 20000LeaguesUnderTheSeaEs.Slave

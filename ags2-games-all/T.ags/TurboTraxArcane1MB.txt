@@ -1,0 +1,6 @@
+Name      : Turbo Trax
+Publisher : Arcane
+Year      : 1995
+Genre     : Racing - Top-Down
+Players   : 1 (2 with serial link)
+RunFile   : TurboTraxArcane1MB.Slave

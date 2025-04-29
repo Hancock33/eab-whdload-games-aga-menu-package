@@ -1,0 +1,6 @@
+Name      : Jimmy's Fantastic Journey
+Publisher : Lionheart
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : JimmysFantasticJourney.slave

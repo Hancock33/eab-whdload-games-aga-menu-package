@@ -1,0 +1,6 @@
+Name      : Defender (Acid)
+Publisher : Amiga Power
+Year      : 15/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : DefenderAcid.slave

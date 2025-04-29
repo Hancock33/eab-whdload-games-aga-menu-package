@@ -1,5 +1,6 @@
-Name      : Atax
-Publisher : Eclipse Software Design
+Name      : ATAX
+Publisher : Axxiom, Eclipse
 Year      : 1988
-Players   : 1 Only
+Genre     : Shoot'em Up - Vertical
+Players   : 1
 RunFile   : Atax.Slave

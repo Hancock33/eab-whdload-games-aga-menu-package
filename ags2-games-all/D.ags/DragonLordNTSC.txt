@@ -1,0 +1,6 @@
+Name      : Dragon Lord
+Publisher : Spotlight
+Year      : 1990
+Genre     : Action - Strategy
+Players   : 3 (taking turns)
+RunFile   : DragonLordNTSC.Slave

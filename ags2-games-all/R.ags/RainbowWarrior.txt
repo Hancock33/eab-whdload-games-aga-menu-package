@@ -1,0 +1,6 @@
+Name      : Rainbow Warrior
+Publisher : MicroStyle
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : RainbowWarrior.Slave

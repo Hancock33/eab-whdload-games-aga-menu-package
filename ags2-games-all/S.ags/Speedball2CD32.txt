@@ -1,0 +1,6 @@
+Name      : Speedball 2: Brutal Deluxe
+Publisher : Renegade
+Year      : 1990
+Genre     : Sports - Future/Fantasy
+Players   : 2
+RunFile   : Speedball2CD32.slave

@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "P" "Perihelion"
+  execute S:AGS2Favourites "P" "Perihelion: The Prophecy"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:N/NeverMind/Nevermind.Slave
+;RunFile=A-Games:N/NeverMind/NeverMind.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "N" "Nevermind"
+  execute S:AGS2Favourites "N" "Never Mind"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:N/NeverMind/"
 IF EXISTS ENV:whdloadargs
-  whdload "Nevermind.Slave" $whdloadargs
+  whdload "NeverMind.slave" $whdloadargs
 ELSE
-  whdload "Nevermind.Slave"
+  whdload "NeverMind.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

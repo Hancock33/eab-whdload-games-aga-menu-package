@@ -1,0 +1,6 @@
+Name      : Circus Games
+Publisher : Box Office, Tynesoft
+Year      : 1988
+Genre     : Sports - Multi-Event
+Players   : 4
+RunFile   : CircusGames.Slave

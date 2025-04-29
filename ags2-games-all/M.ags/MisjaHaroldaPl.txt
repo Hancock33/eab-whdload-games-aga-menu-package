@@ -1,0 +1,6 @@
+Name      : Misja Harolda: Zaginiony W Systemie
+Publisher : MarkSoft 
+Year      : 1995
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : MisjaHaroldaPl.slave

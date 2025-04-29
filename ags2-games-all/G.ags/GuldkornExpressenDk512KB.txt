@@ -1,0 +1,6 @@
+Name      : Guldkorn Expressen
+Publisher : SuperSoft
+Year      : 1991
+Genre     : Platform - Racing
+Players   : 2 (taking turns)
+RunFile   : GuldkornExpressenDk512KB.slave

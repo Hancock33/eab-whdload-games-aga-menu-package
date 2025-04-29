@@ -1,0 +1,6 @@
+Name      : The Adventures of Robin Hood
+Publisher : Millennium
+Year      : 1991
+Genre     : Action Adventure
+Players   : 1
+RunFile   : AdventuresOfRobinHood.slave

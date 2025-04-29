@@ -1,6 +1,0 @@
-Name      : Turbo Trax [Arcane]
-Version   : 512KB
-Publisher : Arcane
-Year      : 1995
-Players   : 1
-RunFile   : TurboTraxArcane512KB.Slave

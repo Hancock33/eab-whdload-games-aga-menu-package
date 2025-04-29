@@ -1,0 +1,6 @@
+Name      : World Darts
+Publisher : Arcadia, Mastertronic
+Year      : 1988
+Genre     : Sports - Darts
+Players   : 2 (taking turns)
+RunFile   : WorldDarts.Slave

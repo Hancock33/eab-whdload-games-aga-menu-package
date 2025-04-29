@@ -1,0 +1,6 @@
+Name      : 7 Colors
+Publisher : Infogrames
+Year      : 1991
+Genre     : Puzzle
+Players   : 2 (taking turns)
+RunFile   : 7Colors.Slave

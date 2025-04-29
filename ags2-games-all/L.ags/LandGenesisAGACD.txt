@@ -1,0 +1,6 @@
+Name      : Land of Genesis
+Publisher : ClearWater
+Year      : 2001
+Genre     : Game
+Players   : 1
+RunFile   : LandGenesisAGACD.Slave

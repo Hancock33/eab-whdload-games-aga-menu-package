@@ -1,0 +1,6 @@
+Name      : Super Methane Bros
+Publisher : Apache
+Year      : 1994
+Genre     : Game
+Players   : 2
+RunFile   : SuperMethaneBros.slave

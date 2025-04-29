@@ -1,6 +1,6 @@
-Name      : TechnoCop
-Publisher : Gremlin Graphics
+Name      : Technocop
+Publisher : Epyx, Gremlin, U.S. Gold
 Year      : 1988
-Genre     : Arcade - Miscellaneous
-Players   : 1 Only
+Genre     : Action - Multi-Type
+Players   : 1
 RunFile   : Technocop.Slave

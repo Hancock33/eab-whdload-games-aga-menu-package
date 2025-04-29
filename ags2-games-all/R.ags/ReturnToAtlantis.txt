@@ -1,0 +1,6 @@
+Name      : Return to Atlantis
+Publisher : Electronic Arts
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : ReturnToAtlantis.Slave

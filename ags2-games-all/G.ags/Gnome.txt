@@ -1,6 +1,6 @@
 Name      : Gnome
 Publisher : Linel
 Year      : 1991
-Genre     : Platformer - Single Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Gnome.Slave

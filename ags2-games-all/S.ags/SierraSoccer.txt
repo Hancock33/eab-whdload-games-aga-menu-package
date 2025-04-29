@@ -1,0 +1,6 @@
+Name      : Sierra Soccer: World Challenge Edition
+Publisher : Sierra
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 8 (2 simultaneously)
+RunFile   : SierraSoccer.Slave

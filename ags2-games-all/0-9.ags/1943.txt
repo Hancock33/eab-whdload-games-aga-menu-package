@@ -1,0 +1,6 @@
+Name      : 1943: The Battle of Midway
+Publisher : GO!
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
+RunFile   : 1943.slave

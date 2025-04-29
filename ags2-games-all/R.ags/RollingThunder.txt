@@ -1,0 +1,6 @@
+Name      : Rolling Thunder
+Publisher : U.S. Gold
+Year      : 1987
+Genre     : Platform
+Players   : 1
+RunFile   : RollingThunder.slave

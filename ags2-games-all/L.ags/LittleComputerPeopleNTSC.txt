@@ -1,0 +1,6 @@
+Name      : Little Computer People: House-On-A-Disk
+Publisher : Activision, C.T.O.
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : LittleComputerPeopleNTSC.Slave

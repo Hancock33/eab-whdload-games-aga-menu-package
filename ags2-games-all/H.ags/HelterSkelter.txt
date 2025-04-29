@@ -1,0 +1,6 @@
+Name      : Helter Skelter
+Publisher : Audiogenic
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : HelterSkelter.Slave

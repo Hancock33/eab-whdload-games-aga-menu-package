@@ -1,0 +1,6 @@
+Name      : Salmon-Pink Max
+Publisher : Peter Mason
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : SalmonPinkMax.Slave

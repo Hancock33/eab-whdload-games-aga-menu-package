@@ -1,0 +1,6 @@
+Name      : Hot Rubber
+Publisher : Palace
+Year      : 1992
+Genre     : Racing
+Players   : 2
+RunFile   : HotRubber.Slave

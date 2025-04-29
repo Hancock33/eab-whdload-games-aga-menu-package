@@ -1,0 +1,6 @@
+Name      : Worms
+Publisher : Ocean, Team 17
+Year      : 1995
+Genre     : Action - Strategy
+Players   : 4 (taking turns)
+RunFile   : WormsCD322MB.Slave

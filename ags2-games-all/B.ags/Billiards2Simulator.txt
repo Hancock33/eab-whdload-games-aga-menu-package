@@ -1,0 +1,6 @@
+Name      : Billiards II Simulator
+Publisher : Infogrames
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Billiards2Simulator.slave

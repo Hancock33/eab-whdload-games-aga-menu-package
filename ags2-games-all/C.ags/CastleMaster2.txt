@@ -1,0 +1,6 @@
+Name      : Castle Master II: The Crypt
+Publisher : Incentive
+Year      : 1990
+Genre     : Action Adventure
+Players   : 1
+RunFile   : CastleMaster2.Slave

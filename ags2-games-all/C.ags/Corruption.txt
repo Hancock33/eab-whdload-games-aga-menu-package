@@ -1,6 +1,6 @@
 Name      : Corruption
 Publisher : Rainbird
 Year      : 1988
-Genre     : Adventure - Graphics/Text
-Players   : 1 Only
+Genre     : Adventure - Graphic
+Players   : 1
 RunFile   : Corruption.Slave

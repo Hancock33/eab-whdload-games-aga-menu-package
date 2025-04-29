@@ -1,0 +1,6 @@
+Name      : Turbo Sprint
+Publisher : McGeezer
+Year      : 2021
+Genre     : Game
+Players   : 4
+RunFile   : TurboSprint.Slave

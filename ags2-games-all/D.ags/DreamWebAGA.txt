@@ -1,0 +1,6 @@
+Name      : DreamWeb
+Publisher : Empire
+Year      : 1994
+Genre     : Adventure
+Players   : 1
+RunFile   : DreamWebAGA.Slave

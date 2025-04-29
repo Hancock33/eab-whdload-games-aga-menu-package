@@ -1,0 +1,6 @@
+Name      : The Simpsons: Bart vs. The Space Mutants
+Publisher : Acclaim, Ocean
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : BartVsSpaceMutants1Disk.Slave

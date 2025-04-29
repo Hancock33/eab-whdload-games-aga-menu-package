@@ -1,0 +1,6 @@
+Name      : Premiere
+Publisher : Core Design
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : PremiereCD32.slave

@@ -1,0 +1,6 @@
+Name      : Passengers on the Wind
+Publisher : Infogrames
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : PassengersOnTheWind.Slave

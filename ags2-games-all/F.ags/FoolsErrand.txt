@@ -1,0 +1,6 @@
+Name      : The Fool's Errand
+Publisher : Miles Computing
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : FoolsErrand.Slave

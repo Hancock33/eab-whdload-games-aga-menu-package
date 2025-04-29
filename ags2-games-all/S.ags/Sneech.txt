@@ -1,6 +1,6 @@
 Name      : Sneech
-Publisher : (unknown)
+Publisher : Daisy Software
 Year      : 1994
-Genre     : Arcade - Tron
-Players   : 1 to 6, Simultaneous
+Genre     : Game
+Players   : 6
 RunFile   : Sneech.Slave

@@ -1,6 +1,6 @@
 Name      : Raffles
 Publisher : The Edge
 Year      : 1989
-Genre     : Adventure - Isometric 3D
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Raffles.slave

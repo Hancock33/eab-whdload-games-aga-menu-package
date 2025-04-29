@@ -1,0 +1,6 @@
+Name      : Mental Image Game Disk 1
+Publisher : Amiga Power, Mental Image
+Year      : 1991
+Genre     : Compilaton
+Players   : 1
+RunFile   : MentalImage1.Slave

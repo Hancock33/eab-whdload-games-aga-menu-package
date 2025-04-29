@@ -1,0 +1,6 @@
+Name      : Big Business
+Publisher : DigiTek, Magic Bytes
+Year      : 1991
+Genre     : Simulation - Business
+Players   : 3 (taking turns)
+RunFile   : BigBusiness.Slave

@@ -1,0 +1,6 @@
+Name      : Super Seymour
+Publisher : Codemasters
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : SuperSeymourSavesPlanet.Slave

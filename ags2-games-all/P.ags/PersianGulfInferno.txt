@@ -1,0 +1,6 @@
+Name      : The Persian Gulf Inferno
+Publisher : Innerprise, Magic Bytes, micro-partner
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : PersianGulfInferno.Slave

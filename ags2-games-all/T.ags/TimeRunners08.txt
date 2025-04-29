@@ -1,0 +1,6 @@
+Name      : Time Runners 08: The Impregnable Fortress
+Publisher : Simulmondo
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners08.Slave

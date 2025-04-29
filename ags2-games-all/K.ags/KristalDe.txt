@@ -1,0 +1,6 @@
+Name      : The Kristal
+Publisher : Cinemaware
+Year      : 1989
+Genre     : Action Adventure
+Players   : 1
+RunFile   : KristalDe.slave

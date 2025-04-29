@@ -1,0 +1,6 @@
+Name      : War in the Gulf
+Publisher : Empire
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : WarInTheGulf.Slave

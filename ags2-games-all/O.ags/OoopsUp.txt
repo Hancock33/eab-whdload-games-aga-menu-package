@@ -1,0 +1,6 @@
+Name      : Ooops Up
+Publisher : Demonware
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : OoopsUp.Slave

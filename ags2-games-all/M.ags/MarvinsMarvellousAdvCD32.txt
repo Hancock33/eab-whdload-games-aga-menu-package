@@ -1,0 +1,6 @@
+Name      : Marvin's Marvellous Adventure
+Publisher : 21st Century
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : MarvinsMarvellousAdvCD32.Slave

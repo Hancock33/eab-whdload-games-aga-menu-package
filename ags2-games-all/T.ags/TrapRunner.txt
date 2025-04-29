@@ -1,0 +1,6 @@
+Name      : Trap Runner
+Publisher : Retroguru
+Year      : 2018
+Genre     : Game
+Players   : 1
+RunFile   : TrapRunner.Slave

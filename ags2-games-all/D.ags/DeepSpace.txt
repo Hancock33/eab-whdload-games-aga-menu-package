@@ -1,0 +1,6 @@
+Name      : Deep Space
+Publisher : Psygnosis
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : DeepSpace.slave

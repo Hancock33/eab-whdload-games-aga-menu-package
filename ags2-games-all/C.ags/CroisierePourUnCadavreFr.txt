@@ -1,0 +1,6 @@
+Name      : Croisière Pour Un Cadavre
+Publisher : Delphine
+Year      : 1991
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : CroisierePourUnCadavreFr.slave

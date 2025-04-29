@@ -1,0 +1,6 @@
+Name      : Terminator 2: Judgment Day
+Publisher : Ocean
+Year      : 1991
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : Terminator2JudgmentDay.Slave

@@ -1,0 +1,6 @@
+Name      : Links: The Challenge of Golf
+Publisher : Access, U.S. Gold
+Year      : 1992
+Genre     : Sports - Golf
+Players   : 8 (taking turns)
+RunFile   : Links&DataDisksNTSC.Slave

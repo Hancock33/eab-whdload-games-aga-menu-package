@@ -1,0 +1,6 @@
+Name      : Wing Commander
+Publisher : Electronic Arts, Mindscape, Origin
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : WingCommanderCD32.Slave

@@ -1,6 +1,6 @@
 Name      : Arcticfox
-Publisher : Electronic Arts
+Publisher : Ariolasoft, Electronic Arts
 Year      : 1986
-Genre     : Simulation - Tank
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Arcticfox.Slave

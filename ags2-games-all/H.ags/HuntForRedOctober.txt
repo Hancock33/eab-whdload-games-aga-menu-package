@@ -1,0 +1,6 @@
+Name      : The Hunt for Red October
+Publisher : Argus Press, Datasoft, Grandslam, The Software Toolworks
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : HuntForRedOctober.slave

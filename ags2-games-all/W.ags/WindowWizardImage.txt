@@ -1,0 +1,6 @@
+Name      : Window Wizard
+Publisher : Softgold
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : WindowWizardImage.Slave

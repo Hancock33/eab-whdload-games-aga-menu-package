@@ -1,0 +1,6 @@
+Name      : Moon Blaster
+Publisher : Loriciel
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : MoonBlasterFr.Slave

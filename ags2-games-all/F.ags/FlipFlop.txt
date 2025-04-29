@@ -1,0 +1,6 @@
+Name      : Flip Flop
+Publisher : Anco, Kingsoft
+Year      : 1987
+Genre     : Board Game
+Players   : 1
+RunFile   : FlipFlop.Slave

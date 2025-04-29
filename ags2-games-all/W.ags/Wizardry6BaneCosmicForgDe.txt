@@ -1,0 +1,6 @@
+Name      : Wizardry: Bane of the Cosmic Forge
+Publisher : Sir-tech
+Year      : 1990
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : Wizardry6BaneCosmicForgDe.slave

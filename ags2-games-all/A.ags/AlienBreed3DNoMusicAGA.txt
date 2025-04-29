@@ -1,0 +1,6 @@
+Name      : Alien Breed 3D
+Publisher : Ocean, Team 17
+Year      : 1995
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : AlienBreed3DNoMusicAGA.slave

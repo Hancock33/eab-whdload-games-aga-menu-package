@@ -1,6 +1,6 @@
 Name      : Fascination
-Publisher : Coktel Vision
+Publisher : Coktel, Tomahawk
 Year      : 1991
-Genre     : Adventure - Point and Click
-Players   : 1 Only
+Genre     : Adventure
+Players   : 1
 RunFile   : Fascination.Slave

@@ -1,0 +1,6 @@
+Name      : Time Runners 18: The Killer Shadow
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners18.Slave

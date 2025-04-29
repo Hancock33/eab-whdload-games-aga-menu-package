@@ -1,0 +1,6 @@
+Name      : R.B.I. Baseball 2
+Publisher : Domark, Tengen
+Year      : 1991
+Genre     : Sports - Baseball
+Players   : 2
+RunFile   : RBI2Baseball.Slave

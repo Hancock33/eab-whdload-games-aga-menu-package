@@ -1,0 +1,6 @@
+Name      : Sonic Boom
+Publisher : Activision
+Year      : 1990
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
+RunFile   : SonicBoom.slave

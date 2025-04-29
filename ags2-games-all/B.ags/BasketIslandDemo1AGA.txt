@@ -1,0 +1,6 @@
+Name      : Basket Island
+Publisher : Syndrome
+Year      : 199X
+Genre     : Sports - Basketball
+Players   : 1
+RunFile   : BasketIslandDemo1AGA.Slave

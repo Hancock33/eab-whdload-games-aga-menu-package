@@ -1,0 +1,6 @@
+Name      : Mission Elevator
+Publisher : Axxiom, Euro Gold Starline, reLINE
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : MissionElevator.slave

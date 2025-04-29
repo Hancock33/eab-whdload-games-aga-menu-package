@@ -1,6 +1,6 @@
-Name      : Wizkid
+Name      : Wizkid: The Story of Wizball II
 Publisher : Ocean
 Year      : 1992
-Genre     : Arcade - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Wizkid.slave

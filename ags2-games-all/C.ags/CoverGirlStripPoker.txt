@@ -1,0 +1,6 @@
+Name      : Cover Girl Strip Poker
+Publisher : On-line, Storm
+Year      : 1992
+Genre     : Game
+Players   : 3 (taking turns)
+RunFile   : CoverGirlStripPoker.slave

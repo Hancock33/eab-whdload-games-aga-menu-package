@@ -1,5 +1,6 @@
 Name      : RoboCop
-Publisher : Ocean
+Publisher : Data East, Ocean
 Year      : 1989
-Players   : 1 Only
+Genre     : Action - Multi-Type
+Players   : 1
 RunFile   : RoboCop.Slave

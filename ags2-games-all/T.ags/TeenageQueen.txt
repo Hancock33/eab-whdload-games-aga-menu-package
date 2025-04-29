@@ -1,0 +1,6 @@
+Name      : Teenage Queen
+Publisher : ERE Informatique
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : TeenageQueen.Slave

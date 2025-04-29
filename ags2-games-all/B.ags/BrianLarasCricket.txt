@@ -1,0 +1,6 @@
+Name      : Brian Lara's Cricket
+Publisher : Audiogenic
+Year      : 1995
+Genre     : Sports - Cricket
+Players   : 2
+RunFile   : BrianLarasCricket.Slave

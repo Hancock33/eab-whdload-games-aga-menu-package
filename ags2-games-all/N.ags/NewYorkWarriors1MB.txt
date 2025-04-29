@@ -1,0 +1,6 @@
+Name      : New York Warriors
+Publisher : Virgin
+Year      : 1990
+Genre     : Run & Gun
+Players   : 2
+RunFile   : NewYorkWarriors1MB.Slave

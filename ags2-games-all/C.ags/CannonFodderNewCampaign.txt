@@ -1,0 +1,6 @@
+Name      : Cannon Fodder: New Campaign
+Publisher : Virgin
+Year      : 2008
+Genre     : Action - Strategy
+Players   : 1
+RunFile   : CannonFodderNewCampaign.slave

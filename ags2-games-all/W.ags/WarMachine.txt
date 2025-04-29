@@ -1,0 +1,6 @@
+Name      : War Machine
+Publisher : Smash 16
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : WarMachine.Slave

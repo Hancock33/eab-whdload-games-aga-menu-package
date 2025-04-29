@@ -1,6 +1,6 @@
 Name      : Adrenalynn
-Publisher : Loriciel
+Publisher : Global Software, Loriciel
 Year      : 1991
-Genre     : Sports - Miscellaneous
-Players   : 1 to 4
+Genre     : Sports - Future/Fantasy
+Players   : 4
 RunFile   : Adrenalynn.Slave

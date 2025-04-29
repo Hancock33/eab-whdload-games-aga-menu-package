@@ -1,0 +1,6 @@
+Name      : Les Castors Juniors Dans La Forêt
+Publisher : Coktel
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : CastorsJuniorsFr.Slave

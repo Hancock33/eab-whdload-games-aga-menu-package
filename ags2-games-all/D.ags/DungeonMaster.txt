@@ -1,0 +1,6 @@
+Name      : Dungeon Master
+Publisher : FTL, Mirrorsoft
+Year      : 1988
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : DungeonMaster.slave

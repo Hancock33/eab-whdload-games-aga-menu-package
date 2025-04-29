@@ -1,7 +1,0 @@
-Name      : Treasures of the Savage Frontier
-Version   : NTSC
-Publisher : Strategic Simulations, Inc.
-Year      : 1992
-Genre     : Adventure - RPG 3D
-Players   : 1 Only
-RunFile   : TreasureSavageFrontNTSC.Slave

@@ -1,5 +1,6 @@
 Name      : Steel
 Publisher : Hewson
 Year      : 1989
-Players   : 1 Only
-RunFile   : Steel.Slave
+Genre     : Game
+Players   : 1
+RunFile   : Steel.slave

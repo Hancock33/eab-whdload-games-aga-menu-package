@@ -1,5 +1,6 @@
-Name      : Cattivik
-Publisher : Idea
+Name      : Cattivik: The Videogame
+Publisher : Idea Games
 Year      : 1992
+Genre     : Game
 Players   : 1
 RunFile   : Cattivik.Slave

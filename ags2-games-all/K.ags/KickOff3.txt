@@ -1,0 +1,6 @@
+Name      : Kick Off 3
+Publisher : Anco
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 4 (2 simultaneously)
+RunFile   : KickOff3.Slave

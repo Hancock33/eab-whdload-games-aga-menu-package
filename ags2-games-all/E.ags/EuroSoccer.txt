@@ -1,0 +1,6 @@
+Name      : Euro Soccer
+Publisher : Flair
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : EuroSoccer.Slave

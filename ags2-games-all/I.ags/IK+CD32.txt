@@ -1,0 +1,6 @@
+Name      : IK+
+Publisher : System 3
+Year      : 1988
+Genre     : Fighting
+Players   : 2
+RunFile   : IK+CD32.slave

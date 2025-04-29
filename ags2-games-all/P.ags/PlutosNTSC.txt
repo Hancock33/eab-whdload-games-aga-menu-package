@@ -1,0 +1,6 @@
+Name      : Plutos
+Publisher : MicroValue, Mindscape
+Year      : 1987
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : PlutosNTSC.Slave

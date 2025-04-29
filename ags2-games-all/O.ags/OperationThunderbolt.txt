@@ -1,0 +1,6 @@
+Name      : Operation Thunderbolt
+Publisher : Ocean
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : OperationThunderbolt.slave

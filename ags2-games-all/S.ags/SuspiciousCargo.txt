@@ -1,0 +1,6 @@
+Name      : Suspicious Cargo
+Publisher : Gremlin
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SuspiciousCargo.slave

@@ -1,5 +1,6 @@
 Name      : Scorpio
 Publisher : Kingsoft
 Year      : 1988
-Players   : 1 - 2 (1 simultaneous)
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Scorpio.Slave

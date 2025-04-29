@@ -1,0 +1,6 @@
+Name      : Player Manager 2 Extra: The Chase for Glory
+Publisher : Anco
+Year      : 1995
+Genre     : Sports - Management
+Players   : 4 (2 simultaneously)
+RunFile   : PlayerManager2ExtraAGA.Slave

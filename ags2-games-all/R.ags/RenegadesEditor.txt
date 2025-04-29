@@ -1,0 +1,6 @@
+Name      : Renegades (Editor)
+Publisher : Amigo!
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : RenegadesEditor.Slave

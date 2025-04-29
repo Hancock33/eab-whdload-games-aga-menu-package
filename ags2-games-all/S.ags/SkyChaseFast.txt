@@ -1,0 +1,6 @@
+Name      : SkyChase
+Publisher : Image Works, Maxis
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : SkyChaseFast.Slave

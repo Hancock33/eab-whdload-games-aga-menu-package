@@ -1,0 +1,6 @@
+Name      : Balance of Power: The 1990 Edition
+Publisher : Mindscape
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : BalanceOfPower1990Ed.Slave

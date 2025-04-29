@@ -1,0 +1,6 @@
+Name      : Giana Sisters: Special Edition
+Publisher : Reimagine Games
+Year      : 2016
+Genre     : Platform
+Players   : 2 (turn based)
+RunFile   : GianaSistersSE.slave

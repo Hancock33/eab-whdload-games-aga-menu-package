@@ -1,0 +1,6 @@
+Name      : Castle Kingdoms
+Publisher : Mutation
+Year      : 1997
+Genre     : Game
+Players   : 1
+RunFile   : CastleKingdoms.Slave

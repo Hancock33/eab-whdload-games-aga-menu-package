@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:R/Racter/Racter.Slave
+;RunFile=A-Games:R/Racter/Racter.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:R/Racter/"
 IF EXISTS ENV:whdloadargs
-  whdload "Racter.Slave" $whdloadargs
+  whdload "Racter.slave" $whdloadargs
 ELSE
-  whdload "Racter.Slave"
+  whdload "Racter.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

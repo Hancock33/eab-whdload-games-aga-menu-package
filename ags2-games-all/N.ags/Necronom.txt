@@ -1,5 +1,6 @@
 Name      : Necronom
 Publisher : Linel
 Year      : 1991
-Players   : 1 Only
-RunFile   : Necronom.Slave
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : Necronom.slave

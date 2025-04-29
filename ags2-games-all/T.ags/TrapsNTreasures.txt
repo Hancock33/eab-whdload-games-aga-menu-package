@@ -1,0 +1,6 @@
+Name      : Traps 'n' Treasures
+Publisher : Krisalis, Mirage Media, Starbyte
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : TrapsNTreasures.Slave

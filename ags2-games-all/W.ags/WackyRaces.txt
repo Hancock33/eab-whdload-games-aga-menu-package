@@ -1,0 +1,6 @@
+Name      : Wacky Races
+Publisher : Hi-Tec
+Year      : 1991
+Genre     : Platform - Racing
+Players   : 1
+RunFile   : WackyRaces.Slave

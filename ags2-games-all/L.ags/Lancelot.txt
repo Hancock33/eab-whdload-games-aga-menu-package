@@ -1,6 +1,6 @@
 Name      : Lancelot
-Publisher : Mandarin
+Publisher : Datasoft, Mandarin
 Year      : 1988
-Genre     : Adventure - Graphics/Text
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Lancelot.Slave

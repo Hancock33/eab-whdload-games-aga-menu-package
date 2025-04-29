@@ -1,0 +1,6 @@
+Name      : Third Reich
+Publisher : Avalon Hill
+Year      : 1992
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : ComputerThirdReich.Slave

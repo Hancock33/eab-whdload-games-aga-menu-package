@@ -1,5 +1,6 @@
 Name      : Skyblaster
-Publisher : ReLINE (Softgold/micro-partner) / DigiTek
+Publisher : DigiTek, reLINE
 Year      : 1989
-Players   : 1 - 2 (2 simultaneous)
+Genre     : Game
+Players   : 2 (taking turns)
 RunFile   : Skyblaster.Slave

@@ -1,0 +1,6 @@
+Name      : Burnout
+Publisher : Vulcan
+Year      : 1996
+Genre     : Racing - Top-Down
+Players   : 4
+RunFile   : BurnoutAGA.slave

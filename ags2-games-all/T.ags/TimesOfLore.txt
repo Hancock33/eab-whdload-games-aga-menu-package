@@ -1,0 +1,6 @@
+Name      : Times of Lore
+Publisher : Origin
+Year      : 1988
+Genre     : RPG
+Players   : 1
+RunFile   : TimesOfLore.Slave

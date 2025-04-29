@@ -1,0 +1,6 @@
+Name      : Dark Castle
+Publisher : Mirrorsoft
+Year      : 09/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : DarkCastle.slave

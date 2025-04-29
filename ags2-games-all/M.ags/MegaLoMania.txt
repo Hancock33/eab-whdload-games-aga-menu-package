@@ -1,0 +1,6 @@
+Name      : Mega Lo Mania
+Publisher : Image Works
+Year      : 1991
+Genre     : Strategy - Real-Time
+Players   : 1
+RunFile   : MegaLoMania.Slave

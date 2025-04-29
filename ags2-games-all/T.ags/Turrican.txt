@@ -1,5 +1,6 @@
 Name      : Turrican
-Publisher : Rainbow Arts
+Publisher : Innerprise, Rainbow Arts
 Year      : 1990
-Players   : 1 Only
+Genre     : Platform - Shooting
+Players   : 1
 RunFile   : Turrican.Slave

@@ -1,0 +1,6 @@
+Name      : Picsou: Chasseur De Trésor
+Publisher : Coktel
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : PicsouchasseurDeTresorFr.Slave

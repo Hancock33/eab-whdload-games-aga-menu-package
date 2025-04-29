@@ -1,0 +1,6 @@
+Name      : Poker Nights: Tropical Heat
+Publisher : VTO Pictures
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : PokerNights&DataDisks.slave

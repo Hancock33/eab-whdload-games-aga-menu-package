@@ -1,0 +1,6 @@
+Name      : Table Tennis Simulation
+Publisher : Starbyte
+Year      : 1989
+Genre     : Sports - Ping Pong
+Players   : 12 (2 simultaneously)
+RunFile   : TableTennisSimulation.Slave

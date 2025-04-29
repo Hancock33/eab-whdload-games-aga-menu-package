@@ -1,0 +1,6 @@
+Name      : Liquid Kids
+Publisher : Ocean
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : LiquidKidsFiles.Slave

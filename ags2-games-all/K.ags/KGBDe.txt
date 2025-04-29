@@ -1,0 +1,6 @@
+Name      : KGB
+Publisher : Virgin
+Year      : 1992
+Genre     : Adventure
+Players   : 1
+RunFile   : KGBDe.Slave

@@ -1,0 +1,6 @@
+Name      : Overlord
+Publisher : Virgin
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : OverlordDemoRowan.Slave

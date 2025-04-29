@@ -1,6 +1,6 @@
 Name      : Titan
-Publisher : Titus Software
+Publisher : Titus
 Year      : 1989
-Genre     : Arcade - Breakout/Pong
-Players   : 1 Only
-RunFile   : Titan.slave
+Genre     : Game
+Players   : 1
+RunFile   : Titan.Slave

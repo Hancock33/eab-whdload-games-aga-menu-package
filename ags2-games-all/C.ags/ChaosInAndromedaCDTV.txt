@@ -1,0 +1,6 @@
+Name      : Chaos in Andromeda: Eyes of the Eagle
+Publisher : On-line
+Year      : 1992
+Genre     : RPG
+Players   : 1
+RunFile   : ChaosInAndromedaCDTV.slave

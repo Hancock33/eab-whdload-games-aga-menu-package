@@ -1,0 +1,6 @@
+Name      : SideWinder (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1988
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
+RunFile   : SideWinderArcadia.Slave

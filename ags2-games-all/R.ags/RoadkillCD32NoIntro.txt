@@ -1,0 +1,6 @@
+Name      : Roadkill
+Publisher : Acid Software
+Year      : 1994
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : RoadkillCD32NoIntro.Slave

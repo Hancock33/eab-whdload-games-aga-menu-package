@@ -1,0 +1,6 @@
+Name      : Budokan: The Martial Spirit
+Publisher : Electronic Arts
+Year      : 1989
+Genre     : Sports - Martial Arts
+Players   : 2
+RunFile   : Budokan.Slave

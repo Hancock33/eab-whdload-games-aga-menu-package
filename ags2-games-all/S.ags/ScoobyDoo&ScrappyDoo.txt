@@ -1,0 +1,6 @@
+Name      : Scooby Doo & Scrappy Doo
+Publisher : Hi-Tec
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : ScoobyDoo&ScrappyDoo.slave

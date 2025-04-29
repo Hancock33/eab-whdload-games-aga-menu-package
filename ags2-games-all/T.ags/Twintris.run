@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Twintris/Twintris.Slave
+;RunFile=A-Games:T/Twintris/Twintris.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:T/Twintris/"
 IF EXISTS ENV:whdloadargs
-  whdload "Twintris.Slave" $whdloadargs
+  whdload "Twintris.slave" $whdloadargs
 ELSE
-  whdload "Twintris.Slave"
+  whdload "Twintris.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

@@ -1,0 +1,6 @@
+Name      : Police Quest III: The Kindred
+Publisher : Sierra
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : PoliceQuest3DeMT32.slave

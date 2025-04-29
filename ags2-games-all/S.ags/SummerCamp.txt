@@ -1,0 +1,6 @@
+Name      : Summer Camp
+Publisher : Black Legend
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SummerCamp.Slave

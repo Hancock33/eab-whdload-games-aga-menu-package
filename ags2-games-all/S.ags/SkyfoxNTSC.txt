@@ -1,0 +1,6 @@
+Name      : Skyfox
+Publisher : Ariolasoft, C.T.O., Electronic Arts
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : SkyfoxNTSC.slave

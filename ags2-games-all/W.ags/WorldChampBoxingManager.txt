@@ -1,0 +1,6 @@
+Name      : World Championship Boxing Manager
+Publisher : Goliath, Krisalis, System 4
+Year      : 1990
+Genre     : Sports - Management
+Players   : 1
+RunFile   : WorldChampBoxingManager.Slave

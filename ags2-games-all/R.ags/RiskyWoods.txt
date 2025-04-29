@@ -1,0 +1,6 @@
+Name      : Risky Woods
+Publisher : Dinamic, Electronic Arts
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : RiskyWoods.slave

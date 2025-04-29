@@ -1,6 +1,6 @@
 Name      : Klax
-Publisher : Domark
+Publisher : Domark, Tengen
 Year      : 1990
-Genre     : Arcade - Miscellaneous
-Players   : 1 Only
+Genre     : Puzzle - Stacking
+Players   : 2
 RunFile   : Klax.Slave

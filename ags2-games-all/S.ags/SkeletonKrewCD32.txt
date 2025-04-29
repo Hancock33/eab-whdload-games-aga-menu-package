@@ -1,0 +1,6 @@
+Name      : Skeleton Krew
+Publisher : Core Design
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : SkeletonKrewCD32.slave

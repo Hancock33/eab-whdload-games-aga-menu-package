@@ -1,0 +1,6 @@
+Name      : Stone Age
+Publisher : Eclipse
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : StoneAge.slave

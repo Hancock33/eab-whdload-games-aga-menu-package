@@ -1,0 +1,6 @@
+Name      : Revenge of the Mutant Camels II
+Publisher : Mastertronic
+Year      : 1988
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : RevengeOfMutantCamels2.slave

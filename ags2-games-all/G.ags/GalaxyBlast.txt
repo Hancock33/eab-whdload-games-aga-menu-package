@@ -1,0 +1,6 @@
+Name      : Galaxy Blast
+Publisher : Amiga Mania, Amigo!
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : GalaxyBlast.Slave

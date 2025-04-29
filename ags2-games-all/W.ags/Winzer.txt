@@ -1,4 +1,6 @@
 Name      : Winzer
 Publisher : Starbyte
-Players   : 1 - 4 (1 simultaneous)
+Year      : 1991
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
 RunFile   : Winzer.slave

@@ -1,0 +1,6 @@
+Name      : Alien Breed 3D II: The Killing Grounds
+Publisher : Ocean, Team 17
+Year      : 1996
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : AlienBreed3D2AGA.slave

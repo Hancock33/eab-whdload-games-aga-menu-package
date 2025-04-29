@@ -1,0 +1,6 @@
+Name      : Top Cat Starring in Beverly Hills Cats
+Publisher : Hi-Tec
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : TopCat.Slave

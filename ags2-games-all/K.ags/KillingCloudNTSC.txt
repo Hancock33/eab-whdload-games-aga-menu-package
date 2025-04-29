@@ -1,0 +1,6 @@
+Name      : The Killing Cloud
+Publisher : Image Works, Konami
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : KillingCloudNTSC.slave

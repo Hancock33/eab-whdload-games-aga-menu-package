@@ -1,0 +1,6 @@
+Name      : Time Runners 10: The Time Sentry
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners10.Slave

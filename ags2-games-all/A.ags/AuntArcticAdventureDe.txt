@@ -1,0 +1,6 @@
+Name      : Aunt Arctic Adventure
+Publisher : Mindware, Starbyte
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : AuntArcticAdventureDe.slave

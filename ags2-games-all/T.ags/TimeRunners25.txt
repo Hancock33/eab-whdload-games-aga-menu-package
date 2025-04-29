@@ -1,0 +1,6 @@
+Name      : Time Runners 25: The Lost Planet Earth
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners25.Slave

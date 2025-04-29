@@ -1,0 +1,6 @@
+Name      : Laser Squad
+Publisher : Blade, MicroIllusions
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : LaserSquadIt.slave

@@ -1,0 +1,6 @@
+Name      : Pro Boxing Simulator
+Publisher : Codemasters
+Year      : 1991
+Genre     : Sports - Boxing
+Players   : 2
+RunFile   : ProBoxingSimulator.Slave

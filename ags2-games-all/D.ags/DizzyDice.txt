@@ -1,0 +1,6 @@
+Name      : Dizzy Dice
+Publisher : Rainbow Arts, Smash 16
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : DizzyDice.Slave

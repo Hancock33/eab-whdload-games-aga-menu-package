@@ -1,0 +1,6 @@
+Name      : Poweroids
+Publisher : Lazycow
+Year      : 1995
+Genre     : Game
+Players   : 4
+RunFile   : Poweroids.slave

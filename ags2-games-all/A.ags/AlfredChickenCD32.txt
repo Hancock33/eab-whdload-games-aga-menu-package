@@ -1,0 +1,6 @@
+Name      : Alfred Chicken
+Publisher : Mindscape
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : AlfredChickenCD32.slave

@@ -1,0 +1,6 @@
+Name      : A.G.E. (Advanced Galactic Empire)
+Publisher : Tomahawk
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : AGE.Slave

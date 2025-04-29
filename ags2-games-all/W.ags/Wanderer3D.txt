@@ -1,0 +1,6 @@
+Name      : Wanderer 3D
+Publisher : Elite
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Wanderer3D.Slave

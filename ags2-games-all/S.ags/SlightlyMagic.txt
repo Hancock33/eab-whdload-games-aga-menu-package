@@ -1,0 +1,6 @@
+Name      : Slightly Magic
+Publisher : Codemasters
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SlightlyMagic.slave

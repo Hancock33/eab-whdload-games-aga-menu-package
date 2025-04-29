@@ -1,0 +1,6 @@
+Name      : Dr. Cube's Magic Lands
+Publisher : Scienide
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : DrCubesMagicLands.Slave

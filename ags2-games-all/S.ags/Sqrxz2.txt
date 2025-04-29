@@ -1,0 +1,6 @@
+Name      : Sqrxz 2
+Publisher : Retroguru
+Year      : 2012
+Genre     : Game
+Players   : 1
+RunFile   : Sqrxz2.slave

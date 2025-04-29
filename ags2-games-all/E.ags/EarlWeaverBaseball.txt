@@ -1,0 +1,6 @@
+Name      : Earl Weaver Baseball
+Publisher : Electronic Arts
+Year      : 1987
+Genre     : Game
+Players   : 2
+RunFile   : EarlWeaverBaseball.slave

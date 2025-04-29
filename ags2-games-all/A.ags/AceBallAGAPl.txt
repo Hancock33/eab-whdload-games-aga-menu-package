@@ -1,0 +1,6 @@
+Name      : Ace Ball
+Publisher : TimSoft
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : AceBallAGAPl.Slave

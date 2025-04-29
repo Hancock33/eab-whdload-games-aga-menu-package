@@ -1,0 +1,6 @@
+Name      : Damage: The Sadistic Butchering of Humanity
+Publisher : Crystal Interactive, Suomi-Peli
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : DamagePreview.Slave

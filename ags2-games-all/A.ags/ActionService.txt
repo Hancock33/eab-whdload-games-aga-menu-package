@@ -1,0 +1,6 @@
+Name      : Action Service
+Publisher : Infogrames
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 12 (taking turns)
+RunFile   : ActionService.slave

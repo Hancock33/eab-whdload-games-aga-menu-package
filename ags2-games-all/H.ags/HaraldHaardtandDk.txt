@@ -1,0 +1,6 @@
+Name      : Harald Hårdtand i 'Kampen Om De Rene Tænder'
+Publisher : Colgate-Palmolive
+Year      : 1992
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : HaraldHaardtandDk.slave

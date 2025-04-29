@@ -1,0 +1,6 @@
+Name      : Special Forces
+Publisher : MicroProse
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : SpecialForces.slave

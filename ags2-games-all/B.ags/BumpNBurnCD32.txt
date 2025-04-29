@@ -1,0 +1,6 @@
+Name      : Bump 'n' Burn
+Publisher : Grandslam 
+Year      : 1994
+Genre     : Racing - Arcade
+Players   : 2
+RunFile   : BumpNBurnCD32.Slave

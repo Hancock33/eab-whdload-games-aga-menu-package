@@ -1,0 +1,6 @@
+Name      : Crystal Hammer
+Publisher : reLINE
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : CrystalHammerV2.slave

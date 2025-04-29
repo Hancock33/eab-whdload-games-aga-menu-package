@@ -1,0 +1,6 @@
+Name      : Advantage Tennis
+Publisher : Infogrames
+Year      : 1991
+Genre     : Sports - Tennis
+Players   : 2
+RunFile   : AdvantageTennis.slave

@@ -1,5 +1,6 @@
 Name      : Ork
 Publisher : Psygnosis
 Year      : 1991
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Ork.Slave

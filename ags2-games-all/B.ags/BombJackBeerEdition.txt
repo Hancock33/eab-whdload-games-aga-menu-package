@@ -1,0 +1,6 @@
+Name      : Bomb Jack: Beer Edition
+Publisher : McGeezer
+Year      : 2018
+Genre     : Game
+Players   : 1
+RunFile   : BombJackBeerEdition.Slave

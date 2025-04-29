@@ -1,0 +1,6 @@
+Name      : Abandoned Places: A Time for Heroes
+Publisher : Electronic Zoo, System 4
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : AbandonedPlaces.slave

@@ -1,0 +1,6 @@
+Name      : Chambers of Shaolin
+Publisher : Grandslam, Thalion
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : ChambersOfShaolinCD32.slave

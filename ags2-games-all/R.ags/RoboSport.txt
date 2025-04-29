@@ -1,6 +1,6 @@
 Name      : RoboSport
-Publisher : Ocean
+Publisher : Maxis, Ocean
 Year      : 1992
-Genre     : Strategy - Miscellaneous
-Players   : 1 to 4
+Genre     : Game
+Players   : 4 (taking turns, serial link)
 RunFile   : RoboSport.Slave

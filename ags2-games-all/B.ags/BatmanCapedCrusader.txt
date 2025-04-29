@@ -1,0 +1,6 @@
+Name      : Batman: The Caped Crusader
+Publisher : Data East, Ocean
+Year      : 1988
+Genre     : Action Adventure
+Players   : 1
+RunFile   : BatmanCapedCrusader.Slave

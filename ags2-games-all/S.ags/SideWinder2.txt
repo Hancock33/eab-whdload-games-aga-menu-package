@@ -1,0 +1,6 @@
+Name      : SideWinder II
+Publisher : 16 Blitz
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : SideWinder2.Slave

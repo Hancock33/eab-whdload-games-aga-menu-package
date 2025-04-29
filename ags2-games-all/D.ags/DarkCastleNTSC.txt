@@ -1,0 +1,6 @@
+Name      : Dark Castle
+Publisher : Three-Sixty
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : DarkCastleNTSC.slave

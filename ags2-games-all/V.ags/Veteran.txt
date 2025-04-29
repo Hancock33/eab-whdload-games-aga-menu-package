@@ -1,5 +1,6 @@
 Name      : Veteran
-Publisher : Software Horizons
+Publisher : Keypunch, Software Horizons
 Year      : 1988
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Veteran.Slave

@@ -1,0 +1,6 @@
+Name      : The Curse of RA
+Publisher : Rainbow Arts
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : CurseOfRaCDTV.slave

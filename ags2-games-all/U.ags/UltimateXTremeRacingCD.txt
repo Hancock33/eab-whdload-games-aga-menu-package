@@ -1,0 +1,6 @@
+Name      : Ultimate XTreme Racing
+Publisher : Alive Mediasoft
+Year      : 2000
+Genre     : Racing - Arcade
+Players   : 4
+RunFile   : UltimateXTremeRacingCD.slave

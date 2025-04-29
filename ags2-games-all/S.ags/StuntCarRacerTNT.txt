@@ -1,0 +1,6 @@
+Name      : Stunt Car Racer: The New Tracks
+Publisher : MicroStyle
+Year      : 2004
+Genre     : Racing
+Players   : 8 (supports  serial link)
+RunFile   : StuntCarRacerTNT.slave

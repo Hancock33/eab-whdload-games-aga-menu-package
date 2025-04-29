@@ -1,0 +1,6 @@
+Name      : U.N. Squadron
+Publisher : U.S. Gold
+Year      : 1990
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : UNSquadron.slave

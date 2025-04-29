@@ -1,6 +1,6 @@
 Name      : Artura
-Publisher : Gremlin Graphics
+Publisher : Arcadia, Gremlin
 Year      : 1989
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Artura.Slave

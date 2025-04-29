@@ -1,0 +1,6 @@
+Name      : Chichén Itzá
+Publisher : Aventuras AD
+Year      : 1992
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : ChichenItzaEs.slave

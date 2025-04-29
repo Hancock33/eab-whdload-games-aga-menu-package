@@ -1,0 +1,6 @@
+Name      : Graham Gooch World Class Cricket Test Match Special Edition
+Publisher : Audiogenic
+Year      : 1994
+Genre     : Sports - Cricket
+Players   : 2
+RunFile   : GrahamGoochWCCricketSE.Slave

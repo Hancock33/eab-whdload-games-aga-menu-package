@@ -1,5 +1,6 @@
 Name      : Zynaps
 Publisher : Hewson
 Year      : 1988
-Players   : 1 or 2
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
 RunFile   : Zynaps.slave

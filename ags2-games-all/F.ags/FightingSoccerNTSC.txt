@@ -1,0 +1,6 @@
+Name      : Fighting Soccer
+Publisher : Activision
+Year      : 1989
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : FightingSoccerNTSC.slave

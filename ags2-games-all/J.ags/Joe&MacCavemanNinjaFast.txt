@@ -1,0 +1,6 @@
+Name      : Joe & Mac: Caveman Ninja
+Publisher : Data East, Elite
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : Joe&MacCavemanNinjaFast.slave

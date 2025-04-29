@@ -1,0 +1,6 @@
+Name      : Manhunter: New York
+Publisher : Sierra
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : Manhunter.slave

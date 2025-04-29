@@ -1,0 +1,6 @@
+Name      : Bomber Bob
+Publisher : Idea Games, The Software Business
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : BomberBobIt.Slave

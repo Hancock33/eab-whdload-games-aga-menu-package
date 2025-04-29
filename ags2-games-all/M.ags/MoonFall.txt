@@ -1,6 +1,6 @@
-Name      : MoonFall
-Publisher : 21st Century Entertainment
+Name      : Moonfall
+Publisher : 21st Century
 Year      : 1991
-Genre     : Simulation - Space
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Moonfall.slave

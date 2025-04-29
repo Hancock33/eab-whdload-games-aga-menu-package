@@ -1,0 +1,6 @@
+Name      : Labyrinth (COMputer)
+Publisher : Det Nye COMputer
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : LabyrinthDetNyeCOMputerDk.slave

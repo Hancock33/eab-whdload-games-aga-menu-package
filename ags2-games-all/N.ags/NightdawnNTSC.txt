@@ -1,0 +1,6 @@
+Name      : Nightdawn
+Publisher : Innerprise, Magic Bytes
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : NightdawnNTSC.Slave

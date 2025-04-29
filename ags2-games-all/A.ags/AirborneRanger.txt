@@ -1,0 +1,6 @@
+Name      : Airborne Ranger
+Publisher : MicroProse, U.S. Gold
+Year      : 1989
+Genre     : Action Adventure
+Players   : 1
+RunFile   : AirborneRanger.Slave

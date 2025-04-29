@@ -1,6 +1,6 @@
 Name      : Projectyle
 Publisher : Electronic Arts
 Year      : 1990
-Genre     : Sports - Miscellaneous
-Players   : 1 to 3, Simultaneous
-RunFile   : Projectyle.slave
+Genre     : Sports - Future/Fantasy
+Players   : 8 (3 simultaneously)
+RunFile   : Projectyle.Slave

@@ -1,0 +1,6 @@
+Name      : Police Quest: In Pursuit of the Death Angel
+Publisher : Sierra
+Year      : 1987
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : PoliceQuest.slave

@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "Z" "Zool"
+  execute S:AGS2Favourites "Z" "Zool: Ninja of the 'Nth' Dimension"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

@@ -1,0 +1,6 @@
+Name      : MAX Rally
+Publisher : Fortress
+Year      : 1998
+Genre     : Racing - Top-Down
+Players   : 2 (4 with serial link)
+RunFile   : MaxRally.slave

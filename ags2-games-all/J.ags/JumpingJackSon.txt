@@ -1,0 +1,6 @@
+Name      : Jumping Jack'Son
+Publisher : Infogrames
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : JumpingJackSon.Slave

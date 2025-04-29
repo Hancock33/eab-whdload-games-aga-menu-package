@@ -1,0 +1,6 @@
+Name      : Death Sword
+Publisher : Epyx
+Year      : 1987
+Genre     : Fighting
+Players   : 2
+RunFile   : DeathSwordNTSC.Slave

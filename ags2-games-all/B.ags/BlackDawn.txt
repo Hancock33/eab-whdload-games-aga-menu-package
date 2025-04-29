@@ -1,0 +1,6 @@
+Name      : Black Dawn
+Publisher : Andrew Campbell
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : BlackDawn.Slave

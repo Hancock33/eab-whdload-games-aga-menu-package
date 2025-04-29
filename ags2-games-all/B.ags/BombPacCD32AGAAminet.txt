@@ -1,0 +1,6 @@
+Name      : BombPac
+Publisher : Unknown
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : BombPacCD32AGAAminet.Slave

@@ -1,0 +1,6 @@
+Name      : Italy 1990 (U.S. Gold)
+Publisher : U.S. Gold
+Year      : 1990
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : Italy1990.slave

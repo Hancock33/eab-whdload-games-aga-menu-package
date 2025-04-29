@@ -1,0 +1,6 @@
+Name      : A-Train
+Publisher : Maxis, Ocean
+Year      : 1992
+Genre     : Simulation - Construction
+Players   : 1
+RunFile   : ATrain512kFr.slave

@@ -1,0 +1,6 @@
+Name      : Lure of the Temptress
+Publisher : Konami, Virgin
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : LureOfTheTemptressFr.slave

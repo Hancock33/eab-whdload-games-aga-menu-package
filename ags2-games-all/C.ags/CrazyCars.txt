@@ -1,0 +1,6 @@
+Name      : Crazy Cars
+Publisher : Titus
+Year      : 1988
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : CrazyCars.Slave

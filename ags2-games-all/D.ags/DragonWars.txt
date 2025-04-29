@@ -1,0 +1,6 @@
+Name      : Dragon Wars
+Publisher : Interplay
+Year      : 1990
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : DragonWars.slave

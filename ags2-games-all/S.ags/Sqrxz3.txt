@@ -1,0 +1,6 @@
+Name      : Sqrxz 3
+Publisher : Retroguru
+Year      : 2015
+Genre     : Game
+Players   : 1
+RunFile   : Sqrxz3.slave

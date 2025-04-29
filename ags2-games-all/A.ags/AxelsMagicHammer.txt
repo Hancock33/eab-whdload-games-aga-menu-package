@@ -1,0 +1,6 @@
+Name      : Axel's Magic Hammer
+Publisher : Gremlin
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : AxelsMagicHammer.Slave

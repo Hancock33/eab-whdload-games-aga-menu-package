@@ -1,0 +1,6 @@
+Name      : The Chaos Engine
+Publisher : Renegade
+Year      : 1993
+Genre     : Run & Gun
+Players   : 2
+RunFile   : ChaosEngine.slave

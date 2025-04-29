@@ -1,0 +1,6 @@
+Name      : A320 Airbus: Edition Europa
+Publisher : Thalion
+Year      : 15/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : A320AirbusEditionEuropa.slave

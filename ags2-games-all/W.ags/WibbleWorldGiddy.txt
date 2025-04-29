@@ -1,0 +1,6 @@
+Name      : Wibble World Giddy: Wibble Mania!
+Publisher : Phil Ruston
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : WibbleWorldGiddy.Slave

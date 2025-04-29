@@ -1,0 +1,6 @@
+Name      : Winter Olympiad 88
+Publisher : Tynesoft
+Year      : 1988
+Genre     : Sports - Multi-Event
+Players   : 6 (taking turns)
+RunFile   : WinterOlympiad88.Slave

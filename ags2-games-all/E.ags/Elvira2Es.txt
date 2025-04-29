@@ -1,0 +1,6 @@
+Name      : Elvira II: The Jaws of Cerberus
+Publisher : Accolade
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : Elvira2Es.slave

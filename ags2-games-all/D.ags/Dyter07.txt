@@ -1,0 +1,6 @@
+Name      : Dyter-07
+Publisher : reLINE
+Year      : 1990
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : Dyter07.slave

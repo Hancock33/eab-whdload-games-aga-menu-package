@@ -1,0 +1,6 @@
+Name      : Tiny Skweeks
+Publisher : Loriciel
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : TinySkweeks.Slave

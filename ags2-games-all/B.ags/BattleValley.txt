@@ -1,0 +1,6 @@
+Name      : Battle Valley
+Publisher : Hewson
+Year      : 1989
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : BattleValley.Slave

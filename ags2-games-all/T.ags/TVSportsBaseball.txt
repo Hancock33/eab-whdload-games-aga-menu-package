@@ -1,0 +1,6 @@
+Name      : TV Sports: Baseball
+Publisher : Mindscape
+Year      : 1992
+Genre     : Sports - Baseball
+Players   : 2
+RunFile   : TVSportsBaseball.Slave

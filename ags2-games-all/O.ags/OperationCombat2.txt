@@ -1,0 +1,6 @@
+Name      : Operation Combat II: By Land, Sea & Air
+Publisher : Merit Software
+Year      : 1993
+Genre     : Game
+Players   : 2 (supports serial link)
+RunFile   : OperationCombat2.Slave

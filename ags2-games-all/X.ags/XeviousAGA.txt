@@ -1,0 +1,6 @@
+Name      : Xevious
+Publisher : JOTD
+Year      : 2023
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : XeviousAGA.slave

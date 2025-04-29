@@ -1,0 +1,6 @@
+Name      : Sorcerer Lord
+Publisher : Datasoft, P.S.S.
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : SorcererLord.Slave

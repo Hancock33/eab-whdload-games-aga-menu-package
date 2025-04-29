@@ -1,0 +1,6 @@
+Name      : Zak McKracken & the Alien Mindbenders
+Publisher : Lucasfilm
+Year      : 1988
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : ZakMcKrackenFr.slave

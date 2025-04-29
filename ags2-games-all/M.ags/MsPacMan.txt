@@ -1,0 +1,6 @@
+Name      : Ms. Pac-Man
+Publisher : JOTD
+Year      : 2021
+Genre     : Game
+Players   : 1
+RunFile   : MsPacMan.slave

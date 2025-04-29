@@ -1,0 +1,6 @@
+Name      : Motorola Invaders 2
+Publisher : MartinSoft
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : MotorolaInvaders2AGA.slave

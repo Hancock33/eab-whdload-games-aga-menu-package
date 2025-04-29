@@ -1,0 +1,6 @@
+Name      : Spring Time
+Publisher : Trecision
+Year      : 1995
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Springtime.Slave

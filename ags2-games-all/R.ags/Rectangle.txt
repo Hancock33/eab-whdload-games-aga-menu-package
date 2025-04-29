@@ -1,0 +1,6 @@
+Name      : Rectangle
+Publisher : Turtle Byte Software
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Rectangle.slave

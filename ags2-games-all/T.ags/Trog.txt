@@ -1,4 +1,6 @@
 Name      : Trog
+Publisher : Atlantis
 Year      : 1992
+Genre     : Game
 Players   : 1
 RunFile   : Trog.Slave

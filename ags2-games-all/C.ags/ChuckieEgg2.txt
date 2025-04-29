@@ -1,0 +1,6 @@
+Name      : Chuckie Egg II
+Publisher : Pick & Choose
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ChuckieEgg2.Slave

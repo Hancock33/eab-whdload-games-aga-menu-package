@@ -1,0 +1,6 @@
+Name      : Vermeer
+Publisher : Ariolasoft
+Year      : 1988
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : VermeerDe.Slave

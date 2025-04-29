@@ -1,0 +1,6 @@
+Name      : International Truck Racing
+Publisher : Zeppelin
+Year      : 1992
+Genre     : Racing - Top-Down
+Players   : 2
+RunFile   : InternationalTruckRacing.slave

@@ -1,0 +1,6 @@
+Name      : Ninja Spirit
+Publisher : Activision
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : NinjaSpirit.Slave

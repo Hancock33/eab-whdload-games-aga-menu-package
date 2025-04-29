@@ -1,0 +1,6 @@
+Name      : Black Shadow
+Publisher : CRL
+Year      : 1987
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : BlackShadow.Slave

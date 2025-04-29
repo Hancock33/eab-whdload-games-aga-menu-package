@@ -1,6 +1,6 @@
 Name      : Elite
-Publisher : Firebird
+Publisher : Firebird, Rainbird
 Year      : 1988
-Genre     : Simulation - Space
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Elite.slave

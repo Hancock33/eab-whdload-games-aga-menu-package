@@ -1,6 +1,6 @@
 Name      : Wonderland
-Publisher : Virgin Mastertronic
+Publisher : Amiga Action
 Year      : 1991
-Genre     : Adventure - Animated Graphics/Text
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Wonderland.Slave

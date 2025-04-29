@@ -1,0 +1,6 @@
+Name      : The Chessmaster 2100
+Publisher : Software Toolworks, The
+Year      : 1990
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : Chessmaster2100NTSC.Slave

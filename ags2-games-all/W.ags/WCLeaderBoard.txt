@@ -1,0 +1,6 @@
+Name      : World Class Leader Board
+Publisher : Access, U.S. Gold
+Year      : 1988
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : WCLeaderBoard.slave

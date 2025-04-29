@@ -1,0 +1,6 @@
+Name      : Starush
+Publisher : Ubi Soft
+Year      : 1991
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : StarushImage.Slave

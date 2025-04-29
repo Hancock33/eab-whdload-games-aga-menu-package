@@ -1,0 +1,6 @@
+Name      : Legends
+Publisher : Guildhall
+Year      : 1996
+Genre     : RPG
+Players   : 1
+RunFile   : LegendsAGA.Slave

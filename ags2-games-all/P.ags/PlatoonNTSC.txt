@@ -1,0 +1,6 @@
+Name      : Platoon
+Publisher : Data East, Ocean
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : PlatoonNTSC.Slave

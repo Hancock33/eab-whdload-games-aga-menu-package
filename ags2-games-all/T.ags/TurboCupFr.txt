@@ -1,0 +1,6 @@
+Name      : Turbo Cup
+Publisher : Loriciels
+Year      : 1988
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : TurboCupFr.Slave

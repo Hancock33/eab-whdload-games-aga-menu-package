@@ -1,0 +1,6 @@
+Name      : Giddy II: Hero in An Egg Shell
+Publisher : F1 Licenceware
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : Giddy2HeroInAnEggShell.Slave

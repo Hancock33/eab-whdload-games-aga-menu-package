@@ -1,0 +1,6 @@
+Name      : Prince of Persia
+Publisher : Brøderbund
+Year      : 1991
+Genre     : Platform - Adventure
+Players   : 1
+RunFile   : PrinceOfPersiaDe.slave

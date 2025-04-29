@@ -1,0 +1,6 @@
+Name      : Valhalla: Before the War
+Publisher : Vulcan
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : ValhallaBeforeTheWar.slave

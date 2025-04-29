@@ -1,0 +1,6 @@
+Name      : Detector
+Publisher : Time Warp
+Year      : 1988
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Detector.slave

@@ -1,0 +1,6 @@
+Name      : Tricky-Quiky-Games: Die Suche Nach Den Verschollenen Seiten
+Publisher : Nestlé
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : TrickyQuikyGamesDe.Slave

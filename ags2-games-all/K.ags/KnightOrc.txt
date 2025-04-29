@@ -1,0 +1,6 @@
+Name      : Knight Orc
+Publisher : Firebird, Rainbird
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : KnightOrc.Slave

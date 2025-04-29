@@ -1,0 +1,6 @@
+Name      : L'Amazone Queen
+Publisher : Renegade
+Year      : 1995
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : LAmazoneQueenFr.Slave

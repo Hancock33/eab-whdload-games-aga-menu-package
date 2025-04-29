@@ -1,0 +1,6 @@
+Name      : Les Voyageurs Du Temps: La Menace
+Publisher : Delphine
+Year      : 1989
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : VoyageursDuTempsFr.slave

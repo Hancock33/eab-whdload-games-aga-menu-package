@@ -1,0 +1,6 @@
+Name      : Face-Off
+Publisher : Krisalis
+Year      : 1991
+Genre     : Sports - Ice Hockey
+Players   : 4 (2 simultaneously)
+RunFile   : FaceOffKrisalis.Slave

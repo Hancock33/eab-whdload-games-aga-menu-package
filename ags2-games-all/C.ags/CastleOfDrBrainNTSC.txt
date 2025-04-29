@@ -1,0 +1,6 @@
+Name      : Castle of Dr. Brain
+Publisher : Sierra
+Year      : 1992
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : CastleOfDrBrainNTSC.Slave

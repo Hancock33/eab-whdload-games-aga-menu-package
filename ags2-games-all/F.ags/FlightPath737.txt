@@ -1,0 +1,6 @@
+Name      : Flight Path 737
+Publisher : Anco
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : FlightPath737.Slave

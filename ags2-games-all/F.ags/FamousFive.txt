@@ -1,0 +1,6 @@
+Name      : The Famous Five: Five on a Treasure Island
+Publisher : Enigma Variations
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : FamousFive.Slave

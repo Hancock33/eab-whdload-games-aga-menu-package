@@ -1,0 +1,6 @@
+Name      : The Eye of Horus
+Publisher : Fanfare, Logotron
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : EyeOfHorus.Slave

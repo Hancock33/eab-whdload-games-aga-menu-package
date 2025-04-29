@@ -1,0 +1,6 @@
+Name      : Insector Hecti in the Interchange
+Publisher : Hi-Tec
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : InsectorHectiInterChange.Slave

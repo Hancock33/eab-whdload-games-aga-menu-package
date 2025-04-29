@@ -1,0 +1,6 @@
+Name      : Hoyle Book of Games Volume III: Great Board Games
+Publisher : Sierra On-Line
+Year      : 1992
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : HoyleVolume3.slave

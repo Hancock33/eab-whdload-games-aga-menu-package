@@ -1,0 +1,6 @@
+Name      : Grand Prix Master
+Publisher : Dinamic
+Year      : 1989
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : GrandPrixMaster.Slave

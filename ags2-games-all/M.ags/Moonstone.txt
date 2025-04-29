@@ -1,0 +1,6 @@
+Name      : Moonstone: A Hard Days Knight
+Publisher : Mindscape
+Year      : 1991
+Genre     : Game
+Players   : 4 (2 simultaneously)
+RunFile   : Moonstone.Slave

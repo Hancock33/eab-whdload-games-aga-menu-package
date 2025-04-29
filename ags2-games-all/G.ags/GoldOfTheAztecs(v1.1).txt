@@ -1,0 +1,6 @@
+Name      : The Gold of the Aztecs
+Publisher : U.S. Gold
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : GoldOfTheAztecs(v1.1).Slave

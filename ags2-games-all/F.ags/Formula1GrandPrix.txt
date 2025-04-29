@@ -1,0 +1,6 @@
+Name      : Formula 1 Grand Prix
+Publisher : MicroValue
+Year      : 1988
+Genre     : Racing
+Players   : 1
+RunFile   : Formula1GrandPrix.Slave

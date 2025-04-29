@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "0-9" "1869"
+  execute S:AGS2Favourites "0-9" "1869: History Experience Part I"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

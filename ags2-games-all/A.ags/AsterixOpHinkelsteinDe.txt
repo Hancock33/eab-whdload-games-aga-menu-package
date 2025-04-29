@@ -1,0 +1,6 @@
+Name      : Astérix: Operation Hinkelstein
+Publisher : Coktel
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : AsterixOpHinkelsteinDe.slave

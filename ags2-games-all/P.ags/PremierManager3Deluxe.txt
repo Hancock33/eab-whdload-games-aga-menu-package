@@ -1,0 +1,6 @@
+Name      : Premier Manager 3 Deluxe
+Publisher : Gremlin
+Year      : 1996
+Genre     : Sports - Management
+Players   : 2 (taking turns)
+RunFile   : PremierManager3Deluxe.Slave

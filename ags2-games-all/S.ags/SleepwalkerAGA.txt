@@ -1,0 +1,6 @@
+Name      : Sleepwalker
+Publisher : Ocean
+Year      : 1993
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : SleepwalkerAGA.Slave

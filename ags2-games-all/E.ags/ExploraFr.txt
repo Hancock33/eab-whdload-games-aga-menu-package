@@ -1,0 +1,6 @@
+Name      : Explora: Time Run
+Publisher : 16 32 Diffusion
+Year      : 1988
+Genre     : Adventure
+Players   : 1
+RunFile   : ExploraFr.Slave

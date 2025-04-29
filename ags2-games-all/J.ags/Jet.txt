@@ -1,5 +1,6 @@
 Name      : Jet
-Publisher : SubLOGIC
+Publisher : subLOGIC
 Year      : 1988
-Genre     : Simulation - Flight
+Genre     : Game
+Players   : 1 (2 with serial link)
 RunFile   : Jet.Slave

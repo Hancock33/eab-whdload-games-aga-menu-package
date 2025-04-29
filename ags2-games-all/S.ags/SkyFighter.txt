@@ -1,0 +1,6 @@
+Name      : Sky Fighter
+Publisher : Rainbow Arts
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : SkyFighter.Slave

@@ -1,0 +1,6 @@
+Name      : Galactic: The Xmas Edition
+Publisher : The One
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : GalacticTheXmasEdition1MB.Slave

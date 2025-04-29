@@ -1,6 +1,6 @@
 Name      : Racter
 Publisher : Mindscape
 Year      : 1986
-Genre     : Educational - Miscellaneous
-Players   : 1 Only
-RunFile   : Racter.Slave
+Genre     : Game
+Players   : 1
+RunFile   : Racter.slave

@@ -1,0 +1,6 @@
+Name      : Motor Massacre
+Publisher : Gremlin
+Year      : 1988
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : MotorMassacre.Slave

@@ -1,0 +1,6 @@
+Name      : Fernandez Must Die
+Publisher : Image Works
+Year      : 1988
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : FernandezMustDie.Slave

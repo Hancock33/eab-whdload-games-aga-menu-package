@@ -1,0 +1,6 @@
+Name      : Gunbee F-99
+Publisher : APC&TCP
+Year      : 1998
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : GunbeeF99AGA.Slave

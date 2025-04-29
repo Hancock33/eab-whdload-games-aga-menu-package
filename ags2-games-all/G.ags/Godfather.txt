@@ -1,0 +1,6 @@
+Name      : The Godfather
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : Godfather.Slave

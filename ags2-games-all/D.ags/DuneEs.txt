@@ -1,0 +1,6 @@
+Name      : Dune
+Publisher : Virgin
+Year      : 1992
+Genre     : Adventure - Strategy
+Players   : 1
+RunFile   : DuneEs.Slave

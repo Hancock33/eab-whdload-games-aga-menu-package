@@ -1,0 +1,6 @@
+Name      : GBA Championship Basketball
+Publisher : C.T.O., Gamestar
+Year      : 1986
+Genre     : Sports - Basketball
+Players   : 2
+RunFile   : GBAChampionshipBB.Slave

@@ -1,0 +1,6 @@
+Name      : Body Blows
+Publisher : Team 17
+Year      : 1993
+Genre     : Fighting
+Players   : 8 (2 simultaneously)
+RunFile   : BodyBlows.slave

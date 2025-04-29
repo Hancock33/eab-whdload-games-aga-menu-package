@@ -1,6 +1,6 @@
-Name      : Supremacy
+Name      : Supremacy: Your Will Be Done
 Publisher : Melbourne House
 Year      : 1990
-Genre     : Strategy - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Supremacy.Slave

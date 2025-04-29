@@ -1,0 +1,6 @@
+Name      : Final Assault
+Publisher : Epyx, U.S. Gold
+Year      : 1988
+Genre     : Sports - Climbing
+Players   : 1
+RunFile   : FinalAssault.slave

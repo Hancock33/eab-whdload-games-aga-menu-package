@@ -1,4 +1,6 @@
 Name      : Renegade
-Publisher : Imagine
+Publisher : Imagine, Taito
 Year      : 1989
+Genre     : Beat'em Up
+Players   : 1
 RunFile   : Renegade.slave

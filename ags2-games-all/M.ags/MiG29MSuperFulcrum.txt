@@ -1,0 +1,6 @@
+Name      : MiG-29M Super Fulcrum
+Publisher : Domark
+Year      : 1991
+Genre     : Game
+Players   : 1 (2 with serial link)
+RunFile   : MiG29MSuperFulcrum.slave

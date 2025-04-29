@@ -1,0 +1,6 @@
+Name      : Rat Trap
+Publisher : Audiogenic
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : RatTrap.Slave

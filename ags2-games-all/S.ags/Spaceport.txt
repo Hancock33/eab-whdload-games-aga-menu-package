@@ -1,5 +1,6 @@
 Name      : Spaceport
-Publisher : ReLINE Software
+Publisher : Axxiom, reLINE
 Year      : 1987
-Players   : 1 Only
-RunFile   : Spaceport.Slave
+Genre     : Game
+Players   : 1
+RunFile   : Spaceport.slave

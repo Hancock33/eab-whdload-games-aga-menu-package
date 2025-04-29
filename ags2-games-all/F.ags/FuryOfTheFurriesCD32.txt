@@ -1,0 +1,6 @@
+Name      : Fury of the Furries
+Publisher : Mindscape
+Year      : 1994
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : FuryOfTheFurriesCD32.Slave

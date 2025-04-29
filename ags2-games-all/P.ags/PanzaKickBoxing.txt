@@ -1,0 +1,6 @@
+Name      : Panza Kick Boxing
+Publisher : Loriciel, Futura
+Year      : 1990
+Genre     : Sports - Martial Arts
+Players   : 2
+RunFile   : PanzaKickBoxing.Slave

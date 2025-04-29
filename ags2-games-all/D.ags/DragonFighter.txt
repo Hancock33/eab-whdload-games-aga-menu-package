@@ -1,0 +1,6 @@
+Name      : Dragon Fighter
+Publisher : Idea Games
+Year      : 1991
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : DragonFighter.Slave

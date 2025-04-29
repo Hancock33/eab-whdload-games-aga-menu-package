@@ -1,0 +1,6 @@
+Name      : Day of the Viper
+Publisher : Accolade
+Year      : 1989
+Genre     : Action Adventure
+Players   : 1
+RunFile   : DayOfTheViper.slave

@@ -1,0 +1,6 @@
+Name      : Crazy Seasons
+Publisher : Idea Games
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : CrazySeasons.Slave

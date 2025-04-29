@@ -1,0 +1,6 @@
+Name      : Flashback
+Publisher : U.S. Gold
+Year      : 1993
+Genre     : Platform - Adventure
+Players   : 1
+RunFile   : FlashbackLowMemCz.slave

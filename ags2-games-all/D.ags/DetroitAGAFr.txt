@@ -1,0 +1,6 @@
+Name      : Detroit
+Publisher : Impressions
+Year      : 1994
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : DetroitAGAFr.slave

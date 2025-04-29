@@ -1,0 +1,6 @@
+Name      : The Killing Game Show
+Publisher : Psygnosis
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : KillingGameShow.slave

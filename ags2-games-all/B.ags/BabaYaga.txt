@@ -1,0 +1,6 @@
+Name      : Baba Yaga
+Publisher : Coktel
+Year      : 1991
+Genre     : Adventure
+Players   : 1
+RunFile   : BabaYaga.slave

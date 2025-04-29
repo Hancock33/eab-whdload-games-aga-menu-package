@@ -1,0 +1,6 @@
+Name      : Kikstart II
+Publisher : Mastertronic
+Year      : 1987
+Genre     : Racing - Side-Scrolling
+Players   : 2
+RunFile   : Kikstart2.Slave

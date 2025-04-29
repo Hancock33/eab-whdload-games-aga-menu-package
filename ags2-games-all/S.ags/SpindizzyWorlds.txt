@@ -1,0 +1,6 @@
+Name      : Spindizzy Worlds
+Publisher : Electric Dreams
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : SpindizzyWorlds.slave

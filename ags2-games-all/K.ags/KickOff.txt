@@ -1,0 +1,6 @@
+Name      : Kick Off
+Publisher : Anco
+Year      : 1989
+Genre     : Sports - Soccer
+Players   : 8 (2 simultaneously)
+RunFile   : KickOff.Slave

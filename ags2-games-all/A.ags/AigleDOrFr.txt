@@ -1,0 +1,6 @@
+Name      : L'Aigle D'Or: Le Retour
+Publisher : Loriciel
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : AigleDOrFr.Slave

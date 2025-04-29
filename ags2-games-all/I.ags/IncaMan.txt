@@ -1,0 +1,6 @@
+Name      : Inca Man
+Publisher : Amiten
+Year      : 2021
+Genre     : Game
+Players   : 2
+RunFile   : IncaMan.slave

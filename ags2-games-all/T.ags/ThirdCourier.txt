@@ -1,0 +1,6 @@
+Name      : The Third Courier
+Publisher : Accolade
+Year      : 1990
+Genre     : Adventure
+Players   : 1
+RunFile   : ThirdCourier.Slave

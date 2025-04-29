@@ -1,5 +1,6 @@
 Name      : Cybernetix
 Publisher : Amiga Format
 Year      : 1992
-Players   : 1 - 2 (1 simultaneous)
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
 RunFile   : Cybernetix.Slave

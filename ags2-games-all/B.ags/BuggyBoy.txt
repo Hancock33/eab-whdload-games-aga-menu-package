@@ -1,0 +1,6 @@
+Name      : Buggy Boy
+Publisher : Elite
+Year      : 1988
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : BuggyBoy.slave

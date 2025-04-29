@@ -1,6 +1,6 @@
 Name      : Cliffhanger
 Publisher : Psygnosis
 Year      : 1994
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Cliffhanger.slave

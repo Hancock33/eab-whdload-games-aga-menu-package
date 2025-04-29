@@ -1,5 +1,6 @@
 Name      : Savage
-Publisher : Firebird
+Publisher : Firebird, MicroPlay
 Year      : 1989
-Players   : 1 Only
-RunFile   : Savage.Slave
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : Savage.slave

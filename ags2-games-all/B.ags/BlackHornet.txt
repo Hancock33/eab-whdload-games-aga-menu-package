@@ -1,0 +1,6 @@
+Name      : Black Hornet
+Publisher : Hi-Tec
+Year      : 1991
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : BlackHornet.Slave

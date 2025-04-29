@@ -1,0 +1,6 @@
+Name      : The Misadventures of Flink
+Publisher : Psygnosis
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : FlinkCD32.Slave

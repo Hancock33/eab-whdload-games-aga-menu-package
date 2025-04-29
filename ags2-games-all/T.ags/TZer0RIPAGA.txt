@@ -1,0 +1,6 @@
+Name      : T-zer0
+Publisher : PXL
+Year      : 1999
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : TZer0RIPAGA.Slave

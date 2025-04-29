@@ -1,0 +1,6 @@
+Name      : Dalek Attack
+Publisher : Admiral, Alternative
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : DalekAttack.Slave

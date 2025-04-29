@@ -1,0 +1,6 @@
+Name      : Empire Soccer 94
+Publisher : Empire
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 8 (2 simultaneously)
+RunFile   : EmpireSoccer94.Slave

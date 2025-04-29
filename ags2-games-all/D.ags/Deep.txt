@@ -1,0 +1,6 @@
+Name      : The Deep
+Publisher : U.S. Gold
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : Deep.Slave

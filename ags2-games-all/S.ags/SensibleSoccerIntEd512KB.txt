@@ -1,0 +1,6 @@
+Name      : Sensible Soccer: International Edition v1.2
+Publisher : Renegade
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 32 (2 simultaneously)
+RunFile   : SensibleSoccerIntEd512KB.Slave

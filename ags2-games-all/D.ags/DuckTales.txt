@@ -1,0 +1,6 @@
+Name      : DuckTales: The Quest for Gold
+Publisher : Disney, Titus
+Year      : 1990
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : DuckTales.slave

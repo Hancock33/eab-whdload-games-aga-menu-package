@@ -1,0 +1,6 @@
+Name      : The Hellrun Machine
+Publisher : Amiga Fun, Amiga Mania
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : HellrunMachine.slave

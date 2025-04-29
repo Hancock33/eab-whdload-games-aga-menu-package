@@ -1,0 +1,6 @@
+Name      : Centerbase: Science-Fiction Simulation
+Publisher : reLINE
+Year      : 1992
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : Centerbase.slave

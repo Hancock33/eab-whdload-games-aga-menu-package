@@ -1,0 +1,6 @@
+Name      : Cave Runner
+Publisher : Rudi Martin
+Year      : 19XX
+Genre     : Game
+Players   : 1
+RunFile   : CaveRunner.slave

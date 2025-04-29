@@ -1,0 +1,6 @@
+Name      : Chuckie Egg
+Publisher : Pick & Choose
+Year      : 1988
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : ChuckieEgg.Slave

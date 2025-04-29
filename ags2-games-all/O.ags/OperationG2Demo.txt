@@ -1,0 +1,6 @@
+Name      : Operation GII (Demo)
+Publisher : Psygnosis
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : OperationG2Demo.Slave

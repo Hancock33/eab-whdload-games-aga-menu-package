@@ -1,0 +1,6 @@
+Name      : ESWAT: Cyber Police
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : ESWATImage.Slave

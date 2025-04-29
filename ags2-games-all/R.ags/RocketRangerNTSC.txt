@@ -1,0 +1,6 @@
+Name      : Rocket Ranger
+Publisher : Cinemaware
+Year      : 1988
+Genre     : Action Adventure
+Players   : 1
+RunFile   : RocketRangerNTSC.Slave

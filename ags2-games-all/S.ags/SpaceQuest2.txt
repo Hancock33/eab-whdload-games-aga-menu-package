@@ -1,0 +1,6 @@
+Name      : Space Quest II: Vohaul's Revenge
+Publisher : Sierra
+Year      : 1988
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : SpaceQuest2.slave

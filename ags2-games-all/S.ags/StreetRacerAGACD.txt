@@ -1,0 +1,6 @@
+Name      : Street Racer
+Publisher : Acid Software
+Year      : 1997
+Genre     : Racing - Arcade
+Players   : 4
+RunFile   : StreetRacerAGACD.slave

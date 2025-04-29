@@ -1,0 +1,6 @@
+Name      : Nam 1965-1975
+Publisher : Domark
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Nam19651975.slave

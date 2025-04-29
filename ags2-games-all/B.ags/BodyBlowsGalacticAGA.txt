@@ -1,0 +1,6 @@
+Name      : Body Blows Galactic
+Publisher : Team 17
+Year      : 1994
+Genre     : Game
+Players   : 8 (2 simultaneously)
+RunFile   : BodyBlowsGalacticAGA.slave

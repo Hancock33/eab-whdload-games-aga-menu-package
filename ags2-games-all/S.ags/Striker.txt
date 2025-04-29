@@ -1,5 +1,6 @@
 Name      : Striker
-Publisher : Gremlin Graphics
-Year      : 1994
-Genre     : Sports - Football/Soccer
+Publisher : Rage
+Year      : 1992
+Genre     : Sports - Soccer
+Players   : 2
 RunFile   : Striker.slave

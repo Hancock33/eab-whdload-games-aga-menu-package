@@ -1,0 +1,6 @@
+Name      : Arkanoid: Revenge of Doh
+Publisher : Imagine
+Year      : 1988
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : ArkanoidRevengeOfDoh.slave

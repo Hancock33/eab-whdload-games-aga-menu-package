@@ -1,0 +1,6 @@
+Name      : Rick Dangerous II½
+Publisher : The One
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : RickDangerous25.Slave

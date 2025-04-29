@@ -1,0 +1,6 @@
+Name      : Jungle Strike
+Publisher : Electronic Arts, Ocean
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : JungleStrike.Slave

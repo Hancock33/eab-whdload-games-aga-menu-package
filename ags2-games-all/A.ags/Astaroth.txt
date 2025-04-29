@@ -1,5 +1,6 @@
-Name      : Astaroth
+Name      : Astaroth: The Angel of Death
 Publisher : Hewson
 Year      : 1989
+Genre     : Game
 Players   : 1
 RunFile   : Astaroth.Slave

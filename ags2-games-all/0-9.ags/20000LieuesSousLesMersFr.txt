@@ -1,0 +1,6 @@
+Name      : 20 000 Lieues Sous Les Mers
+Publisher : Coktel, System 4
+Year      : 1989
+Genre     : Adventure
+Players   : 1
+RunFile   : 20000LieuesSousLesMersFr.Slave

@@ -1,0 +1,6 @@
+Name      : Double Agent
+Publisher : Flair, MarkSoft
+Year      : 1996
+Genre     : Action - Strategy
+Players   : 2
+RunFile   : DoubleAgent.slave

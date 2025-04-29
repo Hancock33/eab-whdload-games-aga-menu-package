@@ -1,0 +1,6 @@
+Name      : Stellar 7
+Publisher : Dynamix, Ubi Soft
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Stellar7De.Slave

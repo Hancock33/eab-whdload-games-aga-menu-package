@@ -1,0 +1,6 @@
+Name      : Final Fight
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Beat'em Up
+Players   : 2
+RunFile   : FinalFight.Slave

@@ -1,6 +1,6 @@
 Name      : Exolon
-Publisher : Hewson
+Publisher : Hewson, Medalist
 Year      : 1989
-Genre     : Platformer - Multi Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Exolon.Slave

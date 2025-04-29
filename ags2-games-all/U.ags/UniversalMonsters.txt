@@ -1,0 +1,6 @@
+Name      : Universal Monsters
+Publisher : Ocean
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : UniversalMonsters.Slave

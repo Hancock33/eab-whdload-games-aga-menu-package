@@ -1,0 +1,6 @@
+Name      : Dragonflight
+Publisher : Thalion
+Year      : 1990
+Genre     : RPG
+Players   : 1
+RunFile   : DragonflightFr.Slave

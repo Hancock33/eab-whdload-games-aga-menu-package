@@ -1,0 +1,6 @@
+Name      : Mad Show
+Publisher : Loriciels, Silmarils
+Year      : 1988
+Genre     : Game
+Players   : 6 (taking turns)
+RunFile   : MadShowFr.Slave

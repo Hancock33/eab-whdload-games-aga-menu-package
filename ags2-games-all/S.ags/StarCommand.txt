@@ -1,0 +1,6 @@
+Name      : Star Command
+Publisher : SSI
+Year      : 1989
+Genre     : Simulation - Space
+Players   : 1
+RunFile   : StarCommand.slave

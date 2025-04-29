@@ -1,0 +1,6 @@
+Name      : 3D Galax
+Publisher : Gremlin
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : 3DGalax.Slave

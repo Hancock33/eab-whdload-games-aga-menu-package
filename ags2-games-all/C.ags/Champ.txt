@@ -1,0 +1,6 @@
+Name      : The Champ
+Publisher : Linel
+Year      : 1988
+Genre     : Sports - Boxing
+Players   : 2
+RunFile   : Champ.Slave

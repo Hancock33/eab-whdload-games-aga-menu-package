@@ -1,0 +1,6 @@
+Name      : Electronic Pool
+Publisher : Microdeal
+Year      : 1987
+Genre     : Sports - Cue
+Players   : 2 (taking turns)
+RunFile   : ElectronicPool.slave

@@ -1,0 +1,6 @@
+Name      : Ween: The Prophecy
+Publisher : Coktel, Digital Integration
+Year      : 1992
+Genre     : Adventure
+Players   : 1
+RunFile   : WeenTheProphecyFr.slave

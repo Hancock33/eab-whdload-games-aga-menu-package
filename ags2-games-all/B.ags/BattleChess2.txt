@@ -1,0 +1,6 @@
+Name      : Battle Chess II: Chinese Chess
+Publisher : Electronic Arts, Interplay
+Year      : 1991
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : BattleChess2.Slave

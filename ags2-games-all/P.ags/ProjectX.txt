@@ -1,0 +1,6 @@
+Name      : Project-X
+Publisher : Team 17
+Year      : 1992
+Genre     : Shoot'em Up - Horizontal
+Players   : 2 (taking turns)
+RunFile   : ProjectX.slave

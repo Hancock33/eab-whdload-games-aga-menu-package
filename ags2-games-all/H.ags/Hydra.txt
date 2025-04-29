@@ -1,6 +1,6 @@
 Name      : Hydra
-Publisher : Domark
+Publisher : Domark, Tengen
 Year      : 1991
-Genre     : Sports - Water
-Players   : 1 Only
+Genre     : Racing - Water
+Players   : 1
 RunFile   : Hydra.Slave

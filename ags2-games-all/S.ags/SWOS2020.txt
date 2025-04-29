@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer 2020
+Publisher : sensiblesoccer.de
+Year      : 2020
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOS2020.Slave

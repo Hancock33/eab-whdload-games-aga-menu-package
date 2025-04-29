@@ -1,0 +1,6 @@
+Name      : Dungeon Master II: The Legend of Skullkeep
+Publisher : Interplay
+Year      : 1995
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : DungeonMaster2.Slave

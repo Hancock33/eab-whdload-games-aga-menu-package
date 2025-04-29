@@ -1,0 +1,6 @@
+Name      : Donald Duck's Playground
+Publisher : Sierra
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : DonaldDucksPlayground.Slave

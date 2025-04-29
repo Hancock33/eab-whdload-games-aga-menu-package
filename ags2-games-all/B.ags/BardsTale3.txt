@@ -1,0 +1,6 @@
+Name      : The Bard's Tale III: Thief of Fate
+Publisher : Electronic Arts
+Year      : 1991
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : BardsTale3.slave

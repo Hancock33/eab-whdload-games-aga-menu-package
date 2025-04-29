@@ -1,0 +1,6 @@
+Name      : Boulder Dash Construction Kit
+Publisher : Wicked
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : BoulderDashConstrKit.Slave

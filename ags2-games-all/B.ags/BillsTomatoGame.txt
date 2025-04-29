@@ -1,0 +1,6 @@
+Name      : Bill's Tomato Game
+Publisher : Psygnosis
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : BillsTomatoGame.slave

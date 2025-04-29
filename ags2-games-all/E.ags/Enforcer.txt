@@ -1,0 +1,6 @@
+Name      : The Enforcer
+Publisher : Trojan
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : Enforcer.Slave

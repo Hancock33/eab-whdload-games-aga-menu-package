@@ -1,0 +1,6 @@
+Name      : World Tour Golf
+Publisher : Electronic Arts
+Year      : 1988
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : WorldTourGolf.Slave

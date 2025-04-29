@@ -1,0 +1,6 @@
+Name      : Time Runners 02: The Space Stone
+Publisher : Simulmondo
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners02.Slave

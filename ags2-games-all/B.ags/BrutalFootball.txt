@@ -1,0 +1,6 @@
+Name      : Brutal Football
+Publisher : Millennium
+Year      : 1993
+Genre     : Sports - American Football
+Players   : 8 (2 simultaneously)
+RunFile   : BrutalFootball.slave

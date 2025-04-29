@@ -1,0 +1,6 @@
+Name      : Operation Stealth
+Publisher : U.S. Gold
+Year      : 1990
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : OperationStealth.slave

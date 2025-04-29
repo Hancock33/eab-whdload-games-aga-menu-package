@@ -1,0 +1,6 @@
+Name      : Advanced Ski Simulator
+Publisher : Codemasters
+Year      : 1990
+Genre     : Sports - Winter
+Players   : 2
+RunFile   : AdvancedSkiSimulator.slave

@@ -1,0 +1,6 @@
+Name      : Paladin
+Publisher : Artronic, Omnitrend
+Year      : 1988
+Genre     : RPG
+Players   : 1
+RunFile   : PaladinNTSC.slave

@@ -1,0 +1,6 @@
+Name      : Journey to the Center of the Earth
+Publisher : Chip, U.S. Gold
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : JourneyCenterOfTheEarth.Slave

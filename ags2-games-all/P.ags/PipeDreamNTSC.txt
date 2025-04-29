@@ -1,0 +1,6 @@
+Name      : Pipe Dream
+Publisher : Lucasfilm
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : PipeDreamNTSC.Slave

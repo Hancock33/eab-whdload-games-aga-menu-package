@@ -1,0 +1,6 @@
+Name      : Sooty's Fun With Numbers
+Publisher : Alternative
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SootysFunWithNumbers.slave

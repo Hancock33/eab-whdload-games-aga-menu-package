@@ -1,0 +1,6 @@
+Name      : Crystals of Arborea
+Publisher : Palace, Silmarils
+Year      : 1990
+Genre     : RPG
+Players   : 1
+RunFile   : CrystalsOfArboreaDeFast.Slave

@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer 22/23
+Publisher : sensiblesoccer.de
+Year      : 2023
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOS2223.slave

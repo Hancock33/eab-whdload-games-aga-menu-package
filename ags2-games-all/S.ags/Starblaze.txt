@@ -1,5 +1,6 @@
 Name      : Starblaze
-Publisher : Logotron
+Publisher : Logotron, Prism Leisure
 Year      : 1989
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Starblaze.slave

@@ -1,0 +1,6 @@
+Name      : Formula One Grand Prix
+Publisher : MicroProse
+Year      : 1991
+Genre     : Racing
+Players   : 35 (taking turns)
+RunFile   : FormulaOneGrandPrix4Disk.Slave

@@ -1,0 +1,6 @@
+Name      : Sensible Train-Spotting
+Publisher : Amiga Power
+Year      : 1995
+Genre     : Simulation - Life
+Players   : 1
+RunFile   : SensibleTrainSpotting.Slave

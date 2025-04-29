@@ -1,0 +1,6 @@
+Name      : Thomas the Tank Engine 2
+Publisher : Alternative
+Year      : 1993
+Genre     : Racing - Side-Scrolling
+Players   : 2
+RunFile   : ThomasTheTankEngine2.slave

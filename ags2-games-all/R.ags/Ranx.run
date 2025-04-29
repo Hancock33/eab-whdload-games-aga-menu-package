@@ -4,7 +4,7 @@
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "R" "Ranx"
+  execute S:AGS2Favourites "R" "RanX: The Video Game"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF

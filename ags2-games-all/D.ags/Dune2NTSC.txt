@@ -1,0 +1,6 @@
+Name      : Dune II: The Building of a Dynasty
+Publisher : Virgin
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : Dune2NTSC.Slave

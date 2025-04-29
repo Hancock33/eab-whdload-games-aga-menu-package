@@ -1,7 +1,0 @@
-Name      : Dragonstone
-Version   : CD32
-Publisher : Core Design
-Year      : 1995
-Genre     : Adventure - Miscellaneous
-Players   : 1 Only
-RunFile   : DragonstoneCD32.slave

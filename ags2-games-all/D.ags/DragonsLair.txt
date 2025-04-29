@@ -1,0 +1,6 @@
+Name      : Dragon's Lair
+Publisher : ReadySoft
+Year      : 1989
+Genre     : Action Adventure
+Players   : 1
+RunFile   : DragonsLair.Slave

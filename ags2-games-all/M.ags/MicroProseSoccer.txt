@@ -1,0 +1,6 @@
+Name      : MicroProse Soccer
+Publisher : MicroProse
+Year      : 1989
+Genre     : Sports - Soccer
+Players   : 16 (2 simultaneously)
+RunFile   : MicroProseSoccer.Slave

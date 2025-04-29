@@ -1,0 +1,6 @@
+Name      : The Mr. Men Olympics
+Publisher : None
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : MrMenOlympics.slave

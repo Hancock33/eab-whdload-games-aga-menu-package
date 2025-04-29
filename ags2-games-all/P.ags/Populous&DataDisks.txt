@@ -1,0 +1,6 @@
+Name      : Populous: The Promised Lands
+Publisher : Electronic Arts
+Year      : 1989
+Genre     : Strategy - God Game
+Players   : 1 (2 with serial link)
+RunFile   : Populous&DataDisks.slave

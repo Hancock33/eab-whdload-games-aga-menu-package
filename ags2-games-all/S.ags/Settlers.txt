@@ -1,0 +1,6 @@
+Name      : The Settlers (Intro)
+Publisher : Blue Byte
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : Settlers.slave

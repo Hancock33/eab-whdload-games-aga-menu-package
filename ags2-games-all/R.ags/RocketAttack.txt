@@ -1,0 +1,6 @@
+Name      : Rocket Attack
+Publisher : Softgang
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : RocketAttack.slave

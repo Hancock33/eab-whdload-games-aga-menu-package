@@ -1,0 +1,6 @@
+Name      : Dangerous Streets
+Publisher : Flair
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : DangerousStreetsAGA.slave

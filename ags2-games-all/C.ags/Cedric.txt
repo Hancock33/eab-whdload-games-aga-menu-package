@@ -1,0 +1,6 @@
+Name      : Cedric & the Lost Sceptre
+Publisher : neo
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : Cedric.slave

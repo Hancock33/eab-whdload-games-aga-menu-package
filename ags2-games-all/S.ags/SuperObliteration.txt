@@ -1,0 +1,6 @@
+Name      : Super Obliteration
+Publisher : David Papworth
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : SuperObliteration.Slave

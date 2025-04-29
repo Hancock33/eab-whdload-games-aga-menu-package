@@ -1,0 +1,6 @@
+Name      : Championship Run
+Publisher : Impulze
+Year      : 1991
+Genre     : Racing
+Players   : 1
+RunFile   : ChampionshipRun.Slave

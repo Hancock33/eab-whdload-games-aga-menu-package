@@ -1,0 +1,6 @@
+Name      : Captain Fizz Meets the Blaster-Trons
+Publisher : Psyclapse
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : CaptainFizz.slave

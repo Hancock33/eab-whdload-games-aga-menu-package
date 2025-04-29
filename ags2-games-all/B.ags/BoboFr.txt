@@ -1,0 +1,6 @@
+Name      : Bobo
+Publisher : Infogrames
+Year      : 1988
+Genre     : Action - Multi-Type
+Players   : 6 (taking turns)
+RunFile   : BoboFr.Slave

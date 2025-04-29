@@ -1,0 +1,6 @@
+Name      : Lotus III: The Ultimate Challenge
+Publisher : Gremlin
+Year      : 1992
+Genre     : Racing - Arcade
+Players   : 2
+RunFile   : Lotus3.slave

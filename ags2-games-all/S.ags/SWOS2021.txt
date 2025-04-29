@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer 20/21
+Publisher : sensiblesoccer.de
+Year      : 2021
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOS2021.slave

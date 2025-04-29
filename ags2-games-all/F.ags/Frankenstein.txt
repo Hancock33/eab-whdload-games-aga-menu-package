@@ -1,6 +1,6 @@
 Name      : Frankenstein
-Publisher : Zeppelin Games
+Publisher : Zeppelin
 Year      : 1992
-Genre     : Platformer - Multi Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Frankenstein.slave

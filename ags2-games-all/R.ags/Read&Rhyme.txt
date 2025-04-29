@@ -1,0 +1,6 @@
+Name      : Read & Rhyme
+Publisher : Unicorn Educational Software
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Read&Rhyme.Slave

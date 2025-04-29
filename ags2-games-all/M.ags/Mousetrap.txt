@@ -1,6 +1,6 @@
 Name      : Mousetrap
-Publisher : MicroValue
+Publisher : MicroValue, Prism Leisure, StarSoft, TDC
 Year      : 1987
-Genre     : Platformer - Single Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Mousetrap.Slave

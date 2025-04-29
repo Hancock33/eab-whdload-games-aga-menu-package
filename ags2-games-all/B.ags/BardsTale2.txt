@@ -1,0 +1,6 @@
+Name      : The Bard's Tale II: The Destiny Knight
+Publisher : Electronic Arts
+Year      : 1988
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : BardsTale2.slave

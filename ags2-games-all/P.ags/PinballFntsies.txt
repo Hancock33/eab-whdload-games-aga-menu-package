@@ -1,0 +1,6 @@
+Name      : Pinball Fantasies
+Publisher : 21st Century
+Year      : 1993
+Genre     : Game
+Players   : 8 (taking turns)
+RunFile   : PinballFntsies.slave

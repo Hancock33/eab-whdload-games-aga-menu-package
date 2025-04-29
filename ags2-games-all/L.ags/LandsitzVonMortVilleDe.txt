@@ -1,0 +1,6 @@
+Name      : Der Landsitz Von Mortville
+Publisher : Lankhor
+Year      : 1988
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : LandsitzVonMortVilleDe.Slave

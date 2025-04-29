@@ -1,5 +1,6 @@
 Name      : Predator
 Publisher : Activision
 Year      : 1989
-Players   : 1 Only
+Genre     : Run & Gun
+Players   : 1
 RunFile   : Predator.Slave

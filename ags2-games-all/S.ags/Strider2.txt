@@ -1,0 +1,6 @@
+Name      : Strider II
+Publisher : Capcom, U.S. Gold
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : Strider2.Slave

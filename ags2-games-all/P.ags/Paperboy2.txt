@@ -1,0 +1,6 @@
+Name      : Paperboy 2
+Publisher : Mindscape
+Year      : 1992
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Paperboy2.slave

@@ -1,0 +1,6 @@
+Name      : Space Station: Part I
+Publisher : Paradox, Prism Leisure
+Year      : 1986
+Genre     : Game
+Players   : 1
+RunFile   : SpaceStation.Slave

@@ -1,0 +1,6 @@
+Name      : Nighthawk F-117A Stealth Fighter 2.0
+Publisher : MicroProse
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : F117ANightHawk.slave

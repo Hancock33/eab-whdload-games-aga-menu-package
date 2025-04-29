@@ -1,0 +1,6 @@
+Name      : Albedo
+Publisher : Loriciel
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : AlbedoFr.slave

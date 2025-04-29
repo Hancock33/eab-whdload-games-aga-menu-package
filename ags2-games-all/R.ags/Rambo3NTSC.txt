@@ -1,0 +1,6 @@
+Name      : Rambo III
+Publisher : Ocean, Taito
+Year      : 1989
+Genre     : Run & Gun
+Players   : 1
+RunFile   : Rambo3NTSC.Slave

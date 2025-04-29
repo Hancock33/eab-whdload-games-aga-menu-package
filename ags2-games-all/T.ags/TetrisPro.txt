@@ -1,0 +1,6 @@
+Name      : Tetris Pro
+Publisher : Freeware
+Year      : 1993
+Genre     : Puzzle - Stacking
+Players   : 1
+RunFile   : TetrisPro.slave

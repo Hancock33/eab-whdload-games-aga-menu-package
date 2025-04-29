@@ -1,0 +1,6 @@
+Name      : Kaiser
+Publisher : Linel
+Year      : 1989
+Genre     : Strategy - Trading
+Players   : 8 (taking turns)
+RunFile   : KaiserDe.Slave

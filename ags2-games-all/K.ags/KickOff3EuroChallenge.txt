@@ -1,0 +1,6 @@
+Name      : Kick Off 3: European Challenge
+Publisher : Anco
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 1
+RunFile   : KickOff3EuroChallenge.Slave

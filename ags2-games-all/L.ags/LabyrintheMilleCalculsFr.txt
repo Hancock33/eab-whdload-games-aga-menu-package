@@ -1,0 +1,6 @@
+Name      : Le Labyrinthe Aux Mille Calculs
+Publisher : RETZ
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : LabyrintheMilleCalculsFr.Slave

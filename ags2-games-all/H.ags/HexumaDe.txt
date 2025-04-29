@@ -1,0 +1,6 @@
+Name      : Hexuma: Das Auge Des Kal
+Publisher : Software 2000
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : HexumaDe.Slave

@@ -1,0 +1,6 @@
+Name      : Phoenix
+Publisher : Taito
+Year      : 2024
+Genre     : Game
+Players   : 1
+RunFile   : PhoenixAGA.slave

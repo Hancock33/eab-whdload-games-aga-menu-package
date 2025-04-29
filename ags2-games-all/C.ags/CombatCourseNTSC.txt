@@ -1,0 +1,6 @@
+Name      : Combat Course
+Publisher : Mindscape
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 12 (taking turns)
+RunFile   : CombatCourseNTSC.slave

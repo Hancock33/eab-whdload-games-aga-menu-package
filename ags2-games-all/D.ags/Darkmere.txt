@@ -1,5 +1,6 @@
-Name      : Darkmere
-Publisher : Core
+Name      : Darkmere: The Nightmare's Begun
+Publisher : Core Design
 Year      : 1994
+Genre     : Action RPG
 Players   : 1
 RunFile   : Darkmere.Slave

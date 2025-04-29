@@ -1,0 +1,6 @@
+Name      : Crime Does Not Pay
+Publisher : Titus
+Year      : 1990
+Genre     : Action Adventure
+Players   : 1
+RunFile   : CrimeDoesNotPay.Slave

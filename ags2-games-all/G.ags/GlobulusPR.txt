@@ -1,0 +1,6 @@
+Name      : Globulus (Pre-release)
+Publisher : Innerprise, Rainbow Arts
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : GlobulusPR.slave

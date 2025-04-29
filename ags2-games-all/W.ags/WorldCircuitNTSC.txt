@@ -1,0 +1,6 @@
+Name      : World Circuit
+Publisher : MicroProse
+Year      : 1992
+Genre     : Racing - Simulation
+Players   : 35 (taking turns)
+RunFile   : WorldCircuitNTSC.Slave

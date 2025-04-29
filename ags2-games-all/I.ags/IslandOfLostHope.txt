@@ -1,0 +1,6 @@
+Name      : The Island of Lost Hope
+Publisher : Digital Concepts
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : IslandOfLostHope.Slave

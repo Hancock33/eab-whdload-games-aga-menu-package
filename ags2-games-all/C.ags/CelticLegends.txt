@@ -1,0 +1,6 @@
+Name      : Celtic Legends
+Publisher : Ubi Soft
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : CelticLegends.slave

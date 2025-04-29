@@ -1,0 +1,6 @@
+Name      : Black Dawn: Rebirth
+Publisher : Double Sided Games
+Year      : 2019
+Genre     : Game
+Players   : 1
+RunFile   : BlackDawnRebirth.slave

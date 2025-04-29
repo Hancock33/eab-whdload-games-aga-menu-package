@@ -1,0 +1,6 @@
+Name      : Parasol Stars: The Story of Rainbow Islands II
+Publisher : Ocean
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : ParasolStars.Slave

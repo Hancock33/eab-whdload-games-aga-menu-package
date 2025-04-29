@@ -1,0 +1,6 @@
+Name      : Victory Road: The Pathway to Fear
+Publisher : Data East, Imagine
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : VictoryRoad.slave

@@ -1,0 +1,6 @@
+Name      : Street Fighter II: The World Warrior
+Publisher : U.S. Gold
+Year      : 1992
+Genre     : Fighting
+Players   : 2
+RunFile   : StreetFighter2.Slave

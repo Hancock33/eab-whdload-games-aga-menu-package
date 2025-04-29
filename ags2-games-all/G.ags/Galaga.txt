@@ -1,0 +1,6 @@
+Name      : Galaga
+Publisher : Namco
+Year      : 2024
+Genre     : Game
+Players   : 2
+RunFile   : Galaga.slave

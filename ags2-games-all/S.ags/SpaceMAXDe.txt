@@ -1,0 +1,6 @@
+Name      : Space MAX
+Publisher : Starbyte
+Year      : 1992
+Genre     : Simulation - Space
+Players   : 1
+RunFile   : SpaceMAXDe.Slave

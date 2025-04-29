@@ -1,5 +1,6 @@
 Name      : SWIV
 Publisher : Storm
 Year      : 1991
-Players   : 1 or 2, Simultaneous
-RunFile   : SWIV.Slave
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : SWIV.slave

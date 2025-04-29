@@ -1,0 +1,6 @@
+Name      : Scorched Tanks
+Publisher : Dark Unicorn
+Year      : 1993
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : ScorchedTanks.slave

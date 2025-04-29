@@ -1,0 +1,6 @@
+Name      : Apidya
+Publisher : Play Byte
+Year      : 1992
+Genre     : Shoot'em Up - Horizontal
+Players   : 2
+RunFile   : ApidyaKaiko.slave

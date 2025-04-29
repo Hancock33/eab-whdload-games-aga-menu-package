@@ -1,0 +1,6 @@
+Name      : Galaga '92
+Publisher : Cool-G
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : Galaga92.Slave

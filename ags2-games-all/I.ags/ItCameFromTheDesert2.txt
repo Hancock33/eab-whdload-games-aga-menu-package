@@ -1,0 +1,6 @@
+Name      : Antheads: It Came From the Desert II
+Publisher : Cinemaware
+Year      : 1990
+Genre     : Action Adventure
+Players   : 1
+RunFile   : ItCameFromTheDesert2.Slave

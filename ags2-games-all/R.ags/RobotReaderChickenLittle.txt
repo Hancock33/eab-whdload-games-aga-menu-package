@@ -1,0 +1,6 @@
+Name      : Robot Readers: Chicken Little
+Publisher : Hilton Android
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : RobotReaderChickenLittle.Slave

@@ -1,0 +1,6 @@
+Name      : Cricket Captain
+Publisher : D&H Games 
+Year      : 1989
+Genre     : Sports
+Players   : 2
+RunFile   : CricketCaptain.slave

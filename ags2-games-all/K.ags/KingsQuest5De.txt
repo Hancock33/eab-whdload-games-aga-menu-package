@@ -1,0 +1,6 @@
+Name      : King's Quest V: Absence Makes the Heart Go Yonder
+Publisher : Sierra
+Year      : 1991
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : KingsQuest5De.slave

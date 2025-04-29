@@ -1,0 +1,6 @@
+Name      : Borrowed Time
+Publisher : Activision
+Year      : 1986
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : BorrowedTime.Slave

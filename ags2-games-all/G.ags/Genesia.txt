@@ -1,6 +1,6 @@
-Name      : Genesia
+Name      : Genesia (Game Configuration)
 Publisher : Mindscape
 Year      : 1993
-Genre     : Strategy - Miscellaneous
-Players   : 1 to 3
+Genre     : Simulation - Construction
+Players   : 3 (taking turns)
 RunFile   : Genesia.slave

@@ -1,0 +1,6 @@
+Name      : Joe Blade
+Publisher : DigiTek, Players
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : JoeBlade.Slave

@@ -1,6 +1,6 @@
 Name      : Premiere
-Publisher : Corkers (Core Design)
+Publisher : Core Design
 Year      : 1994
-Genre     : Platformer - Scrolling Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Premiere.slave

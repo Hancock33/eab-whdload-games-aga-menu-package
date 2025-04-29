@@ -1,0 +1,6 @@
+Name      : E.T.'s Rugby League
+Publisher : Sega Ozisoft
+Year      : 1992
+Genre     : Sports - Rugby
+Players   : 2
+RunFile   : ETsRugbyLeague.Slave

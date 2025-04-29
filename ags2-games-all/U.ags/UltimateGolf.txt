@@ -1,0 +1,6 @@
+Name      : Greg Norman's Ultimate Golf
+Publisher : Gremlin, Melbourne House
+Year      : 1990
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : UltimateGolf.slave

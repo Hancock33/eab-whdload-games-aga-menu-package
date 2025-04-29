@@ -1,0 +1,6 @@
+Name      : Wheels on Fire
+Publisher : Epic Marketing, Verkosoft
+Year      : 1997
+Genre     : Racing
+Players   : 1
+RunFile   : WheelsOnFireAGA.Slave

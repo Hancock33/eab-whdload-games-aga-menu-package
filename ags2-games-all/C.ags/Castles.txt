@@ -1,6 +1,6 @@
 Name      : Castles
-Publisher : Electronic Arts
+Publisher : Interplay
 Year      : 1991
-Genre     : Strategy - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Castles.slave

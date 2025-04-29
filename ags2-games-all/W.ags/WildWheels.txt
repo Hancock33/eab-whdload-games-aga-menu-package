@@ -1,0 +1,6 @@
+Name      : Wild Wheels
+Publisher : Ocean
+Year      : 1991
+Genre     : Sports - Future/Fantasy
+Players   : 1 (2 with serial link)
+RunFile   : WildWheels.Slave

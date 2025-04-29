@@ -1,0 +1,6 @@
+Name      : Exile
+Publisher : Audiogenic
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : ExileAGA.slave

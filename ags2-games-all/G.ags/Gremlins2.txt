@@ -1,0 +1,6 @@
+Name      : Gremlins 2: The New Batch
+Publisher : Elite
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Gremlins2.Slave

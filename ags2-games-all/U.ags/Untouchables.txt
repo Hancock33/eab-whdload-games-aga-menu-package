@@ -1,0 +1,6 @@
+Name      : The Untouchables
+Publisher : Ocean
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : Untouchables.Slave

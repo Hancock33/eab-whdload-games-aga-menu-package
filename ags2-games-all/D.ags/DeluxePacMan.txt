@@ -1,0 +1,6 @@
+Name      : Deluxe Pacman
+Publisher : Edgar M. Vigdal
+Year      : 1995
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : DeluxePacMan.Slave

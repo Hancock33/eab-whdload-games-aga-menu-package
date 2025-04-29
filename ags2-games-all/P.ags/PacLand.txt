@@ -1,0 +1,6 @@
+Name      : Pac-Land
+Publisher : Grandslam, Quicksilva
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : PacLand.Slave

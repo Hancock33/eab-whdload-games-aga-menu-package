@@ -1,0 +1,6 @@
+Name      : Metal Masters
+Publisher : Infogrames
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : MetalMasters.Slave

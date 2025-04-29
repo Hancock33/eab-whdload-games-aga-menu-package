@@ -1,6 +1,6 @@
 Name      : KGB
-Publisher : Virgin Games
+Publisher : Virgin
 Year      : 1992
-Genre     : Adventure - Point and Click
-Players   : 1 Only
+Genre     : Adventure
+Players   : 1
 RunFile   : KGB.Slave

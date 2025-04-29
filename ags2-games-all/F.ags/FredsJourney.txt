@@ -1,0 +1,6 @@
+Name      : Fred's Journey
+Publisher : Retroguru
+Year      : 2020
+Genre     : Game
+Players   : 1
+RunFile   : FredsJourney.slave

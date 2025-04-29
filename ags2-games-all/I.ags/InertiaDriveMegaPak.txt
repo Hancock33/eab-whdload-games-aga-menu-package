@@ -1,0 +1,6 @@
+Name      : Inertia Drive (Mega Pak)
+Publisher : Ozi Soft
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : InertiaDriveMegaPak.slave

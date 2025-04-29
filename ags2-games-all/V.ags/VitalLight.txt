@@ -1,0 +1,6 @@
+Name      : Vital Light
+Publisher : Millennium
+Year      : 1994
+Genre     : Game
+Players   : 3 (taking turns)
+RunFile   : VitalLight.slave

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:B/BugBomber/BugBomber.Slave
+;RunFile=A-Games:B/BugBomber/BugBomber.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "B" "Bugbomber"
+  execute S:AGS2Favourites "B" "Bug Bomber"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:B/BugBomber/"
 IF EXISTS ENV:whdloadargs
-  whdload "BugBomber.Slave" $whdloadargs
+  whdload "BugBomber.slave" $whdloadargs
 ELSE
-  whdload "BugBomber.Slave"
+  whdload "BugBomber.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

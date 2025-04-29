@@ -1,0 +1,6 @@
+Name      : A320 Airbus 
+Publisher : Thalion
+Year      : 13/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : A320Airbus.slave

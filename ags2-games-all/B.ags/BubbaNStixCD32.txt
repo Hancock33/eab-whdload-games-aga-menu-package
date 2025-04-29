@@ -1,0 +1,6 @@
+Name      : Bubba 'n' Stix
+Publisher : Core Design
+Year      : 1994
+Genre     : Platform - Puzzle
+Players   : 1
+RunFile   : BubbaNStixCD32.slave

@@ -1,0 +1,6 @@
+Name      : Graham Taylors Soccer Challenge
+Publisher : Krisalis
+Year      : 1992
+Genre     : Sports - Management
+Players   : 1
+RunFile   : GTSoccerChallenge.Slave

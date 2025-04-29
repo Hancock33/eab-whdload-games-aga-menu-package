@@ -1,0 +1,6 @@
+Name      : Fire & Ice: The Daring Adventures of Cool Coyote
+Publisher : Renegade
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : FireAndIceCD32.slave

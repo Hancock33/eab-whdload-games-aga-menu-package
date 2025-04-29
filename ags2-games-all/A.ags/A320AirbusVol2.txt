@@ -1,0 +1,6 @@
+Name      : A320 Airbus Vol. 2
+Publisher : Thalion
+Year      : 1995
+Genre     : Game
+Players   : 1
+RunFile   : A320AirbusVol2.slave

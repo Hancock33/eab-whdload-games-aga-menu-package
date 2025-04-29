@@ -1,0 +1,6 @@
+Name      : Turbo Out Run
+Publisher : Sega, U.S. Gold
+Year      : 1990
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : TurboOutRun.slave

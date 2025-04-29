@@ -1,0 +1,6 @@
+Name      : Lords of Doom
+Publisher : Starbyte
+Year      : 1990
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : LordsOfDoom.Slave

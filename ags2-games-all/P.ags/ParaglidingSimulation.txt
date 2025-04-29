@@ -1,0 +1,6 @@
+Name      : Paragliding Simulation
+Publisher : Loriciel
+Year      : 1991
+Genre     : Sports - Paragliding
+Players   : 4 (taking turns)
+RunFile   : ParaglidingSimulation.Slave

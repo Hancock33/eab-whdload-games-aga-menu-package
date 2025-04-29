@@ -1,0 +1,6 @@
+Name      : Fighter Bomber: Advanced Missions
+Publisher : Activision
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : FighterBomberAM.slave

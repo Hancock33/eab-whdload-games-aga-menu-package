@@ -1,0 +1,6 @@
+Name      : Magic Boy
+Publisher : Empire
+Year      : 1993
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : MagicBoy.slave

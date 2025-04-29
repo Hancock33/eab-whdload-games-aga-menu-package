@@ -1,0 +1,6 @@
+Name      : Franco Baresi World Cup Kick Off
+Publisher : Anco
+Year      : 1988
+Genre     : Sports - Management
+Players   : 8 (2 simultaneously)
+RunFile   : FrancoBaresiWorldCupIt.Slave

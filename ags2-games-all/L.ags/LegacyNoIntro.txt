@@ -1,0 +1,6 @@
+Name      : Legacy
+Publisher : Hexodus
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : LegacyNoIntro.slave

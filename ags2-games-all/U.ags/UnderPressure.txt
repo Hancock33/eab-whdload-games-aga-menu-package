@@ -1,0 +1,6 @@
+Name      : Under Pressure
+Publisher : Electronic Zoo
+Year      : 1991
+Genre     : Platform - Shooting
+Players   : 1
+RunFile   : UnderPressure.Slave

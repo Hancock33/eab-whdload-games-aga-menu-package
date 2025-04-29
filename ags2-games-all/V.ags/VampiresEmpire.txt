@@ -1,0 +1,6 @@
+Name      : Vampire's Empire
+Publisher : DigiTek, Gremlin, Magic Bytes
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : VampiresEmpire.Slave

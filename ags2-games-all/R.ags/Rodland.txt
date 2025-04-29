@@ -1,6 +1,6 @@
-Name      : Rodland
-Publisher : Storm
+Name      : Rod-Land
+Publisher : DRO Soft, Storm
 Year      : 1991
-Genre     : Platformer - Single Screen
-Players   : 1 or 2, Simultaneous
+Genre     : Game
+Players   : 2
 RunFile   : RodLand.Slave

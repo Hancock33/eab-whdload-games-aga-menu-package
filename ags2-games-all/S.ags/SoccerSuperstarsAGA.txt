@@ -1,0 +1,6 @@
+Name      : Soccer Superstars
+Publisher : Flair
+Year      : 1995
+Genre     : Sports - Soccer
+Players   : 1 (2 with serial link)
+RunFile   : SoccerSuperstarsAGA.Slave

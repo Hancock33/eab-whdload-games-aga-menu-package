@@ -1,0 +1,6 @@
+Name      : King's Table: The Legend of Ragnarok
+Publisher : Gametek
+Year      : 1993
+Genre     : Board Game
+Players   : 2 (taking turns)
+RunFile   : LegendOfRagnarok.slave

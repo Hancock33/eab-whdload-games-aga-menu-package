@@ -1,0 +1,6 @@
+Name      : Roadwars (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : RoadWarsArcadia.Slave

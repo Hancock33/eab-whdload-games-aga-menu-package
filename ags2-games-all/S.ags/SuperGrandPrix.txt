@@ -1,0 +1,6 @@
+Name      : Super Grand Prix
+Publisher : Codemasters
+Year      : 1991
+Genre     : Racing - Top-Down
+Players   : 4
+RunFile   : SuperGrandPrix.Slave

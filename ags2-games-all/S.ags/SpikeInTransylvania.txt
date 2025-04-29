@@ -1,0 +1,6 @@
+Name      : Spikey in Transylvania
+Publisher : Codemasters
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SpikeInTransylvania.Slave

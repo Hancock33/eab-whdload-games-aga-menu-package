@@ -1,0 +1,6 @@
+Name      : Street Sports Basketball
+Publisher : Epyx
+Year      : 1988
+Genre     : Sports - Basketball
+Players   : 2
+RunFile   : StreetSportsBBNTSC.Slave

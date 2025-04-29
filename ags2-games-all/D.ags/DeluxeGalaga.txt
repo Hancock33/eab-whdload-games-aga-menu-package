@@ -1,0 +1,6 @@
+Name      : Deluxe Galaga
+Publisher : Edgar M. Vigdal
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : DeluxeGalaga.slave

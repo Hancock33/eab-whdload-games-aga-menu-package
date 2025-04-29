@@ -1,5 +1,6 @@
-Name      : Motörhead
-Publisher : Virgin Games
+Name      : MotÃ¶rhead
+Publisher : Virgin
 Year      : 1992
-Players   : 1 Only
+Genre     : Beat'em Up
+Players   : 1
 RunFile   : Motorhead.Slave

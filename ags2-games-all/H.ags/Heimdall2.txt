@@ -1,0 +1,6 @@
+Name      : Heimdall 2: Into the Hall of Worlds
+Publisher : Core Design
+Year      : 1994
+Genre     : Action RPG
+Players   : 1
+RunFile   : Heimdall2.Slave

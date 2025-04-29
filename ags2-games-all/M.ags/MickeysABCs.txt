@@ -1,0 +1,6 @@
+Name      : Mickey's ABC's: A Day at the Fair
+Publisher : Disney
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : MickeysABCs.Slave

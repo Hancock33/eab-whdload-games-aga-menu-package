@@ -1,0 +1,6 @@
+Name      : Exodus 3010
+Publisher : Demonware
+Year      : 15/06/1905
+Genre     : Game
+Players   : 1
+RunFile   : Exodus3010De.Slave

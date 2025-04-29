@@ -1,0 +1,6 @@
+Name      : Judge Dredd
+Publisher : Virgin Mastertronic
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : JudgeDredd.slave

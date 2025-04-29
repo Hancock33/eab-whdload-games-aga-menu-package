@@ -1,0 +1,6 @@
+Name      : Strip Pot
+Publisher : Fin Soft
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : StripPotAGA.Slave

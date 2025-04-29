@@ -1,0 +1,6 @@
+Name      : Tolteka
+Publisher : Ariolasoft
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : Tolteka.slave

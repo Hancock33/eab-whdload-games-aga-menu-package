@@ -1,0 +1,6 @@
+Name      : Sol Negro
+Publisher : Opera Soft
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : SolNegro.Slave

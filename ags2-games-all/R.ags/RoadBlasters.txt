@@ -1,6 +1,6 @@
-Name      : RoadBlasters
-Publisher : US Gold
+Name      : Road Blasters
+Publisher : U.S. Gold
 Year      : 1988
-Genre     : Racing - Cars
-Players   : 1 Only
+Genre     : Racing - Arcade
+Players   : 1
 RunFile   : RoadBlasters.Slave

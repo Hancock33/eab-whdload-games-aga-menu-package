@@ -1,0 +1,6 @@
+Name      : Saint Dragon
+Publisher : Storm
+Year      : 1990
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : SaintDragon.Slave

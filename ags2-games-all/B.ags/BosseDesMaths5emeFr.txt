@@ -1,0 +1,6 @@
+Name      : Bosse Des Maths 5ème, La
+Publisher : Coktel
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : BosseDesMaths5emeFr.Slave

@@ -1,0 +1,6 @@
+Name      : The Short Grey
+Publisher : Accrosoft
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : ShortgreyFr.Slave

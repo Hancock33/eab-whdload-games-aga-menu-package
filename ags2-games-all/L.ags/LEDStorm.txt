@@ -1,0 +1,6 @@
+Name      : LED Storm
+Publisher : Capcom, GO!
+Year      : 1988
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : LEDStorm.slave

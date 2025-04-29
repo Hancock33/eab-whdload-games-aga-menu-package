@@ -1,0 +1,6 @@
+Name      : Heavy Metal Heroes
+Publisher : Players
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : HeavyMetalHeroes.Slave

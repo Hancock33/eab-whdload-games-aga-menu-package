@@ -1,0 +1,6 @@
+Name      : The Legend of Kyrandia
+Publisher : Virgin
+Year      : 1992
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : LegendOfKyrandiaDe.Slave

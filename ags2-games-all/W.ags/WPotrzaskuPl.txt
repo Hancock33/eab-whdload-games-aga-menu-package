@@ -1,0 +1,6 @@
+Name      : W Potrzasku
+Publisher : L.K. Avalon
+Year      : 1997
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : WPotrzaskuPl.Slave

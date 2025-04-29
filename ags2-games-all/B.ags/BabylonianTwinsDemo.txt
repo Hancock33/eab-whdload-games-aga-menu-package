@@ -1,0 +1,6 @@
+Name      : Babylonian Twins (Demo)
+Publisher : Unreleased
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : BabylonianTwinsDemo.slave

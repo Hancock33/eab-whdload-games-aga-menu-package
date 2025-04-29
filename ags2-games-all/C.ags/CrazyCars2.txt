@@ -1,0 +1,6 @@
+Name      : Crazy Cars II
+Publisher : Titus
+Year      : 1989
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : CrazyCars2.slave

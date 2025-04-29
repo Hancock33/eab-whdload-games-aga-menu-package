@@ -1,0 +1,6 @@
+Name      : Tournament Golf
+Publisher : Elite
+Year      : 1990
+Genre     : Sports - Golf
+Players   : 2 (taking turns)
+RunFile   : TournamentGolf.Slave

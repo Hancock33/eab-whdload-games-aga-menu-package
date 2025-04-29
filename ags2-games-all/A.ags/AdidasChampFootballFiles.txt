@@ -1,0 +1,6 @@
+Name      : Adidas Championship Football
+Publisher : Ocean
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : AdidasChampFootballFiles.slave

@@ -1,0 +1,6 @@
+Name      : Gilbert: Escape From Drill
+Publisher : Again Again, Enigma Variations
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : GilbertEscapeFromDrill.Slave

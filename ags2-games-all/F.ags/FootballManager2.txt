@@ -1,0 +1,6 @@
+Name      : Football Manager 2
+Publisher : Addictive
+Year      : 1988
+Genre     : Sports - Management
+Players   : 1
+RunFile   : FootballManager2.slave

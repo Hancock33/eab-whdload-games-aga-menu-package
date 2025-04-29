@@ -1,0 +1,6 @@
+Name      : Cougar Force
+Publisher : Tomahawk
+Year      : 1991
+Genre     : Action Adventure
+Players   : 1
+RunFile   : CougarForce.Slave

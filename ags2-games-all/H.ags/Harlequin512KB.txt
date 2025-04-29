@@ -1,0 +1,6 @@
+Name      : Harlequin
+Publisher : Gremlin
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : Harlequin512KB.Slave

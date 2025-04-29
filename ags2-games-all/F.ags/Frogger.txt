@@ -1,0 +1,6 @@
+Name      : Frogger
+Publisher : 
+Year      : 15/07/1905
+Genre     : Game
+Players   : 1
+RunFile   : Frogger.slave

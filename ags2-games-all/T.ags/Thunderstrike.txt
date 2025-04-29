@@ -1,5 +1,6 @@
-Name      : Thunderstrike
-Publisher : Millennium
+Name      : ThunderStrike
+Publisher : Live Studios, Millennium
 Year      : 1991
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : ThunderStrike.slave

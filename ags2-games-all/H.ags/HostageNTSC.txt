@@ -1,0 +1,6 @@
+Name      : Hostages
+Publisher : Infogrames
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 1
+RunFile   : HostageNTSC.Slave

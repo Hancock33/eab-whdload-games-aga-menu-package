@@ -1,0 +1,6 @@
+Name      : Mickey's Memory Challenge
+Publisher : Infogrames
+Year      : 1993
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : MickeysMemoryChallenge.Slave

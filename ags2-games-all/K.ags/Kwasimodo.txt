@@ -1,6 +1,6 @@
 Name      : Kwasimodo
-Publisher : King Size
+Publisher : Courbois, King Size
 Year      : 1987
-Genre     : Platformer - Multi Screen
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Kwasimodo.Slave

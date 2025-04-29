@@ -1,0 +1,6 @@
+Name      : Down at the Trolls
+Publisher : Rainbow Arts
+Year      : 1988
+Genre     : Game
+Players   : 8 (taking turns)
+RunFile   : DownAtTheTrolls.Slave

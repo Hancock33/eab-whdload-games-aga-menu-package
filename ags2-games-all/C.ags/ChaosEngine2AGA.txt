@@ -1,0 +1,6 @@
+Name      : The Chaos Engine 2
+Publisher : Renegade
+Year      : 1996
+Genre     : Run & Gun
+Players   : 2
+RunFile   : ChaosEngine2AGA.slave

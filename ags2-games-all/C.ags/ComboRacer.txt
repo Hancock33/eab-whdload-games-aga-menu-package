@@ -1,0 +1,6 @@
+Name      : Combo Racer
+Publisher : Gremlin
+Year      : 1989
+Genre     : Racing
+Players   : 2 (taking turns)
+RunFile   : ComboRacer.Slave

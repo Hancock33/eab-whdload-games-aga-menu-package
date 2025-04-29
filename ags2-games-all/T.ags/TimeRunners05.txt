@@ -1,0 +1,6 @@
+Name      : Time Runners 05: The Black Knight
+Publisher : Simulmondo
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners05.Slave

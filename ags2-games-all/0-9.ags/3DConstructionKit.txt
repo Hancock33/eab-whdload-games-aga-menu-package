@@ -1,0 +1,6 @@
+Name      : 3D Construction Kit
+Publisher : Domark, Incentive
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : 3DConstructionKit.Slave

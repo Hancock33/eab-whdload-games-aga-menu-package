@@ -1,0 +1,6 @@
+Name      : Rise of the Robots
+Publisher : Mirage, Time Warner Interactive
+Year      : 1994
+Genre     : Fighting
+Players   : 2
+RunFile   : RiseOfTheRobots.slave

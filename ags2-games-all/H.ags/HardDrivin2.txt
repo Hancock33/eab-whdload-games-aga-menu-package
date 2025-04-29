@@ -1,0 +1,6 @@
+Name      : Hard Drivin' II (Editor)
+Publisher : Domark, Tengen
+Year      : 1989
+Genre     : Racing
+Players   : 1
+RunFile   : HardDrivin2.Slave

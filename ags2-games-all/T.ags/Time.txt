@@ -1,6 +1,6 @@
 Name      : Time
-Publisher : Empire Software
+Publisher : Empire
 Year      : 1989
-Genre     : Adventure - Point and Click
-Players   : 1 Only
+Genre     : Adventure
+Players   : 1
 RunFile   : Time.Slave

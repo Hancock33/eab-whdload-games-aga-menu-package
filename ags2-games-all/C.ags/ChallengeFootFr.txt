@@ -1,0 +1,6 @@
+Name      : Challenge Foot Senior
+Publisher : Generation 5
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : ChallengeFootFr.slave

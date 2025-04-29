@@ -1,0 +1,6 @@
+Name      : Ruff 'n' Tumble
+Publisher : Renegade
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : RuffNTumble.slave

@@ -1,0 +1,6 @@
+Name      : Alfabet Smierci
+Publisher : Arte
+Year      : 1996
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : AlfabetSmierciAGAPl.Slave

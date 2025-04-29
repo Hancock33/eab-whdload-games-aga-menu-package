@@ -1,0 +1,6 @@
+Name      : Vroom: Multi-Player
+Publisher : Lankhor
+Year      : 1993
+Genre     : Racing - Arcade
+Players   : 1 (2 with serial link)
+RunFile   : VroomMultiplayer.Slave

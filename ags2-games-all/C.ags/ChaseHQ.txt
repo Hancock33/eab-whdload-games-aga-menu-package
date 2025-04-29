@@ -1,0 +1,6 @@
+Name      : Chase H.Q.
+Publisher : Ocean
+Year      : 1989
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : ChaseHQ.Slave

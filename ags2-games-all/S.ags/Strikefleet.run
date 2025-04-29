@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:S/Strikefleet/Strikefleet.slave
+;RunFile=A-Games:S/Strikefleet/Strikefleet.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:S/Strikefleet/"
 IF EXISTS ENV:whdloadargs
-  whdload "Strikefleet.slave" $whdloadargs
+  whdload "Strikefleet.Slave" $whdloadargs
 ELSE
-  whdload "Strikefleet.slave"
+  whdload "Strikefleet.Slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

@@ -1,0 +1,6 @@
+Name      : Knight Force
+Publisher : Titus
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : KnightForce.slave

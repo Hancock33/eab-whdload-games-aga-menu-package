@@ -1,5 +1,6 @@
 Name      : Alcatraz
 Publisher : Infogrames
 Year      : 1992
-Players   : 1 or 2, Simultaneous
+Genre     : Action - Multi-Type
+Players   : 2
 RunFile   : Alcatraz.slave

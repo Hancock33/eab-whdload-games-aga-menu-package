@@ -1,0 +1,6 @@
+Name      : World Class Rugby '95
+Publisher : Audiogenic
+Year      : 1995
+Genre     : Sports - Rugby
+Players   : 2
+RunFile   : WorldClassRugby95.Slave

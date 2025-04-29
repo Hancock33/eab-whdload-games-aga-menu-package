@@ -1,0 +1,6 @@
+Name      : Scuba Diver
+Publisher : 
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : ScubaDiverAGA.slave

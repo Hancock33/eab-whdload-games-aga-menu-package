@@ -1,0 +1,6 @@
+Name      : Space Assault
+Publisher : Magic Soft
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : SpaceAssault.slave

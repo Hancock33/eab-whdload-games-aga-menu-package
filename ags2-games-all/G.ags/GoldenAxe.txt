@@ -1,0 +1,6 @@
+Name      : Golden Axe
+Publisher : Sega, Virgin Mastertronic
+Year      : 1990
+Genre     : Beat'em Up
+Players   : 2
+RunFile   : GoldenAxe.slave

@@ -1,0 +1,6 @@
+Name      : Spy vs Spy II: The Island Caper
+Publisher : Wicked
+Year      : 1989
+Genre     : Game
+Players   : 2
+RunFile   : SpyVsSpy2TheIslandCaper.Slave

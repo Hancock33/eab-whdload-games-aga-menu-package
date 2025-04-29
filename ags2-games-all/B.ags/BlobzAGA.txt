@@ -1,0 +1,6 @@
+Name      : Blobz
+Publisher : Apex Systems
+Year      : 1996
+Genre     : Game
+Players   : 1
+RunFile   : BlobzAGA.Slave

@@ -1,0 +1,6 @@
+Name      : Pacman 87
+Publisher : Steve Jacobs & Jim Boyd
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : Pacman87.slave

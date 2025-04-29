@@ -1,0 +1,6 @@
+Name      : Aerial Racers
+Publisher : Insane Software
+Year      : 1997
+Genre     : Game
+Players   : 3
+RunFile   : AerialRacers.slave

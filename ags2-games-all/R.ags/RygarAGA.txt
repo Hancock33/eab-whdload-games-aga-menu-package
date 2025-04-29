@@ -1,0 +1,6 @@
+Name      : Rygar
+Publisher : McGeezer
+Year      : 2019
+Genre     : Platform
+Players   : 1
+RunFile   : RygarAGA.Slave

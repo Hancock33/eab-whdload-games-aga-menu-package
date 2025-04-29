@@ -1,6 +1,6 @@
 Name      : Jinxter
-Publisher : Rainbird
+Publisher : Firebird, Rainbird
 Year      : 1988
-Genre     : Adventure - Graphics/Text
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Jinxter.Slave

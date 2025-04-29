@@ -1,0 +1,6 @@
+Name      : Baby Jo in 'Going Home'
+Publisher : Loriciel
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : BabyJoInGoingHome.Slave

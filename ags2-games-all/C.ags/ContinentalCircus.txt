@@ -1,0 +1,6 @@
+Name      : Continental Circus
+Publisher : Virgin Mastertronic
+Year      : 1989
+Genre     : Racing
+Players   : 1
+RunFile   : ContinentalCircus.Slave

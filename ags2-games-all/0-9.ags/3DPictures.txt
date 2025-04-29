@@ -1,0 +1,6 @@
+Name      : 3D Pool (Pictures)
+Publisher : Firebird, MicroPlay
+Year      : 1989
+Genre     : Sports - Cue
+Players   : 2 (taking turns)
+RunFile   : 3DPictures.Slave

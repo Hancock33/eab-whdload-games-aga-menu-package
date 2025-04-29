@@ -1,0 +1,6 @@
+Name      : Ikari Warriors
+Publisher : Elite, Keypunch
+Year      : 1988
+Genre     : Run & Gun
+Players   : 2
+RunFile   : IkariWarriors.Slave

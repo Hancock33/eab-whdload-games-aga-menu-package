@@ -1,0 +1,6 @@
+Name      : Le Labyrinthe D'Errare
+Publisher : RETZ
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : LabyrintheDErrareFr.Slave

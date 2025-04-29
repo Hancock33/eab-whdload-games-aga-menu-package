@@ -1,0 +1,6 @@
+Name      : Tinyus
+Publisher : Abyss
+Year      : 2021
+Genre     : Game
+Players   : 1
+RunFile   : Tinyus.slave

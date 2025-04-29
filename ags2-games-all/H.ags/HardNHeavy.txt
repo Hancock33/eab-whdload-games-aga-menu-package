@@ -1,0 +1,6 @@
+Name      : Hard 'n' Heavy
+Publisher : reLINE
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : HardNHeavy.slave

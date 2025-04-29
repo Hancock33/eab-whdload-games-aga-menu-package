@@ -1,0 +1,6 @@
+Name      : Postman Pat
+Publisher : Alternative
+Year      : 1989
+Genre     : Action - Multi-Type
+Players   : 4 (taking turns)
+RunFile   : PostmanPat.Slave

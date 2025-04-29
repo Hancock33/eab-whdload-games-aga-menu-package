@@ -1,0 +1,6 @@
+Name      : Heart of the Dragon
+Publisher : Avatar Consulting
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : HeartOfTheDragon3Disk.Slave

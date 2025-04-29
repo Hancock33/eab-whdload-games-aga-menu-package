@@ -1,0 +1,6 @@
+Name      : Wrath of the Demon
+Publisher : ReadySoft
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : WrathOfTheDemonSCX.slave

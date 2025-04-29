@@ -1,0 +1,6 @@
+Name      : Life & Death
+Publisher : Mindscape
+Year      : 1991
+Genre     : Simulation
+Players   : 1
+RunFile   : Life&Death.slave

@@ -1,0 +1,6 @@
+Name      : Guardian
+Publisher : Acid Software
+Year      : 1994
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : GuardianCD32.slave

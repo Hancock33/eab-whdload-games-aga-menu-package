@@ -1,0 +1,6 @@
+Name      : MicroProse Golf
+Publisher : MicroProse
+Year      : 1991
+Genre     : Sports - Golf
+Players   : 4 (taking turns)
+RunFile   : MicroProseGolf.slave

@@ -1,0 +1,6 @@
+Name      : King's Quest VI: Heir Today Gone Tomorrow
+Publisher : Sierra
+Year      : 1994
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : KingsQuest6De.slave

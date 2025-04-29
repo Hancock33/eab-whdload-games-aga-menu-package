@@ -1,0 +1,6 @@
+Name      : L'Art De La Guerre
+Publisher : Brøderbund
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : ArtDeLaGuerreFr.slave

@@ -1,0 +1,6 @@
+Name      : Knightmare
+Publisher : Hoffman
+Year      : 2022
+Genre     : Game
+Players   : 1
+RunFile   : KnightmareKonami.Slave

@@ -1,5 +1,6 @@
 Name      : Battletoads
 Publisher : Mindscape
 Year      : 1992
-Players   : 1 or 2, Simultaneous
+Genre     : Beat'em Up
+Players   : 2
 RunFile   : Battletoads.slave

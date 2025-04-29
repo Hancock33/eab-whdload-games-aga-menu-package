@@ -1,0 +1,6 @@
+Name      : Yolanda: The Ultimate Challenge
+Publisher : Millennium
+Year      : 1990
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : YolandaImage.Slave

@@ -1,0 +1,6 @@
+Name      : Loom
+Publisher : Lucasfilm
+Year      : 1990
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : LoomIt.slave

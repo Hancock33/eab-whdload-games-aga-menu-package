@@ -1,5 +1,6 @@
 Name      : Ganymed
 Publisher : ReadySoft
 Year      : 1988
-Players   : 1 Only
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Ganymed.slave

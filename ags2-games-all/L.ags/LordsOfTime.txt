@@ -1,0 +1,6 @@
+Name      : Lords of Time
+Publisher : Hollyware
+Year      : 1992
+Genre     : RPG
+Players   : 1
+RunFile   : LordsOfTime.Slave

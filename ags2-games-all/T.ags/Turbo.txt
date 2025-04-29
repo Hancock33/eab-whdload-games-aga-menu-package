@@ -1,6 +1,6 @@
 Name      : Turbo
 Publisher : MicroIllusions
 Year      : 1989
-Genre     : Racing - Overhead
-Players   : 1 or 2, Simultaneous
+Genre     : Racing - Top-Down
+Players   : 2
 RunFile   : Turbo.Slave

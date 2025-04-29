@@ -1,0 +1,6 @@
+Name      : Time Runners 23: The Time Monarch
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners23.Slave

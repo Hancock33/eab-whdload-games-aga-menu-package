@@ -1,0 +1,6 @@
+Name      : Beneath a Steel Sky
+Publisher : Virgin
+Year      : 1994
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : BeneathAStlSkyFr.slave

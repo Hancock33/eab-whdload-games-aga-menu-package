@@ -1,0 +1,6 @@
+Name      : Crystal Hammer
+Publisher : Axxiom, reLINE
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : CrystalHammerV1.slave

@@ -1,0 +1,6 @@
+Name      : Rick Dangerous
+Publisher : Firebird, Medalist, MicroPlay, MicroStyle
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : RickDangerous.Slave

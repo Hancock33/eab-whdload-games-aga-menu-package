@@ -1,6 +1,6 @@
 Name      : Masterblazer
 Publisher : Rainbow Arts
 Year      : 1990
-Genre     : Sports - Miscellaneous
-Players   : 1 to 8
+Genre     : Sports - Future/Fantasy
+Players   : 8 (2 simultaneously)
 RunFile   : Masterblazer.Slave

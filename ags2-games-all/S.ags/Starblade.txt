@@ -1,6 +1,6 @@
 Name      : Starblade
-Publisher : Palace Software
+Publisher : Palace, Proein, Silmarils
 Year      : 1990
-Genre     : Adventure - Miscellaneous
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Starblade.Slave

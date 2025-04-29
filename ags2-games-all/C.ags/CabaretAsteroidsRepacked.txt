@@ -1,0 +1,6 @@
+Name      : Cabaret Asteroids
+Publisher : Amiga Action, The One
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : CabaretAsteroidsRepacked.slave

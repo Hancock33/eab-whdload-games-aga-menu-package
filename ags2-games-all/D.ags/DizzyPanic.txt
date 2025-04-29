@@ -1,0 +1,6 @@
+Name      : Dizzy Panic
+Publisher : Codemasters
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : DizzyPanic.slave

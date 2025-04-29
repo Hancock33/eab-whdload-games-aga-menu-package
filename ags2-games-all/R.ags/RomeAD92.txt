@@ -1,0 +1,6 @@
+Name      : Rome AD92: The Pathway to Power
+Publisher : Electronic Arts, Millennium
+Year      : 1992
+Genre     : Adventure
+Players   : 1
+RunFile   : RomeAD92.Slave

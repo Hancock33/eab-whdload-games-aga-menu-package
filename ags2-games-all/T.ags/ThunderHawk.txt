@@ -1,0 +1,6 @@
+Name      : Thunderhawk AH-73M
+Publisher : Core Design, Ubi Soft, Virgin
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : ThunderHawk.Slave

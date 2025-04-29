@@ -1,0 +1,6 @@
+Name      : Mega Phoenix
+Publisher : Dinamic
+Year      : 1991
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : MegaPhoenix.Slave

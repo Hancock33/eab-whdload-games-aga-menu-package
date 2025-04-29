@@ -1,0 +1,6 @@
+Name      : El Arte De La Guerra
+Publisher : Brøderbund
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : ArteDeLaGuerraEs.slave

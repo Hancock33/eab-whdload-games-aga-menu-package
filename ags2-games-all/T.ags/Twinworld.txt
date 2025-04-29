@@ -1,0 +1,6 @@
+Name      : TwinWorld: Land of Vision
+Publisher : Ubi Soft
+Year      : 1989
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Twinworld.slave

@@ -1,0 +1,6 @@
+Name      : Transworld
+Publisher : Starbyte
+Year      : 1990
+Genre     : Simulation - Business
+Players   : 4 (taking turns)
+RunFile   : TransworldDe.Slave

@@ -1,0 +1,6 @@
+Name      : Super Scramble Simulator
+Publisher : Gremlin
+Year      : 1989
+Genre     : Racing - Side-Scrolling
+Players   : 6 (taking turns)
+RunFile   : SuperScrambleSimulator.slave

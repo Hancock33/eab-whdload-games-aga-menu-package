@@ -1,0 +1,6 @@
+Name      : Code Name: Iceman
+Publisher : Sierra
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : CodenameIceman.slave

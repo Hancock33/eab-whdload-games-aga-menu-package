@@ -1,5 +1,6 @@
 Name      : Renaissance
 Publisher : Impressions
 Year      : 1990
-Players   : 1 - 4 (1 simultaneous)
+Genre     : Game
+Players   : 4 (taking turns)
 RunFile   : Renaissance.Slave

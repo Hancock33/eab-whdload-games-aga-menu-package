@@ -1,0 +1,6 @@
+Name      : Primal Rage
+Publisher : Time Warner Interactive
+Year      : 1995
+Genre     : Fighting
+Players   : 2
+RunFile   : PrimalRageAGA.Slave

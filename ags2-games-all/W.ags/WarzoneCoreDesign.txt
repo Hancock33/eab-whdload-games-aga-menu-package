@@ -1,0 +1,6 @@
+Name      : War Zone (Core)
+Publisher : Core Design
+Year      : 1991
+Genre     : Shoot'em Up - Vertical
+Players   : 2
+RunFile   : WarzoneCoreDesign.slave

@@ -1,0 +1,6 @@
+Name      : OsWALD of the Ice Floes
+Publisher : Centaur, SilverRock
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : OswaldNTSC.Slave

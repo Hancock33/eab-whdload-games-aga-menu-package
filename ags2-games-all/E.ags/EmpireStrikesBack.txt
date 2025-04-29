@@ -1,0 +1,6 @@
+Name      : Star Wars: The Empire Strikes Back
+Publisher : Domark
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : EmpireStrikesBack.Slave

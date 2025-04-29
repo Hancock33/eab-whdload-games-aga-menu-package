@@ -1,0 +1,6 @@
+Name      : Tennis Champs
+Publisher : Amiga Power
+Year      : 1995
+Genre     : Sports - Tennis
+Players   : 2
+RunFile   : TennisChamps.Slave

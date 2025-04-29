@@ -1,5 +1,6 @@
 Name      : Gainforce
 Publisher : Amiga Fun
 Year      : 1993
-Players   : 1 Only
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Gainforce.Slave

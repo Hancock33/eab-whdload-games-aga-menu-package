@@ -1,7 +1,0 @@
-Name      : Centurion: Defender of Rome
-Version   : NTSC
-Publisher : Electronic Arts
-Year      : 1991
-Genre     : Strategy - War
-Players   : 1 Only
-RunFile   : CenturionNTSC.Slave

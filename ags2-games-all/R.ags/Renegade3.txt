@@ -1,0 +1,6 @@
+Name      : Renegade III: The Final Chapter
+Publisher : Imagine
+Year      : 19XX
+Genre     : Game
+Players   : 1
+RunFile   : Renegade3.Slave

@@ -1,0 +1,6 @@
+Name      : Virtual Karting
+Publisher : OTM
+Year      : 1995
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : VirtualKartingAGA.Slave

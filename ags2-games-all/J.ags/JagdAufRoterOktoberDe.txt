@@ -1,0 +1,6 @@
+Name      : Jagd auf Roter Oktober
+Publisher : Argus Press, Grandslam
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : JagdAufRoterOktoberDe.slave

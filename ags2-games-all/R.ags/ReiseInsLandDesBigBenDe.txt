@@ -1,0 +1,6 @@
+Name      : Reise Ins Land Des Big Ben
+Publisher : Coktel
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ReiseInsLandDesBigBenDe.Slave

@@ -1,0 +1,6 @@
+Name      : Football Manager: World Cup Edition
+Publisher : Addictive
+Year      : 1990
+Genre     : Sports - Management
+Players   : 1
+RunFile   : FootballManagerWCEdDe.Slave

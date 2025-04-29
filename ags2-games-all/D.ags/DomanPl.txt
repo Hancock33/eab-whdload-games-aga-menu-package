@@ -1,0 +1,6 @@
+Name      : Doman
+Publisher : Mirage Media
+Year      : 1995
+Genre     : Game
+Players   : 2
+RunFile   : DomanPl.Slave

@@ -1,0 +1,6 @@
+Name      : Trog
+Publisher : 5th Dimension
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : OgAGA.Slave

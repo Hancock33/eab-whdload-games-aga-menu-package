@@ -1,6 +1,6 @@
 Name      : Feud
-Publisher : Mastertronic
+Publisher : Bulldog, Mastertronic, SLM
 Year      : 1987
-Genre     : Adventure - Arcade 2D
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Feud.Slave

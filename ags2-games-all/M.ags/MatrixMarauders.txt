@@ -1,0 +1,6 @@
+Name      : Matrix Marauders
+Publisher : Psyclapse
+Year      : 1990
+Genre     : Game
+Players   : 2 (supports serial link)
+RunFile   : MatrixMarauders.slave

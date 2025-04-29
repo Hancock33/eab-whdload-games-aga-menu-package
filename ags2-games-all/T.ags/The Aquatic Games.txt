@@ -1,5 +1,0 @@
-Name      : The Aquatic Games
-Publisher : Millennium
-Year      : 1992
-Players   : 1 - 4 (1 simultaneous)
-RunFile   : AquaticGames.Slave

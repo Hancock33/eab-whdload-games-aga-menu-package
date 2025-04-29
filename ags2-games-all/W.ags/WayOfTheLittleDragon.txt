@@ -1,0 +1,6 @@
+Name      : The Way of the Little Dragon
+Publisher : Axxiom, Euro Gold Starline, micro-partner, reLINE, World Games
+Year      : 1987
+Genre     : Game
+Players   : 2
+RunFile   : WayOfTheLittleDragon.Slave

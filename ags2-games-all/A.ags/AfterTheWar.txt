@@ -1,0 +1,6 @@
+Name      : After the War
+Publisher : Dinamic, DRO Soft
+Year      : 1989
+Genre     : Run & Gun
+Players   : 1
+RunFile   : AfterTheWar.Slave

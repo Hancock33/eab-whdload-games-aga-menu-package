@@ -1,8 +1,0 @@
-Name      : Carton Rouge: League Edition AGA
-Language  : French
-Version   : AGA
-Publisher : Sports (Ascon)
-Year      : 1994
-Genre     : Sport
-Players   : 4
-RunFile   : CartonRougeLEAGAFr.slave

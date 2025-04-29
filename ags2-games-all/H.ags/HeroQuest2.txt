@@ -1,0 +1,6 @@
+Name      : HeroQuest II: Legacy of Sorasil
+Publisher : Gremlin
+Year      : 1994
+Genre     : RPG
+Players   : 4 (taking turns)
+RunFile   : HeroQuest2.Slave

@@ -1,0 +1,6 @@
+Name      : Flip-it & Magnose: Water Carriers From Mars
+Publisher : Image Works
+Year      : 1990
+Genre     : Game
+Players   : 2
+RunFile   : Flipit&Magnose.slave

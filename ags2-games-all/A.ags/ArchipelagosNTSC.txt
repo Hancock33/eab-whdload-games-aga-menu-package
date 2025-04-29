@@ -1,0 +1,6 @@
+Name      : Archipelagos
+Publisher : Fanfare, Logotron
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ArchipelagosNTSC.slave

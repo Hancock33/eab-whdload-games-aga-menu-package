@@ -1,0 +1,6 @@
+Name      : Arkanoid
+Publisher : Discovery
+Year      : 1987
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : ArkanoidNTSC.Slave

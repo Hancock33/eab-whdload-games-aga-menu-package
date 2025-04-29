@@ -1,0 +1,6 @@
+Name      : Tearaway Thomas
+Publisher : Global Software
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : TearawayThomas.slave

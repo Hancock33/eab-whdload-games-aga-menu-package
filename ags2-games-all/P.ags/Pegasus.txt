@@ -1,5 +1,6 @@
 Name      : Pegasus
-Publisher : Gremlin Graphics
+Publisher : Gremlin
 Year      : 1991
-Players   : 1 Only
+Genre     : Action - Multi-Type
+Players   : 1
 RunFile   : Pegasus.Slave

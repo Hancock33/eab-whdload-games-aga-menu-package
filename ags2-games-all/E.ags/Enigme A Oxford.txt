@@ -1,6 +1,0 @@
-Name      : Enigme A Oxford
-Publisher : Coktel
-Year      : 1989
-Genre     : Adventure
-Players   : 1
-RunFile   : EnigmeAOxford.Slave

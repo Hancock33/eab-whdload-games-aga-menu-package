@@ -1,0 +1,6 @@
+Name      : Lothar Matthäus Super Soccer
+Publisher : Bomico
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 4 (2 simultaneously)
+RunFile   : LotharMSuperSoccerDe.Slave

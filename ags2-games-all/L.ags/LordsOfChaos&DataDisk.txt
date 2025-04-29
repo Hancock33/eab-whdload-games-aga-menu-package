@@ -1,0 +1,6 @@
+Name      : Lords of Chaos
+Publisher : Blade, The Software Business
+Year      : 1991
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : LordsOfChaos&DataDisk.Slave

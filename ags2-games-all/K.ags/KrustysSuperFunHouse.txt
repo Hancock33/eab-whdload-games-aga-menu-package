@@ -1,0 +1,6 @@
+Name      : Krusty's Super Fun House
+Publisher : Acclaim, Virgin
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : KrustysSuperFunHouse.Slave

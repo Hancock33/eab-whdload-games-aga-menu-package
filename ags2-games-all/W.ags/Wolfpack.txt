@@ -1,6 +1,6 @@
 Name      : Wolfpack
-Publisher : Mirrorsoft
+Publisher : Brøderbund
 Year      : 1990
-Genre     : Simulation - Marine
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Wolfpack.Slave

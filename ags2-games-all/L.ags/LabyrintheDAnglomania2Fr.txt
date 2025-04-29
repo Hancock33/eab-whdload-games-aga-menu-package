@@ -1,0 +1,6 @@
+Name      : Labyrinthe D'Anglomania 2
+Publisher : RETZ
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : LabyrintheDAnglomania2Fr.Slave

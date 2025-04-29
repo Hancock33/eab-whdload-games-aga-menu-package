@@ -1,0 +1,6 @@
+Name      : Mystery of the Mummy
+Publisher : Rainbow Arts
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : MysteryOfTheMummy.Slave

@@ -1,0 +1,6 @@
+Name      : Street Cat
+Publisher : Euro Gold Starline, GO!, Rainbow Arts
+Year      : 1987
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : StreetCatNTSC.Slave

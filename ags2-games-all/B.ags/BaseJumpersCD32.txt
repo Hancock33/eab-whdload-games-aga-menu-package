@@ -1,0 +1,6 @@
+Name      : Base Jumpers
+Publisher : Rasputin
+Year      : 1994
+Genre     : Action - Multi-Type
+Players   : 4
+RunFile   : BaseJumpersCD32.slave

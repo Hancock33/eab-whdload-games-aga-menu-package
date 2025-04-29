@@ -1,5 +1,6 @@
 Name      : Tech
 Publisher : Gainstar
 Year      : 1989
-Players   : 1 - 2 (1 simultaneous)
-RunFile   : Tech.Slave
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Tech.slave

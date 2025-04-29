@@ -1,0 +1,6 @@
+Name      : Fantasy Flyer
+Publisher : Gallica
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : FantasyFlyer.Slave

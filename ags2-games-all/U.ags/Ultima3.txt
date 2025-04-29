@@ -1,0 +1,6 @@
+Name      : Ultima III: Exodus
+Publisher : Origin
+Year      : 1986
+Genre     : RPG
+Players   : 1
+RunFile   : Ultima3.Slave

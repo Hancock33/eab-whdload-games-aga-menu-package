@@ -1,0 +1,6 @@
+Name      : Space Taxi 3
+Publisher : Andreas Spreen
+Year      : 1994
+Genre     : Game
+Players   : 4
+RunFile   : SpaceTaxi3.Slave

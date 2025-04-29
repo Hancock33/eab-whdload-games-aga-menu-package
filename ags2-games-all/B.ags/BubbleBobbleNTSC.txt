@@ -1,0 +1,6 @@
+Name      : Bubble Bobble
+Publisher : Firebird, Taito
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : BubbleBobbleNTSC.slave

@@ -1,6 +1,6 @@
 Name      : Colonization
-Publisher : MicroProse Software
+Publisher : MicroProse
 Year      : 1995
-Genre     : Strategy - Miscellaneous
-Players   : 1 Only
+Genre     : Strategy
+Players   : 1
 RunFile   : Colonization.slave

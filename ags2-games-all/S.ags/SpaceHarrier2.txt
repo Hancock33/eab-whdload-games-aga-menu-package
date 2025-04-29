@@ -1,0 +1,6 @@
+Name      : Space Harrier II
+Publisher : Grandslam 
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : SpaceHarrier2.slave

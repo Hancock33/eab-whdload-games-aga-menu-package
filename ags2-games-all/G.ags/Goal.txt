@@ -1,6 +1,6 @@
 Name      : Goal!
-Publisher : Virgin Games
+Publisher : Virgin
 Year      : 1993
-Genre     : Sports - Football/Soccer
-Players   : 1 or 2, Simultaneous
+Genre     : Sports - Soccer
+Players   : 32 (2 simultaneously)
 RunFile   : Goal.slave

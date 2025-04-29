@@ -1,0 +1,6 @@
+Name      : 4th & Inches
+Publisher : Accolade
+Year      : 1988
+Genre     : Sports - American Football
+Players   : 2
+RunFile   : 4th&Inches.slave

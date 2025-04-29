@@ -1,0 +1,6 @@
+Name      : The Colonel's Bequest
+Publisher : Sierra
+Year      : 1989
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : ColonelsBequest.slave

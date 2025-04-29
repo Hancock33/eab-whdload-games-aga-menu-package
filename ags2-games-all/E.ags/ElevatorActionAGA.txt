@@ -1,0 +1,6 @@
+Name      : Elevator Action
+Publisher : Taito
+Year      : 2024
+Genre     : Game
+Players   : 1
+RunFile   : ElevatorActionAGA.slave

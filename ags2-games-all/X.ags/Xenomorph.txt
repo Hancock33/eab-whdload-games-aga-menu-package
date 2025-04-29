@@ -1,6 +1,6 @@
 Name      : Xenomorph
-Publisher : Pandora Software
+Publisher : Pandora
 Year      : 1990
-Genre     : Adventure - RPG 3D
-Players   : 1 Only
+Genre     : RPG - First Person Dungeon
+Players   : 1
 RunFile   : Xenomorph.slave

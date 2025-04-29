@@ -1,0 +1,6 @@
+Name      : La Diosa De Cozumel
+Publisher : Aventuras AD
+Year      : 1990
+Genre     : Adventure - Graphic
+Players   : 1
+RunFile   : LaDiosaDeCozumelEs.slave

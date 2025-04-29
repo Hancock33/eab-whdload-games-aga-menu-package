@@ -1,0 +1,6 @@
+Name      : Time Runners 28: Beyond the End
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners28.Slave

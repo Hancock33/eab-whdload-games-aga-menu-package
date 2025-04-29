@@ -1,0 +1,6 @@
+Name      : Bandit Kings of Ancient China
+Publisher : Infogrames, Koei
+Year      : 1991
+Genre     : Game
+Players   : 7 (taking turns)
+RunFile   : BanditKings.Slave

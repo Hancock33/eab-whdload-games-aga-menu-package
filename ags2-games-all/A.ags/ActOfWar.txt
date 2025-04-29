@@ -1,0 +1,6 @@
+Name      : Act of War
+Publisher : 17 Bit Software
+Year      : 1992
+Genre     : Game
+Players   : 2
+RunFile   : ActOfWar.slave

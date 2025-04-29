@@ -1,0 +1,6 @@
+Name      : Monty Python's Flying Circus
+Publisher : Virgin
+Year      : 1990
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
+RunFile   : MontyPythonsFlyCirNTSC.Slave

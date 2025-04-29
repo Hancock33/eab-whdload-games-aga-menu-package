@@ -1,2 +1,0 @@
-Name      : La Storia Ancestrale 4
-RunFile   : StoriaAncestrale.Slave

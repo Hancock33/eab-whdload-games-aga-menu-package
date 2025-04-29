@@ -1,0 +1,6 @@
+Name      : World Cup USA 94
+Publisher : U.S. Gold
+Year      : 1994
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : WorldCupUSA94.Slave

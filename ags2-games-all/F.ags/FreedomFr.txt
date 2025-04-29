@@ -1,0 +1,6 @@
+Name      : Freedom: Les Guerriers De L'Ombre
+Publisher : Coktel
+Year      : 1988
+Genre     : Game
+Players   : 1
+RunFile   : FreedomFr.Slave

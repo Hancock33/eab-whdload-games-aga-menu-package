@@ -1,0 +1,6 @@
+Name      : Crazy Cars III
+Publisher : Titus
+Year      : 1992
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : CrazyCars3.slave

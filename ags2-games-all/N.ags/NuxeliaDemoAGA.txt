@@ -1,0 +1,6 @@
+Name      : Nuxelia Demo
+Publisher : Craze & Pelegolas
+Year      : 1998
+Genre     : Game
+Players   : 1
+RunFile   : NuxeliaDemoAGA.slave

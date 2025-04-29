@@ -1,0 +1,6 @@
+Name      : Graffiti Man
+Publisher : Rainbow Arts
+Year      : 1987
+Genre     : Game
+Players   : 1
+RunFile   : GraffitiMan.slave

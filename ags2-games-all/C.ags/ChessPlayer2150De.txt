@@ -1,0 +1,6 @@
+Name      : Chess Player 2150
+Publisher : Oxford Softworks
+Year      : 1989
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : ChessPlayer2150De.Slave

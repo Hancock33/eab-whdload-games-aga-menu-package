@@ -1,5 +1,6 @@
 Name      : Simulcra
-Publisher : MicroStyle
+Publisher : MicroProse, MicroStyle
 Year      : 1990
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Simulcra.Slave

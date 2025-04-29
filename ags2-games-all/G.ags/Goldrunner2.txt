@@ -1,0 +1,6 @@
+Name      : Goldrunner II
+Publisher : Microdeal
+Year      : 1988
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : Goldrunner2.Slave

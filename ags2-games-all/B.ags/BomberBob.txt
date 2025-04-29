@@ -1,0 +1,6 @@
+Name      : Bomber Bob
+Publisher : Idea Games, The Software Business
+Year      : 1990
+Genre     : Shoot'em Up - Vertical
+Players   : 1
+RunFile   : BomberBob.Slave

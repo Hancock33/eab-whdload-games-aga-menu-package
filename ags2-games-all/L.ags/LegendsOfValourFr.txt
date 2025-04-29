@@ -1,0 +1,6 @@
+Name      : Legends of Valour
+Publisher : U.S. Gold
+Year      : 1993
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : LegendsOfValourFr.Slave

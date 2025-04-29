@@ -1,0 +1,6 @@
+Name      : Fascination
+Publisher : Coktel, Tomahawk
+Year      : 1991
+Genre     : Adventure
+Players   : 1
+RunFile   : FascinationFr.Slave

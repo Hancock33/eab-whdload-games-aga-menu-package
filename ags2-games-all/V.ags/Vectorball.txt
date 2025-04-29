@@ -1,6 +1,6 @@
 Name      : Vectorball
-Publisher : MAD (Mastertronic)
+Publisher : MAD
 Year      : 1988
-Genre     : Arcade - Miscellaneous
-Players   : 1 or 2, Simultaneous
+Genre     : Sports - Future/Fantasy
+Players   : 2
 RunFile   : Vectorball.Slave

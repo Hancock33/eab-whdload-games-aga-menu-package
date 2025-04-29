@@ -1,0 +1,6 @@
+Name      : Premier Manager 3
+Publisher : Gremlin
+Year      : 1994
+Genre     : Sports - Management
+Players   : 2 (taking turns)
+RunFile   : PremierManager3AGA.Slave

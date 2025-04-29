@@ -1,0 +1,6 @@
+Name      : Stunt Track Racer
+Publisher : MicroPlay
+Year      : 1989
+Genre     : Racing
+Players   : 8 (supports  serial link)
+RunFile   : StuntTrackRacerNTSC.Slave

@@ -1,0 +1,6 @@
+Name      : S.T.U.N. Runner
+Publisher : Domark, Tengen
+Year      : 1990
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : STUNRunner.Slave

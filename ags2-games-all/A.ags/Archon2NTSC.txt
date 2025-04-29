@@ -1,0 +1,6 @@
+Name      : Archon II: Adept
+Publisher : Ariolasoft, Electronic Arts
+Year      : 1988
+Genre     : Board Game
+Players   : 2
+RunFile   : Archon2NTSC.slave

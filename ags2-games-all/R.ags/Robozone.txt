@@ -1,5 +1,6 @@
 Name      : Robozone
 Publisher : Image Works
 Year      : 1991
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Robozone.slave

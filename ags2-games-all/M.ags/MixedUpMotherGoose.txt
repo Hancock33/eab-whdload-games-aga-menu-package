@@ -1,0 +1,6 @@
+Name      : Mixed-Up Mother Goose (Enhanced)
+Publisher : Sierra
+Year      : 1991
+Genre     : Game
+Players   : 1
+RunFile   : MixedUpMotherGoose.Slave

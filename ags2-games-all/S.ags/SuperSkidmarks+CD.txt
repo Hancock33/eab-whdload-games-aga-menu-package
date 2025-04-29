@@ -1,0 +1,6 @@
+Name      : Super Skidmarks Plus
+Publisher : Acid Software
+Year      : 1998
+Genre     : Racing - Top-Down
+Players   : 4 (supports serial link)
+RunFile   : SuperSkidmarks+CD.slave

@@ -1,0 +1,6 @@
+Name      : The Chessmaster 2000
+Publisher : Software Toolworks, The
+Year      : 1986
+Genre     : Board Game - Chess
+Players   : 2 (taking turns)
+RunFile   : Chessmaster2000.slave

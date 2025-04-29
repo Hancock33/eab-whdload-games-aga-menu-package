@@ -1,0 +1,6 @@
+Name      : Simon the Sorcerer
+Publisher : Adventure Soft
+Year      : 1993
+Genre     : Adventure - Point & Click
+Players   : 1
+RunFile   : SimonTheSorcererIt.slave

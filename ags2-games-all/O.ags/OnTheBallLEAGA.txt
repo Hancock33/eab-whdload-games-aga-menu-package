@@ -1,0 +1,6 @@
+Name      : On the Ball: League Edition
+Publisher : Sports
+Year      : 1994
+Genre     : Sports - Management
+Players   : 4 (taking turns)
+RunFile   : OnTheBallLEAGA.slave

@@ -1,6 +1,0 @@
-Name      : Dr. Cube's Magic Lands
-Publisher : Unknown
-Year      : 1994
-Genre     : Platform
-Players   : 1
-RunFile   : DrCubesMagicLands.Slave

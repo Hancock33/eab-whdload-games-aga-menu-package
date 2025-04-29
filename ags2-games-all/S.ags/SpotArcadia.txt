@@ -1,0 +1,6 @@
+Name      : Spot (Arcadia)
+Publisher : Arcadia Systems
+Year      : 1990
+Genre     : Game
+Players   : 4 (taking turns)
+RunFile   : SpotArcadia.Slave

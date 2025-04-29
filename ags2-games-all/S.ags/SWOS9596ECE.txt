@@ -1,0 +1,6 @@
+Name      : Sensible World of Soccer 95/96: European Championship Edition
+Publisher : Renegade
+Year      : 1996
+Genre     : Sports - Soccer
+Players   : 64 (2 simultaneously)
+RunFile   : SWOS9596ECE.slave

@@ -1,0 +1,6 @@
+Name      : Super Cars
+Publisher : Gremlin
+Year      : 1990
+Genre     : Racing - Top-Down
+Players   : 1
+RunFile   : SuperCars1Disk.Slave

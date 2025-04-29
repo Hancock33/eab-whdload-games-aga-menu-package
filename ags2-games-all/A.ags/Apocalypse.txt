@@ -1,5 +1,6 @@
 Name      : Apocalypse
-Publisher : Virgin Interactive
+Publisher : Virgin
 Year      : 1994
-Players   : 1 Only
+Genre     : Game
+Players   : 1
 RunFile   : Apocalypse.Slave

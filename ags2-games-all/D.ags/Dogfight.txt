@@ -1,0 +1,6 @@
+Name      : Dog Fight
+Publisher : MicroProse Software
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : Dogfight.Slave

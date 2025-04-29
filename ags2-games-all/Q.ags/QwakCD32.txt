@@ -1,0 +1,6 @@
+Name      : Qwak
+Publisher : Team 17
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : QwakCD32.Slave

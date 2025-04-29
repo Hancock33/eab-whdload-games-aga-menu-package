@@ -1,0 +1,6 @@
+Name      : Trained Assassin
+Publisher : Digital Magic, System 4
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : TrainedAssassin.Slave

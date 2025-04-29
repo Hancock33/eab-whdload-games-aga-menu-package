@@ -1,0 +1,6 @@
+Name      : Xenon 2: Megablast
+Publisher : Image Works, Cinemaware
+Year      : 1989
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
+RunFile   : Xenon21Disk.Slave

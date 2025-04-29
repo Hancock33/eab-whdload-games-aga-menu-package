@@ -1,0 +1,6 @@
+Name      : Ishar: Legend of the Fortress
+Publisher : Silmarils
+Year      : 1992
+Genre     : RPG - First Person Dungeon
+Players   : 1
+RunFile   : IsharEs.Slave

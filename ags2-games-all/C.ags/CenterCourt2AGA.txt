@@ -1,0 +1,6 @@
+Name      : Center Court 2
+Publisher : Gernot Fritsche
+Year      : 2016
+Genre     : Sports
+Players   : 4
+RunFile   : CenterCourt2AGA.slave

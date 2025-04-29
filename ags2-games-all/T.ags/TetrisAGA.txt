@@ -1,0 +1,6 @@
+Name      : Tetris AGA
+Publisher : Atari
+Year      : 2023
+Genre     : Game
+Players   : 2
+RunFile   : TetrisAGA.slave

@@ -1,0 +1,6 @@
+Name      : World Class Soccer
+Publisher : U.S. Gold
+Year      : 1991
+Genre     : Sports - Soccer
+Players   : 2
+RunFile   : WorldClassSoccer.slave

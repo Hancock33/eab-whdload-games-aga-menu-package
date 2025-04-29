@@ -1,6 +1,6 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/Detroit/Detroit.Slave
+;RunFile=A-Games:D/Detroit/Detroit.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
@@ -21,9 +21,9 @@ ENDIF
 ; Run WHDLoad
 cd "A-Games:D/Detroit/"
 IF EXISTS ENV:whdloadargs
-  whdload "Detroit.Slave" $whdloadargs
+  whdload "Detroit.slave" $whdloadargs
 ELSE
-  whdload "Detroit.Slave"
+  whdload "Detroit.slave"
 ENDIF
 
 ; Start AGS2 Run Post Script, if it exists

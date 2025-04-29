@@ -1,6 +1,6 @@
 Name      : Phantasie
-Publisher : Strategic Simulations, Inc.
+Publisher : SSI
 Year      : 1987
-Genre     : Adventure - RPG 2D
-Players   : 1 Only
+Genre     : RPG
+Players   : 1
 RunFile   : Phantasie.Slave

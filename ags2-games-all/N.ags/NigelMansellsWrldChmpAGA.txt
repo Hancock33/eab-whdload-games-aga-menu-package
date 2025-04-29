@@ -1,0 +1,6 @@
+Name      : Nigel Mansell's World Championship
+Publisher : Gremlin
+Year      : 1992
+Genre     : Racing
+Players   : 1
+RunFile   : NigelMansellsWrldChmpAGA.slave

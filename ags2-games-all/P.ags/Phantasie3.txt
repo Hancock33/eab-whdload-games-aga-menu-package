@@ -1,0 +1,6 @@
+Name      : Phantasie III: The Wrath of Nikademus
+Publisher : SSI
+Year      : 1987
+Genre     : RPG
+Players   : 1
+RunFile   : Phantasie3.Slave

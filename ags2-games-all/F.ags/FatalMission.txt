@@ -1,0 +1,6 @@
+Name      : Fatal Mission
+Publisher : Robin Burrows
+Year      : 1993
+Genre     : Game
+Players   : 1
+RunFile   : FatalMission.slave

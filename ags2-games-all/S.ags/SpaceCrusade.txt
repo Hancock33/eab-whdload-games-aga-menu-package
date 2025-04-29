@@ -1,0 +1,6 @@
+Name      : Space Crusade
+Publisher : Gremlin
+Year      : 1992
+Genre     : Game
+Players   : 3 (taking turns)
+RunFile   : SpaceCrusade.slave

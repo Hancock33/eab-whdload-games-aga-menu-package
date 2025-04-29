@@ -1,0 +1,6 @@
+Name      : Super Cars II
+Publisher : Gremlin
+Year      : 2021
+Genre     : Racing - Top-Down
+Players   : 2
+RunFile   : SuperCars2AGA.slave

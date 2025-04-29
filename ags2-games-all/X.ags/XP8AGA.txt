@@ -1,0 +1,6 @@
+Name      : XP8
+Publisher : Effigy
+Year      : 1996
+Genre     : Shoot'em Up - Vertical
+Players   : 2 (taking turns)
+RunFile   : XP8AGA.slave

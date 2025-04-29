@@ -1,0 +1,6 @@
+Name      : Battle Isle
+Publisher : Blue Byte, DRO Soft, Ubi Soft
+Year      : 1991
+Genre     : Game
+Players   : 2
+RunFile   : BattleIsle.Slave

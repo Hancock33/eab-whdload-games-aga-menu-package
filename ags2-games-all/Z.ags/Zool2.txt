@@ -1,0 +1,6 @@
+Name      : Zool 2
+Publisher : Gremlin
+Year      : 1993
+Genre     : Game
+Players   : 2 (taking turns)
+RunFile   : Zool2.Slave

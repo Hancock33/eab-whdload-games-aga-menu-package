@@ -1,0 +1,6 @@
+Name      : Operation Harrier
+Publisher : U.S. Gold
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : OperationHarrier.slave

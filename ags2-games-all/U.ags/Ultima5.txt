@@ -1,0 +1,6 @@
+Name      : Ultima V: Warriors of Destiny
+Publisher : Origin
+Year      : 1989
+Genre     : RPG
+Players   : 1
+RunFile   : Ultima5.slave

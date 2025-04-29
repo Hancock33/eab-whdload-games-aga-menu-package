@@ -1,5 +1,6 @@
-Name      : Viz
+Name      : Viz: The Computer Game
 Publisher : Virgin Mastertronic
 Year      : 1991
+Genre     : Game
 Players   : 1
 RunFile   : Viz.Slave

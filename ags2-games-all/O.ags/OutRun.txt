@@ -1,0 +1,6 @@
+Name      : Out Run
+Publisher : U.S. Gold
+Year      : 1989
+Genre     : Racing - Arcade
+Players   : 1
+RunFile   : OutRun.slave

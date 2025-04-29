@@ -1,0 +1,6 @@
+Name      : Defender of the Crown
+Publisher : CDTV Publishing
+Year      : 1991
+Genre     : Adventure - Strategy
+Players   : 1
+RunFile   : DefenderOfTheCrownCDTV.Slave

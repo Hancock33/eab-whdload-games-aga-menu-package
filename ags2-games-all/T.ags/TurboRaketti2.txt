@@ -1,0 +1,6 @@
+Name      : TurboRaketti II
+Publisher : Heikki Kosola
+Year      : 1993
+Genre     : Game
+Players   : 2
+RunFile   : TurboRaketti2.slave

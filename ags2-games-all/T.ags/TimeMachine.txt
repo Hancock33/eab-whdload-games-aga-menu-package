@@ -1,0 +1,6 @@
+Name      : Time Machine
+Publisher : Activision
+Year      : 1990
+Genre     : Game
+Players   : 1
+RunFile   : TimeMachine.Slave

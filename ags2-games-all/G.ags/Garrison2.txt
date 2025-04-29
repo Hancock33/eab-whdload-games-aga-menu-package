@@ -1,0 +1,6 @@
+Name      : Garrison II: The Legend Continues
+Publisher : Rainbow Arts
+Year      : 1988
+Genre     : Game
+Players   : 2
+RunFile   : Garrison2.Slave

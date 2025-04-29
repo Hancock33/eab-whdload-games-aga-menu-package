@@ -1,0 +1,6 @@
+Name      : Arcade Pool
+Publisher : Team 17
+Year      : 1994
+Genre     : Sports - Cue
+Players   : 8 (taking turns)
+RunFile   : ArcadePoolAGA.slave

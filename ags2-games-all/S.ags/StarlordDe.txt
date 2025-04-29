@@ -1,0 +1,6 @@
+Name      : Starlord
+Publisher : MicroProse
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : StarlordDe.Slave

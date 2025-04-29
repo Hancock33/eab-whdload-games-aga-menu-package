@@ -1,0 +1,6 @@
+Name      : Vengeance of Excalibur
+Publisher : Virgin
+Year      : 1992
+Genre     : Game
+Players   : 1
+RunFile   : VengeanceOfExcalibur.slave

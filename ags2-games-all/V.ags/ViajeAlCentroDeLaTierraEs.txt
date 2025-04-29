@@ -1,0 +1,6 @@
+Name      : Viaje Al Centro De La Tierra
+Publisher : Topo Soft
+Year      : 1989
+Genre     : Game
+Players   : 1
+RunFile   : ViajeAlCentroDeLaTierraEs.slave

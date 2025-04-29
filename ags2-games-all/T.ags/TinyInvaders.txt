@@ -1,0 +1,6 @@
+Name      : Tiny Invaders
+Publisher : Abyss
+Year      : 2020
+Genre     : Game
+Players   : 1
+RunFile   : TinyInvaders.slave

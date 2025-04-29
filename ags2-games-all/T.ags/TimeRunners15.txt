@@ -1,0 +1,6 @@
+Name      : Time Runners 15: At the Speed of Light
+Publisher : Simulmondo
+Year      : 1994
+Genre     : Game
+Players   : 1
+RunFile   : TimeRunners15.Slave

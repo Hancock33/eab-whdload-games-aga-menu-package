@@ -1,5 +1,6 @@
 Name      : Steigar
 Publisher : Screen 7
 Year      : 1989
-Players   : 1 Only
+Genre     : Shoot'em Up - Horizontal
+Players   : 1
 RunFile   : Steigar.Slave
