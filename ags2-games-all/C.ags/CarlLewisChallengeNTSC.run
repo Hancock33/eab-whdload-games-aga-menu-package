@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/CarlLewisChallengeNTSC/CarlLewisChallengeNTSC.slave
+;RunFile=A-Games:C/CarlLewisChallengeNTSC/CarlLewisChallengeNTSC.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Carl Lewis Challenge"
+  execute S:AGS2Favourites "C" "The Carl Lewis Challenge"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/CarlLewisChallengeNTSC/"
+cd "A-Games:C/CarlLewisChallengeNTSC/"
 IF EXISTS ENV:whdloadargs
   whdload "CarlLewisChallengeNTSC.slave" $whdloadargs
 ELSE

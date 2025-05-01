@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/LostVikingsCD32/LostVikingsCD32.slave
+;RunFile=A-Games:L/LostVikingsCD32/LostVikingsCD32.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Lost Vikings"
+  execute S:AGS2Favourites "L" "The Lost Vikings"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/LostVikingsCD32/"
+cd "A-Games:L/LostVikingsCD32/"
 IF EXISTS ENV:whdloadargs
   whdload "LostVikingsCD32.slave" $whdloadargs
 ELSE

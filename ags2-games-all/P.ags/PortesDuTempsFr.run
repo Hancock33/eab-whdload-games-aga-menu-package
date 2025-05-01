@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/PortesDuTempsFr/PortesDuTempsFr.Slave
+;RunFile=A-Games:P/PortesDuTempsFr/PortesDuTempsFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "Les Portes Du Temps"
+  execute S:AGS2Favourites "P" "Les Portes Du Temps"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/PortesDuTempsFr/"
+cd "A-Games:P/PortesDuTempsFr/"
 IF EXISTS ENV:whdloadargs
   whdload "PortesDuTempsFr.Slave" $whdloadargs
 ELSE

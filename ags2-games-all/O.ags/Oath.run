@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Oath/Oath.Slave
+;RunFile=A-Games:O/Oath/Oath.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Oath"
+  execute S:AGS2Favourites "O" "The Oath"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Oath/"
+cd "A-Games:O/Oath/"
 IF EXISTS ENV:whdloadargs
   whdload "Oath.Slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/BardsTale2/BardsTale2.slave
+;RunFile=A-Games:B/BardsTale2/BardsTale2.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Bard's Tale II: The Destiny Knight"
+  execute S:AGS2Favourites "B" "The Bard's Tale II: The Destiny Knight"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/BardsTale2/"
+cd "A-Games:B/BardsTale2/"
 IF EXISTS ENV:whdloadargs
   whdload "BardsTale2.slave" $whdloadargs
 ELSE

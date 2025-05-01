@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/LegendOfKyrandiaFr/LegendOfKyrandiaFr.Slave
+;RunFile=A-Games:L/LegendOfKyrandiaFr/LegendOfKyrandiaFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Legend of Kyrandia"
+  execute S:AGS2Favourites "L" "The Legend of Kyrandia"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/LegendOfKyrandiaFr/"
+cd "A-Games:L/LegendOfKyrandiaFr/"
 IF EXISTS ENV:whdloadargs
   whdload "LegendOfKyrandiaFr.Slave" $whdloadargs
 ELSE

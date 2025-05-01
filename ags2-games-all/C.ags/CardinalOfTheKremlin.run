@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/CardinalOfTheKremlin/CardinalOfTheKremlin.Slave
+;RunFile=A-Games:C/CardinalOfTheKremlin/CardinalOfTheKremlin.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Cardinal of the Kremlin"
+  execute S:AGS2Favourites "C" "The Cardinal of the Kremlin"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/CardinalOfTheKremlin/"
+cd "A-Games:C/CardinalOfTheKremlin/"
 IF EXISTS ENV:whdloadargs
   whdload "CardinalOfTheKremlin.Slave" $whdloadargs
 ELSE

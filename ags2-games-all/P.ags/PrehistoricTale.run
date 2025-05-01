@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:A/PrehistoricTale/PrehistoricTale.slave
+;RunFile=A-Games:P/PrehistoricTale/PrehistoricTale.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "A" "A Prehistoric Tale"
+  execute S:AGS2Favourites "P" "A Prehistoric Tale"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:A/PrehistoricTale/"
+cd "A-Games:P/PrehistoricTale/"
 IF EXISTS ENV:whdloadargs
   whdload "PrehistoricTale.slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:X/LemmingsXmasDemo1992/LemmingsXmasDemo1992.Slave
+;RunFile=A-Games:L/LemmingsXmasDemo1992/LemmingsXmasDemo1992.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "X" "Xmas Lemmings 1992"
+  execute S:AGS2Favourites "L" "Xmas Lemmings 1992"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:X/LemmingsXmasDemo1992/"
+cd "A-Games:L/LemmingsXmasDemo1992/"
 IF EXISTS ENV:whdloadargs
   whdload "LemmingsXmasDemo1992.Slave" $whdloadargs
 ELSE

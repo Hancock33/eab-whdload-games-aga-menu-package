@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/SpyWhoLovedMe/SpyWhoLovedMe.Slave
+;RunFile=A-Games:S/SpyWhoLovedMe/SpyWhoLovedMe.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Spy Who Loved Me"
+  execute S:AGS2Favourites "S" "The Spy Who Loved Me"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/SpyWhoLovedMe/"
+cd "A-Games:S/SpyWhoLovedMe/"
 IF EXISTS ENV:whdloadargs
   whdload "SpyWhoLovedMe.Slave" $whdloadargs
 ELSE

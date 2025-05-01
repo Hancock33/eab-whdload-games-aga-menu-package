@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/BlackCauldron/BlackCauldron.Slave
+;RunFile=A-Games:B/BlackCauldron/BlackCauldron.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Black Cauldron"
+  execute S:AGS2Favourites "B" "The Black Cauldron"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/BlackCauldron/"
+cd "A-Games:B/BlackCauldron/"
 IF EXISTS ENV:whdloadargs
   whdload "BlackCauldron.Slave" $whdloadargs
 ELSE

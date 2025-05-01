@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:S/EmpireStrikesBack/EmpireStrikesBack.Slave
+;RunFile=A-Games:E/EmpireStrikesBack/EmpireStrikesBack.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "S" "Star Wars: The Empire Strikes Back"
+  execute S:AGS2Favourites "E" "Star Wars: The Empire Strikes Back"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:S/EmpireStrikesBack/"
+cd "A-Games:E/EmpireStrikesBack/"
 IF EXISTS ENV:whdloadargs
   whdload "EmpireStrikesBack.Slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/StoriaAncestrale/StoriaAncestrale.Slave
+;RunFile=A-Games:S/StoriaAncestrale/StoriaAncestrale.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "La Storia Ancestrale Chapter 4"
+  execute S:AGS2Favourites "S" "La Storia Ancestrale Chapter 4"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/StoriaAncestrale/"
+cd "A-Games:S/StoriaAncestrale/"
 IF EXISTS ENV:whdloadargs
   whdload "StoriaAncestrale.Slave" $whdloadargs
 ELSE

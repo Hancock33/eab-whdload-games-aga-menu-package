@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/GamesWinterEdition/GamesWinterEdition.Slave
+;RunFile=A-Games:G/GamesWinterEdition/GamesWinterEdition.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Games: Winter Edition"
+  execute S:AGS2Favourites "G" "The Games: Winter Edition"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/GamesWinterEdition/"
+cd "A-Games:G/GamesWinterEdition/"
 IF EXISTS ENV:whdloadargs
   whdload "GamesWinterEdition.Slave" $whdloadargs
 ELSE

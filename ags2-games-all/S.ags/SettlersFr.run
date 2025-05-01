@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/SettlersFr/SettlersFr.slave
+;RunFile=A-Games:S/SettlersFr/SettlersFr.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Settlers"
+  execute S:AGS2Favourites "S" "The Settlers"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/SettlersFr/"
+cd "A-Games:S/SettlersFr/"
 IF EXISTS ENV:whdloadargs
   whdload "SettlersFr.slave" $whdloadargs
 ELSE

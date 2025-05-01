@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/BootNTSC/BootNTSC.Slave
+;RunFile=A-Games:B/BootNTSC/BootNTSC.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "D" "Das Boot"
+  execute S:AGS2Favourites "B" "Das Boot"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:D/BootNTSC/"
+cd "A-Games:B/BootNTSC/"
 IF EXISTS ENV:whdloadargs
   whdload "BootNTSC.Slave" $whdloadargs
 ELSE

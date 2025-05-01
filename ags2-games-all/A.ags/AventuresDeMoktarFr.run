@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/AventuresDeMoktarFr/AventuresDeMoktarFr.slave
+;RunFile=A-Games:A/AventuresDeMoktarFr/AventuresDeMoktarFr.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "Les Aventures de Moktar"
+  execute S:AGS2Favourites "A" "Les Aventures de Moktar"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/AventuresDeMoktarFr/"
+cd "A-Games:A/AventuresDeMoktarFr/"
 IF EXISTS ENV:whdloadargs
   whdload "AventuresDeMoktarFr.slave" $whdloadargs
 ELSE

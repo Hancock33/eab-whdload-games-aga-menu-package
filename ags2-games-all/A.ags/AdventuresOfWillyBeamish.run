@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/AdventuresOfWillyBeamish/AdventuresOfWillyBeamish.slave
+;RunFile=A-Games:A/AdventuresOfWillyBeamish/AdventuresOfWillyBeamish.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Adventures of Willy Beamish"
+  execute S:AGS2Favourites "A" "The Adventures of Willy Beamish"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/AdventuresOfWillyBeamish/"
+cd "A-Games:A/AdventuresOfWillyBeamish/"
 IF EXISTS ENV:whdloadargs
   whdload "AdventuresOfWillyBeamish.slave" $whdloadargs
 ELSE

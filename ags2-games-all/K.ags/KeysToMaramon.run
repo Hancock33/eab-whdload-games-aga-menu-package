@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/KeysToMaramon/KeysToMaramon.Slave
+;RunFile=A-Games:K/KeysToMaramon/KeysToMaramon.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Keys to Maramon"
+  execute S:AGS2Favourites "K" "The Keys to Maramon"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/KeysToMaramon/"
+cd "A-Games:K/KeysToMaramon/"
 IF EXISTS ENV:whdloadargs
   whdload "KeysToMaramon.Slave" $whdloadargs
 ELSE

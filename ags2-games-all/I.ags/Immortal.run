@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Immortal/Immortal.slave
+;RunFile=A-Games:I/Immortal/Immortal.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Immortal"
+  execute S:AGS2Favourites "I" "The Immortal"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Immortal/"
+cd "A-Games:I/Immortal/"
 IF EXISTS ENV:whdloadargs
   whdload "Immortal.slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/AddamsFamily/AddamsFamily.Slave
+;RunFile=A-Games:A/AddamsFamily/AddamsFamily.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Addams Family"
+  execute S:AGS2Favourites "A" "The Addams Family"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/AddamsFamily/"
+cd "A-Games:A/AddamsFamily/"
 IF EXISTS ENV:whdloadargs
   whdload "AddamsFamily.Slave" $whdloadargs
 ELSE

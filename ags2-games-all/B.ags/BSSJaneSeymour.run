@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:F/BSSJaneSeymour/BSSJaneSeymour.slave
+;RunFile=A-Games:B/BSSJaneSeymour/BSSJaneSeymour.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "F" "Federation Quest 1: B.S.S. Jane Seymour"
+  execute S:AGS2Favourites "B" "Federation Quest 1: B.S.S. Jane Seymour"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:F/BSSJaneSeymour/"
+cd "A-Games:B/BSSJaneSeymour/"
 IF EXISTS ENV:whdloadargs
   whdload "BSSJaneSeymour.slave" $whdloadargs
 ELSE

@@ -1,6 +1,6 @@
 Name      : Celtic Heart
 Publisher : Night Owl Design
-Year      : 11/07/1905
+Year      : 2019
 Genre     : Game
 Players   : 1
 RunFile   : CelticHeart.slave

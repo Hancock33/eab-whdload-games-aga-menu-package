@@ -1,6 +1,6 @@
 Name      : Alfred Chicken
 Publisher : Mindscape
-Year      : 15/06/1905
+Year      : 1993
 Genre     : Game
 Players   : 1
 RunFile   : AlfredChickenAGA.slave

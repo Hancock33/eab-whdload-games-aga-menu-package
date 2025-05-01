@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/HuntForRedOctober/HuntForRedOctober.slave
+;RunFile=A-Games:H/HuntForRedOctober/HuntForRedOctober.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Hunt for Red October"
+  execute S:AGS2Favourites "H" "The Hunt for Red October"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/HuntForRedOctober/"
+cd "A-Games:H/HuntForRedOctober/"
 IF EXISTS ENV:whdloadargs
   whdload "HuntForRedOctober.slave" $whdloadargs
 ELSE

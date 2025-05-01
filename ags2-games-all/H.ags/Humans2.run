@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Humans2/Humans2.slave
+;RunFile=A-Games:H/Humans2/Humans2.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Humans 2: The Jurassic Levels"
+  execute S:AGS2Favourites "H" "The Humans 2: The Jurassic Levels"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Humans2/"
+cd "A-Games:H/Humans2/"
 IF EXISTS ENV:whdloadargs
   whdload "Humans2.slave" $whdloadargs
 ELSE

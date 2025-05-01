@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:I/LostTreasuresOfInfocom/LostTreasuresOfInfocom.Slave
+;RunFile=A-Games:L/LostTreasuresOfInfocom/LostTreasuresOfInfocom.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "I" "Infocom Lost Treasures"
+  execute S:AGS2Favourites "L" "Infocom Lost Treasures"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:I/LostTreasuresOfInfocom/"
+cd "A-Games:L/LostTreasuresOfInfocom/"
 IF EXISTS ENV:whdloadargs
   whdload "LostTreasuresOfInfocom.Slave" $whdloadargs
 ELSE

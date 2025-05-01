@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/NewZealandStory/NewZealandStory.slave
+;RunFile=A-Games:N/NewZealandStory/NewZealandStory.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The New Zealand Story"
+  execute S:AGS2Favourites "N" "The New Zealand Story"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/NewZealandStory/"
+cd "A-Games:N/NewZealandStory/"
 IF EXISTS ENV:whdloadargs
   whdload "NewZealandStory.slave" $whdloadargs
 ELSE

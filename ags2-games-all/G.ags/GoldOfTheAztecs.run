@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/GoldOfTheAztecs/GoldOfTheAztecs.Slave
+;RunFile=A-Games:G/GoldOfTheAztecs/GoldOfTheAztecs.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Gold of the Aztecs"
+  execute S:AGS2Favourites "G" "The Gold of the Aztecs"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/GoldOfTheAztecs/"
+cd "A-Games:G/GoldOfTheAztecs/"
 IF EXISTS ENV:whdloadargs
   whdload "GoldOfTheAztecs.Slave" $whdloadargs
 ELSE

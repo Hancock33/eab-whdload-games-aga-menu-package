@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/SchwarzeAugeDe/SchwarzeAugeDe.slave
+;RunFile=A-Games:S/SchwarzeAugeDe/SchwarzeAugeDe.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "D" "Das Schwarze Auge: Die Schicksalsklinge"
+  execute S:AGS2Favourites "S" "Das Schwarze Auge: Die Schicksalsklinge"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:D/SchwarzeAugeDe/"
+cd "A-Games:S/SchwarzeAugeDe/"
 IF EXISTS ENV:whdloadargs
   whdload "SchwarzeAugeDe.slave" $whdloadargs
 ELSE

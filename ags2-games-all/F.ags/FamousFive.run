@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/FamousFive/FamousFive.Slave
+;RunFile=A-Games:F/FamousFive/FamousFive.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Famous Five: Five on a Treasure Island"
+  execute S:AGS2Favourites "F" "The Famous Five: Five on a Treasure Island"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/FamousFive/"
+cd "A-Games:F/FamousFive/"
 IF EXISTS ENV:whdloadargs
   whdload "FamousFive.Slave" $whdloadargs
 ELSE

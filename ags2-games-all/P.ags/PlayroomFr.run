@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/PlayroomFr/PlayroomFr.Slave
+;RunFile=A-Games:P/PlayroomFr/PlayroomFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Playroom: La Chambre De Peppy"
+  execute S:AGS2Favourites "P" "The Playroom: La Chambre De Peppy"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/PlayroomFr/"
+cd "A-Games:P/PlayroomFr/"
 IF EXISTS ENV:whdloadargs
   whdload "PlayroomFr.Slave" $whdloadargs
 ELSE

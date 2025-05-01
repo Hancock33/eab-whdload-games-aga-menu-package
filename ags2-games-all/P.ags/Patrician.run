@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Patrician/Patrician.slave
+;RunFile=A-Games:P/Patrician/Patrician.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Patrician"
+  execute S:AGS2Favourites "P" "The Patrician"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Patrician/"
+cd "A-Games:P/Patrician/"
 IF EXISTS ENV:whdloadargs
   whdload "Patrician.slave" $whdloadargs
 ELSE

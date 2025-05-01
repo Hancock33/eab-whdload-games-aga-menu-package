@@ -1,6 +1,6 @@
 Name      : Aladdin's Magic Lamp
 Publisher : New Line
-Year      : 11/06/1905
+Year      : 1989
 Genre     : Game
 Players   : 1
 RunFile   : AladdinsMagicLamp.slave

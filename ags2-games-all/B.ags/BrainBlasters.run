@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/BrainBlasters/BrainBlasters.Slave
+;RunFile=A-Games:B/BrainBlasters/BrainBlasters.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Brain Blasters"
+  execute S:AGS2Favourites "B" "The Brain Blasters"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/BrainBlasters/"
+cd "A-Games:B/BrainBlasters/"
 IF EXISTS ENV:whdloadargs
   whdload "BrainBlasters.Slave" $whdloadargs
 ELSE

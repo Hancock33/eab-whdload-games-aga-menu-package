@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/QuestOfAgravain/QuestOfAgravain.Slave
+;RunFile=A-Games:Q/QuestOfAgravain/QuestOfAgravain.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Quest of Agravain"
+  execute S:AGS2Favourites "Q" "The Quest of Agravain"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/QuestOfAgravain/"
+cd "A-Games:Q/QuestOfAgravain/"
 IF EXISTS ENV:whdloadargs
   whdload "QuestOfAgravain.Slave" $whdloadargs
 ELSE

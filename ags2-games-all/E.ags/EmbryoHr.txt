@@ -1,6 +1,6 @@
 Name      : Embryo
 Publisher : Black Legend
-Year      : 16/06/1905
+Year      : 1994
 Genre     : Game
 Players   : 2
 RunFile   : EmbryoHr.slave

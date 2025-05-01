@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/SwordAndTheRose/SwordAndTheRose.slave
+;RunFile=A-Games:S/SwordAndTheRose/SwordAndTheRose.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Sword & the Rose"
+  execute S:AGS2Favourites "S" "The Sword & the Rose"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/SwordAndTheRose/"
+cd "A-Games:S/SwordAndTheRose/"
 IF EXISTS ENV:whdloadargs
   whdload "SwordAndTheRose.slave" $whdloadargs
 ELSE

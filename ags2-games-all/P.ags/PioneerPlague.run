@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/PioneerPlague/PioneerPlague.Slave
+;RunFile=A-Games:P/PioneerPlague/PioneerPlague.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Pioneer Plague"
+  execute S:AGS2Favourites "P" "The Pioneer Plague"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/PioneerPlague/"
+cd "A-Games:P/PioneerPlague/"
 IF EXISTS ENV:whdloadargs
   whdload "PioneerPlague.Slave" $whdloadargs
 ELSE

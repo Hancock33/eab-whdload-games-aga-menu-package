@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/BlackStrawberryCake/BlackStrawberryCake.Slave
+;RunFile=A-Games:B/BlackStrawberryCake/BlackStrawberryCake.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "Trap Runner: Black Strawberry Cake"
+  execute S:AGS2Favourites "B" "Trap Runner: Black Strawberry Cake"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/BlackStrawberryCake/"
+cd "A-Games:B/BlackStrawberryCake/"
 IF EXISTS ENV:whdloadargs
   whdload "BlackStrawberryCake.Slave" $whdloadargs
 ELSE

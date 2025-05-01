@@ -1,6 +1,6 @@
 Name      : Evolution Cryser
 Publisher : Kingsoft
-Year      : 11/06/1905
+Year      : 1989
 Genre     : Game
 Players   : 1
 RunFile   : EvolutionCryser.Slave

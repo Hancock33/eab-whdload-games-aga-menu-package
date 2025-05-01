@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/EyeOfHorus/EyeOfHorus.Slave
+;RunFile=A-Games:E/EyeOfHorus/EyeOfHorus.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Eye of Horus"
+  execute S:AGS2Favourites "E" "The Eye of Horus"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/EyeOfHorus/"
+cd "A-Games:E/EyeOfHorus/"
 IF EXISTS ENV:whdloadargs
   whdload "EyeOfHorus.Slave" $whdloadargs
 ELSE

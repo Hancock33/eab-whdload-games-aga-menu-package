@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:M/AndromedaMissionDe/AndromedaMissionDe.slave
+;RunFile=A-Games:A/AndromedaMissionDe/AndromedaMissionDe.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "M" "Mission Andromeda"
+  execute S:AGS2Favourites "A" "Mission Andromeda"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:M/AndromedaMissionDe/"
+cd "A-Games:A/AndromedaMissionDe/"
 IF EXISTS ENV:whdloadargs
   whdload "AndromedaMissionDe.slave" $whdloadargs
 ELSE

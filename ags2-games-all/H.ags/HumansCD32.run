@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/HumansCD32/HumansCD32.slave
+;RunFile=A-Games:H/HumansCD32/HumansCD32.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Humans"
+  execute S:AGS2Favourites "H" "The Humans"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/HumansCD32/"
+cd "A-Games:H/HumansCD32/"
 IF EXISTS ENV:whdloadargs
   whdload "HumansCD32.slave" $whdloadargs
 ELSE

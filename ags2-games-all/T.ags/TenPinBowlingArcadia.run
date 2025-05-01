@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:S/TenPinBowlingArcadia/TenPinBowlingArcadia.Slave
+;RunFile=A-Games:T/TenPinBowlingArcadia/TenPinBowlingArcadia.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "S" "SportTime Ten Pin Bowling (Arcadia)"
+  execute S:AGS2Favourites "T" "SportTime Ten Pin Bowling (Arcadia)"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:S/TenPinBowlingArcadia/"
+cd "A-Games:T/TenPinBowlingArcadia/"
 IF EXISTS ENV:whdloadargs
   whdload "TenPinBowlingArcadia.Slave" $whdloadargs
 ELSE

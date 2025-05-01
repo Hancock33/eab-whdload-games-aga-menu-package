@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/LionKingAGA/LionKingAGA.Slave
+;RunFile=A-Games:L/LionKingAGA/LionKingAGA.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Lion King"
+  execute S:AGS2Favourites "L" "The Lion King"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/LionKingAGA/"
+cd "A-Games:L/LionKingAGA/"
 IF EXISTS ENV:whdloadargs
   whdload "LionKingAGA.Slave" $whdloadargs
 ELSE

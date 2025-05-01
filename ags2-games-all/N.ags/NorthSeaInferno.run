@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/NorthSeaInferno/NorthSeaInferno.Slave
+;RunFile=A-Games:N/NorthSeaInferno/NorthSeaInferno.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The North Sea Inferno"
+  execute S:AGS2Favourites "N" "The North Sea Inferno"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/NorthSeaInferno/"
+cd "A-Games:N/NorthSeaInferno/"
 IF EXISTS ENV:whdloadargs
   whdload "NorthSeaInferno.Slave" $whdloadargs
 ELSE

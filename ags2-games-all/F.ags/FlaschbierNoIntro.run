@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:W/FlaschbierNoIntro/FlaschbierNoIntro.Slave
+;RunFile=A-Games:F/FlaschbierNoIntro/FlaschbierNoIntro.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "W" "Werner Flaschbier"
+  execute S:AGS2Favourites "F" "Werner Flaschbier"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:W/FlaschbierNoIntro/"
+cd "A-Games:F/FlaschbierNoIntro/"
 IF EXISTS ENV:whdloadargs
   whdload "FlaschbierNoIntro.Slave" $whdloadargs
 ELSE

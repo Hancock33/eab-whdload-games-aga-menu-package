@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/SeelenturmAGADe/SeelenturmAGADe.Slave
+;RunFile=A-Games:S/SeelenturmAGADe/SeelenturmAGADe.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "Tower of Souls"
+  execute S:AGS2Favourites "S" "Tower of Souls"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/SeelenturmAGADe/"
+cd "A-Games:S/SeelenturmAGADe/"
 IF EXISTS ENV:whdloadargs
   whdload "SeelenturmAGADe.Slave" $whdloadargs
 ELSE

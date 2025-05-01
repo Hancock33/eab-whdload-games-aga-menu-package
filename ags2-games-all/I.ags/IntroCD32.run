@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:B/BlackViperCD32/IntroCD32.Slave
+;RunFile=A-Games:I/BlackViperCD32/IntroCD32.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "B" "Black Viper"
+  execute S:AGS2Favourites "I" "Black Viper"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:B/BlackViperCD32/"
+cd "A-Games:I/BlackViperCD32/"
 IF EXISTS ENV:whdloadargs
   whdload "IntroCD32.Slave" $whdloadargs
 ELSE

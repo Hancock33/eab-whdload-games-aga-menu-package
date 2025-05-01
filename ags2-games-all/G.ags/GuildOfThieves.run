@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/GuildOfThieves/GuildOfThieves.Slave
+;RunFile=A-Games:G/GuildOfThieves/GuildOfThieves.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Guild of Thieves"
+  execute S:AGS2Favourites "G" "The Guild of Thieves"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/GuildOfThieves/"
+cd "A-Games:G/GuildOfThieves/"
 IF EXISTS ENV:whdloadargs
   whdload "GuildOfThieves.Slave" $whdloadargs
 ELSE

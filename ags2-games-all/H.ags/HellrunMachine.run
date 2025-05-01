@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/HellrunMachine/HellrunMachine.slave
+;RunFile=A-Games:H/HellrunMachine/HellrunMachine.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Hellrun Machine"
+  execute S:AGS2Favourites "H" "The Hellrun Machine"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/HellrunMachine/"
+cd "A-Games:H/HellrunMachine/"
 IF EXISTS ENV:whdloadargs
   whdload "HellrunMachine.slave" $whdloadargs
 ELSE

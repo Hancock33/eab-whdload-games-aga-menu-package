@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/RealGhostbusters/RealGhostbusters.Slave
+;RunFile=A-Games:R/RealGhostbusters/RealGhostbusters.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Real Ghostbusters"
+  execute S:AGS2Favourites "R" "The Real Ghostbusters"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/RealGhostbusters/"
+cd "A-Games:R/RealGhostbusters/"
 IF EXISTS ENV:whdloadargs
   whdload "RealGhostbusters.Slave" $whdloadargs
 ELSE

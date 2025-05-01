@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/ManoirDeMortvielleFr/ManoirDeMortvielleFr.Slave
+;RunFile=A-Games:M/ManoirDeMortvielleFr/ManoirDeMortvielleFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "Le Manoir De Mortvielle"
+  execute S:AGS2Favourites "M" "Le Manoir De Mortvielle"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/ManoirDeMortvielleFr/"
+cd "A-Games:M/ManoirDeMortvielleFr/"
 IF EXISTS ENV:whdloadargs
   whdload "ManoirDeMortvielleFr.Slave" $whdloadargs
 ELSE

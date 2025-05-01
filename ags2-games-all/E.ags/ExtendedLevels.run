@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:B/Bloodwych&ExtendedLevels/ExtendedLevels.Slave
+;RunFile=A-Games:E/Bloodwych&ExtendedLevels/ExtendedLevels.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "B" "Bloodwych (The Extended Levels)"
+  execute S:AGS2Favourites "E" "Bloodwych (The Extended Levels)"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:B/Bloodwych&ExtendedLevels/"
+cd "A-Games:E/Bloodwych&ExtendedLevels/"
 IF EXISTS ENV:whdloadargs
   whdload "ExtendedLevels.Slave" $whdloadargs
 ELSE

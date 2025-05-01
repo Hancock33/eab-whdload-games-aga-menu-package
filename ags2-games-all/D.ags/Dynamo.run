@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:C/Dynamo/Dynamo.slave
+;RunFile=A-Games:D/Dynamo/Dynamo.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "C" "Captain Dynamo"
+  execute S:AGS2Favourites "D" "Captain Dynamo"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:C/Dynamo/"
+cd "A-Games:D/Dynamo/"
 IF EXISTS ENV:whdloadargs
   whdload "Dynamo.slave" $whdloadargs
 ELSE

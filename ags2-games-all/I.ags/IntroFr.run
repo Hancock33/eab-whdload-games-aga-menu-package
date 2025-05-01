@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/ShortgreyFr/IntroFr.Slave
+;RunFile=A-Games:I/ShortgreyFr/IntroFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Short Grey (Intro)"
+  execute S:AGS2Favourites "I" "The Short Grey (Intro)"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/ShortgreyFr/"
+cd "A-Games:I/ShortgreyFr/"
 IF EXISTS ENV:whdloadargs
   whdload "IntroFr.Slave" $whdloadargs
 ELSE

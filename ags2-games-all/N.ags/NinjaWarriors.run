@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/NinjaWarriors/NinjaWarriors.slave
+;RunFile=A-Games:N/NinjaWarriors/NinjaWarriors.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Ninja Warriors"
+  execute S:AGS2Favourites "N" "The Ninja Warriors"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/NinjaWarriors/"
+cd "A-Games:N/NinjaWarriors/"
 IF EXISTS ENV:whdloadargs
   whdload "NinjaWarriors.slave" $whdloadargs
 ELSE

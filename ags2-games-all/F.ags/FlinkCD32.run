@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/FlinkCD32/FlinkCD32.Slave
+;RunFile=A-Games:F/FlinkCD32/FlinkCD32.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Misadventures of Flink"
+  execute S:AGS2Favourites "F" "The Misadventures of Flink"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/FlinkCD32/"
+cd "A-Games:F/FlinkCD32/"
 IF EXISTS ENV:whdloadargs
   whdload "FlinkCD32.Slave" $whdloadargs
 ELSE

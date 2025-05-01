@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/AquaticGames/AquaticGames.Slave
+;RunFile=A-Games:A/AquaticGames/AquaticGames.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Aquatic Games: Starring James Pond and the Aquabats"
+  execute S:AGS2Favourites "A" "The Aquatic Games: Starring James Pond and the Aquabats"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/AquaticGames/"
+cd "A-Games:A/AquaticGames/"
 IF EXISTS ENV:whdloadargs
   whdload "AquaticGames.Slave" $whdloadargs
 ELSE

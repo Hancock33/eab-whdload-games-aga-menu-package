@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/ArtOfChess/ArtOfChess.slave
+;RunFile=A-Games:A/ArtOfChess/ArtOfChess.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Art of Chess"
+  execute S:AGS2Favourites "A" "The Art of Chess"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/ArtOfChess/"
+cd "A-Games:A/ArtOfChess/"
 IF EXISTS ENV:whdloadargs
   whdload "ArtOfChess.slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/LegendMindscape/getlegendsavedisk.slave
+;RunFile=A-Games:G/LegendMindscape/getlegendsavedisk.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "Legend (Get Save Disk)"
+  execute S:AGS2Favourites "G" "Legend (Get Save Disk)"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/LegendMindscape/"
+cd "A-Games:G/LegendMindscape/"
 IF EXISTS ENV:whdloadargs
   whdload "getlegendsavedisk.slave" $whdloadargs
 ELSE

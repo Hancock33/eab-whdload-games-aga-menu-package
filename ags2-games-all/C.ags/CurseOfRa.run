@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/CurseOfRa/CurseOfRa.Slave
+;RunFile=A-Games:C/CurseOfRa/CurseOfRa.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Curse of RA"
+  execute S:AGS2Favourites "C" "The Curse of RA"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/CurseOfRa/"
+cd "A-Games:C/CurseOfRa/"
 IF EXISTS ENV:whdloadargs
   whdload "CurseOfRa.Slave" $whdloadargs
 ELSE

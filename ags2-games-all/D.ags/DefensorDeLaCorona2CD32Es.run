@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:E/DefensorDeLaCorona2CD32Es/DefensorDeLaCorona2CD32Es.slave
+;RunFile=A-Games:D/DefensorDeLaCorona2CD32Es/DefensorDeLaCorona2CD32Es.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "E" "El Defensor De La Corona II"
+  execute S:AGS2Favourites "D" "El Defensor De La Corona II"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:E/DefensorDeLaCorona2CD32Es/"
+cd "A-Games:D/DefensorDeLaCorona2CD32Es/"
 IF EXISTS ENV:whdloadargs
   whdload "DefensorDeLaCorona2CD32Es.slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:G/SuperGridRunner/SuperGridRunner.Slave
+;RunFile=A-Games:S/SuperGridRunner/SuperGridRunner.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "G" "Grid Runner"
+  execute S:AGS2Favourites "S" "Grid Runner"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:G/SuperGridRunner/"
+cd "A-Games:S/SuperGridRunner/"
 IF EXISTS ENV:whdloadargs
   whdload "SuperGridRunner.Slave" $whdloadargs
 ELSE

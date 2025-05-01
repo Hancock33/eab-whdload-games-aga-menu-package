@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/SperisLegacyAGA/SperisLegacyAGA.slave
+;RunFile=A-Games:S/SperisLegacyAGA/SperisLegacyAGA.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Speris Legacy"
+  execute S:AGS2Favourites "S" "The Speris Legacy"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/SperisLegacyAGA/"
+cd "A-Games:S/SperisLegacyAGA/"
 IF EXISTS ENV:whdloadargs
   whdload "SperisLegacyAGA.slave" $whdloadargs
 ELSE

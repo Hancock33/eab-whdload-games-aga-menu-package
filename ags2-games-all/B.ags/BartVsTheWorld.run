@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/BartVsTheWorld/BartVsTheWorld.slave
+;RunFile=A-Games:B/BartVsTheWorld/BartVsTheWorld.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Simpsons: Bart vs. The World"
+  execute S:AGS2Favourites "B" "The Simpsons: Bart vs. The World"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/BartVsTheWorld/"
+cd "A-Games:B/BartVsTheWorld/"
 IF EXISTS ENV:whdloadargs
   whdload "BartVsTheWorld.slave" $whdloadargs
 ELSE

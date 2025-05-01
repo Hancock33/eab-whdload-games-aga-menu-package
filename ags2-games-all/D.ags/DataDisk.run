@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:V/Vroom&DataDisk/DataDisk.Slave
+;RunFile=A-Games:D/Vroom&DataDisk/DataDisk.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "V" "Vroom: Data Disc"
+  execute S:AGS2Favourites "D" "Vroom: Data Disc"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:V/Vroom&DataDisk/"
+cd "A-Games:D/Vroom&DataDisk/"
 IF EXISTS ENV:whdloadargs
   whdload "DataDisk.Slave" $whdloadargs
 ELSE

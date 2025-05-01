@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Moochies/Moochies.Slave
+;RunFile=A-Games:M/Moochies/Moochies.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Moochies"
+  execute S:AGS2Favourites "M" "The Moochies"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Moochies/"
+cd "A-Games:M/Moochies/"
 IF EXISTS ENV:whdloadargs
   whdload "Moochies.Slave" $whdloadargs
 ELSE

@@ -1,6 +1,6 @@
 Name      : Amidar
 Publisher : Konami
-Year      : 14/07/1905
+Year      : 2022
 Genre     : Game
 Players   : 1
 RunFile   : Amidar.slave

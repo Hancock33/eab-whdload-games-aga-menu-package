@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/AdventuresOfQuik&Silva/AdventuresOfQuik&Silva.Slave
+;RunFile=A-Games:A/AdventuresOfQuik&Silva/AdventuresOfQuik&Silva.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Adventures of Quik & Silva"
+  execute S:AGS2Favourites "A" "The Adventures of Quik & Silva"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/AdventuresOfQuik&Silva/"
+cd "A-Games:A/AdventuresOfQuik&Silva/"
 IF EXISTS ENV:whdloadargs
   whdload "AdventuresOfQuik&Silva.Slave" $whdloadargs
 ELSE

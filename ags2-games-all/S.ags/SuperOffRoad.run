@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:I/SuperOffRoad/SuperOffRoad.Slave
+;RunFile=A-Games:S/SuperOffRoad/SuperOffRoad.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "I" "Ivan 'Ironman' Stewart's Super Off Road"
+  execute S:AGS2Favourites "S" "Ivan 'Ironman' Stewart's Super Off Road"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:I/SuperOffRoad/"
+cd "A-Games:S/SuperOffRoad/"
 IF EXISTS ENV:whdloadargs
   whdload "SuperOffRoad.Slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/StoriaInfinita2It/StoriaInfinita2It.slave
+;RunFile=A-Games:S/StoriaInfinita2It/StoriaInfinita2It.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "La Storia Infinita II"
+  execute S:AGS2Favourites "S" "La Storia Infinita II"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/StoriaInfinita2It/"
+cd "A-Games:S/StoriaInfinita2It/"
 IF EXISTS ENV:whdloadargs
   whdload "StoriaInfinita2It.slave" $whdloadargs
 ELSE

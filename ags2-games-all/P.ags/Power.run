@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Power/Power.slave
+;RunFile=A-Games:P/Power/Power.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Power"
+  execute S:AGS2Favourites "P" "The Power"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Power/"
+cd "A-Games:P/Power/"
 IF EXISTS ENV:whdloadargs
   whdload "Power.slave" $whdloadargs
 ELSE

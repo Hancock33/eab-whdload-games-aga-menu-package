@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:C/ToyotaCelicaGTRally/ToyotaCelicaGTRally.Slave
+;RunFile=A-Games:T/ToyotaCelicaGTRally/ToyotaCelicaGTRally.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "C" "Celica GT Rally"
+  execute S:AGS2Favourites "T" "Celica GT Rally"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:C/ToyotaCelicaGTRally/"
+cd "A-Games:T/ToyotaCelicaGTRally/"
 IF EXISTS ENV:whdloadargs
   whdload "ToyotaCelicaGTRally.Slave" $whdloadargs
 ELSE

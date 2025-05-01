@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Deep/Deep.Slave
+;RunFile=A-Games:D/Deep/Deep.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Deep"
+  execute S:AGS2Favourites "D" "The Deep"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Deep/"
+cd "A-Games:D/Deep/"
 IF EXISTS ENV:whdloadargs
   whdload "Deep.Slave" $whdloadargs
 ELSE

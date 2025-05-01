@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/FinalBattle/FinalBattle.Slave
+;RunFile=A-Games:F/FinalBattle/FinalBattle.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Final Battle"
+  execute S:AGS2Favourites "F" "The Final Battle"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/FinalBattle/"
+cd "A-Games:F/FinalBattle/"
 IF EXISTS ENV:whdloadargs
   whdload "FinalBattle.Slave" $whdloadargs
 ELSE

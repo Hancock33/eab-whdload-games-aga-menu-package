@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:M/WinterlandMegaLoMania/WinterlandMegaLoMania.slave
+;RunFile=A-Games:W/WinterlandMegaLoMania/WinterlandMegaLoMania.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "M" "Mega Lo Mania Winterland"
+  execute S:AGS2Favourites "W" "Mega Lo Mania Winterland"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:M/WinterlandMegaLoMania/"
+cd "A-Games:W/WinterlandMegaLoMania/"
 IF EXISTS ENV:whdloadargs
   whdload "WinterlandMegaLoMania.slave" $whdloadargs
 ELSE

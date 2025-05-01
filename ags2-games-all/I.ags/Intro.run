@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:F/Fuzzball/Intro.Slave
+;RunFile=A-Games:I/Fuzzball/Intro.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "F" "Fuzzball (Intro)"
+  execute S:AGS2Favourites "I" "Fuzzball (Intro)"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:F/Fuzzball/"
+cd "A-Games:I/Fuzzball/"
 IF EXISTS ENV:whdloadargs
   whdload "Intro.Slave" $whdloadargs
 ELSE

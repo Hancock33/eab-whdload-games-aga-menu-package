@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/IslandOfLostHope/IslandOfLostHope.Slave
+;RunFile=A-Games:I/IslandOfLostHope/IslandOfLostHope.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Island of Lost Hope"
+  execute S:AGS2Favourites "I" "The Island of Lost Hope"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/IslandOfLostHope/"
+cd "A-Games:I/IslandOfLostHope/"
 IF EXISTS ENV:whdloadargs
   whdload "IslandOfLostHope.Slave" $whdloadargs
 ELSE

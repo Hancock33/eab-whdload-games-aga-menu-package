@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/PersianGulfInferno/PersianGulfInferno.Slave
+;RunFile=A-Games:P/PersianGulfInferno/PersianGulfInferno.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Persian Gulf Inferno"
+  execute S:AGS2Favourites "P" "The Persian Gulf Inferno"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/PersianGulfInferno/"
+cd "A-Games:P/PersianGulfInferno/"
 IF EXISTS ENV:whdloadargs
   whdload "PersianGulfInferno.Slave" $whdloadargs
 ELSE

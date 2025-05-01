@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/TroisPetitsCochonsFr/TroisPetitsCochonsFr.Slave
+;RunFile=A-Games:T/TroisPetitsCochonsFr/TroisPetitsCochonsFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "Les Trois Petits Cochons S'Amusent"
+  execute S:AGS2Favourites "T" "Les Trois Petits Cochons S'Amusent"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/TroisPetitsCochonsFr/"
+cd "A-Games:T/TroisPetitsCochonsFr/"
 IF EXISTS ENV:whdloadargs
   whdload "TroisPetitsCochonsFr.Slave" $whdloadargs
 ELSE

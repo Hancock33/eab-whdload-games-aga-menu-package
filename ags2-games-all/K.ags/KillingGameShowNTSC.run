@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/KillingGameShowNTSC/KillingGameShowNTSC.slave
+;RunFile=A-Games:K/KillingGameShowNTSC/KillingGameShowNTSC.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Killing Game Show"
+  execute S:AGS2Favourites "K" "The Killing Game Show"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/KillingGameShowNTSC/"
+cd "A-Games:K/KillingGameShowNTSC/"
 IF EXISTS ENV:whdloadargs
   whdload "KillingGameShowNTSC.slave" $whdloadargs
 ELSE

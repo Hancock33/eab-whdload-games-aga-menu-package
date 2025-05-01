@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/ComputerThirdReich/ComputerThirdReich.Slave
+;RunFile=A-Games:C/ComputerThirdReich/ComputerThirdReich.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "Third Reich"
+  execute S:AGS2Favourites "C" "Third Reich"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/ComputerThirdReich/"
+cd "A-Games:C/ComputerThirdReich/"
 IF EXISTS ENV:whdloadargs
   whdload "ComputerThirdReich.Slave" $whdloadargs
 ELSE

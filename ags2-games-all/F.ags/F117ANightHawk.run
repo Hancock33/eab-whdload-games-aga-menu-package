@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:N/F117ANightHawk/F117ANightHawk.slave
+;RunFile=A-Games:F/F117ANightHawk/F117ANightHawk.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "N" "Nighthawk F-117A Stealth Fighter 2.0"
+  execute S:AGS2Favourites "F" "Nighthawk F-117A Stealth Fighter 2.0"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:N/F117ANightHawk/"
+cd "A-Games:F/F117ANightHawk/"
 IF EXISTS ENV:whdloadargs
   whdload "F117ANightHawk.slave" $whdloadargs
 ELSE

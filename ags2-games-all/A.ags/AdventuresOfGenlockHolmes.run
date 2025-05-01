@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/AdventuresOfGenlockHolmes/AdventuresOfGenlockHolmes.Slave
+;RunFile=A-Games:A/AdventuresOfGenlockHolmes/AdventuresOfGenlockHolmes.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Adventures of Genlock Holmes"
+  execute S:AGS2Favourites "A" "The Adventures of Genlock Holmes"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/AdventuresOfGenlockHolmes/"
+cd "A-Games:A/AdventuresOfGenlockHolmes/"
 IF EXISTS ENV:whdloadargs
   whdload "AdventuresOfGenlockHolmes.Slave" $whdloadargs
 ELSE

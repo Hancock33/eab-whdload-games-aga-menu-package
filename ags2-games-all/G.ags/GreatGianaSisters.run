@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/GreatGianaSisters/GreatGianaSisters.slave
+;RunFile=A-Games:G/GreatGianaSisters/GreatGianaSisters.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Great Giana Sisters"
+  execute S:AGS2Favourites "G" "The Great Giana Sisters"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/GreatGianaSisters/"
+cd "A-Games:G/GreatGianaSisters/"
 IF EXISTS ENV:whdloadargs
   whdload "GreatGianaSisters.slave" $whdloadargs
 ELSE

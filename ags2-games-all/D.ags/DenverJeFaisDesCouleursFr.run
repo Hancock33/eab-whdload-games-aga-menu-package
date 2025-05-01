@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:J/DenverJeFaisDesCouleursFr/DenverJeFaisDesCouleursFr.Slave
+;RunFile=A-Games:D/DenverJeFaisDesCouleursFr/DenverJeFaisDesCouleursFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "J" "Je Découvre Les Couleurs"
+  execute S:AGS2Favourites "D" "Je Découvre Les Couleurs"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:J/DenverJeFaisDesCouleursFr/"
+cd "A-Games:D/DenverJeFaisDesCouleursFr/"
 IF EXISTS ENV:whdloadargs
   whdload "DenverJeFaisDesCouleursFr.Slave" $whdloadargs
 ELSE

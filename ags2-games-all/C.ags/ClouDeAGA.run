@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/ClouDeAGA/ClouDeAGA.Slave
+;RunFile=A-Games:C/ClouDeAGA/ClouDeAGA.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "D" "Der Clou!"
+  execute S:AGS2Favourites "C" "Der Clou!"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:D/ClouDeAGA/"
+cd "A-Games:C/ClouDeAGA/"
 IF EXISTS ENV:whdloadargs
   whdload "ClouDeAGA.Slave" $whdloadargs
 ELSE

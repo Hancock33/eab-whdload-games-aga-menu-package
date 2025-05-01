@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:E/SchmutzigeErbeDe/SchmutzigeErbeDe.Slave
+;RunFile=A-Games:S/SchmutzigeErbeDe/SchmutzigeErbeDe.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "E" "Erbe 2: Das Schmutzige Erbe"
+  execute S:AGS2Favourites "S" "Erbe 2: Das Schmutzige Erbe"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:E/SchmutzigeErbeDe/"
+cd "A-Games:S/SchmutzigeErbeDe/"
 IF EXISTS ENV:whdloadargs
   whdload "SchmutzigeErbeDe.Slave" $whdloadargs
 ELSE

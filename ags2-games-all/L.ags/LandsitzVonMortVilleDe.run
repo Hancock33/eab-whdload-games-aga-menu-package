@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/LandsitzVonMortvilleDe/LandsitzVonMortVilleDe.Slave
+;RunFile=A-Games:L/LandsitzVonMortvilleDe/LandsitzVonMortVilleDe.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "D" "Der Landsitz Von Mortville"
+  execute S:AGS2Favourites "L" "Der Landsitz Von Mortville"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:D/LandsitzVonMortvilleDe/"
+cd "A-Games:L/LandsitzVonMortvilleDe/"
 IF EXISTS ENV:whdloadargs
   whdload "LandsitzVonMortVilleDe.Slave" $whdloadargs
 ELSE

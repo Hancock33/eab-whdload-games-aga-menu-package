@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/ChaosEngine2/ChaosEngine2.slave
+;RunFile=A-Games:C/ChaosEngine2/ChaosEngine2.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Chaos Engine 2"
+  execute S:AGS2Favourites "C" "The Chaos Engine 2"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/ChaosEngine2/"
+cd "A-Games:C/ChaosEngine2/"
 IF EXISTS ENV:whdloadargs
   whdload "ChaosEngine2.slave" $whdloadargs
 ELSE

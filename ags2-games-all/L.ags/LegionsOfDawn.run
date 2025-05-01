@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:B/LegionsOfDawn/LegionsOfDawn.Slave
+;RunFile=A-Games:L/LegionsOfDawn/LegionsOfDawn.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "B" "Black Dawn III: Legions of Dawn"
+  execute S:AGS2Favourites "L" "Black Dawn III: Legions of Dawn"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:B/LegionsOfDawn/"
+cd "A-Games:L/LegionsOfDawn/"
 IF EXISTS ENV:whdloadargs
   whdload "LegionsOfDawn.Slave" $whdloadargs
 ELSE

@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/NeverEndingStory2/NeverEndingStory2.slave
+;RunFile=A-Games:N/NeverEndingStory2/NeverEndingStory2.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Neverending Story II"
+  execute S:AGS2Favourites "N" "The Neverending Story II"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/NeverEndingStory2/"
+cd "A-Games:N/NeverEndingStory2/"
 IF EXISTS ENV:whdloadargs
   whdload "NeverEndingStory2.slave" $whdloadargs
 ELSE

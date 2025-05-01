@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/VoyageursDuTempsFr/VoyageursDuTempsFr.slave
+;RunFile=A-Games:V/VoyageursDuTempsFr/VoyageursDuTempsFr.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "Les Voyageurs Du Temps: La Menace"
+  execute S:AGS2Favourites "V" "Les Voyageurs Du Temps: La Menace"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/VoyageursDuTempsFr/"
+cd "A-Games:V/VoyageursDuTempsFr/"
 IF EXISTS ENV:whdloadargs
   whdload "VoyageursDuTempsFr.slave" $whdloadargs
 ELSE

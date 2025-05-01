@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/DarkQueenOfKrynn/DarkQueenOfKrynn.Slave
+;RunFile=A-Games:D/DarkQueenOfKrynn/DarkQueenOfKrynn.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Dark Queen of Krynn"
+  execute S:AGS2Favourites "D" "The Dark Queen of Krynn"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/DarkQueenOfKrynn/"
+cd "A-Games:D/DarkQueenOfKrynn/"
 IF EXISTS ENV:whdloadargs
   whdload "DarkQueenOfKrynn.Slave" $whdloadargs
 ELSE

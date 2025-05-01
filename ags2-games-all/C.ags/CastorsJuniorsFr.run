@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:L/CastorsJuniorsFr/CastorsJuniorsFr.Slave
+;RunFile=A-Games:C/CastorsJuniorsFr/CastorsJuniorsFr.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "L" "Les Castors Juniors Dans La Forêt"
+  execute S:AGS2Favourites "C" "Les Castors Juniors Dans La Forêt"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:L/CastorsJuniorsFr/"
+cd "A-Games:C/CastorsJuniorsFr/"
 IF EXISTS ENV:whdloadargs
   whdload "CastorsJuniorsFr.Slave" $whdloadargs
 ELSE

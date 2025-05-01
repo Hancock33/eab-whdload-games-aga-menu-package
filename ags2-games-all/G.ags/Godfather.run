@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Godfather/Godfather.Slave
+;RunFile=A-Games:G/Godfather/Godfather.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Godfather"
+  execute S:AGS2Favourites "G" "The Godfather"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Godfather/"
+cd "A-Games:G/Godfather/"
 IF EXISTS ENV:whdloadargs
   whdload "Godfather.Slave" $whdloadargs
 ELSE

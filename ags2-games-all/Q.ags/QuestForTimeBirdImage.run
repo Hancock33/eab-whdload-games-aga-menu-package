@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/QuestForTimeBirdImage/QuestForTimeBirdImage.slave
+;RunFile=A-Games:Q/QuestForTimeBirdImage/QuestForTimeBirdImage.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Quest for the Time-Bird"
+  execute S:AGS2Favourites "Q" "The Quest for the Time-Bird"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/QuestForTimeBirdImage/"
+cd "A-Games:Q/QuestForTimeBirdImage/"
 IF EXISTS ENV:whdloadargs
   whdload "QuestForTimeBirdImage.slave" $whdloadargs
 ELSE

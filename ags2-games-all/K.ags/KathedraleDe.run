@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/KathedraleDe/KathedraleDe.slave
+;RunFile=A-Games:K/KathedraleDe/KathedraleDe.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "D" "Die Kathedrale"
+  execute S:AGS2Favourites "K" "Die Kathedrale"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:D/KathedraleDe/"
+cd "A-Games:K/KathedraleDe/"
 IF EXISTS ENV:whdloadargs
   whdload "KathedraleDe.slave" $whdloadargs
 ELSE

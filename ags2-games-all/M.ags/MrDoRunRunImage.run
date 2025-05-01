@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:D/MrDoRunRunImage/MrDoRunRunImage.Slave
+;RunFile=A-Games:M/MrDoRunRunImage/MrDoRunRunImage.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "D" "DO! Run Run"
+  execute S:AGS2Favourites "M" "DO! Run Run"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:D/MrDoRunRunImage/"
+cd "A-Games:M/MrDoRunRunImage/"
 IF EXISTS ENV:whdloadargs
   whdload "MrDoRunRunImage.Slave" $whdloadargs
 ELSE

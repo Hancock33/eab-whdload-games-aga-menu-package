@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:G/UltimateGolf/UltimateGolf.slave
+;RunFile=A-Games:U/UltimateGolf/UltimateGolf.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "G" "Greg Norman's Ultimate Golf"
+  execute S:AGS2Favourites "U" "Greg Norman's Ultimate Golf"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:G/UltimateGolf/"
+cd "A-Games:U/UltimateGolf/"
 IF EXISTS ENV:whdloadargs
   whdload "UltimateGolf.slave" $whdloadargs
 ELSE

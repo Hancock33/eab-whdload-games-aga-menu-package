@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/ParanoiaComplexDe/ParanoiaComplexDe.Slave
+;RunFile=A-Games:P/ParanoiaComplexDe/ParanoiaComplexDe.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Paranoia Complex"
+  execute S:AGS2Favourites "P" "The Paranoia Complex"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/ParanoiaComplexDe/"
+cd "A-Games:P/ParanoiaComplexDe/"
 IF EXISTS ENV:whdloadargs
   whdload "ParanoiaComplexDe.Slave" $whdloadargs
 ELSE

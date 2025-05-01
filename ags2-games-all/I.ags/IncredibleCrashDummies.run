@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/IncredibleCrashDummies/IncredibleCrashDummies.slave
+;RunFile=A-Games:I/IncredibleCrashDummies/IncredibleCrashDummies.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Incredible Crash Dummies"
+  execute S:AGS2Favourites "I" "The Incredible Crash Dummies"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/IncredibleCrashDummies/"
+cd "A-Games:I/IncredibleCrashDummies/"
 IF EXISTS ENV:whdloadargs
   whdload "IncredibleCrashDummies.slave" $whdloadargs
 ELSE

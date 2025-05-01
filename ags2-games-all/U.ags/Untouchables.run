@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/Untouchables/Untouchables.Slave
+;RunFile=A-Games:U/Untouchables/Untouchables.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Untouchables"
+  execute S:AGS2Favourites "U" "The Untouchables"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/Untouchables/"
+cd "A-Games:U/Untouchables/"
 IF EXISTS ENV:whdloadargs
   whdload "Untouchables.Slave" $whdloadargs
 ELSE

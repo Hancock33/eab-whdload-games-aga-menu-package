@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:S/ReturnOfTheJedi/ReturnOfTheJedi.Slave
+;RunFile=A-Games:R/ReturnOfTheJedi/ReturnOfTheJedi.Slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "S" "Star Wars: Return of the Jedi"
+  execute S:AGS2Favourites "R" "Star Wars: Return of the Jedi"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:S/ReturnOfTheJedi/"
+cd "A-Games:R/ReturnOfTheJedi/"
 IF EXISTS ENV:whdloadargs
   whdload "ReturnOfTheJedi.Slave" $whdloadargs
 ELSE

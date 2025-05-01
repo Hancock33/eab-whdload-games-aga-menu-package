@@ -1,10 +1,10 @@
 ; AGS2 run script
 ; ---------------
-;RunFile=A-Games:T/ColonelsBequest/ColonelsBequest.slave
+;RunFile=A-Games:C/ColonelsBequest/ColonelsBequest.slave
 
 ; Favourites Mode
 IF EXISTS ENV:ags2favouritesmode
-  execute S:AGS2Favourites "T" "The Colonel's Bequest"
+  execute S:AGS2Favourites "C" "The Colonel's Bequest"
   IF $ags2favouritesmode EQ "add"
     SKIP end
   ENDIF
@@ -19,7 +19,7 @@ IF EXISTS S:AGS2RunPre
 ENDIF
 
 ; Run WHDLoad
-cd "A-Games:T/ColonelsBequest/"
+cd "A-Games:C/ColonelsBequest/"
 IF EXISTS ENV:whdloadargs
   whdload "ColonelsBequest.slave" $whdloadargs
 ELSE
